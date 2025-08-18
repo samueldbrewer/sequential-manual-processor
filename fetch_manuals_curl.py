@@ -199,11 +199,19 @@ def fetch_manuals_via_playwright(manufacturer_uri, model_code):
             
             page = context.new_page()
             
-            # Navigate to the page
-            page.goto(url, wait_until='networkidle', timeout=15000)
+            # Navigate to the page with more lenient settings
+            print(f"📍 Navigating to {url}", flush=True)
+            page.goto(url, wait_until='domcontentloaded', timeout=30000)
             
-            # Wait a bit for any dynamic content
-            page.wait_for_timeout(2000)
+            # Wait for either manual links or a sign the page loaded
+            try:
+                # Wait for manual links to appear (max 5 seconds)
+                page.wait_for_selector('a[href*="/modelManual/"]', timeout=5000)
+                print(f"✅ Found manual links on page", flush=True)
+            except:
+                # If no manuals, at least wait for the page to stabilize
+                print(f"⏳ No manual links found immediately, waiting for page to stabilize", flush=True)
+                page.wait_for_timeout(3000)
             
             # Get all manual links
             manual_links = page.locator('a[href*="/modelManual/"]').all()
@@ -214,22 +222,26 @@ def fetch_manuals_via_playwright(manufacturer_uri, model_code):
                 if href and href not in seen:
                     seen.add(href)
                     
-                    # Parse the manual type from URL
-                    if '_sm.' in href:
+                    # Parse the manual type from URL (case insensitive)
+                    href_lower = href.lower()
+                    if '_spm.' in href_lower or '_sm.' in href_lower:
                         manual_type = 'sm'
-                        title = 'Service Manual'
-                    elif '_pm.' in href:
+                        title = 'Service & Parts Manual' if '_spm.' in href_lower else 'Service Manual'
+                    elif '_pm.' in href_lower:
                         manual_type = 'pm'
                         title = 'Parts Manual'
-                    elif '_om.' in href:
+                    elif '_om.' in href_lower or '_iom.' in href_lower:
                         manual_type = 'om'
-                        title = 'Operation Manual'
-                    elif '_im.' in href:
+                        title = 'Installation & Operation Manual' if '_iom.' in href_lower else 'Operation Manual'
+                    elif '_im.' in href_lower:
                         manual_type = 'im'
                         title = 'Installation Manual'
-                    elif '_qrg.' in href:
+                    elif '_qrg.' in href_lower:
                         manual_type = 'qrg'
                         title = 'Quick Reference Guide'
+                    elif '_ts.' in href_lower:
+                        manual_type = 'ts'
+                        title = 'Tech Sheet'
                     else:
                         manual_type = 'manual'
                         title = 'Manual'
