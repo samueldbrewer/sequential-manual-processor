@@ -470,7 +470,7 @@ if __name__ == '__main__':
     # Get port from environment variable or default to 8888
     port = int(os.environ.get('PORT', 8888))
     
-    print("🚀 Starting Sequential Manual Processor API Server (Cached Version)")
+    print("🚀 Starting Sequential Manual Processor API Server (Cached Version with Playwright)")
     print(f"📂 Cache directory: {CACHE_DIR}")
     print(f"📊 Loaded {len(manufacturers_cache)} manufacturers")
     print(f"📁 Model cache files: {len(os.listdir(MODELS_CACHE_DIR)) if os.path.exists(MODELS_CACHE_DIR) else 0}")
