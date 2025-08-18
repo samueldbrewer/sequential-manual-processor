@@ -43,6 +43,18 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
         
         if result.returncode == 0 and result.stdout:
             print(f"📄 Got {len(result.stdout)} bytes of HTML", flush=True)
+            
+            # Check if we got a CloudFlare challenge or error page
+            if "cloudflare" in result.stdout.lower() or "cf-ray" in result.stdout.lower():
+                print(f"⚠️ CloudFlare detected in response", flush=True)
+            if "<title>404" in result.stdout or "404 Not Found" in result.stdout:
+                print(f"⚠️ 404 error page detected", flush=True)
+            if len(result.stdout) < 10000:
+                # Small page might be an error or challenge
+                print(f"⚠️ Suspiciously small HTML response: {len(result.stdout)} bytes", flush=True)
+                # Print first 500 chars to debug
+                print(f"📝 First 500 chars: {result.stdout[:500]}", flush=True)
+            
             # Extract manual links from HTML
             manual_pattern = r'/modelManual/([^"\']+\.pdf[^"\']*)'
             matches = re.findall(manual_pattern, result.stdout)
