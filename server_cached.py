@@ -22,9 +22,9 @@ from io import BytesIO
 # For live manual fetching when needed
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'API Scraper V2'))
 
-app = Flask(__name__, static_folder='public', static_url_path='/public')
+app = Flask(__name__, static_folder='build', static_url_path='/')
 app.secret_key = secrets.token_hex(32)
-CORS(app, origins=['http://localhost:3000', 'http://localhost:3001'], supports_credentials=True)
+CORS(app, origins=['http://localhost:3000', 'http://localhost:3001', 'https://web-production-59d3d.up.railway.app'], supports_credentials=True)
 
 # Cache directories
 CACHE_DIR = os.path.join(os.path.dirname(__file__), 'cache')
@@ -426,6 +426,35 @@ def health_check():
         })
     except Exception as e:
         return jsonify({'status': 'error', 'error': str(e)}), 500
+
+@app.route('/public/temp-pdfs/<path:filename>')
+def serve_pdf(filename):
+    """Serve PDF files from the temp-pdfs directory"""
+    pdf_path = os.path.join(TEMP_PDF_DIR, filename)
+    if os.path.exists(pdf_path):
+        from flask import send_file
+        return send_file(pdf_path, mimetype='application/pdf')
+    else:
+        return jsonify({'error': 'PDF not found'}), 404
+
+# This catch-all route must be defined last
+@app.route('/', defaults={'path': ''})
+@app.route('/<path:path>')
+def serve_react_app(path):
+    """Serve the React app for all non-API routes"""
+    # Don't match API routes
+    if path.startswith('api/'):
+        return jsonify({'error': 'API endpoint not found'}), 404
+    
+    # Check if path is a file in the build folder
+    if path and os.path.exists(os.path.join(app.static_folder, path)):
+        return app.send_static_file(path)
+    else:
+        # Serve index.html for all routes (React Router will handle client-side routing)
+        if os.path.exists(os.path.join(app.static_folder, 'index.html')):
+            return app.send_static_file('index.html')
+        else:
+            return jsonify({'error': 'React build not found. Run npm run build first.'}), 404
 
 if __name__ == '__main__':
     # Clean up old PDFs on startup
