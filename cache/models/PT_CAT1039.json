@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "CMA Dish Machines",
+    "code": "PT_CAT1039",
+    "uri": "cma-dish-machines"
+  },
+  "models": [
+    {
+      "name": "AH",
+      "url": "/cma-dish-machines/ah/parts",
+      "code": "ah"
+    },
+    {
+      "name": "B",
+      "url": "/cma-dish-machines/b/parts",
+      "code": "b"
+    },
+    {
+      "name": "B Energy Saver",
+      "url": "/cma-dish-machines/b-energy-saver/parts",
+      "code": "b-energy-saver"
+    },
+    {
+      "name": "C",
+      "url": "/cma-dish-machines/c/parts",
+      "code": "c"
+    },
+    {
+      "name": "CB",
+      "url": "/cma-dish-machines/cb/parts",
+      "code": "cb"
+    },
+    {
+      "name": "CMA-130VL",
+      "url": "/cma-dish-machines/cma-130vl/parts",
+      "code": "cma-130vl"
+    },
+    {
+      "name": "CMA-180",
+      "url": "/cma-dish-machines/cma-180/parts",
+      "code": "cma-180"
+    },
+    {
+      "name": "CMA-180 CORNER",
+      "url": "/cma-dish-machines/cma-180-corner/parts",
+      "code": "cma-180-corner"
+    },
+    {
+      "name": "CMA-180 STRAIGHT",
+      "url": "/cma-dish-machines/cma-180-straight/parts",
+      "code": "cma-180-straight"
+    },
+    {
+      "name": "CMA-180 TS",
+      "url": "/cma-dish-machines/cma-180-ts/parts",
+      "code": "cma-180-ts"
+    },
+    {
+      "name": "CMA-180-VL TALL",
+      "url": "/cma-dish-machines/cma-180-vl-tall/parts",
+      "code": "cma-180-vl-tall"
+    },
+    {
+      "name": "CMA-180TALL",
+      "url": "/cma-dish-machines/cma-180tall/parts",
+      "code": "cma-180tall"
+    },
+    {
+      "name": "CMA-180TC",
+      "url": "/cma-dish-machines/cma-180tc/parts",
+      "code": "cma-180tc"
+    },
+    {
+      "name": "CMA-180UC",
+      "url": "/cma-dish-machines/cma-180uc/parts",
+      "code": "cma-180uc"
+    },
+    {
+      "name": "CMA-180VL",
+      "url": "/cma-dish-machines/cma-180vl/parts",
+      "code": "cma-180vl"
+    },
+    {
+      "name": "CMA-180VL-FL",
+      "url": "/cma-dish-machines/cma-180vl-fl/parts",
+      "code": "cma-180vl-fl"
+    },
+    {
+      "name": "CMA-181GW",
+      "url": "/cma-dish-machines/cma-181gw/parts",
+      "code": "cma-181gw"
+    },
+    {
+      "name": "CMA-181VL",
+      "url": "/cma-dish-machines/cma-181vl/parts",
+      "code": "cma-181vl"
+    },
+    {
+      "name": "CMA-44 High Temp",
+      "url": "/cma-dish-machines/cma-44-high-temp/parts",
+      "code": "cma-44-high-temp"
+    },
+    {
+      "name": "CMA-44 Low Temp",
+      "url": "/cma-dish-machines/cma-44-low-temp/parts",
+      "code": "cma-44-low-temp"
+    },
+    {
+      "name": "CMA-66 High Temp",
+      "url": "/cma-dish-machines/cma-66-high-temp/parts",
+      "code": "cma-66-high-temp"
+    },
+    {
+      "name": "CMA-66 Low Temp",
+      "url": "/cma-dish-machines/cma-66-low-temp/parts",
+      "code": "cma-66-low-temp"
+    },
+    {
+      "name": "CWS",
+      "url": "/cma-dish-machines/cws/parts",
+      "code": "cws"
+    },
+    {
+      "name": "E",
+      "url": "/cma-dish-machines/e/parts",
+      "code": "e"
+    },
+    {
+      "name": "E 3-Door",
+      "url": "/cma-dish-machines/e-3-door/parts",
+      "code": "e-3-door"
+    },
+    {
+      "name": "E Tall",
+      "url": "/cma-dish-machines/e-tall/parts",
+      "code": "e-tall"
+    },
+    {
+      "name": "EAH",
+      "url": "/cma-dish-machines/eah/parts",
+      "code": "eah"
+    },
+    {
+      "name": "EC",
+      "url": "/cma-dish-machines/ec/parts",
+      "code": "ec"
+    },
+    {
+      "name": "EST",
+      "url": "/cma-dish-machines/est/parts",
+      "code": "est"
+    },
+    {
+      "name": "EST -FRONT LOADING",
+      "url": "/cma-dish-machines/est-front-loading/parts",
+      "code": "est-front-loading"
+    },
+    {
+      "name": "EST Tall",
+      "url": "/cma-dish-machines/est-tall/parts",
+      "code": "est-tall"
+    },
+    {
+      "name": "EST-44",
+      "url": "/cma-dish-machines/est-44/parts",
+      "code": "est-44"
+    },
+    {
+      "name": "EST-44 L-R",
+      "url": "/cma-dish-machines/est-44-l-r/parts",
+      "code": "est-44-l-r"
+    },
+    {
+      "name": "EST-44 R-L",
+      "url": "/cma-dish-machines/est-44-r-l/parts",
+      "code": "est-44-r-l"
+    },
+    {
+      "name": "EST-44TALL",
+      "url": "/cma-dish-machines/est-44tall/parts",
+      "code": "est-44tall"
+    },
+    {
+      "name": "EST-66",
+      "url": "/cma-dish-machines/est-66/parts",
+      "code": "est-66"
+    },
+    {
+      "name": "EST-66 L-R",
+      "url": "/cma-dish-machines/est-66-l-r/parts",
+      "code": "est-66-l-r"
+    },
+    {
+      "name": "EST-66 R-L",
+      "url": "/cma-dish-machines/est-66-r-l/parts",
+      "code": "est-66-r-l"
+    },
+    {
+      "name": "EST-66TALL",
+      "url": "/cma-dish-machines/est-66tall/parts",
+      "code": "est-66tall"
+    },
+    {
+      "name": "EST-AH",
+      "url": "/cma-dish-machines/est-ah/parts",
+      "code": "est-ah"
+    },
+    {
+      "name": "EST-VENTLESS",
+      "url": "/cma-dish-machines/est-ventless/parts",
+      "code": "est-ventless"
+    },
+    {
+      "name": "EST-VL",
+      "url": "/cma-dish-machines/est-vl/parts",
+      "code": "est-vl"
+    },
+    {
+      "name": "EVA",
+      "url": "/cma-dish-machines/eva/parts",
+      "code": "eva"
+    },
+    {
+      "name": "GL-X",
+      "url": "/cma-dish-machines/gl-x/parts",
+      "code": "gl-x"
+    },
+    {
+      "name": "GLC",
+      "url": "/cma-dish-machines/glc/parts",
+      "code": "glc"
+    },
+    {
+      "name": "GW-100",
+      "url": "/cma-dish-machines/gw-100/parts",
+      "code": "gw-100"
+    },
+    {
+      "name": "GWX-200",
+      "url": "/cma-dish-machines/gwx-200/parts",
+      "code": "gwx-200"
+    },
+    {
+      "name": "H-1X",
+      "url": "/cma-dish-machines/h-1x/parts",
+      "code": "h-1x"
+    },
+    {
+      "name": "L-1X",
+      "url": "/cma-dish-machines/l-1x/parts",
+      "code": "l-1x"
+    },
+    {
+      "name": "L-1X16",
+      "url": "/cma-dish-machines/l-1x16/parts",
+      "code": "l-1x16"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:01:56.140042"
+}

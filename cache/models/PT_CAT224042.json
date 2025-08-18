@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Astoria",
+    "code": "PT_CAT224042",
+    "uri": "astoria"
+  },
+  "models": [
+    {
+      "name": "Gloria AL Lever",
+      "url": "/astoria/gloria-al-lever/parts",
+      "code": "gloria-al-lever"
+    },
+    {
+      "name": "Gloria SAE R12",
+      "url": "/astoria/gloria-sae-r12/parts",
+      "code": "gloria-sae-r12"
+    },
+    {
+      "name": "Major",
+      "url": "/astoria/major/parts",
+      "code": "major"
+    },
+    {
+      "name": "Mini",
+      "url": "/astoria/mini/parts",
+      "code": "mini"
+    },
+    {
+      "name": "Perla SAE/AEP",
+      "url": "/astoria/perla-sae-aep/parts",
+      "code": "perla-sae-aep"
+    },
+    {
+      "name": "Plus 4 You",
+      "url": "/astoria/plus-4-you/parts",
+      "code": "plus-4-you"
+    },
+    {
+      "name": "Plus 4 You TS",
+      "url": "/astoria/plus-4-you-ts/parts",
+      "code": "plus-4-you-ts"
+    },
+    {
+      "name": "Pratic Avant SAE",
+      "url": "/astoria/pratic-avant-sae/parts",
+      "code": "pratic-avant-sae"
+    },
+    {
+      "name": "Pratic Avant Xtra SAE",
+      "url": "/astoria/pratic-avant-xtra-sae/parts",
+      "code": "pratic-avant-xtra-sae"
+    },
+    {
+      "name": "Rapallo AL",
+      "url": "/astoria/rapallo-al/parts",
+      "code": "rapallo-al"
+    },
+    {
+      "name": "Rapallo SAE",
+      "url": "/astoria/rapallo-sae/parts",
+      "code": "rapallo-sae"
+    },
+    {
+      "name": "Robur",
+      "url": "/astoria/robur/parts",
+      "code": "robur"
+    },
+    {
+      "name": "SABRINA",
+      "url": "/astoria/sabrina/parts",
+      "code": "sabrina"
+    },
+    {
+      "name": "Steamer - AL Vapore",
+      "url": "/astoria/steamer-al-vapore/parts",
+      "code": "steamer-al-vapore"
+    },
+    {
+      "name": "Super Jolly",
+      "url": "/astoria/super-jolly/parts",
+      "code": "super-jolly"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T17:48:42.387235"
+}

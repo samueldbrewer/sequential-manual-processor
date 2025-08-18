@@ -1,0 +1,91 @@
+{
+  "manufacturer": {
+    "name": "LVO",
+    "code": "PT_CAT281879",
+    "uri": "lvo"
+  },
+  "models": [
+    {
+      "name": "CL10",
+      "url": "/lvo/cl10/parts",
+      "code": "cl10"
+    },
+    {
+      "name": "CT24",
+      "url": "/lvo/ct24/parts",
+      "code": "ct24"
+    },
+    {
+      "name": "FL10",
+      "url": "/lvo/fl10/parts",
+      "code": "fl10"
+    },
+    {
+      "name": "FL14",
+      "url": "/lvo/fl14/parts",
+      "code": "fl14"
+    },
+    {
+      "name": "FL25",
+      "url": "/lvo/fl25/parts",
+      "code": "fl25"
+    },
+    {
+      "name": "FL36",
+      "url": "/lvo/fl36/parts",
+      "code": "fl36"
+    },
+    {
+      "name": "PT10",
+      "url": "/lvo/pt10/parts",
+      "code": "pt10"
+    },
+    {
+      "name": "PT14",
+      "url": "/lvo/pt14/parts",
+      "code": "pt14"
+    },
+    {
+      "name": "PT25",
+      "url": "/lvo/pt25/parts",
+      "code": "pt25"
+    },
+    {
+      "name": "RW1548",
+      "url": "/lvo/rw1548/parts",
+      "code": "rw1548"
+    },
+    {
+      "name": "RW2580",
+      "url": "/lvo/rw2580/parts",
+      "code": "rw2580"
+    },
+    {
+      "name": "RW2580PT",
+      "url": "/lvo/rw2580pt/parts",
+      "code": "rw2580pt"
+    },
+    {
+      "name": "RW40120PT",
+      "url": "/lvo/rw40120pt/parts",
+      "code": "rw40120pt"
+    },
+    {
+      "name": "SM124",
+      "url": "/lvo/sm124/parts",
+      "code": "sm124"
+    },
+    {
+      "name": "SM224",
+      "url": "/lvo/sm224/parts",
+      "code": "sm224"
+    },
+    {
+      "name": "SM24",
+      "url": "/lvo/sm24/parts",
+      "code": "sm24"
+    }
+  ],
+  "total_models": 16,
+  "cached_at": "2025-08-14T19:18:04.935564"
+}

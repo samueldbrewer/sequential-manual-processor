@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "FBD",
+    "code": "PT_CAT243223",
+    "uri": "fbd"
+  },
+  "models": [
+    {
+      "name": "564",
+      "url": "/fbd/564/parts",
+      "code": "564"
+    },
+    {
+      "name": "772",
+      "url": "/fbd/772/parts",
+      "code": "772"
+    },
+    {
+      "name": "773",
+      "url": "/fbd/773/parts",
+      "code": "773"
+    },
+    {
+      "name": "774",
+      "url": "/fbd/774/parts",
+      "code": "774"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T18:30:38.835621"
+}

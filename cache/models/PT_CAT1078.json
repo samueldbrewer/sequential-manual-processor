@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Falcon Fabricators",
+    "code": "PT_CAT1078",
+    "uri": "falcon-fabricators"
+  },
+  "models": [
+    {
+      "name": "CCF-16-W",
+      "url": "/falcon-fabricators/ccf-16-w/parts",
+      "code": "ccf-16-w"
+    },
+    {
+      "name": "FFM-1",
+      "url": "/falcon-fabricators/ffm-1/parts",
+      "code": "ffm-1"
+    },
+    {
+      "name": "KCC-88",
+      "url": "/falcon-fabricators/kcc-88/parts",
+      "code": "kcc-88"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T18:31:06.483292"
+}

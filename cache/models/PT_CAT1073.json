@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Fetco",
+    "code": "PT_CAT1073",
+    "uri": "fetco"
+  },
+  "models": [
+    {
+      "name": "CBS-1131-XV+",
+      "url": "/fetco/cbs-1131-xv/parts",
+      "code": "cbs-1131-xv"
+    },
+    {
+      "name": "CBS-1132-XV+",
+      "url": "/fetco/cbs-1132-xv/parts",
+      "code": "cbs-1132-xv"
+    },
+    {
+      "name": "CBS-1151-XV+",
+      "url": "/fetco/cbs-1151-xv/parts",
+      "code": "cbs-1151-xv"
+    },
+    {
+      "name": "CBS-1151BP-V+",
+      "url": "/fetco/cbs-1151bp-v/parts",
+      "code": "cbs-1151bp-v"
+    },
+    {
+      "name": "CBS-1152-XV+",
+      "url": "/fetco/cbs-1152-xv/parts",
+      "code": "cbs-1152-xv"
+    },
+    {
+      "name": "CBS-1152BP-V+",
+      "url": "/fetco/cbs-1152bp-v/parts",
+      "code": "cbs-1152bp-v"
+    },
+    {
+      "name": "CBS-1221",
+      "url": "/fetco/cbs-1221/parts",
+      "code": "cbs-1221"
+    },
+    {
+      "name": "CBS-1231",
+      "url": "/fetco/cbs-1231/parts",
+      "code": "cbs-1231"
+    },
+    {
+      "name": "CBS-1232",
+      "url": "/fetco/cbs-1232/parts",
+      "code": "cbs-1232"
+    },
+    {
+      "name": "CBS-1241",
+      "url": "/fetco/cbs-1241/parts",
+      "code": "cbs-1241"
+    },
+    {
+      "name": "CBS-1242",
+      "url": "/fetco/cbs-1242/parts",
+      "code": "cbs-1242"
+    },
+    {
+      "name": "CBS-2021eG",
+      "url": "/fetco/cbs-2021eg/parts",
+      "code": "cbs-2021eg"
+    },
+    {
+      "name": "CBS-2021eP",
+      "url": "/fetco/cbs-2021ep/parts",
+      "code": "cbs-2021ep"
+    },
+    {
+      "name": "CBS-2031e",
+      "url": "/fetco/cbs-2031e/parts",
+      "code": "cbs-2031e"
+    },
+    {
+      "name": "CBS-2031ee",
+      "url": "/fetco/cbs-2031ee/parts",
+      "code": "cbs-2031ee"
+    },
+    {
+      "name": "CBS-2031s",
+      "url": "/fetco/cbs-2031s/parts",
+      "code": "cbs-2031s"
+    },
+    {
+      "name": "CBS-2032e",
+      "url": "/fetco/cbs-2032e/parts",
+      "code": "cbs-2032e"
+    },
+    {
+      "name": "CBS-2032ee",
+      "url": "/fetco/cbs-2032ee/parts",
+      "code": "cbs-2032ee"
+    },
+    {
+      "name": "CBS-2032s",
+      "url": "/fetco/cbs-2032s/parts",
+      "code": "cbs-2032s"
+    },
+    {
+      "name": "CBS-2041e",
+      "url": "/fetco/cbs-2041e/parts",
+      "code": "cbs-2041e"
+    },
+    {
+      "name": "CBS-2041ee",
+      "url": "/fetco/cbs-2041ee/parts",
+      "code": "cbs-2041ee"
+    },
+    {
+      "name": "CBS-2042e",
+      "url": "/fetco/cbs-2042e/parts",
+      "code": "cbs-2042e"
+    },
+    {
+      "name": "CBS-2042ee",
+      "url": "/fetco/cbs-2042ee/parts",
+      "code": "cbs-2042ee"
+    },
+    {
+      "name": "CBS-2051e",
+      "url": "/fetco/cbs-2051e/parts",
+      "code": "cbs-2051e"
+    },
+    {
+      "name": "CBS-2052e",
+      "url": "/fetco/cbs-2052e/parts",
+      "code": "cbs-2052e"
+    },
+    {
+      "name": "CBS-2052e20",
+      "url": "/fetco/cbs-2052e20/parts",
+      "code": "cbs-2052e20"
+    },
+    {
+      "name": "CBS-2061e",
+      "url": "/fetco/cbs-2061e/parts",
+      "code": "cbs-2061e"
+    },
+    {
+      "name": "CBS-2062e",
+      "url": "/fetco/cbs-2062e/parts",
+      "code": "cbs-2062e"
+    },
+    {
+      "name": "CBS-2121",
+      "url": "/fetco/cbs-2121/parts",
+      "code": "cbs-2121"
+    },
+    {
+      "name": "CBS-2131",
+      "url": "/fetco/cbs-2131/parts",
+      "code": "cbs-2131"
+    },
+    {
+      "name": "CBS-2131 XTS",
+      "url": "/fetco/cbs-2131-xts/parts",
+      "code": "cbs-2131-xts"
+    },
+    {
+      "name": "CBS-2131XTS-1G",
+      "url": "/fetco/cbs-2131xts-1g/parts",
+      "code": "cbs-2131xts-1g"
+    },
+    {
+      "name": "CBS-2131XTS-3L",
+      "url": "/fetco/cbs-2131xts-3l/parts",
+      "code": "cbs-2131xts-3l"
+    },
+    {
+      "name": "CBS-2132",
+      "url": "/fetco/cbs-2132/parts",
+      "code": "cbs-2132"
+    },
+    {
+      "name": "CBS-2132 XTS",
+      "url": "/fetco/cbs-2132-xts/parts",
+      "code": "cbs-2132-xts"
+    },
+    {
+      "name": "CBS-2132XTS-1G",
+      "url": "/fetco/cbs-2132xts-1g/parts",
+      "code": "cbs-2132xts-1g"
+    },
+    {
+      "name": "CBS-2132XTS-3L",
+      "url": "/fetco/cbs-2132xts-3l/parts",
+      "code": "cbs-2132xts-3l"
+    },
+    {
+      "name": "CBS-2141XTS",
+      "url": "/fetco/cbs-2141xts/parts",
+      "code": "cbs-2141xts"
+    },
+    {
+      "name": "CBS-2142XTS",
+      "url": "/fetco/cbs-2142xts/parts",
+      "code": "cbs-2142xts"
+    },
+    {
+      "name": "CBS-2151XTS",
+      "url": "/fetco/cbs-2151xts/parts",
+      "code": "cbs-2151xts"
+    },
+    {
+      "name": "CBS-2152XTS",
+      "url": "/fetco/cbs-2152xts/parts",
+      "code": "cbs-2152xts"
+    },
+    {
+      "name": "CBS-2161XTS",
+      "url": "/fetco/cbs-2161xts/parts",
+      "code": "cbs-2161xts"
+    },
+    {
+      "name": "CBS-2162XTS",
+      "url": "/fetco/cbs-2162xts/parts",
+      "code": "cbs-2162xts"
+    },
+    {
+      "name": "CBS-2231 NG",
+      "url": "/fetco/cbs-2231-ng/parts",
+      "code": "cbs-2231-ng"
+    },
+    {
+      "name": "CBS-2232 NG",
+      "url": "/fetco/cbs-2232-ng/parts",
+      "code": "cbs-2232-ng"
+    },
+    {
+      "name": "CBS-2241 NG",
+      "url": "/fetco/cbs-2241-ng/parts",
+      "code": "cbs-2241-ng"
+    },
+    {
+      "name": "CBS-2242 NG",
+      "url": "/fetco/cbs-2242-ng/parts",
+      "code": "cbs-2242-ng"
+    },
+    {
+      "name": "CBS-31A",
+      "url": "/fetco/cbs-31a/parts",
+      "code": "cbs-31a"
+    },
+    {
+      "name": "CBS-31Aap",
+      "url": "/fetco/cbs-31aap/parts",
+      "code": "cbs-31aap"
+    },
+    {
+      "name": "CBS-32A",
+      "url": "/fetco/cbs-32a/parts",
+      "code": "cbs-32a"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:31:40.555548"
+}

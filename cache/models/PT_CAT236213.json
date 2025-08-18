@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "International Environmental Corporation",
+    "code": "PT_CAT236213",
+    "uri": "international-environmental-corporation"
+  },
+  "models": [
+    {
+      "name": "CBF02A6",
+      "url": "/international-environmental-corporation/cbf02a6/parts",
+      "code": "cbf02a6"
+    },
+    {
+      "name": "CBF02A7",
+      "url": "/international-environmental-corporation/cbf02a7/parts",
+      "code": "cbf02a7"
+    },
+    {
+      "name": "CBF02B6",
+      "url": "/international-environmental-corporation/cbf02b6/parts",
+      "code": "cbf02b6"
+    },
+    {
+      "name": "CBF03A6",
+      "url": "/international-environmental-corporation/cbf03a6/parts",
+      "code": "cbf03a6"
+    },
+    {
+      "name": "CBF03A7",
+      "url": "/international-environmental-corporation/cbf03a7/parts",
+      "code": "cbf03a7"
+    },
+    {
+      "name": "CBF03B6",
+      "url": "/international-environmental-corporation/cbf03b6/parts",
+      "code": "cbf03b6"
+    },
+    {
+      "name": "CBF04A6",
+      "url": "/international-environmental-corporation/cbf04a6/parts",
+      "code": "cbf04a6"
+    },
+    {
+      "name": "CBF04A7",
+      "url": "/international-environmental-corporation/cbf04a7/parts",
+      "code": "cbf04a7"
+    },
+    {
+      "name": "CBF04B6",
+      "url": "/international-environmental-corporation/cbf04b6/parts",
+      "code": "cbf04b6"
+    },
+    {
+      "name": "CBF06A6",
+      "url": "/international-environmental-corporation/cbf06a6/parts",
+      "code": "cbf06a6"
+    },
+    {
+      "name": "CBF06A7",
+      "url": "/international-environmental-corporation/cbf06a7/parts",
+      "code": "cbf06a7"
+    },
+    {
+      "name": "CBF06B6",
+      "url": "/international-environmental-corporation/cbf06b6/parts",
+      "code": "cbf06b6"
+    },
+    {
+      "name": "CBF08A6",
+      "url": "/international-environmental-corporation/cbf08a6/parts",
+      "code": "cbf08a6"
+    },
+    {
+      "name": "CBF08A7",
+      "url": "/international-environmental-corporation/cbf08a7/parts",
+      "code": "cbf08a7"
+    },
+    {
+      "name": "CBF08B6",
+      "url": "/international-environmental-corporation/cbf08b6/parts",
+      "code": "cbf08b6"
+    },
+    {
+      "name": "CBF10A6",
+      "url": "/international-environmental-corporation/cbf10a6/parts",
+      "code": "cbf10a6"
+    },
+    {
+      "name": "CBF10A7",
+      "url": "/international-environmental-corporation/cbf10a7/parts",
+      "code": "cbf10a7"
+    },
+    {
+      "name": "CBF10B6",
+      "url": "/international-environmental-corporation/cbf10b6/parts",
+      "code": "cbf10b6"
+    },
+    {
+      "name": "CBF12A6",
+      "url": "/international-environmental-corporation/cbf12a6/parts",
+      "code": "cbf12a6"
+    },
+    {
+      "name": "CBF12A7",
+      "url": "/international-environmental-corporation/cbf12a7/parts",
+      "code": "cbf12a7"
+    },
+    {
+      "name": "CBF12B6",
+      "url": "/international-environmental-corporation/cbf12b6/parts",
+      "code": "cbf12b6"
+    },
+    {
+      "name": "CBY02A6",
+      "url": "/international-environmental-corporation/cby02a6/parts",
+      "code": "cby02a6"
+    },
+    {
+      "name": "CBY02A7",
+      "url": "/international-environmental-corporation/cby02a7/parts",
+      "code": "cby02a7"
+    },
+    {
+      "name": "CBY02B6",
+      "url": "/international-environmental-corporation/cby02b6/parts",
+      "code": "cby02b6"
+    },
+    {
+      "name": "CBY03A6",
+      "url": "/international-environmental-corporation/cby03a6/parts",
+      "code": "cby03a6"
+    },
+    {
+      "name": "CBY03A7",
+      "url": "/international-environmental-corporation/cby03a7/parts",
+      "code": "cby03a7"
+    },
+    {
+      "name": "CBY03B6",
+      "url": "/international-environmental-corporation/cby03b6/parts",
+      "code": "cby03b6"
+    },
+    {
+      "name": "CBY04A6",
+      "url": "/international-environmental-corporation/cby04a6/parts",
+      "code": "cby04a6"
+    },
+    {
+      "name": "CBY04A7",
+      "url": "/international-environmental-corporation/cby04a7/parts",
+      "code": "cby04a7"
+    },
+    {
+      "name": "CBY04B6",
+      "url": "/international-environmental-corporation/cby04b6/parts",
+      "code": "cby04b6"
+    },
+    {
+      "name": "CBY06A6",
+      "url": "/international-environmental-corporation/cby06a6/parts",
+      "code": "cby06a6"
+    },
+    {
+      "name": "CBY06A7",
+      "url": "/international-environmental-corporation/cby06a7/parts",
+      "code": "cby06a7"
+    },
+    {
+      "name": "CBY06B6",
+      "url": "/international-environmental-corporation/cby06b6/parts",
+      "code": "cby06b6"
+    },
+    {
+      "name": "CBY08A6",
+      "url": "/international-environmental-corporation/cby08a6/parts",
+      "code": "cby08a6"
+    },
+    {
+      "name": "CBY08A7",
+      "url": "/international-environmental-corporation/cby08a7/parts",
+      "code": "cby08a7"
+    },
+    {
+      "name": "CBY08B6",
+      "url": "/international-environmental-corporation/cby08b6/parts",
+      "code": "cby08b6"
+    },
+    {
+      "name": "CBY10A6",
+      "url": "/international-environmental-corporation/cby10a6/parts",
+      "code": "cby10a6"
+    },
+    {
+      "name": "CBY10A7",
+      "url": "/international-environmental-corporation/cby10a7/parts",
+      "code": "cby10a7"
+    },
+    {
+      "name": "CBY10B6",
+      "url": "/international-environmental-corporation/cby10b6/parts",
+      "code": "cby10b6"
+    },
+    {
+      "name": "CBY12A6",
+      "url": "/international-environmental-corporation/cby12a6/parts",
+      "code": "cby12a6"
+    },
+    {
+      "name": "CBY12A7",
+      "url": "/international-environmental-corporation/cby12a7/parts",
+      "code": "cby12a7"
+    },
+    {
+      "name": "CBY12B6",
+      "url": "/international-environmental-corporation/cby12b6/parts",
+      "code": "cby12b6"
+    },
+    {
+      "name": "CHF",
+      "url": "/international-environmental-corporation/chf/parts",
+      "code": "chf"
+    },
+    {
+      "name": "CHF02",
+      "url": "/international-environmental-corporation/chf02/parts",
+      "code": "chf02"
+    },
+    {
+      "name": "CHF03",
+      "url": "/international-environmental-corporation/chf03/parts",
+      "code": "chf03"
+    },
+    {
+      "name": "CHF04",
+      "url": "/international-environmental-corporation/chf04/parts",
+      "code": "chf04"
+    },
+    {
+      "name": "CHF06",
+      "url": "/international-environmental-corporation/chf06/parts",
+      "code": "chf06"
+    },
+    {
+      "name": "CHF08",
+      "url": "/international-environmental-corporation/chf08/parts",
+      "code": "chf08"
+    },
+    {
+      "name": "CHF10",
+      "url": "/international-environmental-corporation/chf10/parts",
+      "code": "chf10"
+    },
+    {
+      "name": "CHF12",
+      "url": "/international-environmental-corporation/chf12/parts",
+      "code": "chf12"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:07:50.636573"
+}

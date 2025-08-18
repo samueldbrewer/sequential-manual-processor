@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Randell",
+    "code": "PT_CAT1169",
+    "uri": "randell"
+  },
+  "models": [
+    {
+      "name": "2-2020F01",
+      "url": "/randell/2-2020f01/parts",
+      "code": "2-2020f01"
+    },
+    {
+      "name": "20038SC-SSRH",
+      "url": "/randell/20038sc-ssrh/parts",
+      "code": "20038sc-ssrh"
+    },
+    {
+      "name": "20042R",
+      "url": "/randell/20042r/parts",
+      "code": "20042r"
+    },
+    {
+      "name": "20042RF",
+      "url": "/randell/20042rf/parts",
+      "code": "20042rf"
+    },
+    {
+      "name": "20048SC",
+      "url": "/randell/20048sc/parts",
+      "code": "20048sc"
+    },
+    {
+      "name": "20048SC-30HSS-L",
+      "url": "/randell/20048sc-30hss-l/parts",
+      "code": "20048sc-30hss-l"
+    },
+    {
+      "name": "20048SC-C4",
+      "url": "/randell/20048sc-c4/parts",
+      "code": "20048sc-c4"
+    },
+    {
+      "name": "20048SC-SSLH",
+      "url": "/randell/20048sc-sslh/parts",
+      "code": "20048sc-sslh"
+    },
+    {
+      "name": "20048SCF",
+      "url": "/randell/20048scf/parts",
+      "code": "20048scf"
+    },
+    {
+      "name": "20065R",
+      "url": "/randell/20065r/parts",
+      "code": "20065r"
+    },
+    {
+      "name": "20065RF",
+      "url": "/randell/20065rf/parts",
+      "code": "20065rf"
+    },
+    {
+      "name": "20072SC",
+      "url": "/randell/20072sc/parts",
+      "code": "20072sc"
+    },
+    {
+      "name": "20072SC-C4",
+      "url": "/randell/20072sc-c4/parts",
+      "code": "20072sc-c4"
+    },
+    {
+      "name": "20072SCF",
+      "url": "/randell/20072scf/parts",
+      "code": "20072scf"
+    },
+    {
+      "name": "20078SC",
+      "url": "/randell/20078sc/parts",
+      "code": "20078sc"
+    },
+    {
+      "name": "20078SC-C4",
+      "url": "/randell/20078sc-c4/parts",
+      "code": "20078sc-c4"
+    },
+    {
+      "name": "20092R",
+      "url": "/randell/20092r/parts",
+      "code": "20092r"
+    },
+    {
+      "name": "20092RF",
+      "url": "/randell/20092rf/parts",
+      "code": "20092rf"
+    },
+    {
+      "name": "2010",
+      "url": "/randell/2010/parts",
+      "code": "2010"
+    },
+    {
+      "name": "20105SC",
+      "url": "/randell/20105sc/parts",
+      "code": "20105sc"
+    },
+    {
+      "name": "20105SC-32",
+      "url": "/randell/20105sc-32/parts",
+      "code": "20105sc-32"
+    },
+    {
+      "name": "20105SCF",
+      "url": "/randell/20105scf/parts",
+      "code": "20105scf"
+    },
+    {
+      "name": "2010F",
+      "url": "/randell/2010f/parts",
+      "code": "2010f"
+    },
+    {
+      "name": "2020",
+      "url": "/randell/2020/parts",
+      "code": "2020"
+    },
+    {
+      "name": "2335",
+      "url": "/randell/2335/parts",
+      "code": "2335"
+    },
+    {
+      "name": "2335P",
+      "url": "/randell/2335p/parts",
+      "code": "2335p"
+    },
+    {
+      "name": "2368",
+      "url": "/randell/2368/parts",
+      "code": "2368"
+    },
+    {
+      "name": "2368P",
+      "url": "/randell/2368p/parts",
+      "code": "2368p"
+    },
+    {
+      "name": "2410",
+      "url": "/randell/2410/parts",
+      "code": "2410"
+    },
+    {
+      "name": "2410P",
+      "url": "/randell/2410p/parts",
+      "code": "2410p"
+    },
+    {
+      "name": "2420",
+      "url": "/randell/2420/parts",
+      "code": "2420"
+    },
+    {
+      "name": "2420P",
+      "url": "/randell/2420p/parts",
+      "code": "2420p"
+    },
+    {
+      "name": "3312",
+      "url": "/randell/3312/parts",
+      "code": "3312"
+    },
+    {
+      "name": "3313",
+      "url": "/randell/3313/parts",
+      "code": "3313"
+    },
+    {
+      "name": "3314",
+      "url": "/randell/3314/parts",
+      "code": "3314"
+    },
+    {
+      "name": "3315",
+      "url": "/randell/3315/parts",
+      "code": "3315"
+    },
+    {
+      "name": "3412",
+      "url": "/randell/3412/parts",
+      "code": "3412"
+    },
+    {
+      "name": "3413",
+      "url": "/randell/3413/parts",
+      "code": "3413"
+    },
+    {
+      "name": "3414",
+      "url": "/randell/3414/parts",
+      "code": "3414"
+    },
+    {
+      "name": "3415",
+      "url": "/randell/3415/parts",
+      "code": "3415"
+    },
+    {
+      "name": "3512",
+      "url": "/randell/3512/parts",
+      "code": "3512"
+    },
+    {
+      "name": "3513",
+      "url": "/randell/3513/parts",
+      "code": "3513"
+    },
+    {
+      "name": "3514",
+      "url": "/randell/3514/parts",
+      "code": "3514"
+    },
+    {
+      "name": "3515",
+      "url": "/randell/3515/parts",
+      "code": "3515"
+    },
+    {
+      "name": "3612",
+      "url": "/randell/3612/parts",
+      "code": "3612"
+    },
+    {
+      "name": "3613",
+      "url": "/randell/3613/parts",
+      "code": "3613"
+    },
+    {
+      "name": "3614",
+      "url": "/randell/3614/parts",
+      "code": "3614"
+    },
+    {
+      "name": "3615",
+      "url": "/randell/3615/parts",
+      "code": "3615"
+    },
+    {
+      "name": "40024A",
+      "url": "/randell/40024a/parts",
+      "code": "40024a"
+    },
+    {
+      "name": "40024CF",
+      "url": "/randell/40024cf/parts",
+      "code": "40024cf"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:55:46.068361"
+}

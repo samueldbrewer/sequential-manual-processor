@@ -1,0 +1,91 @@
+{
+  "manufacturer": {
+    "name": "H&K International",
+    "code": "PT_CAT2779508",
+    "uri": "h-k-international"
+  },
+  "models": [
+    {
+      "name": "80213-GC",
+      "url": "/h-k-international/80213-gc/parts",
+      "code": "80213-gc"
+    },
+    {
+      "name": "83050.01E",
+      "url": "/h-k-international/83050-01e/parts",
+      "code": "83050-01e"
+    },
+    {
+      "name": "GSF18",
+      "url": "/h-k-international/gsf18/parts",
+      "code": "gsf18"
+    },
+    {
+      "name": "GSF30",
+      "url": "/h-k-international/gsf30/parts",
+      "code": "gsf30"
+    },
+    {
+      "name": "HCMF18",
+      "url": "/h-k-international/hcmf18/parts",
+      "code": "hcmf18"
+    },
+    {
+      "name": "HCMF30-LH",
+      "url": "/h-k-international/hcmf30-lh/parts",
+      "code": "hcmf30-lh"
+    },
+    {
+      "name": "HCMF30-RH",
+      "url": "/h-k-international/hcmf30-rh/parts",
+      "code": "hcmf30-rh"
+    },
+    {
+      "name": "HCWF-1",
+      "url": "/h-k-international/hcwf-1/parts",
+      "code": "hcwf-1"
+    },
+    {
+      "name": "MCR009",
+      "url": "/h-k-international/mcr009/parts",
+      "code": "mcr009"
+    },
+    {
+      "name": "MCR011",
+      "url": "/h-k-international/mcr011/parts",
+      "code": "mcr011"
+    },
+    {
+      "name": "MF03",
+      "url": "/h-k-international/mf03/parts",
+      "code": "mf03"
+    },
+    {
+      "name": "MF04",
+      "url": "/h-k-international/mf04/parts",
+      "code": "mf04"
+    },
+    {
+      "name": "PPT30E-06A",
+      "url": "/h-k-international/ppt30e-06a/parts",
+      "code": "ppt30e-06a"
+    },
+    {
+      "name": "TH002-1",
+      "url": "/h-k-international/th002-1/parts",
+      "code": "th002-1"
+    },
+    {
+      "name": "WF03",
+      "url": "/h-k-international/wf03/parts",
+      "code": "wf03"
+    },
+    {
+      "name": "WF04",
+      "url": "/h-k-international/wf04/parts",
+      "code": "wf04"
+    }
+  ],
+  "total_models": 16,
+  "cached_at": "2025-08-14T18:49:42.320262"
+}

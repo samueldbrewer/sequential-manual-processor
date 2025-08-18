@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Belshaw",
+    "code": "PT_CAT1020",
+    "uri": "belshaw"
+  },
+  "models": [
+    {
+      "name": "616B",
+      "url": "/belshaw/616b/parts",
+      "code": "616b"
+    },
+    {
+      "name": "616B - Type N",
+      "url": "/belshaw/616b-type-n/parts",
+      "code": "616b-type-n"
+    },
+    {
+      "name": "618L",
+      "url": "/belshaw/618l/parts",
+      "code": "618l"
+    },
+    {
+      "name": "624",
+      "url": "/belshaw/624/parts",
+      "code": "624"
+    },
+    {
+      "name": "624",
+      "url": "/belshaw/624/parts",
+      "code": "624"
+    },
+    {
+      "name": "634",
+      "url": "/belshaw/634/parts",
+      "code": "634"
+    },
+    {
+      "name": "718LCG",
+      "url": "/belshaw/718lcg/parts",
+      "code": "718lcg"
+    },
+    {
+      "name": "718LCG-718LFG",
+      "url": "/belshaw/718lcg-718lfg/parts",
+      "code": "718lcg-718lfg"
+    },
+    {
+      "name": "724CG",
+      "url": "/belshaw/724cg/parts",
+      "code": "724cg"
+    },
+    {
+      "name": "724CG-724FG",
+      "url": "/belshaw/724cg-724fg/parts",
+      "code": "724cg-724fg"
+    },
+    {
+      "name": "734CG",
+      "url": "/belshaw/734cg/parts",
+      "code": "734cg"
+    },
+    {
+      "name": "734CG-734FG",
+      "url": "/belshaw/734cg-734fg/parts",
+      "code": "734cg-734fg"
+    },
+    {
+      "name": "AutoFiller Donut Injector",
+      "url": "/belshaw/autofiller-donut-injector/parts",
+      "code": "autofiller-donut-injector"
+    },
+    {
+      "name": "BABG10",
+      "url": "/belshaw/babg10/parts",
+      "code": "babg10"
+    },
+    {
+      "name": "BABG20",
+      "url": "/belshaw/babg20/parts",
+      "code": "babg20"
+    },
+    {
+      "name": "BX ECOTOUCH",
+      "url": "/belshaw/bx-ecotouch/parts",
+      "code": "bx-ecotouch"
+    },
+    {
+      "name": "BX10 Eco-Touch",
+      "url": "/belshaw/bx10-eco-touch/parts",
+      "code": "bx10-eco-touch"
+    },
+    {
+      "name": "BX4E Eco-Touch",
+      "url": "/belshaw/bx4e-eco-touch/parts",
+      "code": "bx4e-eco-touch"
+    },
+    {
+      "name": "CSF",
+      "url": "/belshaw/csf/parts",
+      "code": "csf"
+    },
+    {
+      "name": "DD600",
+      "url": "/belshaw/dd600/parts",
+      "code": "dd600"
+    },
+    {
+      "name": "DX Eco-Touch",
+      "url": "/belshaw/dx-eco-touch/parts",
+      "code": "dx-eco-touch"
+    },
+    {
+      "name": "EP18-24",
+      "url": "/belshaw/ep18-24/parts",
+      "code": "ep18-24"
+    },
+    {
+      "name": "EZMelt18",
+      "url": "/belshaw/ezmelt18/parts",
+      "code": "ezmelt18"
+    },
+    {
+      "name": "EZMelt24",
+      "url": "/belshaw/ezmelt24/parts",
+      "code": "ezmelt24"
+    },
+    {
+      "name": "EZMelt34",
+      "url": "/belshaw/ezmelt34/parts",
+      "code": "ezmelt34"
+    },
+    {
+      "name": "Filter-Flo Siphon",
+      "url": "/belshaw/filter-flo-siphon/parts",
+      "code": "filter-flo-siphon"
+    },
+    {
+      "name": "GL30",
+      "url": "/belshaw/gl30/parts",
+      "code": "gl30"
+    },
+    {
+      "name": "H&I-2 Icer",
+      "url": "/belshaw/h-i-2-icer/parts",
+      "code": "h-i-2-icer"
+    },
+    {
+      "name": "H&I-4 Icer",
+      "url": "/belshaw/h-i-4-icer/parts",
+      "code": "h-i-4-icer"
+    },
+    {
+      "name": "HG18C",
+      "url": "/belshaw/hg18c/parts",
+      "code": "hg18c"
+    },
+    {
+      "name": "HG18EZ",
+      "url": "/belshaw/hg18ez/parts",
+      "code": "hg18ez"
+    },
+    {
+      "name": "HG24C",
+      "url": "/belshaw/hg24c/parts",
+      "code": "hg24c"
+    },
+    {
+      "name": "HG24EZ",
+      "url": "/belshaw/hg24ez/parts",
+      "code": "hg24ez"
+    },
+    {
+      "name": "HI-18F",
+      "url": "/belshaw/hi-18f/parts",
+      "code": "hi-18f"
+    },
+    {
+      "name": "HI-24F",
+      "url": "/belshaw/hi-24f/parts",
+      "code": "hi-24f"
+    },
+    {
+      "name": "HI18F Icer",
+      "url": "/belshaw/hi18f-icer/parts",
+      "code": "hi18f-icer"
+    },
+    {
+      "name": "HI24F Icer",
+      "url": "/belshaw/hi24f-icer/parts",
+      "code": "hi24f-icer"
+    },
+    {
+      "name": "MARK V",
+      "url": "/belshaw/mark-v/parts",
+      "code": "mark-v"
+    },
+    {
+      "name": "MDDRF",
+      "url": "/belshaw/mddrf/parts",
+      "code": "mddrf"
+    },
+    {
+      "name": "Mark II",
+      "url": "/belshaw/mark-ii/parts",
+      "code": "mark-ii"
+    },
+    {
+      "name": "Mark II (Gas)",
+      "url": "/belshaw/mark-ii-gas/parts",
+      "code": "mark-ii-gas"
+    },
+    {
+      "name": "Mark II GP",
+      "url": "/belshaw/mark-ii-gp/parts",
+      "code": "mark-ii-gp"
+    },
+    {
+      "name": "Mark II GP (Gas)",
+      "url": "/belshaw/mark-ii-gp-gas/parts",
+      "code": "mark-ii-gp-gas"
+    },
+    {
+      "name": "Mark V GP",
+      "url": "/belshaw/mark-v-gp/parts",
+      "code": "mark-v-gp"
+    },
+    {
+      "name": "Mark VI",
+      "url": "/belshaw/mark-vi/parts",
+      "code": "mark-vi"
+    },
+    {
+      "name": "Mark VI (Deep)",
+      "url": "/belshaw/mark-vi-deep/parts",
+      "code": "mark-vi-deep"
+    },
+    {
+      "name": "SF18",
+      "url": "/belshaw/sf18/parts",
+      "code": "sf18"
+    },
+    {
+      "name": "SF24",
+      "url": "/belshaw/sf24/parts",
+      "code": "sf24"
+    },
+    {
+      "name": "SF34",
+      "url": "/belshaw/sf34/parts",
+      "code": "sf34"
+    },
+    {
+      "name": "SGM",
+      "url": "/belshaw/sgm/parts",
+      "code": "sgm"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:53:01.578661"
+}

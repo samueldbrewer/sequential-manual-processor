@@ -1,0 +1,2936 @@
+[
+  {
+    "code": "PT_CAT1050",
+    "name": "3M",
+    "uri": "3m",
+    "model_count": 58
+  },
+  {
+    "code": "PT_CAT47992",
+    "name": "A la Cart",
+    "uri": "a-la-cart",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CATAAON",
+    "name": "AAON",
+    "uri": "aaon",
+    "model_count": 78
+  },
+  {
+    "code": "PT_CAT223737",
+    "name": "AHT Cooling Systems",
+    "uri": "aht-cooling-systems",
+    "model_count": 89
+  },
+  {
+    "code": "PT_CAT223710",
+    "name": "AM Manufacturing",
+    "uri": "am-manufacturing",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CATAOSMITH",
+    "name": "AO Smith Water Heater",
+    "uri": "ao-smith-water-heater",
+    "model_count": 139
+  },
+  {
+    "code": "PT_CAT1014",
+    "name": "APW Wyott",
+    "uri": "apw-wyott",
+    "model_count": 1012
+  },
+  {
+    "code": "PT_CAT224051",
+    "name": "ASBER",
+    "uri": "asber",
+    "model_count": 330
+  },
+  {
+    "code": "PT_CAT25482179",
+    "name": "AccelMix",
+    "uri": "accelmix",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT1000",
+    "name": "AccuTemp",
+    "uri": "accutemp",
+    "model_count": 303
+  },
+  {
+    "code": "PT_CAT243289",
+    "name": "Accurex",
+    "uri": "accurex",
+    "model_count": 99
+  },
+  {
+    "code": "PT_CAT48070",
+    "name": "Adamatic",
+    "uri": "adamatic",
+    "model_count": 7
+  },
+  {
+    "code": "PT_CAT1001",
+    "name": "Adamation",
+    "uri": "adamation",
+    "model_count": 16
+  },
+  {
+    "code": "PT_CAT321128",
+    "name": "Adcraft",
+    "uri": "adcraft",
+    "model_count": 51
+  },
+  {
+    "code": "PT_CAT37077",
+    "name": "Advance Tabco",
+    "uri": "advance-tabco",
+    "model_count": 51
+  },
+  {
+    "code": "PT_CAT235509",
+    "name": "Aeonair",
+    "uri": "aeonair",
+    "model_count": 5
+  },
+  {
+    "code": "PT_CATAEROWERKS",
+    "name": "Aerowerks",
+    "uri": "aerowerks",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT235525",
+    "name": "Airquest",
+    "uri": "airquest",
+    "model_count": 2176
+  },
+  {
+    "code": "PT_CAT1004",
+    "name": "Aladdin Temp-Rite",
+    "uri": "aladdin-temp-rite",
+    "model_count": 249
+  },
+  {
+    "code": "PT_CAT374421",
+    "name": "Alliance Laundry Systems",
+    "uri": "alliance-laundry-systems",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT374123",
+    "name": "Alpine",
+    "uri": "alpine",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT1005",
+    "name": "Alto Shaam",
+    "uri": "alto-shaam",
+    "model_count": 651
+  },
+  {
+    "code": "PT_CAT2905200",
+    "name": "Amana HVAC",
+    "uri": "amana-hvac",
+    "model_count": 340
+  },
+  {
+    "code": "PT_CAT1006",
+    "name": "Amana Menumaster",
+    "uri": "amana-menumaster",
+    "model_count": 1253
+  },
+  {
+    "code": "PT_CAT223738",
+    "name": "Amerec",
+    "uri": "amerec",
+    "model_count": 28
+  },
+  {
+    "code": "PT_CAT1002",
+    "name": "American Dish Service",
+    "uri": "american-dish-service",
+    "model_count": 47
+  },
+  {
+    "code": "PT_CAT1008",
+    "name": "American Panel",
+    "uri": "american-panel",
+    "model_count": 45
+  },
+  {
+    "code": "PT_CAT1009",
+    "name": "American Range",
+    "uri": "american-range",
+    "model_count": 164
+  },
+  {
+    "code": "PT_CATAMERICANSTANDARD",
+    "name": "American Standard",
+    "uri": "american-standard",
+    "model_count": 82
+  },
+  {
+    "code": "PT_CAT375835",
+    "name": "American Water Heaters",
+    "uri": "american-water-heaters",
+    "model_count": 387
+  },
+  {
+    "code": "PT_CAT242317",
+    "name": "Amerikooler",
+    "uri": "amerikooler",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT2779588",
+    "name": "Analox Sensor Technology",
+    "uri": "analox-sensor-technology",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT1011",
+    "name": "Anets",
+    "uri": "anets",
+    "model_count": 59
+  },
+  {
+    "code": "PT_CAT28982320",
+    "name": "Anfim",
+    "uri": "anfim",
+    "model_count": 19
+  },
+  {
+    "code": "PT_CAT242806",
+    "name": "Angelo Po",
+    "uri": "angelo-po",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT1012",
+    "name": "Anthony International",
+    "uri": "anthony-international",
+    "model_count": 25
+  },
+  {
+    "code": "PT_CAT1172",
+    "name": "Antunes",
+    "uri": "antunes",
+    "model_count": 228
+  },
+  {
+    "code": "PT_CAT224006",
+    "name": "Apex Supply Chain Tech",
+    "uri": "apex-supply-chain-tech",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT235526",
+    "name": "Arcoaire",
+    "uri": "arcoaire",
+    "model_count": 2675
+  },
+  {
+    "code": "PT_CAT1016",
+    "name": "Arctic Air",
+    "uri": "arctic-air",
+    "model_count": 55
+  },
+  {
+    "code": "PT_CAT374439",
+    "name": "Armstrong Air",
+    "uri": "armstrong-air",
+    "model_count": 24
+  },
+  {
+    "code": "PT_CAT374438",
+    "name": "Armstrong Fluid Technology",
+    "uri": "armstrong-fluid-technology",
+    "model_count": 61
+  },
+  {
+    "code": "PT_CAT224042",
+    "name": "Astoria",
+    "uri": "astoria",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT281728",
+    "name": "Astro Blender",
+    "uri": "astro-blender",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1017",
+    "name": "Atlas Metal",
+    "uri": "atlas-metal",
+    "model_count": 269
+  },
+  {
+    "code": "PT_CAT242745",
+    "name": "Atosa",
+    "uri": "atosa",
+    "model_count": 283
+  },
+  {
+    "code": "PT_CAT1003",
+    "name": "Autofry",
+    "uri": "autofry",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT223709",
+    "name": "Avanti",
+    "uri": "avanti",
+    "model_count": 245
+  },
+  {
+    "code": "PT_CAT13271",
+    "name": "Avtec",
+    "uri": "avtec",
+    "model_count": 85
+  },
+  {
+    "code": "PT_CAT243409",
+    "name": "AyrKing",
+    "uri": "ayrking",
+    "model_count": 108
+  },
+  {
+    "code": "PT_CAT1023",
+    "name": "BKI",
+    "uri": "bki",
+    "model_count": 307
+  },
+  {
+    "code": "PT_CAT1024",
+    "name": "Bakers Pride",
+    "uri": "bakers-pride",
+    "model_count": 440
+  },
+  {
+    "code": "PT_CAT375904",
+    "name": "Baltimore Aircoil",
+    "uri": "baltimore-aircoil",
+    "model_count": 1981
+  },
+  {
+    "code": "PT_CAT1018",
+    "name": "Bar Maid",
+    "uri": "bar-maid",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT223818",
+    "name": "Bard",
+    "uri": "bard",
+    "model_count": 315
+  },
+  {
+    "code": "PT_CAT1019",
+    "name": "Baxter",
+    "uri": "baxter",
+    "model_count": 41
+  },
+  {
+    "code": "PT_CAT47966",
+    "name": "Beech Ovens",
+    "uri": "beech-ovens",
+    "model_count": 27
+  },
+  {
+    "code": "PT_CATBELLANDGOSSETT",
+    "name": "Bell And Gossett",
+    "uri": "bell-and-gossett",
+    "model_count": 23
+  },
+  {
+    "code": "PT_CAT48071",
+    "name": "Belleco",
+    "uri": "belleco",
+    "model_count": 33
+  },
+  {
+    "code": "PT_CAT1020",
+    "name": "Belshaw",
+    "uri": "belshaw",
+    "model_count": 64
+  },
+  {
+    "code": "PT_CAT1021",
+    "name": "Berkel",
+    "uri": "berkel",
+    "model_count": 95
+  },
+  {
+    "code": "PT_CATBERNERINTERNATIONAL",
+    "name": "Berner International",
+    "uri": "berner-international",
+    "model_count": 238
+  },
+  {
+    "code": "PT_CATBETTCHER",
+    "name": "Bettcher",
+    "uri": "bettcher",
+    "model_count": 87
+  },
+  {
+    "code": "PT_CAT1022",
+    "name": "Beverage Air",
+    "uri": "beverage-air",
+    "model_count": 1516
+  },
+  {
+    "code": "PT_CAT1033",
+    "name": "Bevles",
+    "uri": "bevles",
+    "model_count": 175
+  },
+  {
+    "code": "PT_CAT2898446",
+    "name": "Biozone Scientific",
+    "uri": "biozone-scientific",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT48073",
+    "name": "Biro",
+    "uri": "biro",
+    "model_count": 73
+  },
+  {
+    "code": "PT_CAT321410",
+    "name": "Bizerba",
+    "uri": "bizerba",
+    "model_count": 23
+  },
+  {
+    "code": "PT_CAT1026",
+    "name": "Blakeslee",
+    "uri": "blakeslee",
+    "model_count": 76
+  },
+  {
+    "code": "PT_CAT1027",
+    "name": "Blendtec",
+    "uri": "blendtec",
+    "model_count": 12
+  },
+  {
+    "code": "PT_CAT1028",
+    "name": "Blickman",
+    "uri": "blickman",
+    "model_count": 209
+  },
+  {
+    "code": "PT_CAT1025",
+    "name": "Blodgett",
+    "uri": "blodgett",
+    "model_count": 914
+  },
+  {
+    "code": "PT_CAT235510",
+    "name": "Blomberg",
+    "uri": "blomberg",
+    "model_count": 97
+  },
+  {
+    "code": "PT_CAT1029",
+    "name": "Bloomfield",
+    "uri": "bloomfield",
+    "model_count": 177
+  },
+  {
+    "code": "PT_CAT48066",
+    "name": "Blue Air",
+    "uri": "blue-air",
+    "model_count": 125
+  },
+  {
+    "code": "PT_CAT224061",
+    "name": "Bosch",
+    "uri": "bosch",
+    "model_count": 529
+  },
+  {
+    "code": "PT_CAT374125",
+    "name": "Bowers & Wilkins",
+    "uri": "bowers-wilkins",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT223960",
+    "name": "Bradford White",
+    "uri": "bradford-white",
+    "model_count": 461
+  },
+  {
+    "code": "PT_CAT375956",
+    "name": "Braeburn Systems",
+    "uri": "braeburn-systems",
+    "model_count": 54
+  },
+  {
+    "code": "PT_CAT15336",
+    "name": "Brema",
+    "uri": "brema",
+    "model_count": 10
+  },
+  {
+    "code": "PT_CAT235503",
+    "name": "Brita",
+    "uri": "brita",
+    "model_count": 7
+  },
+  {
+    "code": "PT_CAT1032",
+    "name": "Bunn",
+    "uri": "bunn",
+    "model_count": 2397
+  },
+  {
+    "code": "PT_CAT375920",
+    "name": "Burnham Commercial Boiler",
+    "uri": "burnham-commercial-boiler",
+    "model_count": 7
+  },
+  {
+    "code": "PT_CAT242310",
+    "name": "Butcher Boy Machines",
+    "uri": "butcher-boy-machines",
+    "model_count": 49
+  },
+  {
+    "code": "PT_CAT1039",
+    "name": "CMA Dish Machines",
+    "uri": "cma-dish-machines",
+    "model_count": 85
+  },
+  {
+    "code": "PT_CAT48088",
+    "name": "CTX",
+    "uri": "ctx",
+    "model_count": 9
+  },
+  {
+    "code": "PT_CAT242316",
+    "name": "Cadco",
+    "uri": "cadco",
+    "model_count": 262
+  },
+  {
+    "code": "PT_CAT241007",
+    "name": "Caddy",
+    "uri": "caddy",
+    "model_count": 67
+  },
+  {
+    "code": "PT_CATCAMBRO",
+    "name": "Cambro",
+    "uri": "cambro",
+    "model_count": 263
+  },
+  {
+    "code": "PT_CAT242795",
+    "name": "Captive-Aire",
+    "uri": "captive-aire",
+    "model_count": 27
+  },
+  {
+    "code": "PT_CAT223819",
+    "name": "Carnes",
+    "uri": "carnes",
+    "model_count": 77
+  },
+  {
+    "code": "PT_CAT219700",
+    "name": "Carpigiani",
+    "uri": "carpigiani",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT224221",
+    "name": "Carrier",
+    "uri": "carrier",
+    "model_count": 1532
+  },
+  {
+    "code": "PT_CAT1034",
+    "name": "Carter-Hoffmann",
+    "uri": "carter-hoffmann",
+    "model_count": 600
+  },
+  {
+    "code": "PT_CAT1036",
+    "name": "Cecilware",
+    "uri": "cecilware",
+    "model_count": 350
+  },
+  {
+    "code": "PT_CAT1037",
+    "name": "Champion",
+    "uri": "champion",
+    "model_count": 245
+  },
+  {
+    "code": "PT_CAT249645",
+    "name": "Chicago Faucet",
+    "uri": "chicago-faucet",
+    "model_count": 3036
+  },
+  {
+    "code": "PT_CAT235533",
+    "name": "Chowbotics",
+    "uri": "chowbotics",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1038",
+    "name": "Cleveland",
+    "uri": "cleveland",
+    "model_count": 515
+  },
+  {
+    "code": "PT_CAT374441",
+    "name": "ClimateMaster",
+    "uri": "climatemaster",
+    "model_count": 197
+  },
+  {
+    "code": "PT_CAT47287",
+    "name": "Cofrimell",
+    "uri": "cofrimell",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT223740",
+    "name": "Coldzone",
+    "uri": "coldzone",
+    "model_count": 188
+  },
+  {
+    "code": "PT_CAT235527",
+    "name": "Comfortmaker",
+    "uri": "comfortmaker",
+    "model_count": 2637
+  },
+  {
+    "code": "PT_CATCOMPONENTHARDWARE",
+    "name": "Component Hardware",
+    "uri": "component-hardware",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT242807",
+    "name": "Concordia Beverage Systems",
+    "uri": "concordia-beverage-systems",
+    "model_count": 8
+  },
+  {
+    "code": "PT_CAT223931",
+    "name": "Connerton",
+    "uri": "connerton",
+    "model_count": 19
+  },
+  {
+    "code": "PT_CAT1040",
+    "name": "Continental Refrigeration",
+    "uri": "continental-refrigeration",
+    "model_count": 1362
+  },
+  {
+    "code": "PT_CAT266200",
+    "name": "Convotherm",
+    "uri": "convotherm",
+    "model_count": 95
+  },
+  {
+    "code": "PT_CAT25499950",
+    "name": "CookRite",
+    "uri": "cookrite",
+    "model_count": 99
+  },
+  {
+    "code": "PT_CATCOOKTEK",
+    "name": "Cooktek",
+    "uri": "cooktek",
+    "model_count": 47
+  },
+  {
+    "code": "PT_CAT222694",
+    "name": "Cooper Atkins",
+    "uri": "cooper-atkins",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1103",
+    "name": "Cornelius",
+    "uri": "cornelius",
+    "model_count": 324
+  },
+  {
+    "code": "PT_CAT243081",
+    "name": "Crathco",
+    "uri": "crathco",
+    "model_count": 150
+  },
+  {
+    "code": "PT_CAT1043",
+    "name": "Cres Cor",
+    "uri": "cres-cor",
+    "model_count": 967
+  },
+  {
+    "code": "PT_CAT243288",
+    "name": "Crown Steam",
+    "uri": "crown-steam",
+    "model_count": 358
+  },
+  {
+    "code": "PT_CAT47408",
+    "name": "Crown Verity",
+    "uri": "crown-verity",
+    "model_count": 56
+  },
+  {
+    "code": "PT_CAT224014",
+    "name": "Cuppone",
+    "uri": "cuppone",
+    "model_count": 36
+  },
+  {
+    "code": "PT_CAT235506",
+    "name": "Dacor",
+    "uri": "dacor",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT1051",
+    "name": "Danby",
+    "uri": "danby",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT235528",
+    "name": "Day & Night",
+    "uri": "day-night",
+    "model_count": 2713
+  },
+  {
+    "code": "PT_CAT1053",
+    "name": "Delfield",
+    "uri": "delfield",
+    "model_count": 3159
+  },
+  {
+    "code": "PT_CAT235507",
+    "name": "Delonghi",
+    "uri": "delonghi",
+    "model_count": 143
+  },
+  {
+    "code": "PT_CAT374128",
+    "name": "Denon",
+    "uri": "denon",
+    "model_count": 10
+  },
+  {
+    "code": "PT_CAT48063",
+    "name": "Desco",
+    "uri": "desco",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT20082",
+    "name": "Desmon USA",
+    "uri": "desmon-usa",
+    "model_count": 13
+  },
+  {
+    "code": "PT_CAT375957",
+    "name": "Detroit Radiant",
+    "uri": "detroit-radiant",
+    "model_count": 463
+  },
+  {
+    "code": "PT_CAT275125",
+    "name": "Dexter",
+    "uri": "dexter",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT1058",
+    "name": "Dispense-Rite",
+    "uri": "dispense-rite",
+    "model_count": 106
+  },
+  {
+    "code": "PT_CAT243218",
+    "name": "Ditting USA",
+    "uri": "ditting-usa",
+    "model_count": 27
+  },
+  {
+    "code": "PT_CAT223901",
+    "name": "Doregrill",
+    "uri": "doregrill",
+    "model_count": 20
+  },
+  {
+    "code": "PT_CAT1057",
+    "name": "Dormont",
+    "uri": "dormont",
+    "model_count": 287
+  },
+  {
+    "code": "PT_CAT1056",
+    "name": "Doughpro Proluxe",
+    "uri": "doughpro-proluxe",
+    "model_count": 289
+  },
+  {
+    "code": "PT_CAT47964",
+    "name": "Douglas Machines",
+    "uri": "douglas-machines",
+    "model_count": 34
+  },
+  {
+    "code": "PT_CAT48068",
+    "name": "Doyon",
+    "uri": "doyon",
+    "model_count": 239
+  },
+  {
+    "code": "PT_CAT375958",
+    "name": "Dristeem",
+    "uri": "dristeem",
+    "model_count": 33
+  },
+  {
+    "code": "PT_CAT1059",
+    "name": "Duke",
+    "uri": "duke",
+    "model_count": 1057
+  },
+  {
+    "code": "PT_CAT1060",
+    "name": "Dynamic Mixer",
+    "uri": "dynamic-mixer",
+    "model_count": 146
+  },
+  {
+    "code": "PT_CAT1061",
+    "name": "Eagle-Metal Masters",
+    "uri": "eagle-metal-masters",
+    "model_count": 55
+  },
+  {
+    "code": "PT_CAT243304",
+    "name": "Edhard",
+    "uri": "edhard",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT1062",
+    "name": "Edlund",
+    "uri": "edlund",
+    "model_count": 21
+  },
+  {
+    "code": "PT_CAT1063",
+    "name": "Electrofreeze",
+    "uri": "electrofreeze",
+    "model_count": 45
+  },
+  {
+    "code": "PT_CAT235562",
+    "name": "Electrolux Home Products Inc",
+    "uri": "electrolux-home-products-inc",
+    "model_count": 51
+  },
+  {
+    "code": "PT_CAT1065",
+    "name": "Electrolux Professional",
+    "uri": "electrolux-professional",
+    "model_count": 3550
+  },
+  {
+    "code": "PT_CAT222222",
+    "name": "Elkay",
+    "uri": "elkay",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT223868",
+    "name": "Elmeco",
+    "uri": "elmeco",
+    "model_count": 10
+  },
+  {
+    "code": "PT_CAT13822",
+    "name": "Eloma",
+    "uri": "eloma",
+    "model_count": 36
+  },
+  {
+    "code": "PT_CAT1066",
+    "name": "EmberGlo",
+    "uri": "emberglo",
+    "model_count": 47
+  },
+  {
+    "code": "PT_CAT223700",
+    "name": "Empire Bakery Equipment",
+    "uri": "empire-bakery-equipment",
+    "model_count": 5
+  },
+  {
+    "code": "PT_CAT374901",
+    "name": "Enviro-Tec",
+    "uri": "enviro-tec",
+    "model_count": 57
+  },
+  {
+    "code": "PT_CAT374130",
+    "name": "Epson",
+    "uri": "epson",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT224116",
+    "name": "Erika Record",
+    "uri": "erika-record",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT235514",
+    "name": "Eureka",
+    "uri": "eureka",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT441902",
+    "name": "Eureka Coffee Grinders",
+    "uri": "eureka-coffee-grinders",
+    "model_count": 78
+  },
+  {
+    "code": "PT_CAT14876",
+    "name": "Eurodib",
+    "uri": "eurodib",
+    "model_count": 53
+  },
+  {
+    "code": "PT_CAT224012",
+    "name": "Everest",
+    "uri": "everest",
+    "model_count": 209
+  },
+  {
+    "code": "PT_CAT1070",
+    "name": "Everpure",
+    "uri": "everpure",
+    "model_count": 109
+  },
+  {
+    "code": "PT_CAT47987",
+    "name": "Evo",
+    "uri": "evo",
+    "model_count": 41
+  },
+  {
+    "code": "PT_CAT243223",
+    "name": "FBD",
+    "uri": "fbd",
+    "model_count": 20
+  },
+  {
+    "code": "PT_CAT15131",
+    "name": "Fagor Commercial",
+    "uri": "fagor-commercial",
+    "model_count": 167
+  },
+  {
+    "code": "PT_CAT1078",
+    "name": "Falcon Fabricators",
+    "uri": "falcon-fabricators",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT1074",
+    "name": "Federal Industries",
+    "uri": "federal-industries",
+    "model_count": 397
+  },
+  {
+    "code": "PT_CAT1073",
+    "name": "Fetco",
+    "uri": "fetco",
+    "model_count": 151
+  },
+  {
+    "code": "PT_CATFILTERCORP",
+    "name": "Filtrox",
+    "uri": "filtrox",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT243216",
+    "name": "Firex",
+    "uri": "firex",
+    "model_count": 52
+  },
+  {
+    "code": "PT_CAT375959",
+    "name": "First Company",
+    "uri": "first-company",
+    "model_count": 8094
+  },
+  {
+    "code": "PT_CAT1076",
+    "name": "Fisher",
+    "uri": "fisher",
+    "model_count": 1239
+  },
+  {
+    "code": "PT_CAT235448",
+    "name": "Flexeserve",
+    "uri": "flexeserve",
+    "model_count": 169
+  },
+  {
+    "code": "PT_CAT224054",
+    "name": "FloAire",
+    "uri": "floaire",
+    "model_count": 733
+  },
+  {
+    "code": "PT_CAT1081",
+    "name": "Follett",
+    "uri": "follett",
+    "model_count": 1284
+  },
+  {
+    "code": "PT_CAT1083",
+    "name": "Food Warming Equipment",
+    "uri": "food-warming-equipment",
+    "model_count": 526
+  },
+  {
+    "code": "PT_CAT219701",
+    "name": "Franke",
+    "uri": "franke",
+    "model_count": 7
+  },
+  {
+    "code": "PT_CAT321127",
+    "name": "Franke Foodservice System",
+    "uri": "franke-foodservice-system",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT222589",
+    "name": "Fri-Jado",
+    "uri": "fri-jado",
+    "model_count": 137
+  },
+  {
+    "code": "PT_CAT223824",
+    "name": "Friedrich",
+    "uri": "friedrich",
+    "model_count": 752
+  },
+  {
+    "code": "PT_CAT1082",
+    "name": "Frigidaire",
+    "uri": "frigidaire",
+    "model_count": 1879
+  },
+  {
+    "code": "PT_CATFRONTLINEINTL",
+    "name": "Frontline International",
+    "uri": "frontline-international",
+    "model_count": 35
+  },
+  {
+    "code": "PT_CATFROSTY",
+    "name": "Frosty Factory",
+    "uri": "frosty-factory",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT1080",
+    "name": "Frymaster",
+    "uri": "frymaster",
+    "model_count": 597
+  },
+  {
+    "code": "PT_CAT223900",
+    "name": "Fujitsu",
+    "uri": "fujitsu",
+    "model_count": 319
+  },
+  {
+    "code": "PT_CAT223707",
+    "name": "Fulton",
+    "uri": "fulton",
+    "model_count": 98
+  },
+  {
+    "code": "PT_CAT288796",
+    "name": "GE Appliance",
+    "uri": "ge-appliance",
+    "model_count": 3920
+  },
+  {
+    "code": "PT_CAT1086",
+    "name": "Garland",
+    "uri": "garland",
+    "model_count": 1604
+  },
+  {
+    "code": "PT_CAT276716",
+    "name": "Gaylord",
+    "uri": "gaylord",
+    "model_count": 75
+  },
+  {
+    "code": "PT_CAT1084",
+    "name": "General",
+    "uri": "general",
+    "model_count": 16
+  },
+  {
+    "code": "PT_CAT1085",
+    "name": "Giles",
+    "uri": "giles",
+    "model_count": 68
+  },
+  {
+    "code": "PT_CAT1087",
+    "name": "Glastender",
+    "uri": "glastender",
+    "model_count": 578
+  },
+  {
+    "code": "PT_CAT1088",
+    "name": "Globe",
+    "uri": "globe",
+    "model_count": 315
+  },
+  {
+    "code": "PT_CAT48069",
+    "name": "Gold Medal Products",
+    "uri": "gold-medal-products",
+    "model_count": 564
+  },
+  {
+    "code": "PT_CAT223825",
+    "name": "Goodman",
+    "uri": "goodman",
+    "model_count": 76
+  },
+  {
+    "code": "PT_CAT375960",
+    "name": "Gree",
+    "uri": "gree",
+    "model_count": 377
+  },
+  {
+    "code": "PT_CATGREENCHECK",
+    "name": "Greenheck",
+    "uri": "greenheck",
+    "model_count": 778
+  },
+  {
+    "code": "PT_CAT1089",
+    "name": "Grindmaster",
+    "uri": "grindmaster",
+    "model_count": 338
+  },
+  {
+    "code": "PT_CAT1090",
+    "name": "Groen",
+    "uri": "groen",
+    "model_count": 479
+  },
+  {
+    "code": "PT_CAT349009",
+    "name": "Gusto",
+    "uri": "gusto",
+    "model_count": 19
+  },
+  {
+    "code": "PT_CAT2779508",
+    "name": "H&K International",
+    "uri": "h-k-international",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT223726",
+    "name": "HABCO",
+    "uri": "habco",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT239340",
+    "name": "HIX Graphics",
+    "uri": "hix-graphics",
+    "model_count": 8
+  },
+  {
+    "code": "PT_CAT235508",
+    "name": "Haier",
+    "uri": "haier",
+    "model_count": 320
+  },
+  {
+    "code": "PT_CAT1093",
+    "name": "Hamilton Beach Commercial",
+    "uri": "hamilton-beach-commercial",
+    "model_count": 2166
+  },
+  {
+    "code": "PT_CAT321892",
+    "name": "Hardt",
+    "uri": "hardt",
+    "model_count": 5
+  },
+  {
+    "code": "PT_CAT1100",
+    "name": "Hatco",
+    "uri": "hatco",
+    "model_count": 1917
+  },
+  {
+    "code": "PT_CAT281872",
+    "name": "Heat Seal",
+    "uri": "heat-seal",
+    "model_count": 58
+  },
+  {
+    "code": "PT_CAT293557",
+    "name": "Heatcraft",
+    "uri": "heatcraft",
+    "model_count": 14439
+  },
+  {
+    "code": "PT_CAT235529",
+    "name": "Heil",
+    "uri": "heil",
+    "model_count": 2675
+  },
+  {
+    "code": "PT_CAT223843",
+    "name": "Helmer",
+    "uri": "helmer",
+    "model_count": 85
+  },
+  {
+    "code": "PT_CAT1095",
+    "name": "Henny Penny",
+    "uri": "henny-penny",
+    "model_count": 416
+  },
+  {
+    "code": "PT_CAT223915",
+    "name": "Hestan Commercial",
+    "uri": "hestan-commercial",
+    "model_count": 267
+  },
+  {
+    "code": "PT_CAT222957",
+    "name": "Hickory",
+    "uri": "hickory",
+    "model_count": 44
+  },
+  {
+    "code": "PT_CATHILLPHOENIX",
+    "name": "Hillphoenix",
+    "uri": "hillphoenix",
+    "model_count": 104
+  },
+  {
+    "code": "PT_CAT1096",
+    "name": "Hobart",
+    "uri": "hobart",
+    "model_count": 1446
+  },
+  {
+    "code": "PT_CAT223852",
+    "name": "Hollymatic",
+    "uri": "hollymatic",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT1097",
+    "name": "Holman",
+    "uri": "holman",
+    "model_count": 173
+  },
+  {
+    "code": "PT_CAT1098",
+    "name": "Hoshizaki",
+    "uri": "hoshizaki",
+    "model_count": 1344
+  },
+  {
+    "code": "PT_CAT224053",
+    "name": "Hot Rocks Oven",
+    "uri": "hot-rocks-oven",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT242318",
+    "name": "Hubbell Heaters",
+    "uri": "hubbell-heaters",
+    "model_count": 264
+  },
+  {
+    "code": "PT_CAT275126",
+    "name": "Huebsch",
+    "uri": "huebsch",
+    "model_count": 16
+  },
+  {
+    "code": "PT_CAT47945",
+    "name": "Hussmann",
+    "uri": "hussmann",
+    "model_count": 827
+  },
+  {
+    "code": "PT_CAT224228",
+    "name": "Hydra Rinse",
+    "uri": "hydra-rinse",
+    "model_count": 10
+  },
+  {
+    "code": "PT_CAT223845",
+    "name": "ITV Ice Makers",
+    "uri": "itv-ice-makers",
+    "model_count": 79
+  },
+  {
+    "code": "PT_CAT1102",
+    "name": "Ice O Matic",
+    "uri": "ice-o-matic",
+    "model_count": 538
+  },
+  {
+    "code": "PT_CAT281875",
+    "name": "Imbera",
+    "uri": "imbera",
+    "model_count": 11
+  },
+  {
+    "code": "PT_CAT1107",
+    "name": "Imperial",
+    "uri": "imperial",
+    "model_count": 140
+  },
+  {
+    "code": "PT_CAT1213",
+    "name": "Imperial Brown",
+    "uri": "imperial-brown",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT235716",
+    "name": "Infratech",
+    "uri": "infratech",
+    "model_count": 26
+  },
+  {
+    "code": "PT_CAT1109",
+    "name": "Insinger",
+    "uri": "insinger",
+    "model_count": 88
+  },
+  {
+    "code": "PT_CAT1108",
+    "name": "Insinkerator",
+    "uri": "insinkerator",
+    "model_count": 140
+  },
+  {
+    "code": "PT_CATINTERMATIC",
+    "name": "Intermatic",
+    "uri": "intermatic",
+    "model_count": 798
+  },
+  {
+    "code": "PT_CAT1106",
+    "name": "Intermetro",
+    "uri": "intermetro",
+    "model_count": 13
+  },
+  {
+    "code": "PT_CAT236213",
+    "name": "International Environmental Corporation",
+    "uri": "international-environmental-corporation",
+    "model_count": 277
+  },
+  {
+    "code": "PT_CAT223943",
+    "name": "Island Oasis",
+    "uri": "island-oasis",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT223828",
+    "name": "Islandaire",
+    "uri": "islandaire",
+    "model_count": 34
+  },
+  {
+    "code": "PT_CAT243170",
+    "name": "JBT",
+    "uri": "jbt",
+    "model_count": 5
+  },
+  {
+    "code": "PT_CAT223919",
+    "name": "Jac Machines",
+    "uri": "jac-machines",
+    "model_count": 50
+  },
+  {
+    "code": "PT_CAT224073",
+    "name": "Jaccard",
+    "uri": "jaccard",
+    "model_count": 12
+  },
+  {
+    "code": "PT_CAT1111",
+    "name": "Jackson",
+    "uri": "jackson",
+    "model_count": 192
+  },
+  {
+    "code": "PT_CAT1112",
+    "name": "Jade",
+    "uri": "jade",
+    "model_count": 97
+  },
+  {
+    "code": "PT_CAT1114",
+    "name": "Jetspray",
+    "uri": "jetspray",
+    "model_count": 24
+  },
+  {
+    "code": "PT_CAT25499945",
+    "name": "Jimco",
+    "uri": "jimco",
+    "model_count": 7
+  },
+  {
+    "code": "PT_CAT224229",
+    "name": "Joe Tap",
+    "uri": "joe-tap",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT1125",
+    "name": "Kairak",
+    "uri": "kairak",
+    "model_count": 47
+  },
+  {
+    "code": "PT_CATKANPAK",
+    "name": "Kanpak",
+    "uri": "kanpak",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1124",
+    "name": "Karma",
+    "uri": "karma",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT2898233",
+    "name": "Kattex",
+    "uri": "kattex",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CAT1119",
+    "name": "Keating",
+    "uri": "keating",
+    "model_count": 34
+  },
+  {
+    "code": "PT_CAT235530",
+    "name": "KeepRite",
+    "uri": "keeprite",
+    "model_count": 2665
+  },
+  {
+    "code": "PT_CAT1120",
+    "name": "Kelvinator",
+    "uri": "kelvinator",
+    "model_count": 213
+  },
+  {
+    "code": "PT_CAT224039",
+    "name": "Kenmore",
+    "uri": "kenmore",
+    "model_count": 417
+  },
+  {
+    "code": "PT_CAT238323",
+    "name": "KineticoPRO",
+    "uri": "kineticopro",
+    "model_count": 104
+  },
+  {
+    "code": "PT_CAT349008",
+    "name": "Kintera",
+    "uri": "kintera",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT1122",
+    "name": "Kloppenberg",
+    "uri": "kloppenberg",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CAT223684",
+    "name": "Klub Tech",
+    "uri": "klub-tech",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CATKOALA",
+    "name": "Koala",
+    "uri": "koala",
+    "model_count": 26
+  },
+  {
+    "code": "PT_CAT1118",
+    "name": "Kold-Draft",
+    "uri": "kold-draft",
+    "model_count": 254
+  },
+  {
+    "code": "PT_CAT1123",
+    "name": "Kolpak",
+    "uri": "kolpak",
+    "model_count": 36
+  },
+  {
+    "code": "PT_CAT14880",
+    "name": "Krampouz-Eurodib",
+    "uri": "krampouz-eurodib",
+    "model_count": 12
+  },
+  {
+    "code": "PT_CAT255153",
+    "name": "Krowne",
+    "uri": "krowne",
+    "model_count": 362
+  },
+  {
+    "code": "PT_CAT1128",
+    "name": "LBC Bakery Equipment",
+    "uri": "lbc-bakery-equipment",
+    "model_count": 170
+  },
+  {
+    "code": "PT_CAT224036",
+    "name": "LG Appliances",
+    "uri": "lg-appliances",
+    "model_count": 969
+  },
+  {
+    "code": "PT_CAT281879",
+    "name": "LVO",
+    "uri": "lvo",
+    "model_count": 16
+  },
+  {
+    "code": "PT_CAT223776",
+    "name": "La Marzocco",
+    "uri": "la-marzocco",
+    "model_count": 40
+  },
+  {
+    "code": "PT_CAT374992",
+    "name": "Laars Heating Systems",
+    "uri": "laars-heating-systems",
+    "model_count": 336
+  },
+  {
+    "code": "PT_CAT14879",
+    "name": "Lamber-Eurodib",
+    "uri": "lamber-eurodib",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT1127",
+    "name": "Lancer",
+    "uri": "lancer",
+    "model_count": 139
+  },
+  {
+    "code": "PT_CAT1131",
+    "name": "Lang",
+    "uri": "lang",
+    "model_count": 692
+  },
+  {
+    "code": "PT_CAT13412",
+    "name": "Le-Jo",
+    "uri": "le-jo",
+    "model_count": 9
+  },
+  {
+    "code": "PT_CAT121211",
+    "name": "Leer",
+    "uri": "leer",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1130",
+    "name": "Lennox",
+    "uri": "lennox",
+    "model_count": 4010
+  },
+  {
+    "code": "PT_CAT223692",
+    "name": "Lightfry",
+    "uri": "lightfry",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT236375",
+    "name": "Lincat",
+    "uri": "lincat",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT1133",
+    "name": "Lincoln",
+    "uri": "lincoln",
+    "model_count": 252
+  },
+  {
+    "code": "PT_CAT15337",
+    "name": "Linkrich",
+    "uri": "linkrich",
+    "model_count": 5
+  },
+  {
+    "code": "PT_CAT223712",
+    "name": "Lochinvar",
+    "uri": "lochinvar",
+    "model_count": 1434
+  },
+  {
+    "code": "PT_CAT47963",
+    "name": "Lockwood",
+    "uri": "lockwood",
+    "model_count": 21
+  },
+  {
+    "code": "PT_CAT223829",
+    "name": "Loren Cook",
+    "uri": "loren-cook",
+    "model_count": 154
+  },
+  {
+    "code": "PT_CATLOWTEMPINDUSTRIES",
+    "name": "Low Temp Industries",
+    "uri": "low-temp-industries",
+    "model_count": 56
+  },
+  {
+    "code": "PT_CAT223830",
+    "name": "Magic Aire",
+    "uri": "magic-aire",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CAT1134",
+    "name": "Magic Chef",
+    "uri": "magic-chef",
+    "model_count": 307
+  },
+  {
+    "code": "PT_CAT236639",
+    "name": "Magic Chef Commercial",
+    "uri": "magic-chef-commercial",
+    "model_count": 40
+  },
+  {
+    "code": "PT_CAT1143",
+    "name": "Magikitchn",
+    "uri": "magikitchn",
+    "model_count": 142
+  },
+  {
+    "code": "PT_CAT375330",
+    "name": "Mahlkonig",
+    "uri": "mahlkonig",
+    "model_count": 10
+  },
+  {
+    "code": "PT_CAT235449",
+    "name": "Mallet",
+    "uri": "mallet",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1135",
+    "name": "Manitowoc Ice",
+    "uri": "manitowoc-ice",
+    "model_count": 1578
+  },
+  {
+    "code": "PT_CAT242792",
+    "name": "Mannhart",
+    "uri": "mannhart",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1137",
+    "name": "Market Forge",
+    "uri": "market-forge",
+    "model_count": 443
+  },
+  {
+    "code": "PT_CATMARSAIRDOORS",
+    "name": "Mars Air Systems",
+    "uri": "mars-air-systems",
+    "model_count": 26
+  },
+  {
+    "code": "PT_CAT47279",
+    "name": "Marsal Pizza Ovens",
+    "uri": "marsal-pizza-ovens",
+    "model_count": 40
+  },
+  {
+    "code": "PT_CAT1149",
+    "name": "Marshall Air",
+    "uri": "marshall-air",
+    "model_count": 92
+  },
+  {
+    "code": "PT_CAT243195",
+    "name": "Mart Cart",
+    "uri": "mart-cart",
+    "model_count": 22
+  },
+  {
+    "code": "PT_CAT223770",
+    "name": "Marvel Refrigeration",
+    "uri": "marvel-refrigeration",
+    "model_count": 111
+  },
+  {
+    "code": "PT_CAT1139",
+    "name": "Master-Bilt",
+    "uri": "master-bilt",
+    "model_count": 468
+  },
+  {
+    "code": "PT_CAT48067",
+    "name": "Maxx Cold",
+    "uri": "maxx-cold",
+    "model_count": 272
+  },
+  {
+    "code": "PT_CAT47988",
+    "name": "Maxx Ice",
+    "uri": "maxx-ice",
+    "model_count": 72
+  },
+  {
+    "code": "PT_CAT1140",
+    "name": "McCall",
+    "uri": "mccall",
+    "model_count": 215
+  },
+  {
+    "code": "PT_CAT47961",
+    "name": "Meiko",
+    "uri": "meiko",
+    "model_count": 59
+  },
+  {
+    "code": "PT_CAT13528",
+    "name": "Meister Cook, LLC",
+    "uri": "meister-cook-llc",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT219703",
+    "name": "Melitta",
+    "uri": "melitta",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT1142",
+    "name": "Merco",
+    "uri": "merco",
+    "model_count": 381
+  },
+  {
+    "code": "PT_CAT12938",
+    "name": "Merrychef",
+    "uri": "merrychef",
+    "model_count": 45
+  },
+  {
+    "code": "PT_CAT283204",
+    "name": "Metro",
+    "uri": "metro",
+    "model_count": 45
+  },
+  {
+    "code": "PT_CAT2779301",
+    "name": "Micro Matic",
+    "uri": "micro-matic",
+    "model_count": 262
+  },
+  {
+    "code": "PT_CAT1141",
+    "name": "Middleby",
+    "uri": "middleby",
+    "model_count": 107
+  },
+  {
+    "code": "PT_CAT223842",
+    "name": "Middleby Water Filtration",
+    "uri": "middleby-water-filtration",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT235519",
+    "name": "Midea",
+    "uri": "midea",
+    "model_count": 122
+  },
+  {
+    "code": "PT_CATMIESPRODUCTSINC",
+    "name": "Mies",
+    "uri": "mies",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CATMINUSFORTY",
+    "name": "Minus Forty",
+    "uri": "minus-forty",
+    "model_count": 47
+  },
+  {
+    "code": "PT_CAT223834",
+    "name": "Mitsubishi",
+    "uri": "mitsubishi",
+    "model_count": 2361
+  },
+  {
+    "code": "PT_CAT374560",
+    "name": "Modine",
+    "uri": "modine",
+    "model_count": 851
+  },
+  {
+    "code": "PT_CAT1146",
+    "name": "Moffat",
+    "uri": "moffat",
+    "model_count": 92
+  },
+  {
+    "code": "PT_CAT236214",
+    "name": "Monaco Foodservice",
+    "uri": "monaco-foodservice",
+    "model_count": 39
+  },
+  {
+    "code": "PT_CAT1147",
+    "name": "Montague",
+    "uri": "montague",
+    "model_count": 801
+  },
+  {
+    "code": "PT_CAT1148",
+    "name": "Moyer Diebel",
+    "uri": "moyer-diebel",
+    "model_count": 73
+  },
+  {
+    "code": "PT_CAT1136",
+    "name": "Multiplex",
+    "uri": "multiplex",
+    "model_count": 451
+  },
+  {
+    "code": "PT_CAT375064",
+    "name": "Munters",
+    "uri": "munters",
+    "model_count": 575
+  },
+  {
+    "code": "PT_CATNKLCASH",
+    "name": "NKL Cash Handling",
+    "uri": "nkl-cash-handling",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT223753",
+    "name": "Natura",
+    "uri": "natura",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT223691",
+    "name": "Navien",
+    "uri": "navien",
+    "model_count": 8
+  },
+  {
+    "code": "PT_CAT1151",
+    "name": "Nemco",
+    "uri": "nemco",
+    "model_count": 828
+  },
+  {
+    "code": "PT_CAT2779507",
+    "name": "Nespresso Professional",
+    "uri": "nespresso-professional",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT1154",
+    "name": "Newco",
+    "uri": "newco",
+    "model_count": 182
+  },
+  {
+    "code": "PT_CAT1150",
+    "name": "Nieco",
+    "uri": "nieco",
+    "model_count": 113
+  },
+  {
+    "code": "PT_CAT224032",
+    "name": "Nilma",
+    "uri": "nilma",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1152",
+    "name": "Norlake",
+    "uri": "norlake",
+    "model_count": 589
+  },
+  {
+    "code": "PT_CAT48065",
+    "name": "Norpole",
+    "uri": "norpole",
+    "model_count": 96
+  },
+  {
+    "code": "PT_CAT239338",
+    "name": "Nortek",
+    "uri": "nortek",
+    "model_count": 3811
+  },
+  {
+    "code": "PT_CAT1153",
+    "name": "Nu-Vu",
+    "uri": "nu-vu",
+    "model_count": 19
+  },
+  {
+    "code": "PT_CAT223076",
+    "name": "Nuova Simonelli USA",
+    "uri": "nuova-simonelli-usa",
+    "model_count": 67
+  },
+  {
+    "code": "PT_CAT223749",
+    "name": "Oasis",
+    "uri": "oasis",
+    "model_count": 184
+  },
+  {
+    "code": "PT_CAT321386",
+    "name": "Oil Solutions Group",
+    "uri": "oil-solutions-group",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT48077",
+    "name": "Ojeda",
+    "uri": "ojeda",
+    "model_count": 62
+  },
+  {
+    "code": "PT_CAT1155",
+    "name": "Oliver",
+    "uri": "oliver",
+    "model_count": 96
+  },
+  {
+    "code": "PT_CAT223780",
+    "name": "Omcan",
+    "uri": "omcan",
+    "model_count": 1028
+  },
+  {
+    "code": "PT_CAT48091",
+    "name": "Omega",
+    "uri": "omega",
+    "model_count": 34
+  },
+  {
+    "code": "PT_CAT206400",
+    "name": "Orved-Eurodib",
+    "uri": "orved-eurodib",
+    "model_count": 11
+  },
+  {
+    "code": "PT_CAT48064",
+    "name": "Ovention",
+    "uri": "ovention",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CAT1156",
+    "name": "Panasonic",
+    "uri": "panasonic",
+    "model_count": 819
+  },
+  {
+    "code": "PT_CAT375916",
+    "name": "Patterson-Kelley",
+    "uri": "patterson-kelley",
+    "model_count": 75
+  },
+  {
+    "code": "PT_CAT25482186",
+    "name": "Peel Mirror System",
+    "uri": "peel-mirror-system",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT47284",
+    "name": "Perfect Fry",
+    "uri": "perfect-fry",
+    "model_count": 23
+  },
+  {
+    "code": "PT_CAT219704",
+    "name": "Perfection",
+    "uri": "perfection",
+    "model_count": 8
+  },
+  {
+    "code": "PT_CAT1158",
+    "name": "Perlick",
+    "uri": "perlick",
+    "model_count": 344
+  },
+  {
+    "code": "PT_CAT242793",
+    "name": "Perlick Residential",
+    "uri": "perlick-residential",
+    "model_count": 116
+  },
+  {
+    "code": "PT_CAT48075",
+    "name": "Picard Ovens",
+    "uri": "picard-ovens",
+    "model_count": 47
+  },
+  {
+    "code": "PT_CAT1162",
+    "name": "Piper Products",
+    "uri": "piper-products",
+    "model_count": 226
+  },
+  {
+    "code": "PT_CAT1163",
+    "name": "Pitco",
+    "uri": "pitco",
+    "model_count": 242
+  },
+  {
+    "code": "PT_CAT243235",
+    "name": "PizzaMaster",
+    "uri": "pizzamaster",
+    "model_count": 85
+  },
+  {
+    "code": "PT_CAT20079",
+    "name": "Power Soak Systems Inc",
+    "uri": "power-soak-systems-inc",
+    "model_count": 127
+  },
+  {
+    "code": "PT_CAT223766",
+    "name": "Powered Aire",
+    "uri": "powered-aire",
+    "model_count": 800
+  },
+  {
+    "code": "PT_CAT236416",
+    "name": "Pratica",
+    "uri": "pratica",
+    "model_count": 8
+  },
+  {
+    "code": "PT_CAT223848",
+    "name": "Precision Mixer",
+    "uri": "precision-mixer",
+    "model_count": 9
+  },
+  {
+    "code": "PT_CAT275127",
+    "name": "Primus Laundry",
+    "uri": "primus-laundry",
+    "model_count": 102
+  },
+  {
+    "code": "PT_CAT1157",
+    "name": "Prince Castle",
+    "uri": "prince-castle",
+    "model_count": 429
+  },
+  {
+    "code": "PT_CAT224223",
+    "name": "PuraShield",
+    "uri": "purashield",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT1164",
+    "name": "Q Infrared Ovens",
+    "uri": "q-infrared-ovens",
+    "model_count": 9
+  },
+  {
+    "code": "PT_CAT2779815",
+    "name": "QBD Modular Systems",
+    "uri": "qbd-modular-systems",
+    "model_count": 104
+  },
+  {
+    "code": "PT_CAT242749",
+    "name": "Quality Espresso",
+    "uri": "quality-espresso",
+    "model_count": 48
+  },
+  {
+    "code": "PT_CATQUALITYINDUSTRIES",
+    "name": "Quality Industries",
+    "uri": "quality-industries",
+    "model_count": 5
+  },
+  {
+    "code": "PT_CATQUIKSERV",
+    "name": "Quikserv",
+    "uri": "quikserv",
+    "model_count": 51
+  },
+  {
+    "code": "PT_CAT224045",
+    "name": "RBI",
+    "uri": "rbi",
+    "model_count": 162
+  },
+  {
+    "code": "PT_CAT1166",
+    "name": "Ram",
+    "uri": "ram",
+    "model_count": 14
+  },
+  {
+    "code": "PT_CAT1165",
+    "name": "Rancilio",
+    "uri": "rancilio",
+    "model_count": 26
+  },
+  {
+    "code": "PT_CAT1169",
+    "name": "Randell",
+    "uri": "randell",
+    "model_count": 603
+  },
+  {
+    "code": "PT_CAT1167",
+    "name": "Rankin Delux",
+    "uri": "rankin-delux",
+    "model_count": 305
+  },
+  {
+    "code": "PT_CAT47965",
+    "name": "Rational",
+    "uri": "rational",
+    "model_count": 70
+  },
+  {
+    "code": "PT_CAT223886",
+    "name": "Raypak",
+    "uri": "raypak",
+    "model_count": 409
+  },
+  {
+    "code": "PT_CAT102904",
+    "name": "Ready Access",
+    "uri": "ready-access",
+    "model_count": 12
+  },
+  {
+    "code": "PT_CAT12141",
+    "name": "Red Goat",
+    "uri": "red-goat",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CAT223786",
+    "name": "Resfab",
+    "uri": "resfab",
+    "model_count": 10
+  },
+  {
+    "code": "PT_CAT223837",
+    "name": "Reznor",
+    "uri": "reznor",
+    "model_count": 660
+  },
+  {
+    "code": "PT_CATRHEEM",
+    "name": "Rheem",
+    "uri": "rheem",
+    "model_count": 5454
+  },
+  {
+    "code": "PT_2779848",
+    "name": "Rinnai",
+    "uri": "rinnai",
+    "model_count": 82
+  },
+  {
+    "code": "PT_CAT224092",
+    "name": "Rinnai Rice Cooker",
+    "uri": "rinnai-rice-cooker",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1170",
+    "name": "Robot Coupe",
+    "uri": "robot-coupe",
+    "model_count": 168
+  },
+  {
+    "code": "PT_CAT1171",
+    "name": "Rondo",
+    "uri": "rondo",
+    "model_count": 13
+  },
+  {
+    "code": "PT_CAT223794",
+    "name": "Rosito Bisani",
+    "uri": "rosito-bisani",
+    "model_count": 2
+  },
+  {
+    "code": "PT_CAT48074",
+    "name": "Rotisol",
+    "uri": "rotisol",
+    "model_count": 115
+  },
+  {
+    "code": "PT_CAT37088",
+    "name": "Royal Range",
+    "uri": "royal-range",
+    "model_count": 366
+  },
+  {
+    "code": "PT_CAT242746",
+    "name": "Royalton",
+    "uri": "royalton",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT223937",
+    "name": "Ruud",
+    "uri": "ruud",
+    "model_count": 786
+  },
+  {
+    "code": "PT_CAT223760",
+    "name": "Saeco",
+    "uri": "saeco",
+    "model_count": 14
+  },
+  {
+    "code": "PT_CAT1173",
+    "name": "Salvajor",
+    "uri": "salvajor",
+    "model_count": 34
+  },
+  {
+    "code": "PT_CAT48093",
+    "name": "Sammic",
+    "uri": "sammic",
+    "model_count": 309
+  },
+  {
+    "code": "PT_CAT223729",
+    "name": "Samsung",
+    "uri": "samsung",
+    "model_count": 195
+  },
+  {
+    "code": "PT_CAT1181",
+    "name": "San Jamar",
+    "uri": "san-jamar",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT243237",
+    "name": "SandenVendo",
+    "uri": "sandenvendo",
+    "model_count": 128
+  },
+  {
+    "code": "PT_CAT1187",
+    "name": "Saniserv",
+    "uri": "saniserv",
+    "model_count": 23
+  },
+  {
+    "code": "PT_CAT375335",
+    "name": "Sanremo Coffee Machines",
+    "uri": "sanremo-coffee-machines",
+    "model_count": 21
+  },
+  {
+    "code": "PT_CAT47985",
+    "name": "Saturn",
+    "uri": "saturn",
+    "model_count": 171
+  },
+  {
+    "code": "PT_CAT1175",
+    "name": "Savory",
+    "uri": "savory",
+    "model_count": 12
+  },
+  {
+    "code": "PT_CAT1180",
+    "name": "Schaerer",
+    "uri": "schaerer",
+    "model_count": 9
+  },
+  {
+    "code": "PT_CAT1176",
+    "name": "Scotsman",
+    "uri": "scotsman",
+    "model_count": 590
+  },
+  {
+    "code": "PT_CAT243246",
+    "name": "Sertek",
+    "uri": "sertek",
+    "model_count": 9
+  },
+  {
+    "code": "PT_CAT1178",
+    "name": "Server",
+    "uri": "server",
+    "model_count": 729
+  },
+  {
+    "code": "PT_CAT375973",
+    "name": "Setra",
+    "uri": "setra",
+    "model_count": 17
+  },
+  {
+    "code": "PT_CAT242791",
+    "name": "Sharp",
+    "uri": "sharp",
+    "model_count": 34
+  },
+  {
+    "code": "PT_CAT1195",
+    "name": "Silver King",
+    "uri": "silver-king",
+    "model_count": 284
+  },
+  {
+    "code": "PT_CAT48076",
+    "name": "Sipromac",
+    "uri": "sipromac",
+    "model_count": 21
+  },
+  {
+    "code": "PT_CAT14877",
+    "name": "Sirman - Eurodib",
+    "uri": "sirman-eurodib",
+    "model_count": 8
+  },
+  {
+    "code": "PT_CAT223888",
+    "name": "Skyfood",
+    "uri": "skyfood",
+    "model_count": 120
+  },
+  {
+    "code": "PT_CAT1182",
+    "name": "Sloan",
+    "uri": "sloan",
+    "model_count": 1138
+  },
+  {
+    "code": "PT_CATSOMAT",
+    "name": "Somat",
+    "uri": "somat",
+    "model_count": 42
+  },
+  {
+    "code": "PT_CAT1184",
+    "name": "Somerset Industries",
+    "uri": "somerset-industries",
+    "model_count": 16
+  },
+  {
+    "code": "PT_CAT374143",
+    "name": "Sony",
+    "uri": "sony",
+    "model_count": 198
+  },
+  {
+    "code": "PT_CAT1185",
+    "name": "Southbend Range",
+    "uri": "southbend-range",
+    "model_count": 2504
+  },
+  {
+    "code": "PT_CAT321258",
+    "name": "Southern Pride",
+    "uri": "southern-pride",
+    "model_count": 70
+  },
+  {
+    "code": "PT_CAT223784",
+    "name": "Southern Store Fixtures",
+    "uri": "southern-store-fixtures",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT243185",
+    "name": "Spaceman USA",
+    "uri": "spaceman-usa",
+    "model_count": 154
+  },
+  {
+    "code": "PT_CAT2898234",
+    "name": "Spectrum",
+    "uri": "spectrum",
+    "model_count": 37
+  },
+  {
+    "code": "PT_CAT275128",
+    "name": "Speed Queen",
+    "uri": "speed-queen",
+    "model_count": 23
+  },
+  {
+    "code": "PT_CAT1189",
+    "name": "Star",
+    "uri": "star",
+    "model_count": 2126
+  },
+  {
+    "code": "PT_CAT243186",
+    "name": "Starline",
+    "uri": "starline",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1188",
+    "name": "Stellar Steam",
+    "uri": "stellar-steam",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT223723",
+    "name": "Stephan",
+    "uri": "stephan",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT375979",
+    "name": "Sterling Hvac",
+    "uri": "sterling-hvac",
+    "model_count": 459
+  },
+  {
+    "code": "PT_CAT1183",
+    "name": "Stero Dishwasher",
+    "uri": "stero-dishwasher",
+    "model_count": 70
+  },
+  {
+    "code": "PT_CAT48072",
+    "name": "Stoelting",
+    "uri": "stoelting",
+    "model_count": 453
+  },
+  {
+    "code": "PT_CAT222045",
+    "name": "Structural Concepts",
+    "uri": "structural-concepts",
+    "model_count": 717
+  },
+  {
+    "code": "PT_CAT1194",
+    "name": "Subzero",
+    "uri": "subzero",
+    "model_count": 290
+  },
+  {
+    "code": "PT_CAT281881",
+    "name": "Sunglo",
+    "uri": "sunglo",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CATSUNKIST",
+    "name": "Sunkist",
+    "uri": "sunkist",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT281882",
+    "name": "Sunpak",
+    "uri": "sunpak",
+    "model_count": 7
+  },
+  {
+    "code": "PT_CAT219705",
+    "name": "Sure Shot-AC Dispensing",
+    "uri": "sure-shot-ac-dispensing",
+    "model_count": 36
+  },
+  {
+    "code": "PT_CAT230492",
+    "name": "Synesso",
+    "uri": "synesso",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CAT1204",
+    "name": "T&S Brass",
+    "uri": "t-s-brass",
+    "model_count": 6129
+  },
+  {
+    "code": "PT_CAT223988",
+    "name": "TPI",
+    "uri": "tpi",
+    "model_count": 235
+  },
+  {
+    "code": "PT_CAT1198",
+    "name": "Taylor Freezers",
+    "uri": "taylor-freezers",
+    "model_count": 135
+  },
+  {
+    "code": "PT_CAT235531",
+    "name": "Tempstar",
+    "uri": "tempstar",
+    "model_count": 2139
+  },
+  {
+    "code": "PT_CAT281871",
+    "name": "Therma-Tek",
+    "uri": "therma-tek",
+    "model_count": 131
+  },
+  {
+    "code": "PT_CAT20083",
+    "name": "ThermalRite",
+    "uri": "thermalrite",
+    "model_count": 42
+  },
+  {
+    "code": "PT_CAT48085",
+    "name": "Thermo-Kool",
+    "uri": "thermo-kool",
+    "model_count": 26
+  },
+  {
+    "code": "PT_CATTHERMODYNE",
+    "name": "Thermodyne",
+    "uri": "thermodyne",
+    "model_count": 13
+  },
+  {
+    "code": "PT_CAT37262",
+    "name": "Thunderbird",
+    "uri": "thunderbird",
+    "model_count": 39
+  },
+  {
+    "code": "PT_CAT375245",
+    "name": "Titus",
+    "uri": "titus",
+    "model_count": 129
+  },
+  {
+    "code": "PT_CATTJERNLUND",
+    "name": "Tjernlund",
+    "uri": "tjernlund",
+    "model_count": 60
+  },
+  {
+    "code": "PT_CAT277236",
+    "name": "Toastmaster",
+    "uri": "toastmaster",
+    "model_count": 134
+  },
+  {
+    "code": "PT_CAT374146",
+    "name": "Toshiba",
+    "uri": "toshiba",
+    "model_count": 36
+  },
+  {
+    "code": "PT_CAT37230",
+    "name": "Town Food Service",
+    "uri": "town-food-service",
+    "model_count": 100
+  },
+  {
+    "code": "PT_CAT1202",
+    "name": "Trane",
+    "uri": "trane",
+    "model_count": 593512
+  },
+  {
+    "code": "PT_CAT1201",
+    "name": "Traulsen",
+    "uri": "traulsen",
+    "model_count": 779
+  },
+  {
+    "code": "PT_CAT14708",
+    "name": "Tri-Star Manufacturing",
+    "uri": "tri-star-manufacturing",
+    "model_count": 82
+  },
+  {
+    "code": "PT_CAT375983",
+    "name": "Triangle Tube",
+    "uri": "triangle-tube",
+    "model_count": 50
+  },
+  {
+    "code": "PT_CAT1203",
+    "name": "True",
+    "uri": "true",
+    "model_count": 2442
+  },
+  {
+    "code": "PT_CAT15132",
+    "name": "Turbo Air",
+    "uri": "turbo-air",
+    "model_count": 1020
+  },
+  {
+    "code": "PT_CAT1199",
+    "name": "TurboChef",
+    "uri": "turbochef",
+    "model_count": 56
+  },
+  {
+    "code": "PT_CAT1205",
+    "name": "Uline",
+    "uri": "uline",
+    "model_count": 228
+  },
+  {
+    "code": "PT_CAT1206",
+    "name": "Ultrafryer",
+    "uri": "ultrafryer",
+    "model_count": 131
+  },
+  {
+    "code": "PT_CAT223928",
+    "name": "Unic",
+    "uri": "unic",
+    "model_count": 33
+  },
+  {
+    "code": "PT_CAT275129",
+    "name": "Unimac",
+    "uri": "unimac",
+    "model_count": 50
+  },
+  {
+    "code": "PT_CAT14878",
+    "name": "United - Eurodib",
+    "uri": "united-eurodib",
+    "model_count": 26
+  },
+  {
+    "code": "PT_CAT1207",
+    "name": "Univex",
+    "uri": "univex",
+    "model_count": 127
+  },
+  {
+    "code": "PT_CAT281730",
+    "name": "Unox",
+    "uri": "unox",
+    "model_count": 23
+  },
+  {
+    "code": "PT_CAT374559",
+    "name": "Utica-Dunkirk",
+    "uri": "utica-dunkirk",
+    "model_count": 243
+  },
+  {
+    "code": "PT_CAT235451",
+    "name": "V AIR",
+    "uri": "v-air",
+    "model_count": 19
+  },
+  {
+    "code": "PT_CAT223703",
+    "name": "VacMaster",
+    "uri": "vacmaster",
+    "model_count": 15
+  },
+  {
+    "code": "PT_CAT1208",
+    "name": "Varimixer",
+    "uri": "varimixer",
+    "model_count": 66
+  },
+  {
+    "code": "PT_CAT374561",
+    "name": "Velocity Boiler Works",
+    "uri": "velocity-boiler-works",
+    "model_count": 121
+  },
+  {
+    "code": "PT_CAT1212",
+    "name": "Victory",
+    "uri": "victory",
+    "model_count": 918
+  },
+  {
+    "code": "PT_CAT47309",
+    "name": "Viking Commercial",
+    "uri": "viking-commercial",
+    "model_count": 274
+  },
+  {
+    "code": "PT_CAT1210",
+    "name": "Vita-Mix",
+    "uri": "vita-mix",
+    "model_count": 95
+  },
+  {
+    "code": "PT_CAT243309",
+    "name": "Vogt Ice",
+    "uri": "vogt-ice",
+    "model_count": 35
+  },
+  {
+    "code": "PT_CAT1211",
+    "name": "Vollrath",
+    "uri": "vollrath",
+    "model_count": 2970
+  },
+  {
+    "code": "PT_CAT1209",
+    "name": "Vulcan Hart",
+    "uri": "vulcan-hart",
+    "model_count": 1689
+  },
+  {
+    "code": "PT_CAT224130",
+    "name": "WMF",
+    "uri": "wmf",
+    "model_count": 48
+  },
+  {
+    "code": "PT_CAT1214",
+    "name": "Waring",
+    "uri": "waring",
+    "model_count": 548
+  },
+  {
+    "code": "PT_CATWASCOMAT",
+    "name": "Wascomat",
+    "uri": "wascomat",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CAT1215",
+    "name": "Waste King",
+    "uri": "waste-king",
+    "model_count": 50
+  },
+  {
+    "code": "PT_CAT375286",
+    "name": "Weil McLain",
+    "uri": "weil-mclain",
+    "model_count": 237
+  },
+  {
+    "code": "PT_CAT1218",
+    "name": "Wells",
+    "uri": "wells",
+    "model_count": 961
+  },
+  {
+    "code": "PT_CAT25499947",
+    "name": "Whalen Company",
+    "uri": "whalen-company",
+    "model_count": 399
+  },
+  {
+    "code": "PT_CAT1220",
+    "name": "Whirlpool",
+    "uri": "whirlpool",
+    "model_count": 791
+  },
+  {
+    "code": "PT_CAT1216",
+    "name": "Wilbur Curtis",
+    "uri": "wilbur-curtis",
+    "model_count": 325
+  },
+  {
+    "code": "PT_CAT375300",
+    "name": "Williams Comfort Products",
+    "uri": "williams-comfort-products",
+    "model_count": 198
+  },
+  {
+    "code": "PT_CAT224222",
+    "name": "Winco",
+    "uri": "winco",
+    "model_count": 52
+  },
+  {
+    "code": "PT_CAT1222",
+    "name": "Winston",
+    "uri": "winston",
+    "model_count": 203
+  },
+  {
+    "code": "PT_CAT13181",
+    "name": "Wisco",
+    "uri": "wisco",
+    "model_count": 85
+  },
+  {
+    "code": "PT_CAT1223",
+    "name": "Wittco",
+    "uri": "wittco",
+    "model_count": 122
+  },
+  {
+    "code": "PT_CAT2779680",
+    "name": "Wood Stone Corp",
+    "uri": "wood-stone-corp",
+    "model_count": 233
+  },
+  {
+    "code": "PT_CAT1217",
+    "name": "World Dryer",
+    "uri": "world-dryer",
+    "model_count": 30
+  },
+  {
+    "code": "PT_CAT242867",
+    "name": "Wunder-Bar",
+    "uri": "wunder-bar",
+    "model_count": 18
+  },
+  {
+    "code": "PT_CAT2779308",
+    "name": "XLT Ovens",
+    "uri": "xlt-ovens",
+    "model_count": 42
+  },
+  {
+    "code": "PT_CAT236212",
+    "name": "Xebeco",
+    "uri": "xebeco",
+    "model_count": 3
+  },
+  {
+    "code": "PT_CAT374126",
+    "name": "Yamaha",
+    "uri": "yamaha",
+    "model_count": 6
+  },
+  {
+    "code": "PT_CATYAMATO",
+    "name": "Yamato",
+    "uri": "yamato",
+    "model_count": 1
+  },
+  {
+    "code": "PT_CATYORK",
+    "name": "York",
+    "uri": "york",
+    "model_count": 621
+  },
+  {
+    "code": "PT_CAT47417",
+    "name": "Zesto",
+    "uri": "zesto",
+    "model_count": 53
+  },
+  {
+    "code": "PT_CAT375950",
+    "name": "Zone First",
+    "uri": "zone-first",
+    "model_count": 1742
+  },
+  {
+    "code": "PT_CAT242309",
+    "name": "Zumex",
+    "uri": "zumex",
+    "model_count": 37
+  },
+  {
+    "code": "PT_CAT242750",
+    "name": "Zummo",
+    "uri": "zummo",
+    "model_count": 4
+  },
+  {
+    "code": "PT_CATZURN",
+    "name": "Zurn",
+    "uri": "zurn",
+    "model_count": 1009
+  },
+  {
+    "code": "PT_CAT281889",
+    "name": "doughXpress",
+    "uri": "doughxpress",
+    "model_count": 40
+  }
+]

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Cleveland",
+    "code": "PT_CAT1038",
+    "uri": "cleveland"
+  },
+  "models": [
+    {
+      "name": "21 CET Series",
+      "url": "/cleveland/21-cet-series/parts",
+      "code": "21-cet-series"
+    },
+    {
+      "name": "21-CET-16",
+      "url": "/cleveland/21-cet-16/parts",
+      "code": "21-cet-16"
+    },
+    {
+      "name": "21CET8",
+      "url": "/cleveland/21cet8/parts",
+      "code": "21cet8"
+    },
+    {
+      "name": "21CGA5",
+      "url": "/cleveland/21cga5/parts",
+      "code": "21cga5"
+    },
+    {
+      "name": "22 CET Series",
+      "url": "/cleveland/22-cet-series/parts",
+      "code": "22-cet-series"
+    },
+    {
+      "name": "22 CGT Series",
+      "url": "/cleveland/22-cgt-series/parts",
+      "code": "22-cgt-series"
+    },
+    {
+      "name": "22CET3.1",
+      "url": "/cleveland/22cet3-1/parts",
+      "code": "22cet3-1"
+    },
+    {
+      "name": "22CET3A",
+      "url": "/cleveland/22cet3a/parts",
+      "code": "22cet3a"
+    },
+    {
+      "name": "22CET6.1",
+      "url": "/cleveland/22cet6-1/parts",
+      "code": "22cet6-1"
+    },
+    {
+      "name": "22CGT3",
+      "url": "/cleveland/22cgt3/parts",
+      "code": "22cgt3"
+    },
+    {
+      "name": "22CGT3.1",
+      "url": "/cleveland/22cgt3-1/parts",
+      "code": "22cgt3-1"
+    },
+    {
+      "name": "22CGT6",
+      "url": "/cleveland/22cgt6/parts",
+      "code": "22cgt6"
+    },
+    {
+      "name": "22CGT6.1",
+      "url": "/cleveland/22cgt6-1/parts",
+      "code": "22cgt6-1"
+    },
+    {
+      "name": "24-CEP-10",
+      "url": "/cleveland/24-cep-10/parts",
+      "code": "24-cep-10"
+    },
+    {
+      "name": "24-CET-1",
+      "url": "/cleveland/24-cet-1/parts",
+      "code": "24-cet-1"
+    },
+    {
+      "name": "24CDM",
+      "url": "/cleveland/24cdm/parts",
+      "code": "24cdm"
+    },
+    {
+      "name": "24CDP10",
+      "url": "/cleveland/24cdp10/parts",
+      "code": "24cdp10"
+    },
+    {
+      "name": "24CEA10",
+      "url": "/cleveland/24cea10/parts",
+      "code": "24cea10"
+    },
+    {
+      "name": "24CEM",
+      "url": "/cleveland/24cem/parts",
+      "code": "24cem"
+    },
+    {
+      "name": "24CEM24",
+      "url": "/cleveland/24cem24/parts",
+      "code": "24cem24"
+    },
+    {
+      "name": "24CGA10",
+      "url": "/cleveland/24cga10/parts",
+      "code": "24cga10"
+    },
+    {
+      "name": "24CGA10.2",
+      "url": "/cleveland/24cga10-2/parts",
+      "code": "24cga10-2"
+    },
+    {
+      "name": "24CGA10.2ES",
+      "url": "/cleveland/24cga10-2es/parts",
+      "code": "24cga10-2es"
+    },
+    {
+      "name": "24CGA6.2S",
+      "url": "/cleveland/24cga6-2s/parts",
+      "code": "24cga6-2s"
+    },
+    {
+      "name": "24CGA6.2SES",
+      "url": "/cleveland/24cga6-2ses/parts",
+      "code": "24cga6-2ses"
+    },
+    {
+      "name": "24CGM",
+      "url": "/cleveland/24cgm/parts",
+      "code": "24cgm"
+    },
+    {
+      "name": "24CGM200",
+      "url": "/cleveland/24cgm200/parts",
+      "code": "24cgm200"
+    },
+    {
+      "name": "24CGM250",
+      "url": "/cleveland/24cgm250/parts",
+      "code": "24cgm250"
+    },
+    {
+      "name": "24CGM300",
+      "url": "/cleveland/24cgm300/parts",
+      "code": "24cgm300"
+    },
+    {
+      "name": "24CGP10",
+      "url": "/cleveland/24cgp10/parts",
+      "code": "24cgp10"
+    },
+    {
+      "name": "24CSM",
+      "url": "/cleveland/24csm/parts",
+      "code": "24csm"
+    },
+    {
+      "name": "2DE",
+      "url": "/cleveland/2de/parts",
+      "code": "2de"
+    },
+    {
+      "name": "2DE24",
+      "url": "/cleveland/2de24/parts",
+      "code": "2de24"
+    },
+    {
+      "name": "2DG",
+      "url": "/cleveland/2dg/parts",
+      "code": "2dg"
+    },
+    {
+      "name": "2DG24",
+      "url": "/cleveland/2dg24/parts",
+      "code": "2dg24"
+    },
+    {
+      "name": "2DLE",
+      "url": "/cleveland/2dle/parts",
+      "code": "2dle"
+    },
+    {
+      "name": "2DLG",
+      "url": "/cleveland/2dlg/parts",
+      "code": "2dlg"
+    },
+    {
+      "name": "2DLLE",
+      "url": "/cleveland/2dlle/parts",
+      "code": "2dlle"
+    },
+    {
+      "name": "2DLLG",
+      "url": "/cleveland/2dllg/parts",
+      "code": "2dllg"
+    },
+    {
+      "name": "2DQTE",
+      "url": "/cleveland/2dqte/parts",
+      "code": "2dqte"
+    },
+    {
+      "name": "2DQTG",
+      "url": "/cleveland/2dqtg/parts",
+      "code": "2dqtg"
+    },
+    {
+      "name": "2DQTLE",
+      "url": "/cleveland/2dqtle/parts",
+      "code": "2dqtle"
+    },
+    {
+      "name": "2DQTLG",
+      "url": "/cleveland/2dqtlg/parts",
+      "code": "2dqtlg"
+    },
+    {
+      "name": "2DQTLLE",
+      "url": "/cleveland/2dqtlle/parts",
+      "code": "2dqtlle"
+    },
+    {
+      "name": "2DQTLLG",
+      "url": "/cleveland/2dqtllg/parts",
+      "code": "2dqtllg"
+    },
+    {
+      "name": "2DQTS",
+      "url": "/cleveland/2dqts/parts",
+      "code": "2dqts"
+    },
+    {
+      "name": "2DQTSC",
+      "url": "/cleveland/2dqtsc/parts",
+      "code": "2dqtsc"
+    },
+    {
+      "name": "2DS",
+      "url": "/cleveland/2ds/parts",
+      "code": "2ds"
+    },
+    {
+      "name": "2DS24",
+      "url": "/cleveland/2ds24/parts",
+      "code": "2ds24"
+    },
+    {
+      "name": "2DSC",
+      "url": "/cleveland/2dsc/parts",
+      "code": "2dsc"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:09:27.281020"
+}

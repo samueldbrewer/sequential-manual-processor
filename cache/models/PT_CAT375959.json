@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "First Company",
+    "code": "PT_CAT375959",
+    "uri": "first-company"
+  },
+  "models": [
+    {
+      "name": "03PHHS0-240-3 RH",
+      "url": "/first-company/03phhs0-240-3-rh/parts",
+      "code": "03phhs0-240-3-rh"
+    },
+    {
+      "name": "03PHHS0-240-4 LH",
+      "url": "/first-company/03phhs0-240-4-lh/parts",
+      "code": "03phhs0-240-4-lh"
+    },
+    {
+      "name": "03PHHS0-277-3 LH",
+      "url": "/first-company/03phhs0-277-3-lh/parts",
+      "code": "03phhs0-277-3-lh"
+    },
+    {
+      "name": "03RHHS0-240-3 RH",
+      "url": "/first-company/03rhhs0-240-3-rh/parts",
+      "code": "03rhhs0-240-3-rh"
+    },
+    {
+      "name": "03RHHS0-240-4 LH",
+      "url": "/first-company/03rhhs0-240-4-lh/parts",
+      "code": "03rhhs0-240-4-lh"
+    },
+    {
+      "name": "03RHHS0-277-3 LH",
+      "url": "/first-company/03rhhs0-277-3-lh/parts",
+      "code": "03rhhs0-277-3-lh"
+    },
+    {
+      "name": "04ACHHS2-240-4 LH",
+      "url": "/first-company/04achhs2-240-4-lh/parts",
+      "code": "04achhs2-240-4-lh"
+    },
+    {
+      "name": "04ARRB-246-04 CONFIGURED UNIT",
+      "url": "/first-company/04arrb-246-04-configured-unit/parts",
+      "code": "04arrb-246-04-configured-unit"
+    },
+    {
+      "name": "04CHHS0-240-3 LH",
+      "url": "/first-company/04chhs0-240-3-lh/parts",
+      "code": "04chhs0-240-3-lh"
+    },
+    {
+      "name": "04CHHS0-240-3 RH",
+      "url": "/first-company/04chhs0-240-3-rh/parts",
+      "code": "04chhs0-240-3-rh"
+    },
+    {
+      "name": "04CHHS0-240-4 LH",
+      "url": "/first-company/04chhs0-240-4-lh/parts",
+      "code": "04chhs0-240-4-lh"
+    },
+    {
+      "name": "04EHHS0-240-3 LH",
+      "url": "/first-company/04ehhs0-240-3-lh/parts",
+      "code": "04ehhs0-240-3-lh"
+    },
+    {
+      "name": "04EHHS0-240-3 RH",
+      "url": "/first-company/04ehhs0-240-3-rh/parts",
+      "code": "04ehhs0-240-3-rh"
+    },
+    {
+      "name": "04EHHS0-277-3 LH",
+      "url": "/first-company/04ehhs0-277-3-lh/parts",
+      "code": "04ehhs0-277-3-lh"
+    },
+    {
+      "name": "04PHHS0-240-3 LH",
+      "url": "/first-company/04phhs0-240-3-lh/parts",
+      "code": "04phhs0-240-3-lh"
+    },
+    {
+      "name": "04PHHS0-240-3 RH",
+      "url": "/first-company/04phhs0-240-3-rh/parts",
+      "code": "04phhs0-240-3-rh"
+    },
+    {
+      "name": "04PHHS0-240-4 LH",
+      "url": "/first-company/04phhs0-240-4-lh/parts",
+      "code": "04phhs0-240-4-lh"
+    },
+    {
+      "name": "04PHHS0-277-3 LH",
+      "url": "/first-company/04phhs0-277-3-lh/parts",
+      "code": "04phhs0-277-3-lh"
+    },
+    {
+      "name": "04RHHS0-240-3 LH",
+      "url": "/first-company/04rhhs0-240-3-lh/parts",
+      "code": "04rhhs0-240-3-lh"
+    },
+    {
+      "name": "04RHHS0-240-3 RH",
+      "url": "/first-company/04rhhs0-240-3-rh/parts",
+      "code": "04rhhs0-240-3-rh"
+    },
+    {
+      "name": "04RHHS0-240-4 LH",
+      "url": "/first-company/04rhhs0-240-4-lh/parts",
+      "code": "04rhhs0-240-4-lh"
+    },
+    {
+      "name": "04RHHS0-277-3 LH",
+      "url": "/first-company/04rhhs0-277-3-lh/parts",
+      "code": "04rhhs0-277-3-lh"
+    },
+    {
+      "name": "06ARRB-246-00 CONFIGURED UNIT",
+      "url": "/first-company/06arrb-246-00-configured-unit/parts",
+      "code": "06arrb-246-00-configured-unit"
+    },
+    {
+      "name": "06CHH0-240-3 LH",
+      "url": "/first-company/06chh0-240-3-lh/parts",
+      "code": "06chh0-240-3-lh"
+    },
+    {
+      "name": "06CHH0-240-3 RH",
+      "url": "/first-company/06chh0-240-3-rh/parts",
+      "code": "06chh0-240-3-rh"
+    },
+    {
+      "name": "06CHHS0-240-3 LH",
+      "url": "/first-company/06chhs0-240-3-lh/parts",
+      "code": "06chhs0-240-3-lh"
+    },
+    {
+      "name": "06CHHS0-240-4 LH",
+      "url": "/first-company/06chhs0-240-4-lh/parts",
+      "code": "06chhs0-240-4-lh"
+    },
+    {
+      "name": "06CHHS0-277-3 LH",
+      "url": "/first-company/06chhs0-277-3-lh/parts",
+      "code": "06chhs0-277-3-lh"
+    },
+    {
+      "name": "06EHH0-240-3 LH",
+      "url": "/first-company/06ehh0-240-3-lh/parts",
+      "code": "06ehh0-240-3-lh"
+    },
+    {
+      "name": "06EHH0-240-3 RH",
+      "url": "/first-company/06ehh0-240-3-rh/parts",
+      "code": "06ehh0-240-3-rh"
+    },
+    {
+      "name": "06EHH0-240-4 LH",
+      "url": "/first-company/06ehh0-240-4-lh/parts",
+      "code": "06ehh0-240-4-lh"
+    },
+    {
+      "name": "06EHH0-277-3 LH",
+      "url": "/first-company/06ehh0-277-3-lh/parts",
+      "code": "06ehh0-277-3-lh"
+    },
+    {
+      "name": "06EHHS0-240-3 LH",
+      "url": "/first-company/06ehhs0-240-3-lh/parts",
+      "code": "06ehhs0-240-3-lh"
+    },
+    {
+      "name": "06EHHS0-240-3 RH",
+      "url": "/first-company/06ehhs0-240-3-rh/parts",
+      "code": "06ehhs0-240-3-rh"
+    },
+    {
+      "name": "06EHHS0-240-4 LH",
+      "url": "/first-company/06ehhs0-240-4-lh/parts",
+      "code": "06ehhs0-240-4-lh"
+    },
+    {
+      "name": "06EHHS0-277-3 LH",
+      "url": "/first-company/06ehhs0-277-3-lh/parts",
+      "code": "06ehhs0-277-3-lh"
+    },
+    {
+      "name": "06PHH0-240-3 LH",
+      "url": "/first-company/06phh0-240-3-lh/parts",
+      "code": "06phh0-240-3-lh"
+    },
+    {
+      "name": "06PHH0-240-3 RH",
+      "url": "/first-company/06phh0-240-3-rh/parts",
+      "code": "06phh0-240-3-rh"
+    },
+    {
+      "name": "06PHH0-240-4 LH",
+      "url": "/first-company/06phh0-240-4-lh/parts",
+      "code": "06phh0-240-4-lh"
+    },
+    {
+      "name": "06PHH0-277-3 LH",
+      "url": "/first-company/06phh0-277-3-lh/parts",
+      "code": "06phh0-277-3-lh"
+    },
+    {
+      "name": "06PHHS0-240-3 LH",
+      "url": "/first-company/06phhs0-240-3-lh/parts",
+      "code": "06phhs0-240-3-lh"
+    },
+    {
+      "name": "06PHHS0-240-3 RH",
+      "url": "/first-company/06phhs0-240-3-rh/parts",
+      "code": "06phhs0-240-3-rh"
+    },
+    {
+      "name": "06RHH0-240-3 LH",
+      "url": "/first-company/06rhh0-240-3-lh/parts",
+      "code": "06rhh0-240-3-lh"
+    },
+    {
+      "name": "06RHH0-240-3 RH",
+      "url": "/first-company/06rhh0-240-3-rh/parts",
+      "code": "06rhh0-240-3-rh"
+    },
+    {
+      "name": "06RHH0-240-4 LH",
+      "url": "/first-company/06rhh0-240-4-lh/parts",
+      "code": "06rhh0-240-4-lh"
+    },
+    {
+      "name": "06RHH0-277-3 LH",
+      "url": "/first-company/06rhh0-277-3-lh/parts",
+      "code": "06rhh0-277-3-lh"
+    },
+    {
+      "name": "06RHHS0-240-3 RH",
+      "url": "/first-company/06rhhs0-240-3-rh/parts",
+      "code": "06rhhs0-240-3-rh"
+    },
+    {
+      "name": "06RHHS0-240-4 LH",
+      "url": "/first-company/06rhhs0-240-4-lh/parts",
+      "code": "06rhhs0-240-4-lh"
+    },
+    {
+      "name": "06RHHS0-277-3 LH",
+      "url": "/first-company/06rhhs0-277-3-lh/parts",
+      "code": "06rhhs0-277-3-lh"
+    },
+    {
+      "name": "08 AMB (3Spd)",
+      "url": "/first-company/08-amb-3spd/parts",
+      "code": "08-amb-3spd"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:33:20.811728"
+}

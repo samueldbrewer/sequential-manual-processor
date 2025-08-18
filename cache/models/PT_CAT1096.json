@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hobart",
+    "code": "PT_CAT1096",
+    "uri": "hobart"
+  },
+  "models": [
+    {
+      "name": "12",
+      "url": "/hobart/12/parts",
+      "code": "12"
+    },
+    {
+      "name": "150-1",
+      "url": "/hobart/150-1/parts",
+      "code": "150-1"
+    },
+    {
+      "name": "1612E",
+      "url": "/hobart/1612e/parts",
+      "code": "1612e"
+    },
+    {
+      "name": "1612P",
+      "url": "/hobart/1612p/parts",
+      "code": "1612p"
+    },
+    {
+      "name": "1712",
+      "url": "/hobart/1712/parts",
+      "code": "1712"
+    },
+    {
+      "name": "1712E",
+      "url": "/hobart/1712e/parts",
+      "code": "1712e"
+    },
+    {
+      "name": "1812",
+      "url": "/hobart/1812/parts",
+      "code": "1812"
+    },
+    {
+      "name": "1812PS",
+      "url": "/hobart/1812ps/parts",
+      "code": "1812ps"
+    },
+    {
+      "name": "1812RS",
+      "url": "/hobart/1812rs/parts",
+      "code": "1812rs"
+    },
+    {
+      "name": "1860",
+      "url": "/hobart/1860/parts",
+      "code": "1860"
+    },
+    {
+      "name": "1870",
+      "url": "/hobart/1870/parts",
+      "code": "1870"
+    },
+    {
+      "name": "1871",
+      "url": "/hobart/1871/parts",
+      "code": "1871"
+    },
+    {
+      "name": "1912",
+      "url": "/hobart/1912/parts",
+      "code": "1912"
+    },
+    {
+      "name": "1HF50C",
+      "url": "/hobart/1hf50c/parts",
+      "code": "1hf50c"
+    },
+    {
+      "name": "1HF50D",
+      "url": "/hobart/1hf50d/parts",
+      "code": "1hf50d"
+    },
+    {
+      "name": "1HF85C",
+      "url": "/hobart/1hf85c/parts",
+      "code": "1hf85c"
+    },
+    {
+      "name": "1HF85CF",
+      "url": "/hobart/1hf85cf/parts",
+      "code": "1hf85cf"
+    },
+    {
+      "name": "1HG35M",
+      "url": "/hobart/1hg35m/parts",
+      "code": "1hg35m"
+    },
+    {
+      "name": "1HG45C",
+      "url": "/hobart/1hg45c/parts",
+      "code": "1hg45c"
+    },
+    {
+      "name": "1HG45D",
+      "url": "/hobart/1hg45d/parts",
+      "code": "1hg45d"
+    },
+    {
+      "name": "1HG45M",
+      "url": "/hobart/1hg45m/parts",
+      "code": "1hg45m"
+    },
+    {
+      "name": "1HG65C",
+      "url": "/hobart/1hg65c/parts",
+      "code": "1hg65c"
+    },
+    {
+      "name": "1HG65D",
+      "url": "/hobart/1hg65d/parts",
+      "code": "1hg65d"
+    },
+    {
+      "name": "1HG65M",
+      "url": "/hobart/1hg65m/parts",
+      "code": "1hg65m"
+    },
+    {
+      "name": "1HG85C",
+      "url": "/hobart/1hg85c/parts",
+      "code": "1hg85c"
+    },
+    {
+      "name": "1HG85D",
+      "url": "/hobart/1hg85d/parts",
+      "code": "1hg85d"
+    },
+    {
+      "name": "1HG85M",
+      "url": "/hobart/1hg85m/parts",
+      "code": "1hg85m"
+    },
+    {
+      "name": "2000 Series",
+      "url": "/hobart/2000-series/parts",
+      "code": "2000-series"
+    },
+    {
+      "name": "22",
+      "url": "/hobart/22/parts",
+      "code": "22"
+    },
+    {
+      "name": "2212",
+      "url": "/hobart/2212/parts",
+      "code": "2212"
+    },
+    {
+      "name": "2612",
+      "url": "/hobart/2612/parts",
+      "code": "2612"
+    },
+    {
+      "name": "2612C",
+      "url": "/hobart/2612c/parts",
+      "code": "2612c"
+    },
+    {
+      "name": "2612GC",
+      "url": "/hobart/2612gc/parts",
+      "code": "2612gc"
+    },
+    {
+      "name": "2612PHS",
+      "url": "/hobart/2612phs/parts",
+      "code": "2612phs"
+    },
+    {
+      "name": "2712",
+      "url": "/hobart/2712/parts",
+      "code": "2712"
+    },
+    {
+      "name": "2712C",
+      "url": "/hobart/2712c/parts",
+      "code": "2712c"
+    },
+    {
+      "name": "2712PHS",
+      "url": "/hobart/2712phs/parts",
+      "code": "2712phs"
+    },
+    {
+      "name": "2812",
+      "url": "/hobart/2812/parts",
+      "code": "2812"
+    },
+    {
+      "name": "2812CE",
+      "url": "/hobart/2812ce/parts",
+      "code": "2812ce"
+    },
+    {
+      "name": "2812PS",
+      "url": "/hobart/2812ps/parts",
+      "code": "2812ps"
+    },
+    {
+      "name": "2912",
+      "url": "/hobart/2912/parts",
+      "code": "2912"
+    },
+    {
+      "name": "2912B",
+      "url": "/hobart/2912b/parts",
+      "code": "2912b"
+    },
+    {
+      "name": "2912C",
+      "url": "/hobart/2912c/parts",
+      "code": "2912c"
+    },
+    {
+      "name": "2912CE",
+      "url": "/hobart/2912ce/parts",
+      "code": "2912ce"
+    },
+    {
+      "name": "2912PS",
+      "url": "/hobart/2912ps/parts",
+      "code": "2912ps"
+    },
+    {
+      "name": "2912SC",
+      "url": "/hobart/2912sc/parts",
+      "code": "2912sc"
+    },
+    {
+      "name": "2919SC",
+      "url": "/hobart/2919sc/parts",
+      "code": "2919sc"
+    },
+    {
+      "name": "2HG45CF",
+      "url": "/hobart/2hg45cf/parts",
+      "code": "2hg45cf"
+    },
+    {
+      "name": "2HG45DF",
+      "url": "/hobart/2hg45df/parts",
+      "code": "2hg45df"
+    },
+    {
+      "name": "2HG45MF",
+      "url": "/hobart/2hg45mf/parts",
+      "code": "2hg45mf"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:59:09.844655"
+}

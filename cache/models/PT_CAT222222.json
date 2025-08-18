@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Elkay",
+    "code": "PT_CAT222222",
+    "uri": "elkay"
+  },
+  "models": [
+    {
+      "name": "DSBCF180K",
+      "url": "/elkay/dsbcf180k/parts",
+      "code": "dsbcf180k"
+    },
+    {
+      "name": "DSFB1UVK",
+      "url": "/elkay/dsfb1uvk/parts",
+      "code": "dsfb1uvk"
+    },
+    {
+      "name": "DSFBF180K",
+      "url": "/elkay/dsfbf180k/parts",
+      "code": "dsfbf180k"
+    },
+    {
+      "name": "DSFCF180UVK",
+      "url": "/elkay/dsfcf180uvk/parts",
+      "code": "dsfcf180uvk"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T18:27:41.979717"
+}

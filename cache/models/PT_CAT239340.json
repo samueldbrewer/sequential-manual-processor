@@ -1,0 +1,51 @@
+{
+  "manufacturer": {
+    "name": "HIX Graphics",
+    "code": "PT_CAT239340",
+    "uri": "hix-graphics"
+  },
+  "models": [
+    {
+      "name": "HT-400",
+      "url": "/hix-graphics/ht-400/parts",
+      "code": "ht-400"
+    },
+    {
+      "name": "HT-600",
+      "url": "/hix-graphics/ht-600/parts",
+      "code": "ht-600"
+    },
+    {
+      "name": "N-680",
+      "url": "/hix-graphics/n-680/parts",
+      "code": "n-680"
+    },
+    {
+      "name": "N-880",
+      "url": "/hix-graphics/n-880/parts",
+      "code": "n-880"
+    },
+    {
+      "name": "S-450",
+      "url": "/hix-graphics/s-450/parts",
+      "code": "s-450"
+    },
+    {
+      "name": "S-650",
+      "url": "/hix-graphics/s-650/parts",
+      "code": "s-650"
+    },
+    {
+      "name": "SwingMan-20",
+      "url": "/hix-graphics/swingman-20/parts",
+      "code": "swingman-20"
+    },
+    {
+      "name": "SwingMan-25",
+      "url": "/hix-graphics/swingman-25/parts",
+      "code": "swingman-25"
+    }
+  ],
+  "total_models": 8,
+  "cached_at": "2025-08-14T18:50:05.902804"
+}

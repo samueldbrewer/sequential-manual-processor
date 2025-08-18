@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Lancer",
+    "code": "PT_CAT1127",
+    "uri": "lancer"
+  },
+  "models": [
+    {
+      "name": "100",
+      "url": "/lancer/100/parts",
+      "code": "100"
+    },
+    {
+      "name": "100L",
+      "url": "/lancer/100l/parts",
+      "code": "100l"
+    },
+    {
+      "name": "100P",
+      "url": "/lancer/100p/parts",
+      "code": "100p"
+    },
+    {
+      "name": "100PC",
+      "url": "/lancer/100pc/parts",
+      "code": "100pc"
+    },
+    {
+      "name": "100SF",
+      "url": "/lancer/100sf/parts",
+      "code": "100sf"
+    },
+    {
+      "name": "100SSL",
+      "url": "/lancer/100ssl/parts",
+      "code": "100ssl"
+    },
+    {
+      "name": "1300",
+      "url": "/lancer/1300/parts",
+      "code": "1300"
+    },
+    {
+      "name": "145L",
+      "url": "/lancer/145l/parts",
+      "code": "145l"
+    },
+    {
+      "name": "145P",
+      "url": "/lancer/145p/parts",
+      "code": "145p"
+    },
+    {
+      "name": "145PC",
+      "url": "/lancer/145pc/parts",
+      "code": "145pc"
+    },
+    {
+      "name": "145SF",
+      "url": "/lancer/145sf/parts",
+      "code": "145sf"
+    },
+    {
+      "name": "145SSL",
+      "url": "/lancer/145ssl/parts",
+      "code": "145ssl"
+    },
+    {
+      "name": "1504",
+      "url": "/lancer/1504/parts",
+      "code": "1504"
+    },
+    {
+      "name": "1505",
+      "url": "/lancer/1505/parts",
+      "code": "1505"
+    },
+    {
+      "name": "1506",
+      "url": "/lancer/1506/parts",
+      "code": "1506"
+    },
+    {
+      "name": "1523",
+      "url": "/lancer/1523/parts",
+      "code": "1523"
+    },
+    {
+      "name": "1523 GALAHAD II",
+      "url": "/lancer/1523-galahad-ii/parts",
+      "code": "1523-galahad-ii"
+    },
+    {
+      "name": "2300",
+      "url": "/lancer/2300/parts",
+      "code": "2300"
+    },
+    {
+      "name": "2306",
+      "url": "/lancer/2306/parts",
+      "code": "2306"
+    },
+    {
+      "name": "2308",
+      "url": "/lancer/2308/parts",
+      "code": "2308"
+    },
+    {
+      "name": "2323 GALAHAD",
+      "url": "/lancer/2323-galahad/parts",
+      "code": "2323-galahad"
+    },
+    {
+      "name": "2323 SABRE",
+      "url": "/lancer/2323-sabre/parts",
+      "code": "2323-sabre"
+    },
+    {
+      "name": "23300",
+      "url": "/lancer/23300/parts",
+      "code": "23300"
+    },
+    {
+      "name": "23308",
+      "url": "/lancer/23308/parts",
+      "code": "23308"
+    },
+    {
+      "name": "2400 SERIES",
+      "url": "/lancer/2400-series/parts",
+      "code": "2400-series"
+    },
+    {
+      "name": "2405",
+      "url": "/lancer/2405/parts",
+      "code": "2405"
+    },
+    {
+      "name": "2406",
+      "url": "/lancer/2406/parts",
+      "code": "2406"
+    },
+    {
+      "name": "2500 REMOTE",
+      "url": "/lancer/2500-remote/parts",
+      "code": "2500-remote"
+    },
+    {
+      "name": "2500 SERIES",
+      "url": "/lancer/2500-series/parts",
+      "code": "2500-series"
+    },
+    {
+      "name": "28-0866",
+      "url": "/lancer/28-0866/parts",
+      "code": "28-0866"
+    },
+    {
+      "name": "306",
+      "url": "/lancer/306/parts",
+      "code": "306"
+    },
+    {
+      "name": "4500 12 Valve",
+      "url": "/lancer/4500-12-valve/parts",
+      "code": "4500-12-valve"
+    },
+    {
+      "name": "4500 Series",
+      "url": "/lancer/4500-series/parts",
+      "code": "4500-series"
+    },
+    {
+      "name": "502",
+      "url": "/lancer/502/parts",
+      "code": "502"
+    },
+    {
+      "name": "503",
+      "url": "/lancer/503/parts",
+      "code": "503"
+    },
+    {
+      "name": "504",
+      "url": "/lancer/504/parts",
+      "code": "504"
+    },
+    {
+      "name": "600",
+      "url": "/lancer/600/parts",
+      "code": "600"
+    },
+    {
+      "name": "605",
+      "url": "/lancer/605/parts",
+      "code": "605"
+    },
+    {
+      "name": "800 CED",
+      "url": "/lancer/800-ced/parts",
+      "code": "800-ced"
+    },
+    {
+      "name": "8000 SERIES",
+      "url": "/lancer/8000-series/parts",
+      "code": "8000-series"
+    },
+    {
+      "name": "82-0109/01",
+      "url": "/lancer/82-0109-01/parts",
+      "code": "82-0109-01"
+    },
+    {
+      "name": "82-1580",
+      "url": "/lancer/82-1580/parts",
+      "code": "82-1580"
+    },
+    {
+      "name": "82-1844",
+      "url": "/lancer/82-1844/parts",
+      "code": "82-1844"
+    },
+    {
+      "name": "82-1845",
+      "url": "/lancer/82-1845/parts",
+      "code": "82-1845"
+    },
+    {
+      "name": "82-2049E",
+      "url": "/lancer/82-2049e/parts",
+      "code": "82-2049e"
+    },
+    {
+      "name": "82-2098E",
+      "url": "/lancer/82-2098e/parts",
+      "code": "82-2098e"
+    },
+    {
+      "name": "82-2103E",
+      "url": "/lancer/82-2103e/parts",
+      "code": "82-2103e"
+    },
+    {
+      "name": "82-2669",
+      "url": "/lancer/82-2669/parts",
+      "code": "82-2669"
+    },
+    {
+      "name": "85-0055",
+      "url": "/lancer/85-0055/parts",
+      "code": "85-0055"
+    },
+    {
+      "name": "85-0056",
+      "url": "/lancer/85-0056/parts",
+      "code": "85-0056"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:18:57.626617"
+}

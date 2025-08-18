@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "American Range",
+    "code": "PT_CAT1009",
+    "uri": "american-range"
+  },
+  "models": [
+    {
+      "name": "ACB-14",
+      "url": "/american-range/acb-14/parts",
+      "code": "acb-14"
+    },
+    {
+      "name": "ACB-4",
+      "url": "/american-range/acb-4/parts",
+      "code": "acb-4"
+    },
+    {
+      "name": "ACB-7",
+      "url": "/american-range/acb-7/parts",
+      "code": "acb-7"
+    },
+    {
+      "name": "ACCG",
+      "url": "/american-range/accg/parts",
+      "code": "accg"
+    },
+    {
+      "name": "ADJ",
+      "url": "/american-range/adj/parts",
+      "code": "adj"
+    },
+    {
+      "name": "ADJF",
+      "url": "/american-range/adjf/parts",
+      "code": "adjf"
+    },
+    {
+      "name": "AECB",
+      "url": "/american-range/aecb/parts",
+      "code": "aecb"
+    },
+    {
+      "name": "AEMG",
+      "url": "/american-range/aemg/parts",
+      "code": "aemg"
+    },
+    {
+      "name": "AEMG-12",
+      "url": "/american-range/aemg-12/parts",
+      "code": "aemg-12"
+    },
+    {
+      "name": "AEMG-24",
+      "url": "/american-range/aemg-24/parts",
+      "code": "aemg-24"
+    },
+    {
+      "name": "AEMG-36",
+      "url": "/american-range/aemg-36/parts",
+      "code": "aemg-36"
+    },
+    {
+      "name": "AEMG-48",
+      "url": "/american-range/aemg-48/parts",
+      "code": "aemg-48"
+    },
+    {
+      "name": "AEMG-60",
+      "url": "/american-range/aemg-60/parts",
+      "code": "aemg-60"
+    },
+    {
+      "name": "AEMG-72",
+      "url": "/american-range/aemg-72/parts",
+      "code": "aemg-72"
+    },
+    {
+      "name": "AERB",
+      "url": "/american-range/aerb/parts",
+      "code": "aerb"
+    },
+    {
+      "name": "AF 35/40",
+      "url": "/american-range/af-35-40/parts",
+      "code": "af-35-40"
+    },
+    {
+      "name": "AF 35/50",
+      "url": "/american-range/af-35-50/parts",
+      "code": "af-35-50"
+    },
+    {
+      "name": "AF-25",
+      "url": "/american-range/af-25/parts",
+      "code": "af-25"
+    },
+    {
+      "name": "AF-2545",
+      "url": "/american-range/af-2545/parts",
+      "code": "af-2545"
+    },
+    {
+      "name": "AF-45",
+      "url": "/american-range/af-45/parts",
+      "code": "af-45"
+    },
+    {
+      "name": "AF-75",
+      "url": "/american-range/af-75/parts",
+      "code": "af-75"
+    },
+    {
+      "name": "AF25/25",
+      "url": "/american-range/af25-25/parts",
+      "code": "af25-25"
+    },
+    {
+      "name": "AFCT-15",
+      "url": "/american-range/afct-15/parts",
+      "code": "afct-15"
+    },
+    {
+      "name": "AFM-35/50",
+      "url": "/american-range/afm-35-50/parts",
+      "code": "afm-35-50"
+    },
+    {
+      "name": "AFM-85",
+      "url": "/american-range/afm-85/parts",
+      "code": "afm-85"
+    },
+    {
+      "name": "AGBU",
+      "url": "/american-range/agbu/parts",
+      "code": "agbu"
+    },
+    {
+      "name": "AHS",
+      "url": "/american-range/ahs/parts",
+      "code": "ahs"
+    },
+    {
+      "name": "AHS-4827",
+      "url": "/american-range/ahs-4827/parts",
+      "code": "ahs-4827"
+    },
+    {
+      "name": "AHS-4836",
+      "url": "/american-range/ahs-4836/parts",
+      "code": "ahs-4836"
+    },
+    {
+      "name": "AHS-6027",
+      "url": "/american-range/ahs-6027/parts",
+      "code": "ahs-6027"
+    },
+    {
+      "name": "AHS-6036",
+      "url": "/american-range/ahs-6036/parts",
+      "code": "ahs-6036"
+    },
+    {
+      "name": "AHSR-48",
+      "url": "/american-range/ahsr-48/parts",
+      "code": "ahsr-48"
+    },
+    {
+      "name": "AHSR-60",
+      "url": "/american-range/ahsr-60/parts",
+      "code": "ahsr-60"
+    },
+    {
+      "name": "AMBG",
+      "url": "/american-range/ambg/parts",
+      "code": "ambg"
+    },
+    {
+      "name": "AMBG-36",
+      "url": "/american-range/ambg-36/parts",
+      "code": "ambg-36"
+    },
+    {
+      "name": "AMBG-42",
+      "url": "/american-range/ambg-42/parts",
+      "code": "ambg-42"
+    },
+    {
+      "name": "AMBG-48",
+      "url": "/american-range/ambg-48/parts",
+      "code": "ambg-48"
+    },
+    {
+      "name": "AMBG-50",
+      "url": "/american-range/ambg-50/parts",
+      "code": "ambg-50"
+    },
+    {
+      "name": "AMBG-60",
+      "url": "/american-range/ambg-60/parts",
+      "code": "ambg-60"
+    },
+    {
+      "name": "AMSQ",
+      "url": "/american-range/amsq/parts",
+      "code": "amsq"
+    },
+    {
+      "name": "AR",
+      "url": "/american-range/ar/parts",
+      "code": "ar"
+    },
+    {
+      "name": "AR-30",
+      "url": "/american-range/ar-30/parts",
+      "code": "ar-30"
+    },
+    {
+      "name": "AR-C",
+      "url": "/american-range/ar-c/parts",
+      "code": "ar-c"
+    },
+    {
+      "name": "AR-GF",
+      "url": "/american-range/ar-gf/parts",
+      "code": "ar-gf"
+    },
+    {
+      "name": "AR-NV",
+      "url": "/american-range/ar-nv/parts",
+      "code": "ar-nv"
+    },
+    {
+      "name": "ARB",
+      "url": "/american-range/arb/parts",
+      "code": "arb"
+    },
+    {
+      "name": "ARCM",
+      "url": "/american-range/arcm/parts",
+      "code": "arcm"
+    },
+    {
+      "name": "ARDS",
+      "url": "/american-range/ards/parts",
+      "code": "ards"
+    },
+    {
+      "name": "ARG",
+      "url": "/american-range/arg/parts",
+      "code": "arg"
+    },
+    {
+      "name": "ARGB",
+      "url": "/american-range/argb/parts",
+      "code": "argb"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:43:35.514669"
+}

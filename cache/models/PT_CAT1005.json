@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Alto Shaam",
+    "code": "PT_CAT1005",
+    "uri": "alto-shaam"
+  },
+  "models": [
+    {
+      "name": "10-10",
+      "url": "/alto-shaam/10-10/parts",
+      "code": "10-10"
+    },
+    {
+      "name": "10-10E Classic",
+      "url": "/alto-shaam/10-10e-classic/parts",
+      "code": "10-10e-classic"
+    },
+    {
+      "name": "10-10E Pro",
+      "url": "/alto-shaam/10-10e-pro/parts",
+      "code": "10-10e-pro"
+    },
+    {
+      "name": "10-10ES",
+      "url": "/alto-shaam/10-10es/parts",
+      "code": "10-10es"
+    },
+    {
+      "name": "10-10ESG",
+      "url": "/alto-shaam/10-10esg/parts",
+      "code": "10-10esg"
+    },
+    {
+      "name": "10-10ESG-Touch",
+      "url": "/alto-shaam/10-10esg-touch/parts",
+      "code": "10-10esg-touch"
+    },
+    {
+      "name": "10-10ESI",
+      "url": "/alto-shaam/10-10esi/parts",
+      "code": "10-10esi"
+    },
+    {
+      "name": "10-10ESIN",
+      "url": "/alto-shaam/10-10esin/parts",
+      "code": "10-10esin"
+    },
+    {
+      "name": "10-10G Classic",
+      "url": "/alto-shaam/10-10g-classic/parts",
+      "code": "10-10g-classic"
+    },
+    {
+      "name": "10-10G Pro",
+      "url": "/alto-shaam/10-10g-pro/parts",
+      "code": "10-10g-pro"
+    },
+    {
+      "name": "10-10IN",
+      "url": "/alto-shaam/10-10in/parts",
+      "code": "10-10in"
+    },
+    {
+      "name": "10-10IN/SK",
+      "url": "/alto-shaam/10-10in-sk/parts",
+      "code": "10-10in-sk"
+    },
+    {
+      "name": "10-10ML-ELECTRIC",
+      "url": "/alto-shaam/10-10ml-electric/parts",
+      "code": "10-10ml-electric"
+    },
+    {
+      "name": "10-18ES",
+      "url": "/alto-shaam/10-18es/parts",
+      "code": "10-18es"
+    },
+    {
+      "name": "10-18ESI",
+      "url": "/alto-shaam/10-18esi/parts",
+      "code": "10-18esi"
+    },
+    {
+      "name": "10-18ML-ELECTRIC",
+      "url": "/alto-shaam/10-18ml-electric/parts",
+      "code": "10-18ml-electric"
+    },
+    {
+      "name": "10-18W",
+      "url": "/alto-shaam/10-18w/parts",
+      "code": "10-18w"
+    },
+    {
+      "name": "10-20E Classic",
+      "url": "/alto-shaam/10-20e-classic/parts",
+      "code": "10-20e-classic"
+    },
+    {
+      "name": "10-20E Pro",
+      "url": "/alto-shaam/10-20e-pro/parts",
+      "code": "10-20e-pro"
+    },
+    {
+      "name": "10-20ESG",
+      "url": "/alto-shaam/10-20esg/parts",
+      "code": "10-20esg"
+    },
+    {
+      "name": "10-20ESG-Touch",
+      "url": "/alto-shaam/10-20esg-touch/parts",
+      "code": "10-20esg-touch"
+    },
+    {
+      "name": "10-20G Classic",
+      "url": "/alto-shaam/10-20g-classic/parts",
+      "code": "10-20g-classic"
+    },
+    {
+      "name": "10-20G Pro",
+      "url": "/alto-shaam/10-20g-pro/parts",
+      "code": "10-20g-pro"
+    },
+    {
+      "name": "10-20ML",
+      "url": "/alto-shaam/10-20ml/parts",
+      "code": "10-20ml"
+    },
+    {
+      "name": "100-CW",
+      "url": "/alto-shaam/100-cw/parts",
+      "code": "100-cw"
+    },
+    {
+      "name": "100-HSL/BCB-2 MARINE",
+      "url": "/alto-shaam/100-hsl-bcb-2-marine/parts",
+      "code": "100-hsl-bcb-2-marine"
+    },
+    {
+      "name": "100-HSL/BCS-2",
+      "url": "/alto-shaam/100-hsl-bcs-2/parts",
+      "code": "100-hsl-bcs-2"
+    },
+    {
+      "name": "100-HSL/BCS-2S",
+      "url": "/alto-shaam/100-hsl-bcs-2s/parts",
+      "code": "100-hsl-bcs-2s"
+    },
+    {
+      "name": "100-HSL/BCS-2S  MARINE",
+      "url": "/alto-shaam/100-hsl-bcs-2s-marine/parts",
+      "code": "100-hsl-bcs-2s-marine"
+    },
+    {
+      "name": "100-HSL/TM",
+      "url": "/alto-shaam/100-hsl-tm/parts",
+      "code": "100-hsl-tm"
+    },
+    {
+      "name": "100-HSL/TMS",
+      "url": "/alto-shaam/100-hsl-tms/parts",
+      "code": "100-hsl-tms"
+    },
+    {
+      "name": "100-HW/D4",
+      "url": "/alto-shaam/100-hw-d4/parts",
+      "code": "100-hw-d4"
+    },
+    {
+      "name": "100-HW/D443",
+      "url": "/alto-shaam/100-hw-d443/parts",
+      "code": "100-hw-d443"
+    },
+    {
+      "name": "100-HW/D6",
+      "url": "/alto-shaam/100-hw-d6/parts",
+      "code": "100-hw-d6"
+    },
+    {
+      "name": "100-HW/D643",
+      "url": "/alto-shaam/100-hw-d643/parts",
+      "code": "100-hw-d643"
+    },
+    {
+      "name": "100-HWLF/D4",
+      "url": "/alto-shaam/100-hwlf-d4/parts",
+      "code": "100-hwlf-d4"
+    },
+    {
+      "name": "100-HWLF/D6",
+      "url": "/alto-shaam/100-hwlf-d6/parts",
+      "code": "100-hwlf-d6"
+    },
+    {
+      "name": "100-PC",
+      "url": "/alto-shaam/100-pc/parts",
+      "code": "100-pc"
+    },
+    {
+      "name": "1000-BQ2/128",
+      "url": "/alto-shaam/1000-bq2-128/parts",
+      "code": "1000-bq2-128"
+    },
+    {
+      "name": "1000-BQ2/192",
+      "url": "/alto-shaam/1000-bq2-192/parts",
+      "code": "1000-bq2-192"
+    },
+    {
+      "name": "1000-BQ2/96",
+      "url": "/alto-shaam/1000-bq2-96/parts",
+      "code": "1000-bq2-96"
+    },
+    {
+      "name": "1000-HCM",
+      "url": "/alto-shaam/1000-hcm/parts",
+      "code": "1000-hcm"
+    },
+    {
+      "name": "1000-HM",
+      "url": "/alto-shaam/1000-hm/parts",
+      "code": "1000-hm"
+    },
+    {
+      "name": "1000-MH2-1",
+      "url": "/alto-shaam/1000-mh2-1/parts",
+      "code": "1000-mh2-1"
+    },
+    {
+      "name": "1000-MR2 (50Hz)",
+      "url": "/alto-shaam/1000-mr2-50hz/parts",
+      "code": "1000-mr2-50hz"
+    },
+    {
+      "name": "1000-MR2 (60Hz)",
+      "url": "/alto-shaam/1000-mr2-60hz/parts",
+      "code": "1000-mr2-60hz"
+    },
+    {
+      "name": "1000-MR2-1",
+      "url": "/alto-shaam/1000-mr2-1/parts",
+      "code": "1000-mr2-1"
+    },
+    {
+      "name": "1000-MR2-2",
+      "url": "/alto-shaam/1000-mr2-2/parts",
+      "code": "1000-mr2-2"
+    },
+    {
+      "name": "1000-S",
+      "url": "/alto-shaam/1000-s/parts",
+      "code": "1000-s"
+    },
+    {
+      "name": "1000-S/HD",
+      "url": "/alto-shaam/1000-s-hd/parts",
+      "code": "1000-s-hd"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:40:18.815643"
+}

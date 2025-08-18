@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Panasonic",
+    "code": "PT_CAT1156",
+    "uri": "panasonic"
+  },
+  "models": [
+    {
+      "name": "AGAC130A",
+      "url": "/panasonic/agac130a/parts",
+      "code": "agac130a"
+    },
+    {
+      "name": "AGAC160",
+      "url": "/panasonic/agac160/parts",
+      "code": "agac160"
+    },
+    {
+      "name": "AGAC160A",
+      "url": "/panasonic/agac160a/parts",
+      "code": "agac160a"
+    },
+    {
+      "name": "AGAC90",
+      "url": "/panasonic/agac90/parts",
+      "code": "agac90"
+    },
+    {
+      "name": "AGHPX250",
+      "url": "/panasonic/aghpx250/parts",
+      "code": "aghpx250"
+    },
+    {
+      "name": "AGHVX200",
+      "url": "/panasonic/aghvx200/parts",
+      "code": "aghvx200"
+    },
+    {
+      "name": "CHDX07263",
+      "url": "/panasonic/chdx07263/parts",
+      "code": "chdx07263"
+    },
+    {
+      "name": "CHDX09053",
+      "url": "/panasonic/chdx09053/parts",
+      "code": "chdx09053"
+    },
+    {
+      "name": "CHDX09663",
+      "url": "/panasonic/chdx09663/parts",
+      "code": "chdx09663"
+    },
+    {
+      "name": "CHDX14053",
+      "url": "/panasonic/chdx14053/parts",
+      "code": "chdx14053"
+    },
+    {
+      "name": "CHDXR07263",
+      "url": "/panasonic/chdxr07263/parts",
+      "code": "chdxr07263"
+    },
+    {
+      "name": "CHDXR09663",
+      "url": "/panasonic/chdxr09663/parts",
+      "code": "chdxr09663"
+    },
+    {
+      "name": "CHDZ07263",
+      "url": "/panasonic/chdz07263/parts",
+      "code": "chdz07263"
+    },
+    {
+      "name": "CHDZ09053",
+      "url": "/panasonic/chdz09053/parts",
+      "code": "chdz09053"
+    },
+    {
+      "name": "CHDZ09663",
+      "url": "/panasonic/chdz09663/parts",
+      "code": "chdz09663"
+    },
+    {
+      "name": "CHDZ14053",
+      "url": "/panasonic/chdz14053/parts",
+      "code": "chdz14053"
+    },
+    {
+      "name": "CHDZR07263",
+      "url": "/panasonic/chdzr07263/parts",
+      "code": "chdzr07263"
+    },
+    {
+      "name": "CHDZR09663",
+      "url": "/panasonic/chdzr09663/parts",
+      "code": "chdzr09663"
+    },
+    {
+      "name": "CHX03652",
+      "url": "/panasonic/chx03652/parts",
+      "code": "chx03652"
+    },
+    {
+      "name": "CHX05252",
+      "url": "/panasonic/chx05252/parts",
+      "code": "chx05252"
+    },
+    {
+      "name": "CHX06052",
+      "url": "/panasonic/chx06052/parts",
+      "code": "chx06052"
+    },
+    {
+      "name": "CHXR03652",
+      "url": "/panasonic/chxr03652/parts",
+      "code": "chxr03652"
+    },
+    {
+      "name": "CHXR05252",
+      "url": "/panasonic/chxr05252/parts",
+      "code": "chxr05252"
+    },
+    {
+      "name": "CQCP137U",
+      "url": "/panasonic/cqcp137u/parts",
+      "code": "cqcp137u"
+    },
+    {
+      "name": "CQEH3561",
+      "url": "/panasonic/cqeh3561/parts",
+      "code": "cqeh3561"
+    },
+    {
+      "name": "CQVW100U",
+      "url": "/panasonic/cqvw100u/parts",
+      "code": "cqvw100u"
+    },
+    {
+      "name": "CQVX100U",
+      "url": "/panasonic/cqvx100u/parts",
+      "code": "cqvx100u"
+    },
+    {
+      "name": "CRCM120U",
+      "url": "/panasonic/crcm120u/parts",
+      "code": "crcm120u"
+    },
+    {
+      "name": "DCBGH1",
+      "url": "/panasonic/dcbgh1/parts",
+      "code": "dcbgh1"
+    },
+    {
+      "name": "DCBS1H",
+      "url": "/panasonic/dcbs1h/parts",
+      "code": "dcbs1h"
+    },
+    {
+      "name": "DCFZ1000M2",
+      "url": "/panasonic/dcfz1000m2/parts",
+      "code": "dcfz1000m2"
+    },
+    {
+      "name": "DCFZ80",
+      "url": "/panasonic/dcfz80/parts",
+      "code": "dcfz80"
+    },
+    {
+      "name": "DCFZ80K",
+      "url": "/panasonic/dcfz80k/parts",
+      "code": "dcfz80k"
+    },
+    {
+      "name": "DCFZ82",
+      "url": "/panasonic/dcfz82/parts",
+      "code": "dcfz82"
+    },
+    {
+      "name": "DCG100KK",
+      "url": "/panasonic/dcg100kk/parts",
+      "code": "dcg100kk"
+    },
+    {
+      "name": "DCG100VK",
+      "url": "/panasonic/dcg100vk/parts",
+      "code": "dcg100vk"
+    },
+    {
+      "name": "DCG9",
+      "url": "/panasonic/dcg9/parts",
+      "code": "dcg9"
+    },
+    {
+      "name": "DCG9K",
+      "url": "/panasonic/dcg9k/parts",
+      "code": "dcg9k"
+    },
+    {
+      "name": "DCG9KBODY",
+      "url": "/panasonic/dcg9kbody/parts",
+      "code": "dcg9kbody"
+    },
+    {
+      "name": "DCG9LK",
+      "url": "/panasonic/dcg9lk/parts",
+      "code": "dcg9lk"
+    },
+    {
+      "name": "DCGH5KBODY",
+      "url": "/panasonic/dcgh5kbody/parts",
+      "code": "dcgh5kbody"
+    },
+    {
+      "name": "DCGH5M2BODY",
+      "url": "/panasonic/dcgh5m2body/parts",
+      "code": "dcgh5m2body"
+    },
+    {
+      "name": "DCGH5S",
+      "url": "/panasonic/dcgh5s/parts",
+      "code": "dcgh5s"
+    },
+    {
+      "name": "DCGH6BODY",
+      "url": "/panasonic/dcgh6body/parts",
+      "code": "dcgh6body"
+    },
+    {
+      "name": "DCGH6LK",
+      "url": "/panasonic/dcgh6lk/parts",
+      "code": "dcgh6lk"
+    },
+    {
+      "name": "DCGX9K",
+      "url": "/panasonic/dcgx9k/parts",
+      "code": "dcgx9k"
+    },
+    {
+      "name": "DCGX9KBODY",
+      "url": "/panasonic/dcgx9kbody/parts",
+      "code": "dcgx9kbody"
+    },
+    {
+      "name": "DCGX9KK",
+      "url": "/panasonic/dcgx9kk/parts",
+      "code": "dcgx9kk"
+    },
+    {
+      "name": "DCGX9KS",
+      "url": "/panasonic/dcgx9ks/parts",
+      "code": "dcgx9ks"
+    },
+    {
+      "name": "DCGX9MK",
+      "url": "/panasonic/dcgx9mk/parts",
+      "code": "dcgx9mk"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:47:52.186928"
+}

@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Desco",
+    "code": "PT_CAT48063",
+    "uri": "desco"
+  },
+  "models": [
+    {
+      "name": "CPG-1/45",
+      "url": "/desco/cpg-1-45/parts",
+      "code": "cpg-1-45"
+    },
+    {
+      "name": "CPG-1/45 PLUS",
+      "url": "/desco/cpg-1-45-plus/parts",
+      "code": "cpg-1-45-plus"
+    },
+    {
+      "name": "CPG-2/90",
+      "url": "/desco/cpg-2-90/parts",
+      "code": "cpg-2-90"
+    },
+    {
+      "name": "CPG-2/90 PLUS",
+      "url": "/desco/cpg-2-90-plus/parts",
+      "code": "cpg-2-90-plus"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T18:21:07.724825"
+}

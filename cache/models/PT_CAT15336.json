@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "Brema",
+    "code": "PT_CAT15336",
+    "uri": "brema"
+  },
+  "models": [
+    {
+      "name": "C150",
+      "url": "/brema/c150/parts",
+      "code": "c150"
+    },
+    {
+      "name": "CB 1265",
+      "url": "/brema/cb-1265/parts",
+      "code": "cb-1265"
+    },
+    {
+      "name": "CB 249",
+      "url": "/brema/cb-249/parts",
+      "code": "cb-249"
+    },
+    {
+      "name": "CB 316",
+      "url": "/brema/cb-316/parts",
+      "code": "cb-316"
+    },
+    {
+      "name": "CB 425",
+      "url": "/brema/cb-425/parts",
+      "code": "cb-425"
+    },
+    {
+      "name": "CB 640",
+      "url": "/brema/cb-640/parts",
+      "code": "cb-640"
+    },
+    {
+      "name": "CB 674",
+      "url": "/brema/cb-674/parts",
+      "code": "cb-674"
+    },
+    {
+      "name": "CB 955",
+      "url": "/brema/cb-955/parts",
+      "code": "cb-955"
+    },
+    {
+      "name": "G500 220",
+      "url": "/brema/g500-220/parts",
+      "code": "g500-220"
+    },
+    {
+      "name": "GB 903",
+      "url": "/brema/gb-903/parts",
+      "code": "gb-903"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-14T17:59:59.327094"
+}

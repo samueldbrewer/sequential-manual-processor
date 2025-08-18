@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Antunes",
+    "code": "PT_CAT1172",
+    "uri": "antunes"
+  },
+  "models": [
+    {
+      "name": "BKT-2V",
+      "url": "/antunes/bkt-2v/parts",
+      "code": "bkt-2v"
+    },
+    {
+      "name": "BWW-GST-2H",
+      "url": "/antunes/bww-gst-2h/parts",
+      "code": "bww-gst-2h"
+    },
+    {
+      "name": "C-420",
+      "url": "/antunes/c-420/parts",
+      "code": "c-420"
+    },
+    {
+      "name": "CC-19",
+      "url": "/antunes/cc-19/parts",
+      "code": "cc-19"
+    },
+    {
+      "name": "CCC-20",
+      "url": "/antunes/ccc-20/parts",
+      "code": "ccc-20"
+    },
+    {
+      "name": "CCC-20T",
+      "url": "/antunes/ccc-20t/parts",
+      "code": "ccc-20t"
+    },
+    {
+      "name": "CM-100",
+      "url": "/antunes/cm-100/parts",
+      "code": "cm-100"
+    },
+    {
+      "name": "CTS-3",
+      "url": "/antunes/cts-3/parts",
+      "code": "cts-3"
+    },
+    {
+      "name": "CTX-200",
+      "url": "/antunes/ctx-200/parts",
+      "code": "ctx-200"
+    },
+    {
+      "name": "CTX-200L",
+      "url": "/antunes/ctx-200l/parts",
+      "code": "ctx-200l"
+    },
+    {
+      "name": "CW-100",
+      "url": "/antunes/cw-100/parts",
+      "code": "cw-100"
+    },
+    {
+      "name": "DAC-10",
+      "url": "/antunes/dac-10/parts",
+      "code": "dac-10"
+    },
+    {
+      "name": "DC-12C",
+      "url": "/antunes/dc-12c/parts",
+      "code": "dc-12c"
+    },
+    {
+      "name": "DC-14",
+      "url": "/antunes/dc-14/parts",
+      "code": "dc-14"
+    },
+    {
+      "name": "DC-14A",
+      "url": "/antunes/dc-14a/parts",
+      "code": "dc-14a"
+    },
+    {
+      "name": "DC-14R",
+      "url": "/antunes/dc-14r/parts",
+      "code": "dc-14r"
+    },
+    {
+      "name": "DC-22",
+      "url": "/antunes/dc-22/parts",
+      "code": "dc-22"
+    },
+    {
+      "name": "DC-27L",
+      "url": "/antunes/dc-27l/parts",
+      "code": "dc-27l"
+    },
+    {
+      "name": "DCH-10",
+      "url": "/antunes/dch-10/parts",
+      "code": "dch-10"
+    },
+    {
+      "name": "DCH-100",
+      "url": "/antunes/dch-100/parts",
+      "code": "dch-100"
+    },
+    {
+      "name": "DCH-12",
+      "url": "/antunes/dch-12/parts",
+      "code": "dch-12"
+    },
+    {
+      "name": "DCH-120",
+      "url": "/antunes/dch-120/parts",
+      "code": "dch-120"
+    },
+    {
+      "name": "DCH-20",
+      "url": "/antunes/dch-20/parts",
+      "code": "dch-20"
+    },
+    {
+      "name": "DCH-200",
+      "url": "/antunes/dch-200/parts",
+      "code": "dch-200"
+    },
+    {
+      "name": "DCH-22",
+      "url": "/antunes/dch-22/parts",
+      "code": "dch-22"
+    },
+    {
+      "name": "DCH-220",
+      "url": "/antunes/dch-220/parts",
+      "code": "dch-220"
+    },
+    {
+      "name": "DCH-220 SQ",
+      "url": "/antunes/dch-220-sq/parts",
+      "code": "dch-220-sq"
+    },
+    {
+      "name": "DCH-30",
+      "url": "/antunes/dch-30/parts",
+      "code": "dch-30"
+    },
+    {
+      "name": "DCH-300",
+      "url": "/antunes/dch-300/parts",
+      "code": "dch-300"
+    },
+    {
+      "name": "DCH-32",
+      "url": "/antunes/dch-32/parts",
+      "code": "dch-32"
+    },
+    {
+      "name": "DCH-320",
+      "url": "/antunes/dch-320/parts",
+      "code": "dch-320"
+    },
+    {
+      "name": "DCH-320 SQ",
+      "url": "/antunes/dch-320-sq/parts",
+      "code": "dch-320-sq"
+    },
+    {
+      "name": "DCH-500",
+      "url": "/antunes/dch-500/parts",
+      "code": "dch-500"
+    },
+    {
+      "name": "DCH-800",
+      "url": "/antunes/dch-800/parts",
+      "code": "dch-800"
+    },
+    {
+      "name": "DCV-200",
+      "url": "/antunes/dcv-200/parts",
+      "code": "dcv-200"
+    },
+    {
+      "name": "DFW-100",
+      "url": "/antunes/dfw-100/parts",
+      "code": "dfw-100"
+    },
+    {
+      "name": "DFW-150",
+      "url": "/antunes/dfw-150/parts",
+      "code": "dfw-150"
+    },
+    {
+      "name": "DFW-150CF",
+      "url": "/antunes/dfw-150cf/parts",
+      "code": "dfw-150cf"
+    },
+    {
+      "name": "DFW-200",
+      "url": "/antunes/dfw-200/parts",
+      "code": "dfw-200"
+    },
+    {
+      "name": "DFW-250",
+      "url": "/antunes/dfw-250/parts",
+      "code": "dfw-250"
+    },
+    {
+      "name": "DFW-250CF",
+      "url": "/antunes/dfw-250cf/parts",
+      "code": "dfw-250cf"
+    },
+    {
+      "name": "DFWF-250",
+      "url": "/antunes/dfwf-250/parts",
+      "code": "dfwf-250"
+    },
+    {
+      "name": "DFWT-100",
+      "url": "/antunes/dfwt-100/parts",
+      "code": "dfwt-100"
+    },
+    {
+      "name": "DFWT-150",
+      "url": "/antunes/dfwt-150/parts",
+      "code": "dfwt-150"
+    },
+    {
+      "name": "DFWT-200",
+      "url": "/antunes/dfwt-200/parts",
+      "code": "dfwt-200"
+    },
+    {
+      "name": "DFWT-250",
+      "url": "/antunes/dfwt-250/parts",
+      "code": "dfwt-250"
+    },
+    {
+      "name": "DST-200",
+      "url": "/antunes/dst-200/parts",
+      "code": "dst-200"
+    },
+    {
+      "name": "ES-1200",
+      "url": "/antunes/es-1200/parts",
+      "code": "es-1200"
+    },
+    {
+      "name": "ES-600",
+      "url": "/antunes/es-600/parts",
+      "code": "es-600"
+    },
+    {
+      "name": "ES-602",
+      "url": "/antunes/es-602/parts",
+      "code": "es-602"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:45:54.233458"
+}

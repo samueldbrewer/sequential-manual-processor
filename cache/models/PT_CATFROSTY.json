@@ -1,0 +1,101 @@
+{
+  "manufacturer": {
+    "name": "Frosty Factory",
+    "code": "PT_CATFROSTY",
+    "uri": "frosty-factory"
+  },
+  "models": [
+    {
+      "name": "113A",
+      "url": "/frosty-factory/113a/parts",
+      "code": "113a"
+    },
+    {
+      "name": "115R",
+      "url": "/frosty-factory/115r/parts",
+      "code": "115r"
+    },
+    {
+      "name": "117A",
+      "url": "/frosty-factory/117a/parts",
+      "code": "117a"
+    },
+    {
+      "name": "127A",
+      "url": "/frosty-factory/127a/parts",
+      "code": "127a"
+    },
+    {
+      "name": "137A",
+      "url": "/frosty-factory/137a/parts",
+      "code": "137a"
+    },
+    {
+      "name": "137W",
+      "url": "/frosty-factory/137w/parts",
+      "code": "137w"
+    },
+    {
+      "name": "215F",
+      "url": "/frosty-factory/215f/parts",
+      "code": "215f"
+    },
+    {
+      "name": "215R",
+      "url": "/frosty-factory/215r/parts",
+      "code": "215r"
+    },
+    {
+      "name": "217A",
+      "url": "/frosty-factory/217a/parts",
+      "code": "217a"
+    },
+    {
+      "name": "217A",
+      "url": "/frosty-factory/217a/parts",
+      "code": "217a"
+    },
+    {
+      "name": "232W",
+      "url": "/frosty-factory/232w/parts",
+      "code": "232w"
+    },
+    {
+      "name": "235R",
+      "url": "/frosty-factory/235r/parts",
+      "code": "235r"
+    },
+    {
+      "name": "237A",
+      "url": "/frosty-factory/237a/parts",
+      "code": "237a"
+    },
+    {
+      "name": "237W",
+      "url": "/frosty-factory/237w/parts",
+      "code": "237w"
+    },
+    {
+      "name": "289A",
+      "url": "/frosty-factory/289a/parts",
+      "code": "289a"
+    },
+    {
+      "name": "289R",
+      "url": "/frosty-factory/289r/parts",
+      "code": "289r"
+    },
+    {
+      "name": "289W",
+      "url": "/frosty-factory/289w/parts",
+      "code": "289w"
+    },
+    {
+      "name": "Remote Condensing Units",
+      "url": "/frosty-factory/remote-condensing-units/parts",
+      "code": "remote-condensing-units"
+    }
+  ],
+  "total_models": 18,
+  "cached_at": "2025-08-14T18:40:05.126945"
+}

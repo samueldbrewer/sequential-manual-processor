@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Magic Chef",
+    "code": "PT_CAT1134",
+    "uri": "magic-chef"
+  },
+  "models": [
+    {
+      "name": "BTWB530ST1",
+      "url": "/magic-chef/btwb530st1/parts",
+      "code": "btwb530st1"
+    },
+    {
+      "name": "HMAR170BE",
+      "url": "/magic-chef/hmar170be/parts",
+      "code": "hmar170be"
+    },
+    {
+      "name": "HMAR170WE",
+      "url": "/magic-chef/hmar170we/parts",
+      "code": "hmar170we"
+    },
+    {
+      "name": "HMAR440BE",
+      "url": "/magic-chef/hmar440be/parts",
+      "code": "hmar440be"
+    },
+    {
+      "name": "HMAR440SE",
+      "url": "/magic-chef/hmar440se/parts",
+      "code": "hmar440se"
+    },
+    {
+      "name": "HMAR440ST",
+      "url": "/magic-chef/hmar440st/parts",
+      "code": "hmar440st"
+    },
+    {
+      "name": "HMAR440WE",
+      "url": "/magic-chef/hmar440we/parts",
+      "code": "hmar440we"
+    },
+    {
+      "name": "HMBC31ST",
+      "url": "/magic-chef/hmbc31st/parts",
+      "code": "hmbc31st"
+    },
+    {
+      "name": "HMBC58ST",
+      "url": "/magic-chef/hmbc58st/parts",
+      "code": "hmbc58st"
+    },
+    {
+      "name": "HMBR265BE1",
+      "url": "/magic-chef/hmbr265be1/parts",
+      "code": "hmbr265be1"
+    },
+    {
+      "name": "HMBR265SE1",
+      "url": "/magic-chef/hmbr265se1/parts",
+      "code": "hmbr265se1"
+    },
+    {
+      "name": "HMBR265WE1",
+      "url": "/magic-chef/hmbr265we1/parts",
+      "code": "hmbr265we1"
+    },
+    {
+      "name": "HMBR350BE",
+      "url": "/magic-chef/hmbr350be/parts",
+      "code": "hmbr350be"
+    },
+    {
+      "name": "HMBR350BE1",
+      "url": "/magic-chef/hmbr350be1/parts",
+      "code": "hmbr350be1"
+    },
+    {
+      "name": "HMBR350SE",
+      "url": "/magic-chef/hmbr350se/parts",
+      "code": "hmbr350se"
+    },
+    {
+      "name": "HMBR350SE1",
+      "url": "/magic-chef/hmbr350se1/parts",
+      "code": "hmbr350se1"
+    },
+    {
+      "name": "HMBR350WE",
+      "url": "/magic-chef/hmbr350we/parts",
+      "code": "hmbr350we"
+    },
+    {
+      "name": "HMBR350WE1",
+      "url": "/magic-chef/hmbr350we1/parts",
+      "code": "hmbr350we1"
+    },
+    {
+      "name": "HMBR440BE",
+      "url": "/magic-chef/hmbr440be/parts",
+      "code": "hmbr440be"
+    },
+    {
+      "name": "HMBR440SE",
+      "url": "/magic-chef/hmbr440se/parts",
+      "code": "hmbr440se"
+    },
+    {
+      "name": "HMCF35W2",
+      "url": "/magic-chef/hmcf35w2/parts",
+      "code": "hmcf35w2"
+    },
+    {
+      "name": "HMCF35W4",
+      "url": "/magic-chef/hmcf35w4/parts",
+      "code": "hmcf35w4"
+    },
+    {
+      "name": "HMCF5W2",
+      "url": "/magic-chef/hmcf5w2/parts",
+      "code": "hmcf5w2"
+    },
+    {
+      "name": "HMCF5W4",
+      "url": "/magic-chef/hmcf5w4/parts",
+      "code": "hmcf5w4"
+    },
+    {
+      "name": "HMCF7B3",
+      "url": "/magic-chef/hmcf7b3/parts",
+      "code": "hmcf7b3"
+    },
+    {
+      "name": "HMCF7W",
+      "url": "/magic-chef/hmcf7w/parts",
+      "code": "hmcf7w"
+    },
+    {
+      "name": "HMCF7W1",
+      "url": "/magic-chef/hmcf7w1/parts",
+      "code": "hmcf7w1"
+    },
+    {
+      "name": "HMCF7W2",
+      "url": "/magic-chef/hmcf7w2/parts",
+      "code": "hmcf7w2"
+    },
+    {
+      "name": "HMCF7W3",
+      "url": "/magic-chef/hmcf7w3/parts",
+      "code": "hmcf7w3"
+    },
+    {
+      "name": "HMCF7W4",
+      "url": "/magic-chef/hmcf7w4/parts",
+      "code": "hmcf7w4"
+    },
+    {
+      "name": "HMCF9W2",
+      "url": "/magic-chef/hmcf9w2/parts",
+      "code": "hmcf9w2"
+    },
+    {
+      "name": "HMCF9W3",
+      "url": "/magic-chef/hmcf9w3/parts",
+      "code": "hmcf9w3"
+    },
+    {
+      "name": "HMCR320BE",
+      "url": "/magic-chef/hmcr320be/parts",
+      "code": "hmcr320be"
+    },
+    {
+      "name": "HMCR320ME",
+      "url": "/magic-chef/hmcr320me/parts",
+      "code": "hmcr320me"
+    },
+    {
+      "name": "HMCR320RE",
+      "url": "/magic-chef/hmcr320re/parts",
+      "code": "hmcr320re"
+    },
+    {
+      "name": "HMCR320WE",
+      "url": "/magic-chef/hmcr320we/parts",
+      "code": "hmcr320we"
+    },
+    {
+      "name": "HMCR440ME",
+      "url": "/magic-chef/hmcr440me/parts",
+      "code": "hmcr440me"
+    },
+    {
+      "name": "HMCR440RE",
+      "url": "/magic-chef/hmcr440re/parts",
+      "code": "hmcr440re"
+    },
+    {
+      "name": "HMCR440WE",
+      "url": "/magic-chef/hmcr440we/parts",
+      "code": "hmcr440we"
+    },
+    {
+      "name": "HMD1110B",
+      "url": "/magic-chef/hmd1110b/parts",
+      "code": "hmd1110b"
+    },
+    {
+      "name": "HMD1110W",
+      "url": "/magic-chef/hmd1110w/parts",
+      "code": "hmd1110w"
+    },
+    {
+      "name": "HMDR1000BE",
+      "url": "/magic-chef/hmdr1000be/parts",
+      "code": "hmdr1000be"
+    },
+    {
+      "name": "HMDR1000ST",
+      "url": "/magic-chef/hmdr1000st/parts",
+      "code": "hmdr1000st"
+    },
+    {
+      "name": "HMDR1000WE",
+      "url": "/magic-chef/hmdr1000we/parts",
+      "code": "hmdr1000we"
+    },
+    {
+      "name": "HMDR1030VE",
+      "url": "/magic-chef/hmdr1030ve/parts",
+      "code": "hmdr1030ve"
+    },
+    {
+      "name": "HMDR1030WE",
+      "url": "/magic-chef/hmdr1030we/parts",
+      "code": "hmdr1030we"
+    },
+    {
+      "name": "HMDR310BE",
+      "url": "/magic-chef/hmdr310be/parts",
+      "code": "hmdr310be"
+    },
+    {
+      "name": "HMDR310SE",
+      "url": "/magic-chef/hmdr310se/parts",
+      "code": "hmdr310se"
+    },
+    {
+      "name": "HMDR310WE",
+      "url": "/magic-chef/hmdr310we/parts",
+      "code": "hmdr310we"
+    },
+    {
+      "name": "HMDR450BE",
+      "url": "/magic-chef/hmdr450be/parts",
+      "code": "hmdr450be"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:23:50.974124"
+}

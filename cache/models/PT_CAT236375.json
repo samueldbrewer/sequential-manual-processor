@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Lincat",
+    "code": "PT_CAT236375",
+    "uri": "lincat"
+  },
+  "models": [
+    {
+      "name": "CIBOPLUS/G",
+      "url": "/lincat/ciboplus-g/parts",
+      "code": "ciboplus-g"
+    },
+    {
+      "name": "CIBOPLUS/P",
+      "url": "/lincat/ciboplus-p/parts",
+      "code": "ciboplus-p"
+    },
+    {
+      "name": "CIBOPLUS/R",
+      "url": "/lincat/ciboplus-r/parts",
+      "code": "ciboplus-r"
+    },
+    {
+      "name": "CiBOPLUS/B",
+      "url": "/lincat/ciboplus-b/parts",
+      "code": "ciboplus-b"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T19:21:47.160781"
+}

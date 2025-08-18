@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Marshall Air",
+    "code": "PT_CAT1149",
+    "uri": "marshall-air"
+  },
+  "models": [
+    {
+      "name": "121224",
+      "url": "/marshall-air/121224/parts",
+      "code": "121224"
+    },
+    {
+      "name": "126B",
+      "url": "/marshall-air/126b/parts",
+      "code": "126b"
+    },
+    {
+      "name": "145486",
+      "url": "/marshall-air/145486/parts",
+      "code": "145486"
+    },
+    {
+      "name": "146651",
+      "url": "/marshall-air/146651/parts",
+      "code": "146651"
+    },
+    {
+      "name": "152398",
+      "url": "/marshall-air/152398/parts",
+      "code": "152398"
+    },
+    {
+      "name": "179100",
+      "url": "/marshall-air/179100/parts",
+      "code": "179100"
+    },
+    {
+      "name": "179750",
+      "url": "/marshall-air/179750/parts",
+      "code": "179750"
+    },
+    {
+      "name": "180150",
+      "url": "/marshall-air/180150/parts",
+      "code": "180150"
+    },
+    {
+      "name": "185175",
+      "url": "/marshall-air/185175/parts",
+      "code": "185175"
+    },
+    {
+      "name": "190800",
+      "url": "/marshall-air/190800/parts",
+      "code": "190800"
+    },
+    {
+      "name": "192250",
+      "url": "/marshall-air/192250/parts",
+      "code": "192250"
+    },
+    {
+      "name": "193350",
+      "url": "/marshall-air/193350/parts",
+      "code": "193350"
+    },
+    {
+      "name": "2424",
+      "url": "/marshall-air/2424/parts",
+      "code": "2424"
+    },
+    {
+      "name": "2424G",
+      "url": "/marshall-air/2424g/parts",
+      "code": "2424g"
+    },
+    {
+      "name": "713BG",
+      "url": "/marshall-air/713bg/parts",
+      "code": "713bg"
+    },
+    {
+      "name": "AP8",
+      "url": "/marshall-air/ap8/parts",
+      "code": "ap8"
+    },
+    {
+      "name": "AP8B",
+      "url": "/marshall-air/ap8b/parts",
+      "code": "ap8b"
+    },
+    {
+      "name": "AP8C",
+      "url": "/marshall-air/ap8c/parts",
+      "code": "ap8c"
+    },
+    {
+      "name": "AP8D",
+      "url": "/marshall-air/ap8d/parts",
+      "code": "ap8d"
+    },
+    {
+      "name": "BW4B",
+      "url": "/marshall-air/bw4b/parts",
+      "code": "bw4b"
+    },
+    {
+      "name": "BW4B-3/DL2",
+      "url": "/marshall-air/bw4b-3-dl2/parts",
+      "code": "bw4b-3-dl2"
+    },
+    {
+      "name": "CB1",
+      "url": "/marshall-air/cb1/parts",
+      "code": "cb1"
+    },
+    {
+      "name": "CB1INTL",
+      "url": "/marshall-air/cb1intl/parts",
+      "code": "cb1intl"
+    },
+    {
+      "name": "CM24",
+      "url": "/marshall-air/cm24/parts",
+      "code": "cm24"
+    },
+    {
+      "name": "CZ3",
+      "url": "/marshall-air/cz3/parts",
+      "code": "cz3"
+    },
+    {
+      "name": "CZ3A",
+      "url": "/marshall-air/cz3a/parts",
+      "code": "cz3a"
+    },
+    {
+      "name": "DH1-1010 SERIES",
+      "url": "/marshall-air/dh1-1010-series/parts",
+      "code": "dh1-1010-series"
+    },
+    {
+      "name": "DH5-3",
+      "url": "/marshall-air/dh5-3/parts",
+      "code": "dh5-3"
+    },
+    {
+      "name": "DH5-6666JCK",
+      "url": "/marshall-air/dh5-6666jck/parts",
+      "code": "dh5-6666jck"
+    },
+    {
+      "name": "DH5-666BJCK",
+      "url": "/marshall-air/dh5-666bjck/parts",
+      "code": "dh5-666bjck"
+    },
+    {
+      "name": "DH5B-4444BBOJ",
+      "url": "/marshall-air/dh5b-4444bboj/parts",
+      "code": "dh5b-4444bboj"
+    },
+    {
+      "name": "DH5D-6ACBWW",
+      "url": "/marshall-air/dh5d-6acbww/parts",
+      "code": "dh5d-6acbww"
+    },
+    {
+      "name": "DH5D2-6BAC",
+      "url": "/marshall-air/dh5d2-6bac/parts",
+      "code": "dh5d2-6bac"
+    },
+    {
+      "name": "DH5E-3",
+      "url": "/marshall-air/dh5e-3/parts",
+      "code": "dh5e-3"
+    },
+    {
+      "name": "DH5E-3B",
+      "url": "/marshall-air/dh5e-3b/parts",
+      "code": "dh5e-3b"
+    },
+    {
+      "name": "DH5F-333ARB",
+      "url": "/marshall-air/dh5f-333arb/parts",
+      "code": "dh5f-333arb"
+    },
+    {
+      "name": "DH5F-333WND",
+      "url": "/marshall-air/dh5f-333wnd/parts",
+      "code": "dh5f-333wnd"
+    },
+    {
+      "name": "DH5G-3333WND",
+      "url": "/marshall-air/dh5g-3333wnd/parts",
+      "code": "dh5g-3333wnd"
+    },
+    {
+      "name": "DH5H-3WND",
+      "url": "/marshall-air/dh5h-3wnd/parts",
+      "code": "dh5h-3wnd"
+    },
+    {
+      "name": "DH5OA-555BDSBOJ",
+      "url": "/marshall-air/dh5oa-555bdsboj/parts",
+      "code": "dh5oa-555bdsboj"
+    },
+    {
+      "name": "DJ1-6JCK",
+      "url": "/marshall-air/dj1-6jck/parts",
+      "code": "dj1-6jck"
+    },
+    {
+      "name": "DK3JCK",
+      "url": "/marshall-air/dk3jck/parts",
+      "code": "dk3jck"
+    },
+    {
+      "name": "F12",
+      "url": "/marshall-air/f12/parts",
+      "code": "f12"
+    },
+    {
+      "name": "F12G",
+      "url": "/marshall-air/f12g/parts",
+      "code": "f12g"
+    },
+    {
+      "name": "FR1515S",
+      "url": "/marshall-air/fr1515s/parts",
+      "code": "fr1515s"
+    },
+    {
+      "name": "FR15B",
+      "url": "/marshall-air/fr15b/parts",
+      "code": "fr15b"
+    },
+    {
+      "name": "FR15BG",
+      "url": "/marshall-air/fr15bg/parts",
+      "code": "fr15bg"
+    },
+    {
+      "name": "FR15BS",
+      "url": "/marshall-air/fr15bs/parts",
+      "code": "fr15bs"
+    },
+    {
+      "name": "FR24BG",
+      "url": "/marshall-air/fr24bg/parts",
+      "code": "fr24bg"
+    },
+    {
+      "name": "FR69B",
+      "url": "/marshall-air/fr69b/parts",
+      "code": "fr69b"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:27:27.896417"
+}

@@ -1,0 +1,126 @@
+{
+  "manufacturer": {
+    "name": "Perlick Residential",
+    "code": "PT_CAT242793",
+    "uri": "perlick-residential"
+  },
+  "models": [
+    {
+      "name": "H50IM",
+      "url": "/perlick-residential/h50im/parts",
+      "code": "h50im"
+    },
+    {
+      "name": "H50IMS-ADL",
+      "url": "/perlick-residential/h50ims-adl/parts",
+      "code": "h50ims-adl"
+    },
+    {
+      "name": "H50IMS-ADR",
+      "url": "/perlick-residential/h50ims-adr/parts",
+      "code": "h50ims-adr"
+    },
+    {
+      "name": "H50IMS-L",
+      "url": "/perlick-residential/h50ims-l/parts",
+      "code": "h50ims-l"
+    },
+    {
+      "name": "H50IMS-R",
+      "url": "/perlick-residential/h50ims-r/parts",
+      "code": "h50ims-r"
+    },
+    {
+      "name": "H50IMW",
+      "url": "/perlick-residential/h50imw/parts",
+      "code": "h50imw"
+    },
+    {
+      "name": "H50IMW-AD",
+      "url": "/perlick-residential/h50imw-ad/parts",
+      "code": "h50imw-ad"
+    },
+    {
+      "name": "HA24BB",
+      "url": "/perlick-residential/ha24bb/parts",
+      "code": "ha24bb"
+    },
+    {
+      "name": "HA24FB",
+      "url": "/perlick-residential/ha24fb/parts",
+      "code": "ha24fb"
+    },
+    {
+      "name": "HA24RB",
+      "url": "/perlick-residential/ha24rb/parts",
+      "code": "ha24rb"
+    },
+    {
+      "name": "HA24WB",
+      "url": "/perlick-residential/ha24wb/parts",
+      "code": "ha24wb"
+    },
+    {
+      "name": "HC24",
+      "url": "/perlick-residential/hc24/parts",
+      "code": "hc24"
+    },
+    {
+      "name": "HC24-18",
+      "url": "/perlick-residential/hc24-18/parts",
+      "code": "hc24-18"
+    },
+    {
+      "name": "HC24FS",
+      "url": "/perlick-residential/hc24fs/parts",
+      "code": "hc24fs"
+    },
+    {
+      "name": "HC24RB",
+      "url": "/perlick-residential/hc24rb/parts",
+      "code": "hc24rb"
+    },
+    {
+      "name": "HC24RS",
+      "url": "/perlick-residential/hc24rs/parts",
+      "code": "hc24rs"
+    },
+    {
+      "name": "HC24WS",
+      "url": "/perlick-residential/hc24ws/parts",
+      "code": "hc24ws"
+    },
+    {
+      "name": "HH24",
+      "url": "/perlick-residential/hh24/parts",
+      "code": "hh24"
+    },
+    {
+      "name": "HP15",
+      "url": "/perlick-residential/hp15/parts",
+      "code": "hp15"
+    },
+    {
+      "name": "HP24",
+      "url": "/perlick-residential/hp24/parts",
+      "code": "hp24"
+    },
+    {
+      "name": "HP24ZS",
+      "url": "/perlick-residential/hp24zs/parts",
+      "code": "hp24zs"
+    },
+    {
+      "name": "HP48",
+      "url": "/perlick-residential/hp48/parts",
+      "code": "hp48"
+    },
+    {
+      "name": "HP72",
+      "url": "/perlick-residential/hp72/parts",
+      "code": "hp72"
+    }
+  ],
+  "total_models": 23,
+  "cached_at": "2025-08-14T19:49:13.184607"
+}

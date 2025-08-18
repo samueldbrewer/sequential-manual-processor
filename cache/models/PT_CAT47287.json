@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Cofrimell",
+    "code": "PT_CAT47287",
+    "uri": "cofrimell"
+  },
+  "models": [
+    {
+      "name": "CD2J",
+      "url": "/cofrimell/cd2j/parts",
+      "code": "cd2j"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T18:09:51.452962"
+}

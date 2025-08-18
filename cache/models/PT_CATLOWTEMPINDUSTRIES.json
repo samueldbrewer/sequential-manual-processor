@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Low Temp Industries",
+    "code": "PT_CATLOWTEMPINDUSTRIES",
+    "uri": "low-temp-industries"
+  },
+  "models": [
+    {
+      "name": "5E2-CPA",
+      "url": "/low-temp-industries/5e2-cpa/parts",
+      "code": "5e2-cpa"
+    },
+    {
+      "name": "5E6-CPA",
+      "url": "/low-temp-industries/5e6-cpa/parts",
+      "code": "5e6-cpa"
+    },
+    {
+      "name": "BFD Series",
+      "url": "/low-temp-industries/bfd-series/parts",
+      "code": "bfd-series"
+    },
+    {
+      "name": "BT Series",
+      "url": "/low-temp-industries/bt-series/parts",
+      "code": "bt-series"
+    },
+    {
+      "name": "CB Series",
+      "url": "/low-temp-industries/cb-series/parts",
+      "code": "cb-series"
+    },
+    {
+      "name": "CD Series",
+      "url": "/low-temp-industries/cd-series/parts",
+      "code": "cd-series"
+    },
+    {
+      "name": "CDS Series",
+      "url": "/low-temp-industries/cds-series/parts",
+      "code": "cds-series"
+    },
+    {
+      "name": "CFI Series",
+      "url": "/low-temp-industries/cfi-series/parts",
+      "code": "cfi-series"
+    },
+    {
+      "name": "CFM Series",
+      "url": "/low-temp-industries/cfm-series/parts",
+      "code": "cfm-series"
+    },
+    {
+      "name": "CFT Series",
+      "url": "/low-temp-industries/cft-series/parts",
+      "code": "cft-series"
+    },
+    {
+      "name": "CH2M Series",
+      "url": "/low-temp-industries/ch2m-series/parts",
+      "code": "ch2m-series"
+    },
+    {
+      "name": "CPM Series",
+      "url": "/low-temp-industries/cpm-series/parts",
+      "code": "cpm-series"
+    },
+    {
+      "name": "CPM-1300 Series",
+      "url": "/low-temp-industries/cpm-1300-series/parts",
+      "code": "cpm-1300-series"
+    },
+    {
+      "name": "CPM-HP-12",
+      "url": "/low-temp-industries/cpm-hp-12/parts",
+      "code": "cpm-hp-12"
+    },
+    {
+      "name": "CPS Series",
+      "url": "/low-temp-industries/cps-series/parts",
+      "code": "cps-series"
+    },
+    {
+      "name": "CPT",
+      "url": "/low-temp-industries/cpt/parts",
+      "code": "cpt"
+    },
+    {
+      "name": "CPT-R Series",
+      "url": "/low-temp-industries/cpt-r-series/parts",
+      "code": "cpt-r-series"
+    },
+    {
+      "name": "CPT-RA Series",
+      "url": "/low-temp-industries/cpt-ra-series/parts",
+      "code": "cpt-ra-series"
+    },
+    {
+      "name": "CSE Series",
+      "url": "/low-temp-industries/cse-series/parts",
+      "code": "cse-series"
+    },
+    {
+      "name": "CSS Series",
+      "url": "/low-temp-industries/css-series/parts",
+      "code": "css-series"
+    },
+    {
+      "name": "CT Series",
+      "url": "/low-temp-industries/ct-series/parts",
+      "code": "ct-series"
+    },
+    {
+      "name": "CTAD Series",
+      "url": "/low-temp-industries/ctad-series/parts",
+      "code": "ctad-series"
+    },
+    {
+      "name": "CTAL Series",
+      "url": "/low-temp-industries/ctal-series/parts",
+      "code": "ctal-series"
+    },
+    {
+      "name": "DI-222-IC",
+      "url": "/low-temp-industries/di-222-ic/parts",
+      "code": "di-222-ic"
+    },
+    {
+      "name": "DI-MX Series",
+      "url": "/low-temp-industries/di-mx-series/parts",
+      "code": "di-mx-series"
+    },
+    {
+      "name": "DI-QSGT Series",
+      "url": "/low-temp-industries/di-qsgt-series/parts",
+      "code": "di-qsgt-series"
+    },
+    {
+      "name": "DI-TA Series",
+      "url": "/low-temp-industries/di-ta-series/parts",
+      "code": "di-ta-series"
+    },
+    {
+      "name": "DI-TW Series",
+      "url": "/low-temp-industries/di-tw-series/parts",
+      "code": "di-tw-series"
+    },
+    {
+      "name": "FD Series",
+      "url": "/low-temp-industries/fd-series/parts",
+      "code": "fd-series"
+    },
+    {
+      "name": "GHF Series",
+      "url": "/low-temp-industries/ghf-series/parts",
+      "code": "ghf-series"
+    },
+    {
+      "name": "GHT Series",
+      "url": "/low-temp-industries/ght-series/parts",
+      "code": "ght-series"
+    },
+    {
+      "name": "HIC-50",
+      "url": "/low-temp-industries/hic-50/parts",
+      "code": "hic-50"
+    },
+    {
+      "name": "HP-1G",
+      "url": "/low-temp-industries/hp-1g/parts",
+      "code": "hp-1g"
+    },
+    {
+      "name": "HP-1S",
+      "url": "/low-temp-industries/hp-1s/parts",
+      "code": "hp-1s"
+    },
+    {
+      "name": "PD Series",
+      "url": "/low-temp-industries/pd-series/parts",
+      "code": "pd-series"
+    },
+    {
+      "name": "PW Series",
+      "url": "/low-temp-industries/pw-series/parts",
+      "code": "pw-series"
+    },
+    {
+      "name": "QSP-X Series",
+      "url": "/low-temp-industries/qsp-x-series/parts",
+      "code": "qsp-x-series"
+    },
+    {
+      "name": "RTE Series",
+      "url": "/low-temp-industries/rte-series/parts",
+      "code": "rte-series"
+    },
+    {
+      "name": "RTS Series",
+      "url": "/low-temp-industries/rts-series/parts",
+      "code": "rts-series"
+    },
+    {
+      "name": "SPC-FT Series",
+      "url": "/low-temp-industries/spc-ft-series/parts",
+      "code": "spc-ft-series"
+    },
+    {
+      "name": "SPC-MX Series",
+      "url": "/low-temp-industries/spc-mx-series/parts",
+      "code": "spc-mx-series"
+    },
+    {
+      "name": "SPC-TA Series",
+      "url": "/low-temp-industries/spc-ta-series/parts",
+      "code": "spc-ta-series"
+    },
+    {
+      "name": "SPC/SIM TW Series",
+      "url": "/low-temp-industries/spc-sim-tw-series/parts",
+      "code": "spc-sim-tw-series"
+    },
+    {
+      "name": "SPC/SIM-QSGT",
+      "url": "/low-temp-industries/spc-sim-qsgt/parts",
+      "code": "spc-sim-qsgt"
+    },
+    {
+      "name": "SPC/SIM-QSP Series",
+      "url": "/low-temp-industries/spc-sim-qsp-series/parts",
+      "code": "spc-sim-qsp-series"
+    },
+    {
+      "name": "ST Series",
+      "url": "/low-temp-industries/st-series/parts",
+      "code": "st-series"
+    },
+    {
+      "name": "ST-R",
+      "url": "/low-temp-industries/st-r/parts",
+      "code": "st-r"
+    },
+    {
+      "name": "ST-R Series",
+      "url": "/low-temp-industries/st-r-series/parts",
+      "code": "st-r-series"
+    },
+    {
+      "name": "TD Series",
+      "url": "/low-temp-industries/td-series/parts",
+      "code": "td-series"
+    },
+    {
+      "name": "TW Series",
+      "url": "/low-temp-industries/tw-series/parts",
+      "code": "tw-series"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:23:16.039960"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "QBD Modular Systems",
+    "code": "PT_CAT2779815",
+    "uri": "qbd-modular-systems"
+  },
+  "models": [
+    {
+      "name": "CD10 Generic",
+      "url": "/qbd-modular-systems/cd10-generic/parts",
+      "code": "cd10-generic"
+    },
+    {
+      "name": "CD10-58 Generic",
+      "url": "/qbd-modular-systems/cd10-58-generic/parts",
+      "code": "cd10-58-generic"
+    },
+    {
+      "name": "CD10-58-HC",
+      "url": "/qbd-modular-systems/cd10-58-hc/parts",
+      "code": "cd10-58-hc"
+    },
+    {
+      "name": "CD10-58-HC Generic",
+      "url": "/qbd-modular-systems/cd10-58-hc-generic/parts",
+      "code": "cd10-58-hc-generic"
+    },
+    {
+      "name": "CD10-HC",
+      "url": "/qbd-modular-systems/cd10-hc/parts",
+      "code": "cd10-hc"
+    },
+    {
+      "name": "CD10-HC Generic",
+      "url": "/qbd-modular-systems/cd10-hc-generic/parts",
+      "code": "cd10-hc-generic"
+    },
+    {
+      "name": "CD10-HC SUB ZERO",
+      "url": "/qbd-modular-systems/cd10-hc-sub-zero/parts",
+      "code": "cd10-hc-sub-zero"
+    },
+    {
+      "name": "CD12 Generic",
+      "url": "/qbd-modular-systems/cd12-generic/parts",
+      "code": "cd12-generic"
+    },
+    {
+      "name": "CD12-HC",
+      "url": "/qbd-modular-systems/cd12-hc/parts",
+      "code": "cd12-hc"
+    },
+    {
+      "name": "CD12-HC Generic",
+      "url": "/qbd-modular-systems/cd12-hc-generic/parts",
+      "code": "cd12-hc-generic"
+    },
+    {
+      "name": "CD12-HC SUB ZERO",
+      "url": "/qbd-modular-systems/cd12-hc-sub-zero/parts",
+      "code": "cd12-hc-sub-zero"
+    },
+    {
+      "name": "CD14 Generic",
+      "url": "/qbd-modular-systems/cd14-generic/parts",
+      "code": "cd14-generic"
+    },
+    {
+      "name": "CD14-HC",
+      "url": "/qbd-modular-systems/cd14-hc/parts",
+      "code": "cd14-hc"
+    },
+    {
+      "name": "CD14-HC Generic",
+      "url": "/qbd-modular-systems/cd14-hc-generic/parts",
+      "code": "cd14-hc-generic"
+    },
+    {
+      "name": "CD14-HC SUB ZERO",
+      "url": "/qbd-modular-systems/cd14-hc-sub-zero/parts",
+      "code": "cd14-hc-sub-zero"
+    },
+    {
+      "name": "CD1456 Generic",
+      "url": "/qbd-modular-systems/cd1456-generic/parts",
+      "code": "cd1456-generic"
+    },
+    {
+      "name": "CD1456-HC",
+      "url": "/qbd-modular-systems/cd1456-hc/parts",
+      "code": "cd1456-hc"
+    },
+    {
+      "name": "CD20-HC",
+      "url": "/qbd-modular-systems/cd20-hc/parts",
+      "code": "cd20-hc"
+    },
+    {
+      "name": "CD20-HC Generic",
+      "url": "/qbd-modular-systems/cd20-hc-generic/parts",
+      "code": "cd20-hc-generic"
+    },
+    {
+      "name": "CD20-HC Pepsi",
+      "url": "/qbd-modular-systems/cd20-hc-pepsi/parts",
+      "code": "cd20-hc-pepsi"
+    },
+    {
+      "name": "CD26 Generic",
+      "url": "/qbd-modular-systems/cd26-generic/parts",
+      "code": "cd26-generic"
+    },
+    {
+      "name": "CD26-HC",
+      "url": "/qbd-modular-systems/cd26-hc/parts",
+      "code": "cd26-hc"
+    },
+    {
+      "name": "CD26-HC Generic",
+      "url": "/qbd-modular-systems/cd26-hc-generic/parts",
+      "code": "cd26-hc-generic"
+    },
+    {
+      "name": "CD26-HC SUB ZERO",
+      "url": "/qbd-modular-systems/cd26-hc-sub-zero/parts",
+      "code": "cd26-hc-sub-zero"
+    },
+    {
+      "name": "CD3055-HC",
+      "url": "/qbd-modular-systems/cd3055-hc/parts",
+      "code": "cd3055-hc"
+    },
+    {
+      "name": "CD3354 CPT-HC",
+      "url": "/qbd-modular-systems/cd3354-cpt-hc/parts",
+      "code": "cd3354-cpt-hc"
+    },
+    {
+      "name": "CD3360 CPT-HC",
+      "url": "/qbd-modular-systems/cd3360-cpt-hc/parts",
+      "code": "cd3360-cpt-hc"
+    },
+    {
+      "name": "CD34 Generic",
+      "url": "/qbd-modular-systems/cd34-generic/parts",
+      "code": "cd34-generic"
+    },
+    {
+      "name": "CD34-HC",
+      "url": "/qbd-modular-systems/cd34-hc/parts",
+      "code": "cd34-hc"
+    },
+    {
+      "name": "CD34-HC Generic",
+      "url": "/qbd-modular-systems/cd34-hc-generic/parts",
+      "code": "cd34-hc-generic"
+    },
+    {
+      "name": "CD35 Generic",
+      "url": "/qbd-modular-systems/cd35-generic/parts",
+      "code": "cd35-generic"
+    },
+    {
+      "name": "CD38 Generic",
+      "url": "/qbd-modular-systems/cd38-generic/parts",
+      "code": "cd38-generic"
+    },
+    {
+      "name": "CD38-HC",
+      "url": "/qbd-modular-systems/cd38-hc/parts",
+      "code": "cd38-hc"
+    },
+    {
+      "name": "CD38-HC Generic",
+      "url": "/qbd-modular-systems/cd38-hc-generic/parts",
+      "code": "cd38-hc-generic"
+    },
+    {
+      "name": "CD39 Generic",
+      "url": "/qbd-modular-systems/cd39-generic/parts",
+      "code": "cd39-generic"
+    },
+    {
+      "name": "CD40 Generic",
+      "url": "/qbd-modular-systems/cd40-generic/parts",
+      "code": "cd40-generic"
+    },
+    {
+      "name": "CD40-HC",
+      "url": "/qbd-modular-systems/cd40-hc/parts",
+      "code": "cd40-hc"
+    },
+    {
+      "name": "CD40-HC Generic",
+      "url": "/qbd-modular-systems/cd40-hc-generic/parts",
+      "code": "cd40-hc-generic"
+    },
+    {
+      "name": "CD41 Generic",
+      "url": "/qbd-modular-systems/cd41-generic/parts",
+      "code": "cd41-generic"
+    },
+    {
+      "name": "CD4148Generic",
+      "url": "/qbd-modular-systems/cd4148generic/parts",
+      "code": "cd4148generic"
+    },
+    {
+      "name": "CD4148SL-HC",
+      "url": "/qbd-modular-systems/cd4148sl-hc/parts",
+      "code": "cd4148sl-hc"
+    },
+    {
+      "name": "CD4154 Generic",
+      "url": "/qbd-modular-systems/cd4154-generic/parts",
+      "code": "cd4154-generic"
+    },
+    {
+      "name": "CD4154-HC",
+      "url": "/qbd-modular-systems/cd4154-hc/parts",
+      "code": "cd4154-hc"
+    },
+    {
+      "name": "CD4154-HC Generic",
+      "url": "/qbd-modular-systems/cd4154-hc-generic/parts",
+      "code": "cd4154-hc-generic"
+    },
+    {
+      "name": "CD4156 Generic",
+      "url": "/qbd-modular-systems/cd4156-generic/parts",
+      "code": "cd4156-generic"
+    },
+    {
+      "name": "CD4160 Generic",
+      "url": "/qbd-modular-systems/cd4160-generic/parts",
+      "code": "cd4160-generic"
+    },
+    {
+      "name": "CD4160-HC",
+      "url": "/qbd-modular-systems/cd4160-hc/parts",
+      "code": "cd4160-hc"
+    },
+    {
+      "name": "CD4160-HC Generic",
+      "url": "/qbd-modular-systems/cd4160-hc-generic/parts",
+      "code": "cd4160-hc-generic"
+    },
+    {
+      "name": "CD45 Generic",
+      "url": "/qbd-modular-systems/cd45-generic/parts",
+      "code": "cd45-generic"
+    },
+    {
+      "name": "CD45-HC",
+      "url": "/qbd-modular-systems/cd45-hc/parts",
+      "code": "cd45-hc"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:53:48.858572"
+}

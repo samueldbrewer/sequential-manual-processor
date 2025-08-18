@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Edlund",
+    "code": "PT_CAT1062",
+    "uri": "edlund"
+  },
+  "models": [
+    {
+      "name": "1",
+      "url": "/edlund/1/parts",
+      "code": "1"
+    },
+    {
+      "name": "1S",
+      "url": "/edlund/1s/parts",
+      "code": "1s"
+    },
+    {
+      "name": "1WB",
+      "url": "/edlund/1wb/parts",
+      "code": "1wb"
+    },
+    {
+      "name": "2",
+      "url": "/edlund/2/parts",
+      "code": "2"
+    },
+    {
+      "name": "201",
+      "url": "/edlund/201/parts",
+      "code": "201"
+    },
+    {
+      "name": "203",
+      "url": "/edlund/203/parts",
+      "code": "203"
+    },
+    {
+      "name": "206",
+      "url": "/edlund/206/parts",
+      "code": "206"
+    },
+    {
+      "name": "266",
+      "url": "/edlund/266/parts",
+      "code": "266"
+    },
+    {
+      "name": "270",
+      "url": "/edlund/270/parts",
+      "code": "270"
+    },
+    {
+      "name": "2S",
+      "url": "/edlund/2s/parts",
+      "code": "2s"
+    },
+    {
+      "name": "2WB",
+      "url": "/edlund/2wb/parts",
+      "code": "2wb"
+    },
+    {
+      "name": "350",
+      "url": "/edlund/350/parts",
+      "code": "350"
+    },
+    {
+      "name": "350XL",
+      "url": "/edlund/350xl/parts",
+      "code": "350xl"
+    },
+    {
+      "name": "395",
+      "url": "/edlund/395/parts",
+      "code": "395"
+    },
+    {
+      "name": "610",
+      "url": "/edlund/610/parts",
+      "code": "610"
+    },
+    {
+      "name": "610M",
+      "url": "/edlund/610m/parts",
+      "code": "610m"
+    },
+    {
+      "name": "625",
+      "url": "/edlund/625/parts",
+      "code": "625"
+    },
+    {
+      "name": "625A",
+      "url": "/edlund/625a/parts",
+      "code": "625a"
+    },
+    {
+      "name": "625M",
+      "url": "/edlund/625m/parts",
+      "code": "625m"
+    },
+    {
+      "name": "625T",
+      "url": "/edlund/625t/parts",
+      "code": "625t"
+    },
+    {
+      "name": "625TM",
+      "url": "/edlund/625tm/parts",
+      "code": "625tm"
+    },
+    {
+      "name": "700",
+      "url": "/edlund/700/parts",
+      "code": "700"
+    },
+    {
+      "name": "700SS",
+      "url": "/edlund/700ss/parts",
+      "code": "700ss"
+    },
+    {
+      "name": "700T",
+      "url": "/edlund/700t/parts",
+      "code": "700t"
+    },
+    {
+      "name": "8",
+      "url": "/edlund/8/parts",
+      "code": "8"
+    },
+    {
+      "name": "ARC",
+      "url": "/edlund/arc/parts",
+      "code": "arc"
+    },
+    {
+      "name": "BBPZ-20",
+      "url": "/edlund/bbpz-20/parts",
+      "code": "bbpz-20"
+    },
+    {
+      "name": "BDS- 16LS",
+      "url": "/edlund/bds-16ls/parts",
+      "code": "bds-16ls"
+    },
+    {
+      "name": "BDS-16",
+      "url": "/edlund/bds-16/parts",
+      "code": "bds-16"
+    },
+    {
+      "name": "BDS-8",
+      "url": "/edlund/bds-8/parts",
+      "code": "bds-8"
+    },
+    {
+      "name": "BDS-8LS",
+      "url": "/edlund/bds-8ls/parts",
+      "code": "bds-8ls"
+    },
+    {
+      "name": "BDSS- 16LS",
+      "url": "/edlund/bdss-16ls/parts",
+      "code": "bdss-16ls"
+    },
+    {
+      "name": "BDSS-16",
+      "url": "/edlund/bdss-16/parts",
+      "code": "bdss-16"
+    },
+    {
+      "name": "BDSS-8",
+      "url": "/edlund/bdss-8/parts",
+      "code": "bdss-8"
+    },
+    {
+      "name": "BDSS-8LS",
+      "url": "/edlund/bdss-8ls/parts",
+      "code": "bdss-8ls"
+    },
+    {
+      "name": "BRV-160",
+      "url": "/edlund/brv-160/parts",
+      "code": "brv-160"
+    },
+    {
+      "name": "BRV-160 OP",
+      "url": "/edlund/brv-160-op/parts",
+      "code": "brv-160-op"
+    },
+    {
+      "name": "BRV-160W",
+      "url": "/edlund/brv-160w/parts",
+      "code": "brv-160w"
+    },
+    {
+      "name": "BRV-320",
+      "url": "/edlund/brv-320/parts",
+      "code": "brv-320"
+    },
+    {
+      "name": "BRV-480",
+      "url": "/edlund/brv-480/parts",
+      "code": "brv-480"
+    },
+    {
+      "name": "BRVS-10",
+      "url": "/edlund/brvs-10/parts",
+      "code": "brvs-10"
+    },
+    {
+      "name": "CM-1000",
+      "url": "/edlund/cm-1000/parts",
+      "code": "cm-1000"
+    },
+    {
+      "name": "EDPZ-20",
+      "url": "/edlund/edpz-20/parts",
+      "code": "edpz-20"
+    },
+    {
+      "name": "EPZ-10",
+      "url": "/edlund/epz-10/parts",
+      "code": "epz-10"
+    },
+    {
+      "name": "EPZ-10F",
+      "url": "/edlund/epz-10f/parts",
+      "code": "epz-10f"
+    },
+    {
+      "name": "EPZ-10H",
+      "url": "/edlund/epz-10h/parts",
+      "code": "epz-10h"
+    },
+    {
+      "name": "EPZ-20",
+      "url": "/edlund/epz-20/parts",
+      "code": "epz-20"
+    },
+    {
+      "name": "EPZ-20F",
+      "url": "/edlund/epz-20f/parts",
+      "code": "epz-20f"
+    },
+    {
+      "name": "EPZ-20H",
+      "url": "/edlund/epz-20h/parts",
+      "code": "epz-20h"
+    },
+    {
+      "name": "EPZ-5",
+      "url": "/edlund/epz-5/parts",
+      "code": "epz-5"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:25:43.418155"
+}

@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Meister Cook, LLC",
+    "code": "PT_CAT13528",
+    "uri": "meister-cook-llc"
+  },
+  "models": [
+    {
+      "name": "DMW-22",
+      "url": "/meister-cook-llc/dmw-22/parts",
+      "code": "dmw-22"
+    },
+    {
+      "name": "FH23-75",
+      "url": "/meister-cook-llc/fh23-75/parts",
+      "code": "fh23-75"
+    },
+    {
+      "name": "HH-2X2-TT",
+      "url": "/meister-cook-llc/hh-2x2-tt/parts",
+      "code": "hh-2x2-tt"
+    },
+    {
+      "name": "HH-2x2-TF",
+      "url": "/meister-cook-llc/hh-2x2-tf/parts",
+      "code": "hh-2x2-tf"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T19:29:26.731677"
+}

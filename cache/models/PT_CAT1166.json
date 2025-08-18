@@ -1,0 +1,76 @@
+{
+  "manufacturer": {
+    "name": "Ram",
+    "code": "PT_CAT1166",
+    "uri": "ram"
+  },
+  "models": [
+    {
+      "name": "16-F",
+      "url": "/ram/16-f/parts",
+      "code": "16-f"
+    },
+    {
+      "name": "16-Fp",
+      "url": "/ram/16-fp/parts",
+      "code": "16-fp"
+    },
+    {
+      "name": "200-FX",
+      "url": "/ram/200-fx/parts",
+      "code": "200-fx"
+    },
+    {
+      "name": "280-F",
+      "url": "/ram/280-f/parts",
+      "code": "280-f"
+    },
+    {
+      "name": "AFD-200",
+      "url": "/ram/afd-200/parts",
+      "code": "afd-200"
+    },
+    {
+      "name": "AFD-280",
+      "url": "/ram/afd-280/parts",
+      "code": "afd-280"
+    },
+    {
+      "name": "AFD-280E",
+      "url": "/ram/afd-280e/parts",
+      "code": "afd-280e"
+    },
+    {
+      "name": "AFD-280U",
+      "url": "/ram/afd-280u/parts",
+      "code": "afd-280u"
+    },
+    {
+      "name": "DF22",
+      "url": "/ram/df22/parts",
+      "code": "df22"
+    },
+    {
+      "name": "GDF14",
+      "url": "/ram/gdf14/parts",
+      "code": "gdf14"
+    },
+    {
+      "name": "GDF14E",
+      "url": "/ram/gdf14e/parts",
+      "code": "gdf14e"
+    },
+    {
+      "name": "GDF14EL",
+      "url": "/ram/gdf14el/parts",
+      "code": "gdf14el"
+    },
+    {
+      "name": "GDF28",
+      "url": "/ram/gdf28/parts",
+      "code": "gdf28"
+    }
+  ],
+  "total_models": 13,
+  "cached_at": "2025-08-14T19:54:46.364431"
+}

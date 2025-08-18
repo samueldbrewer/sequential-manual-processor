@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Amana HVAC",
+    "code": "PT_CAT2905200",
+    "uri": "amana-hvac"
+  },
+  "models": [
+    {
+      "name": "10-2NM (P5497402R)",
+      "url": "/amana-hvac/10-2nm-p5497402r/parts",
+      "code": "10-2nm-p5497402r"
+    },
+    {
+      "name": "108-2C",
+      "url": "/amana-hvac/108-2c/parts",
+      "code": "108-2c"
+    },
+    {
+      "name": "108-2W (P5497585R)",
+      "url": "/amana-hvac/108-2w-p5497585r/parts",
+      "code": "108-2w-p5497585r"
+    },
+    {
+      "name": "109-2C",
+      "url": "/amana-hvac/109-2c/parts",
+      "code": "109-2c"
+    },
+    {
+      "name": "109-2CH",
+      "url": "/amana-hvac/109-2ch/parts",
+      "code": "109-2ch"
+    },
+    {
+      "name": "109-2EH",
+      "url": "/amana-hvac/109-2eh/parts",
+      "code": "109-2eh"
+    },
+    {
+      "name": "109-2EM",
+      "url": "/amana-hvac/109-2em/parts",
+      "code": "109-2em"
+    },
+    {
+      "name": "109-2G",
+      "url": "/amana-hvac/109-2g/parts",
+      "code": "109-2g"
+    },
+    {
+      "name": "109-2G (P5439019R)",
+      "url": "/amana-hvac/109-2g-p5439019r/parts",
+      "code": "109-2g-p5439019r"
+    },
+    {
+      "name": "109-2G (P5439031R)",
+      "url": "/amana-hvac/109-2g-p5439031r/parts",
+      "code": "109-2g-p5439031r"
+    },
+    {
+      "name": "109-2J (P5439097R)",
+      "url": "/amana-hvac/109-2j-p5439097r/parts",
+      "code": "109-2j-p5439097r"
+    },
+    {
+      "name": "109-3C",
+      "url": "/amana-hvac/109-3c/parts",
+      "code": "109-3c"
+    },
+    {
+      "name": "109-3J (P5439080R)",
+      "url": "/amana-hvac/109-3j-p5439080r/parts",
+      "code": "109-3j-p5439080r"
+    },
+    {
+      "name": "109-3J (P5439098R)",
+      "url": "/amana-hvac/109-3j-p5439098r/parts",
+      "code": "109-3j-p5439098r"
+    },
+    {
+      "name": "109-3NE (P5497504R)",
+      "url": "/amana-hvac/109-3ne-p5497504r/parts",
+      "code": "109-3ne-p5497504r"
+    },
+    {
+      "name": "109-3WE (P5497576R)",
+      "url": "/amana-hvac/109-3we-p5497576r/parts",
+      "code": "109-3we-p5497576r"
+    },
+    {
+      "name": "109-5J (P5433668R)",
+      "url": "/amana-hvac/109-5j-p5433668r/parts",
+      "code": "109-5j-p5433668r"
+    },
+    {
+      "name": "109-5J (P5439095R)",
+      "url": "/amana-hvac/109-5j-p5439095r/parts",
+      "code": "109-5j-p5439095r"
+    },
+    {
+      "name": "109-5JH (P5433665R)",
+      "url": "/amana-hvac/109-5jh-p5433665r/parts",
+      "code": "109-5jh-p5433665r"
+    },
+    {
+      "name": "109-5JH (P5439096R)",
+      "url": "/amana-hvac/109-5jh-p5439096r/parts",
+      "code": "109-5jh-p5439096r"
+    },
+    {
+      "name": "109-5NE (P5497508R)",
+      "url": "/amana-hvac/109-5ne-p5497508r/parts",
+      "code": "109-5ne-p5497508r"
+    },
+    {
+      "name": "109-5PE (P5497532R)",
+      "url": "/amana-hvac/109-5pe-p5497532r/parts",
+      "code": "109-5pe-p5497532r"
+    },
+    {
+      "name": "1093W (P5497575R)",
+      "url": "/amana-hvac/1093w-p5497575r/parts",
+      "code": "1093w-p5497575r"
+    },
+    {
+      "name": "1095A (P6968410R)",
+      "url": "/amana-hvac/1095a-p6968410r/parts",
+      "code": "1095a-p6968410r"
+    },
+    {
+      "name": "109C-2R",
+      "url": "/amana-hvac/109c-2r/parts",
+      "code": "109c-2r"
+    },
+    {
+      "name": "109C-2RL",
+      "url": "/amana-hvac/109c-2rl/parts",
+      "code": "109c-2rl"
+    },
+    {
+      "name": "109W-2NH (P5497525R)",
+      "url": "/amana-hvac/109w-2nh-p5497525r/parts",
+      "code": "109w-2nh-p5497525r"
+    },
+    {
+      "name": "109W-3N (P5497521R)",
+      "url": "/amana-hvac/109w-3n-p5497521r/parts",
+      "code": "109w-3n-p5497521r"
+    },
+    {
+      "name": "109W-3PE (P5497520R)",
+      "url": "/amana-hvac/109w-3pe-p5497520r/parts",
+      "code": "109w-3pe-p5497520r"
+    },
+    {
+      "name": "109W-3W (P5497581R)",
+      "url": "/amana-hvac/109w-3w-p5497581r/parts",
+      "code": "109w-3w-p5497581r"
+    },
+    {
+      "name": "10C2MD (P1177804R)",
+      "url": "/amana-hvac/10c2md-p1177804r/parts",
+      "code": "10c2md-p1177804r"
+    },
+    {
+      "name": "10C2MD (P1177805R)",
+      "url": "/amana-hvac/10c2md-p1177805r/parts",
+      "code": "10c2md-p1177805r"
+    },
+    {
+      "name": "10C2MT (P1114203R)",
+      "url": "/amana-hvac/10c2mt-p1114203r/parts",
+      "code": "10c2mt-p1114203r"
+    },
+    {
+      "name": "10C2MT (P1114205R)",
+      "url": "/amana-hvac/10c2mt-p1114205r/parts",
+      "code": "10c2mt-p1114205r"
+    },
+    {
+      "name": "10C5C (P1118105R)",
+      "url": "/amana-hvac/10c5c-p1118105r/parts",
+      "code": "10c5c-p1118105r"
+    },
+    {
+      "name": "10C5EV (P1118102R)",
+      "url": "/amana-hvac/10c5ev-p1118102r/parts",
+      "code": "10c5ev-p1118102r"
+    },
+    {
+      "name": "10C5W (P1118117R)",
+      "url": "/amana-hvac/10c5w-p1118117r/parts",
+      "code": "10c5w-p1118117r"
+    },
+    {
+      "name": "10C5Y (P1177807R)",
+      "url": "/amana-hvac/10c5y-p1177807r/parts",
+      "code": "10c5y-p1177807r"
+    },
+    {
+      "name": "11-2G",
+      "url": "/amana-hvac/11-2g/parts",
+      "code": "11-2g"
+    },
+    {
+      "name": "11-2G (P5439024R)",
+      "url": "/amana-hvac/11-2g-p5439024r/parts",
+      "code": "11-2g-p5439024r"
+    },
+    {
+      "name": "11-2G (P5439037R)",
+      "url": "/amana-hvac/11-2g-p5439037r/parts",
+      "code": "11-2g-p5439037r"
+    },
+    {
+      "name": "11-2G (P5439075R)",
+      "url": "/amana-hvac/11-2g-p5439075r/parts",
+      "code": "11-2g-p5439075r"
+    },
+    {
+      "name": "11-2GM",
+      "url": "/amana-hvac/11-2gm/parts",
+      "code": "11-2gm"
+    },
+    {
+      "name": "11-2GM (P5433610R)",
+      "url": "/amana-hvac/11-2gm-p5433610r/parts",
+      "code": "11-2gm-p5433610r"
+    },
+    {
+      "name": "11-2GM (P5433618R)",
+      "url": "/amana-hvac/11-2gm-p5433618r/parts",
+      "code": "11-2gm-p5433618r"
+    },
+    {
+      "name": "11-2GM (P5433635R)",
+      "url": "/amana-hvac/11-2gm-p5433635r/parts",
+      "code": "11-2gm-p5433635r"
+    },
+    {
+      "name": "11-2MW (P5497423R)",
+      "url": "/amana-hvac/11-2mw-p5497423r/parts",
+      "code": "11-2mw-p5497423r"
+    },
+    {
+      "name": "11-2N (P5497411R)",
+      "url": "/amana-hvac/11-2n-p5497411r/parts",
+      "code": "11-2n-p5497411r"
+    },
+    {
+      "name": "11-5CH",
+      "url": "/amana-hvac/11-5ch/parts",
+      "code": "11-5ch"
+    },
+    {
+      "name": "11-5D",
+      "url": "/amana-hvac/11-5d/parts",
+      "code": "11-5d"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:41:27.983656"
+}

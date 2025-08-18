@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Royal Range",
+    "code": "PT_CAT37088",
+    "uri": "royal-range"
+  },
+  "models": [
+    {
+      "name": "RCB-18",
+      "url": "/royal-range/rcb-18/parts",
+      "code": "rcb-18"
+    },
+    {
+      "name": "RCB-24",
+      "url": "/royal-range/rcb-24/parts",
+      "code": "rcb-24"
+    },
+    {
+      "name": "RCB-30",
+      "url": "/royal-range/rcb-30/parts",
+      "code": "rcb-30"
+    },
+    {
+      "name": "RCB-36",
+      "url": "/royal-range/rcb-36/parts",
+      "code": "rcb-36"
+    },
+    {
+      "name": "RCB-48",
+      "url": "/royal-range/rcb-48/parts",
+      "code": "rcb-48"
+    },
+    {
+      "name": "RCB-60",
+      "url": "/royal-range/rcb-60/parts",
+      "code": "rcb-60"
+    },
+    {
+      "name": "RCF-25",
+      "url": "/royal-range/rcf-25/parts",
+      "code": "rcf-25"
+    },
+    {
+      "name": "RCM-24",
+      "url": "/royal-range/rcm-24/parts",
+      "code": "rcm-24"
+    },
+    {
+      "name": "RCM-36",
+      "url": "/royal-range/rcm-36/parts",
+      "code": "rcm-36"
+    },
+    {
+      "name": "RCM-48",
+      "url": "/royal-range/rcm-48/parts",
+      "code": "rcm-48"
+    },
+    {
+      "name": "RCM-60",
+      "url": "/royal-range/rcm-60/parts",
+      "code": "rcm-60"
+    },
+    {
+      "name": "RCM-72",
+      "url": "/royal-range/rcm-72/parts",
+      "code": "rcm-72"
+    },
+    {
+      "name": "RCOD",
+      "url": "/royal-range/rcod/parts",
+      "code": "rcod"
+    },
+    {
+      "name": "RCOD-2",
+      "url": "/royal-range/rcod-2/parts",
+      "code": "rcod-2"
+    },
+    {
+      "name": "RCOS",
+      "url": "/royal-range/rcos/parts",
+      "code": "rcos"
+    },
+    {
+      "name": "RCOS-2",
+      "url": "/royal-range/rcos-2/parts",
+      "code": "rcos-2"
+    },
+    {
+      "name": "RECO-1",
+      "url": "/royal-range/reco-1/parts",
+      "code": "reco-1"
+    },
+    {
+      "name": "RECO-2",
+      "url": "/royal-range/reco-2/parts",
+      "code": "reco-2"
+    },
+    {
+      "name": "RECOD-1",
+      "url": "/royal-range/recod-1/parts",
+      "code": "recod-1"
+    },
+    {
+      "name": "RECOD-2",
+      "url": "/royal-range/recod-2/parts",
+      "code": "recod-2"
+    },
+    {
+      "name": "RFS-40",
+      "url": "/royal-range/rfs-40/parts",
+      "code": "rfs-40"
+    },
+    {
+      "name": "RFT-50",
+      "url": "/royal-range/rft-50/parts",
+      "code": "rft-50"
+    },
+    {
+      "name": "RFT-60",
+      "url": "/royal-range/rft-60/parts",
+      "code": "rft-60"
+    },
+    {
+      "name": "RFT-75",
+      "url": "/royal-range/rft-75/parts",
+      "code": "rft-75"
+    },
+    {
+      "name": "RHP-12-1",
+      "url": "/royal-range/rhp-12-1/parts",
+      "code": "rhp-12-1"
+    },
+    {
+      "name": "RHP-12-2",
+      "url": "/royal-range/rhp-12-2/parts",
+      "code": "rhp-12-2"
+    },
+    {
+      "name": "RHP-24-2",
+      "url": "/royal-range/rhp-24-2/parts",
+      "code": "rhp-24-2"
+    },
+    {
+      "name": "RHP-24-4",
+      "url": "/royal-range/rhp-24-4/parts",
+      "code": "rhp-24-4"
+    },
+    {
+      "name": "RHP-36-6",
+      "url": "/royal-range/rhp-36-6/parts",
+      "code": "rhp-36-6"
+    },
+    {
+      "name": "RHP-48-8",
+      "url": "/royal-range/rhp-48-8/parts",
+      "code": "rhp-48-8"
+    },
+    {
+      "name": "RIB-24",
+      "url": "/royal-range/rib-24/parts",
+      "code": "rib-24"
+    },
+    {
+      "name": "RIB-36",
+      "url": "/royal-range/rib-36/parts",
+      "code": "rib-36"
+    },
+    {
+      "name": "RIB-48",
+      "url": "/royal-range/rib-48/parts",
+      "code": "rib-48"
+    },
+    {
+      "name": "RIB-60",
+      "url": "/royal-range/rib-60/parts",
+      "code": "rib-60"
+    },
+    {
+      "name": "RMG-18",
+      "url": "/royal-range/rmg-18/parts",
+      "code": "rmg-18"
+    },
+    {
+      "name": "RMG-24",
+      "url": "/royal-range/rmg-24/parts",
+      "code": "rmg-24"
+    },
+    {
+      "name": "RMG-36",
+      "url": "/royal-range/rmg-36/parts",
+      "code": "rmg-36"
+    },
+    {
+      "name": "RMG-48",
+      "url": "/royal-range/rmg-48/parts",
+      "code": "rmg-48"
+    },
+    {
+      "name": "RMG-60",
+      "url": "/royal-range/rmg-60/parts",
+      "code": "rmg-60"
+    },
+    {
+      "name": "RMG-72",
+      "url": "/royal-range/rmg-72/parts",
+      "code": "rmg-72"
+    },
+    {
+      "name": "RMJ",
+      "url": "/royal-range/rmj/parts",
+      "code": "rmj"
+    },
+    {
+      "name": "RR-10",
+      "url": "/royal-range/rr-10/parts",
+      "code": "rr-10"
+    },
+    {
+      "name": "RR-10-C",
+      "url": "/royal-range/rr-10-c/parts",
+      "code": "rr-10-c"
+    },
+    {
+      "name": "RR-10G12",
+      "url": "/royal-range/rr-10g12/parts",
+      "code": "rr-10g12"
+    },
+    {
+      "name": "RR-10G12-C",
+      "url": "/royal-range/rr-10g12-c/parts",
+      "code": "rr-10g12-c"
+    },
+    {
+      "name": "RR-12",
+      "url": "/royal-range/rr-12/parts",
+      "code": "rr-12"
+    },
+    {
+      "name": "RR-12-C",
+      "url": "/royal-range/rr-12-c/parts",
+      "code": "rr-12-c"
+    },
+    {
+      "name": "RR-24RB-120",
+      "url": "/royal-range/rr-24rb-120/parts",
+      "code": "rr-24rb-120"
+    },
+    {
+      "name": "RR-2G12",
+      "url": "/royal-range/rr-2g12/parts",
+      "code": "rr-2g12"
+    },
+    {
+      "name": "RR-2G24",
+      "url": "/royal-range/rr-2g24/parts",
+      "code": "rr-2g24"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T20:17:13.768186"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Maxx Cold",
+    "code": "PT_CAT48067",
+    "uri": "maxx-cold"
+  },
+  "models": [
+    {
+      "name": "MCF-23FDHC",
+      "url": "/maxx-cold/mcf-23fdhc/parts",
+      "code": "mcf-23fdhc"
+    },
+    {
+      "name": "MCF-49FDHC",
+      "url": "/maxx-cold/mcf-49fdhc/parts",
+      "code": "mcf-49fdhc"
+    },
+    {
+      "name": "MCF-72FDHC",
+      "url": "/maxx-cold/mcf-72fdhc/parts",
+      "code": "mcf-72fdhc"
+    },
+    {
+      "name": "MCFT-23FDHC",
+      "url": "/maxx-cold/mcft-23fdhc/parts",
+      "code": "mcft-23fdhc"
+    },
+    {
+      "name": "MCFT-49FDHC",
+      "url": "/maxx-cold/mcft-49fdhc/parts",
+      "code": "mcft-49fdhc"
+    },
+    {
+      "name": "MCFT-72FDHC",
+      "url": "/maxx-cold/mcft-72fdhc/parts",
+      "code": "mcft-72fdhc"
+    },
+    {
+      "name": "MCR-23FDHC",
+      "url": "/maxx-cold/mcr-23fdhc/parts",
+      "code": "mcr-23fdhc"
+    },
+    {
+      "name": "MCR-49FDHC",
+      "url": "/maxx-cold/mcr-49fdhc/parts",
+      "code": "mcr-49fdhc"
+    },
+    {
+      "name": "MCR-72FDHC",
+      "url": "/maxx-cold/mcr-72fdhc/parts",
+      "code": "mcr-72fdhc"
+    },
+    {
+      "name": "MCRT-23FDHC",
+      "url": "/maxx-cold/mcrt-23fdhc/parts",
+      "code": "mcrt-23fdhc"
+    },
+    {
+      "name": "MCRT-49FDHC",
+      "url": "/maxx-cold/mcrt-49fdhc/parts",
+      "code": "mcrt-49fdhc"
+    },
+    {
+      "name": "MCRT-72FDHC",
+      "url": "/maxx-cold/mcrt-72fdhc/parts",
+      "code": "mcrt-72fdhc"
+    },
+    {
+      "name": "MXBB60",
+      "url": "/maxx-cold/mxbb60/parts",
+      "code": "mxbb60"
+    },
+    {
+      "name": "MXBB60G",
+      "url": "/maxx-cold/mxbb60g/parts",
+      "code": "mxbb60g"
+    },
+    {
+      "name": "MXBB70",
+      "url": "/maxx-cold/mxbb70/parts",
+      "code": "mxbb70"
+    },
+    {
+      "name": "MXBB70G",
+      "url": "/maxx-cold/mxbb70g/parts",
+      "code": "mxbb70g"
+    },
+    {
+      "name": "MXBB90",
+      "url": "/maxx-cold/mxbb90/parts",
+      "code": "mxbb90"
+    },
+    {
+      "name": "MXBB90G",
+      "url": "/maxx-cold/mxbb90g/parts",
+      "code": "mxbb90g"
+    },
+    {
+      "name": "MXCF-19FDHC",
+      "url": "/maxx-cold/mxcf-19fdhc/parts",
+      "code": "mxcf-19fdhc"
+    },
+    {
+      "name": "MXCF-23FD",
+      "url": "/maxx-cold/mxcf-23fd/parts",
+      "code": "mxcf-23fd"
+    },
+    {
+      "name": "MXCF-23FDHC",
+      "url": "/maxx-cold/mxcf-23fdhc/parts",
+      "code": "mxcf-23fdhc"
+    },
+    {
+      "name": "MXCF-49FD",
+      "url": "/maxx-cold/mxcf-49fd/parts",
+      "code": "mxcf-49fd"
+    },
+    {
+      "name": "MXCF-49FDHC",
+      "url": "/maxx-cold/mxcf-49fdhc/parts",
+      "code": "mxcf-49fdhc"
+    },
+    {
+      "name": "MXCF-72FD",
+      "url": "/maxx-cold/mxcf-72fd/parts",
+      "code": "mxcf-72fd"
+    },
+    {
+      "name": "MXCF-72FDHC",
+      "url": "/maxx-cold/mxcf-72fdhc/parts",
+      "code": "mxcf-72fdhc"
+    },
+    {
+      "name": "MXCF48U",
+      "url": "/maxx-cold/mxcf48u/parts",
+      "code": "mxcf48u"
+    },
+    {
+      "name": "MXCF60U",
+      "url": "/maxx-cold/mxcf60u/parts",
+      "code": "mxcf60u"
+    },
+    {
+      "name": "MXCPP50",
+      "url": "/maxx-cold/mxcpp50/parts",
+      "code": "mxcpp50"
+    },
+    {
+      "name": "MXCPP70",
+      "url": "/maxx-cold/mxcpp70/parts",
+      "code": "mxcpp70"
+    },
+    {
+      "name": "MXCPP92",
+      "url": "/maxx-cold/mxcpp92/parts",
+      "code": "mxcpp92"
+    },
+    {
+      "name": "MXCR-23FD",
+      "url": "/maxx-cold/mxcr-23fd/parts",
+      "code": "mxcr-23fd"
+    },
+    {
+      "name": "MXCR-23FDHC",
+      "url": "/maxx-cold/mxcr-23fdhc/parts",
+      "code": "mxcr-23fdhc"
+    },
+    {
+      "name": "MXCR-23GDHC",
+      "url": "/maxx-cold/mxcr-23gdhc/parts",
+      "code": "mxcr-23gdhc"
+    },
+    {
+      "name": "MXCR-49FD",
+      "url": "/maxx-cold/mxcr-49fd/parts",
+      "code": "mxcr-49fd"
+    },
+    {
+      "name": "MXCR-49FDHC",
+      "url": "/maxx-cold/mxcr-49fdhc/parts",
+      "code": "mxcr-49fdhc"
+    },
+    {
+      "name": "MXCR-49GDHC",
+      "url": "/maxx-cold/mxcr-49gdhc/parts",
+      "code": "mxcr-49gdhc"
+    },
+    {
+      "name": "MXCR-72FDHC",
+      "url": "/maxx-cold/mxcr-72fdhc/parts",
+      "code": "mxcr-72fdhc"
+    },
+    {
+      "name": "MXCR27U",
+      "url": "/maxx-cold/mxcr27u/parts",
+      "code": "mxcr27u"
+    },
+    {
+      "name": "MXCR29M",
+      "url": "/maxx-cold/mxcr29m/parts",
+      "code": "mxcr29m"
+    },
+    {
+      "name": "MXCR29S",
+      "url": "/maxx-cold/mxcr29s/parts",
+      "code": "mxcr29s"
+    },
+    {
+      "name": "MXCR48M",
+      "url": "/maxx-cold/mxcr48m/parts",
+      "code": "mxcr48m"
+    },
+    {
+      "name": "MXCR48S",
+      "url": "/maxx-cold/mxcr48s/parts",
+      "code": "mxcr48s"
+    },
+    {
+      "name": "MXCR50B",
+      "url": "/maxx-cold/mxcr50b/parts",
+      "code": "mxcr50b"
+    },
+    {
+      "name": "MXCR60M",
+      "url": "/maxx-cold/mxcr60m/parts",
+      "code": "mxcr60m"
+    },
+    {
+      "name": "MXCR60S",
+      "url": "/maxx-cold/mxcr60s/parts",
+      "code": "mxcr60s"
+    },
+    {
+      "name": "MXCR60U",
+      "url": "/maxx-cold/mxcr60u/parts",
+      "code": "mxcr60u"
+    },
+    {
+      "name": "MXCR65B",
+      "url": "/maxx-cold/mxcr65b/parts",
+      "code": "mxcr65b"
+    },
+    {
+      "name": "MXCR96B",
+      "url": "/maxx-cold/mxcr96b/parts",
+      "code": "mxcr96b"
+    },
+    {
+      "name": "MXM1-12F",
+      "url": "/maxx-cold/mxm1-12f/parts",
+      "code": "mxm1-12f"
+    },
+    {
+      "name": "MXM1-12FBHC",
+      "url": "/maxx-cold/mxm1-12fbhc/parts",
+      "code": "mxm1-12fbhc"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:28:39.122938"
+}

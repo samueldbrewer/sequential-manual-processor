@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Moyer Diebel",
+    "code": "PT_CAT1148",
+    "uri": "moyer-diebel"
+  },
+  "models": [
+    {
+      "name": "201HT",
+      "url": "/moyer-diebel/201ht/parts",
+      "code": "201ht"
+    },
+    {
+      "name": "201HTN",
+      "url": "/moyer-diebel/201htn/parts",
+      "code": "201htn"
+    },
+    {
+      "name": "201LT",
+      "url": "/moyer-diebel/201lt/parts",
+      "code": "201lt"
+    },
+    {
+      "name": "301HT",
+      "url": "/moyer-diebel/301ht/parts",
+      "code": "301ht"
+    },
+    {
+      "name": "301HT M2",
+      "url": "/moyer-diebel/301ht-m2/parts",
+      "code": "301ht-m2"
+    },
+    {
+      "name": "351HT",
+      "url": "/moyer-diebel/351ht/parts",
+      "code": "351ht"
+    },
+    {
+      "name": "383HT",
+      "url": "/moyer-diebel/383ht/parts",
+      "code": "383ht"
+    },
+    {
+      "name": "383HT-M2",
+      "url": "/moyer-diebel/383ht-m2/parts",
+      "code": "383ht-m2"
+    },
+    {
+      "name": "401-HTM2 PLUS",
+      "url": "/moyer-diebel/401-htm2-plus/parts",
+      "code": "401-htm2-plus"
+    },
+    {
+      "name": "401-HTNM2 PLUS",
+      "url": "/moyer-diebel/401-htnm2-plus/parts",
+      "code": "401-htnm2-plus"
+    },
+    {
+      "name": "401-LTM2 PLUS",
+      "url": "/moyer-diebel/401-ltm2-plus/parts",
+      "code": "401-ltm2-plus"
+    },
+    {
+      "name": "401HT",
+      "url": "/moyer-diebel/401ht/parts",
+      "code": "401ht"
+    },
+    {
+      "name": "401HTN",
+      "url": "/moyer-diebel/401htn/parts",
+      "code": "401htn"
+    },
+    {
+      "name": "401LT",
+      "url": "/moyer-diebel/401lt/parts",
+      "code": "401lt"
+    },
+    {
+      "name": "500HT",
+      "url": "/moyer-diebel/500ht/parts",
+      "code": "500ht"
+    },
+    {
+      "name": "501HT",
+      "url": "/moyer-diebel/501ht/parts",
+      "code": "501ht"
+    },
+    {
+      "name": "501HTN",
+      "url": "/moyer-diebel/501htn/parts",
+      "code": "501htn"
+    },
+    {
+      "name": "501LT",
+      "url": "/moyer-diebel/501lt/parts",
+      "code": "501lt"
+    },
+    {
+      "name": "601HTG",
+      "url": "/moyer-diebel/601htg/parts",
+      "code": "601htg"
+    },
+    {
+      "name": "601LTG",
+      "url": "/moyer-diebel/601ltg/parts",
+      "code": "601ltg"
+    },
+    {
+      "name": "DF-M6",
+      "url": "/moyer-diebel/df-m6/parts",
+      "code": "df-m6"
+    },
+    {
+      "name": "DF1-M6",
+      "url": "/moyer-diebel/df1-m6/parts",
+      "code": "df1-m6"
+    },
+    {
+      "name": "DF1M4",
+      "url": "/moyer-diebel/df1m4/parts",
+      "code": "df1m4"
+    },
+    {
+      "name": "DF2-M6",
+      "url": "/moyer-diebel/df2-m6/parts",
+      "code": "df2-m6"
+    },
+    {
+      "name": "DF2M4",
+      "url": "/moyer-diebel/df2m4/parts",
+      "code": "df2m4"
+    },
+    {
+      "name": "DFM4",
+      "url": "/moyer-diebel/dfm4/parts",
+      "code": "dfm4"
+    },
+    {
+      "name": "DFM7",
+      "url": "/moyer-diebel/dfm7/parts",
+      "code": "dfm7"
+    },
+    {
+      "name": "DFM7-1",
+      "url": "/moyer-diebel/dfm7-1/parts",
+      "code": "dfm7-1"
+    },
+    {
+      "name": "DFM7-2",
+      "url": "/moyer-diebel/dfm7-2/parts",
+      "code": "dfm7-2"
+    },
+    {
+      "name": "DFM7-5",
+      "url": "/moyer-diebel/dfm7-5/parts",
+      "code": "dfm7-5"
+    },
+    {
+      "name": "I-MHM3",
+      "url": "/moyer-diebel/i-mhm3/parts",
+      "code": "i-mhm3"
+    },
+    {
+      "name": "I-MHM4",
+      "url": "/moyer-diebel/i-mhm4/parts",
+      "code": "i-mhm4"
+    },
+    {
+      "name": "I-MHM5",
+      "url": "/moyer-diebel/i-mhm5/parts",
+      "code": "i-mhm5"
+    },
+    {
+      "name": "IMD2000HT",
+      "url": "/moyer-diebel/imd2000ht/parts",
+      "code": "imd2000ht"
+    },
+    {
+      "name": "IMH-60",
+      "url": "/moyer-diebel/imh-60/parts",
+      "code": "imh-60"
+    },
+    {
+      "name": "M-DH",
+      "url": "/moyer-diebel/m-dh/parts",
+      "code": "m-dh"
+    },
+    {
+      "name": "MD-1000HT",
+      "url": "/moyer-diebel/md-1000ht/parts",
+      "code": "md-1000ht"
+    },
+    {
+      "name": "MD-1000LT",
+      "url": "/moyer-diebel/md-1000lt/parts",
+      "code": "md-1000lt"
+    },
+    {
+      "name": "MD-44",
+      "url": "/moyer-diebel/md-44/parts",
+      "code": "md-44"
+    },
+    {
+      "name": "MD-66",
+      "url": "/moyer-diebel/md-66/parts",
+      "code": "md-66"
+    },
+    {
+      "name": "MD18-1",
+      "url": "/moyer-diebel/md18-1/parts",
+      "code": "md18-1"
+    },
+    {
+      "name": "MD18-2",
+      "url": "/moyer-diebel/md18-2/parts",
+      "code": "md18-2"
+    },
+    {
+      "name": "MD2000 HR",
+      "url": "/moyer-diebel/md2000-hr/parts",
+      "code": "md2000-hr"
+    },
+    {
+      "name": "MD2000HT",
+      "url": "/moyer-diebel/md2000ht/parts",
+      "code": "md2000ht"
+    },
+    {
+      "name": "MD2000LT",
+      "url": "/moyer-diebel/md2000lt/parts",
+      "code": "md2000lt"
+    },
+    {
+      "name": "MD240HT",
+      "url": "/moyer-diebel/md240ht/parts",
+      "code": "md240ht"
+    },
+    {
+      "name": "MD240LT",
+      "url": "/moyer-diebel/md240lt/parts",
+      "code": "md240lt"
+    },
+    {
+      "name": "MDHHD",
+      "url": "/moyer-diebel/mdhhd/parts",
+      "code": "mdhhd"
+    },
+    {
+      "name": "MH-60M2",
+      "url": "/moyer-diebel/mh-60m2/parts",
+      "code": "mh-60m2"
+    },
+    {
+      "name": "MH-60M3",
+      "url": "/moyer-diebel/mh-60m3/parts",
+      "code": "mh-60m3"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:37:00.500735"
+}

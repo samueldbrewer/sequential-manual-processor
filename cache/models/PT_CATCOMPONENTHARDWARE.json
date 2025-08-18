@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Component Hardware",
+    "code": "PT_CATCOMPONENTHARDWARE",
+    "uri": "component-hardware"
+  },
+  "models": [
+    {
+      "name": "DSS-8000",
+      "url": "/component-hardware/dss-8000/parts",
+      "code": "dss-8000"
+    },
+    {
+      "name": "FS17-D14105K2",
+      "url": "/component-hardware/fs17-d14105k2/parts",
+      "code": "fs17-d14105k2"
+    },
+    {
+      "name": "KL53-1000-AF4",
+      "url": "/component-hardware/kl53-1000-af4/parts",
+      "code": "kl53-1000-af4"
+    },
+    {
+      "name": "KLP34-1014-FG",
+      "url": "/component-hardware/klp34-1014-fg/parts",
+      "code": "klp34-1014-fg"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T18:11:47.154634"
+}

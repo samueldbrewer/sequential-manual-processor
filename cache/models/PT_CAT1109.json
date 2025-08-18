@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Insinger",
+    "code": "PT_CAT1109",
+    "uri": "insinger"
+  },
+  "models": [
+    {
+      "name": "30VP-2",
+      "url": "/insinger/30vp-2/parts",
+      "code": "30vp-2"
+    },
+    {
+      "name": "45SA",
+      "url": "/insinger/45sa/parts",
+      "code": "45sa"
+    },
+    {
+      "name": "50-20 NSU",
+      "url": "/insinger/50-20-nsu/parts",
+      "code": "50-20-nsu"
+    },
+    {
+      "name": "50-20N2",
+      "url": "/insinger/50-20n2/parts",
+      "code": "50-20n2"
+    },
+    {
+      "name": "50VP-2",
+      "url": "/insinger/50vp-2/parts",
+      "code": "50vp-2"
+    },
+    {
+      "name": "Admiral 44 ADVANCED",
+      "url": "/insinger/admiral-44-advanced/parts",
+      "code": "admiral-44-advanced"
+    },
+    {
+      "name": "Admiral 44 ADVANCED VG",
+      "url": "/insinger/admiral-44-advanced-vg/parts",
+      "code": "admiral-44-advanced-vg"
+    },
+    {
+      "name": "Admiral 44-4",
+      "url": "/insinger/admiral-44-4/parts",
+      "code": "admiral-44-4"
+    },
+    {
+      "name": "Admiral 44-4 VRS",
+      "url": "/insinger/admiral-44-4-vrs/parts",
+      "code": "admiral-44-4-vrs"
+    },
+    {
+      "name": "Admiral 66 ADVANCED",
+      "url": "/insinger/admiral-66-advanced/parts",
+      "code": "admiral-66-advanced"
+    },
+    {
+      "name": "Admiral 66 ADVANCED VG",
+      "url": "/insinger/admiral-66-advanced-vg/parts",
+      "code": "admiral-66-advanced-vg"
+    },
+    {
+      "name": "Admiral 66-4",
+      "url": "/insinger/admiral-66-4/parts",
+      "code": "admiral-66-4"
+    },
+    {
+      "name": "AquaScrubber",
+      "url": "/insinger/aquascrubber/parts",
+      "code": "aquascrubber"
+    },
+    {
+      "name": "CA-3",
+      "url": "/insinger/ca-3/parts",
+      "code": "ca-3"
+    },
+    {
+      "name": "CADET",
+      "url": "/insinger/cadet/parts",
+      "code": "cadet"
+    },
+    {
+      "name": "CS-5",
+      "url": "/insinger/cs-5/parts",
+      "code": "cs-5"
+    },
+    {
+      "name": "CX20",
+      "url": "/insinger/cx20/parts",
+      "code": "cx20"
+    },
+    {
+      "name": "CX20 H",
+      "url": "/insinger/cx20-h/parts",
+      "code": "cx20-h"
+    },
+    {
+      "name": "CX20 HVG",
+      "url": "/insinger/cx20-hvg/parts",
+      "code": "cx20-hvg"
+    },
+    {
+      "name": "CX20 Marine Edition",
+      "url": "/insinger/cx20-marine-edition/parts",
+      "code": "cx20-marine-edition"
+    },
+    {
+      "name": "CX20 VG",
+      "url": "/insinger/cx20-vg/parts",
+      "code": "cx20-vg"
+    },
+    {
+      "name": "Century",
+      "url": "/insinger/century/parts",
+      "code": "century"
+    },
+    {
+      "name": "Century 14",
+      "url": "/insinger/century-14/parts",
+      "code": "century-14"
+    },
+    {
+      "name": "Clipper",
+      "url": "/insinger/clipper/parts",
+      "code": "clipper"
+    },
+    {
+      "name": "Clipper RC",
+      "url": "/insinger/clipper-rc/parts",
+      "code": "clipper-rc"
+    },
+    {
+      "name": "Commander 18-1",
+      "url": "/insinger/commander-18-1/parts",
+      "code": "commander-18-1"
+    },
+    {
+      "name": "Commander 18-2",
+      "url": "/insinger/commander-18-2/parts",
+      "code": "commander-18-2"
+    },
+    {
+      "name": "Commander 18-3",
+      "url": "/insinger/commander-18-3/parts",
+      "code": "commander-18-3"
+    },
+    {
+      "name": "Commander 18-4",
+      "url": "/insinger/commander-18-4/parts",
+      "code": "commander-18-4"
+    },
+    {
+      "name": "Commander 18-5",
+      "url": "/insinger/commander-18-5/parts",
+      "code": "commander-18-5"
+    },
+    {
+      "name": "Commander 18-5C",
+      "url": "/insinger/commander-18-5c/parts",
+      "code": "commander-18-5c"
+    },
+    {
+      "name": "Commander 18-5H",
+      "url": "/insinger/commander-18-5h/parts",
+      "code": "commander-18-5h"
+    },
+    {
+      "name": "Commander 18-5HC",
+      "url": "/insinger/commander-18-5hc/parts",
+      "code": "commander-18-5hc"
+    },
+    {
+      "name": "Commander 18-6",
+      "url": "/insinger/commander-18-6/parts",
+      "code": "commander-18-6"
+    },
+    {
+      "name": "Commander 18-6C",
+      "url": "/insinger/commander-18-6c/parts",
+      "code": "commander-18-6c"
+    },
+    {
+      "name": "Commander 18-6H",
+      "url": "/insinger/commander-18-6h/parts",
+      "code": "commander-18-6h"
+    },
+    {
+      "name": "Commander 18-6HC",
+      "url": "/insinger/commander-18-6hc/parts",
+      "code": "commander-18-6hc"
+    },
+    {
+      "name": "DA-3",
+      "url": "/insinger/da-3/parts",
+      "code": "da-3"
+    },
+    {
+      "name": "Defender",
+      "url": "/insinger/defender/parts",
+      "code": "defender"
+    },
+    {
+      "name": "Ensign 40-2",
+      "url": "/insinger/ensign-40-2/parts",
+      "code": "ensign-40-2"
+    },
+    {
+      "name": "GW-40",
+      "url": "/insinger/gw-40/parts",
+      "code": "gw-40"
+    },
+    {
+      "name": "GW-40 BarMaster",
+      "url": "/insinger/gw-40-barmaster/parts",
+      "code": "gw-40-barmaster"
+    },
+    {
+      "name": "GW-40-D",
+      "url": "/insinger/gw-40-d/parts",
+      "code": "gw-40-d"
+    },
+    {
+      "name": "Galleymaster",
+      "url": "/insinger/galleymaster/parts",
+      "code": "galleymaster"
+    },
+    {
+      "name": "LT-40",
+      "url": "/insinger/lt-40/parts",
+      "code": "lt-40"
+    },
+    {
+      "name": "LT-40 S",
+      "url": "/insinger/lt-40-s/parts",
+      "code": "lt-40-s"
+    },
+    {
+      "name": "Lieutenant LT-40H",
+      "url": "/insinger/lieutenant-lt-40h/parts",
+      "code": "lieutenant-lt-40h"
+    },
+    {
+      "name": "Lieutenant LT-40S",
+      "url": "/insinger/lieutenant-lt-40s/parts",
+      "code": "lieutenant-lt-40s"
+    },
+    {
+      "name": "Master",
+      "url": "/insinger/master/parts",
+      "code": "master"
+    },
+    {
+      "name": "Master RC",
+      "url": "/insinger/master-rc/parts",
+      "code": "master-rc"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:06:34.466341"
+}

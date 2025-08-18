@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT375835",
+    "name": "American Water Heaters",
+    "uri": "american-water-heaters"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:53:44.259641",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

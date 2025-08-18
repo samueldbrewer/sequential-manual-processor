@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Edhard",
+    "code": "PT_CAT243304",
+    "uri": "edhard"
+  },
+  "models": [
+    {
+      "name": "F-5001",
+      "url": "/edhard/f-5001/parts",
+      "code": "f-5001"
+    },
+    {
+      "name": "MK",
+      "url": "/edhard/mk/parts",
+      "code": "mk"
+    },
+    {
+      "name": "P-1010",
+      "url": "/edhard/p-1010/parts",
+      "code": "p-1010"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T18:25:27.991836"
+}

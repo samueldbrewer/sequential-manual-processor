@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "Kloppenberg",
+    "code": "PT_CAT1122",
+    "uri": "kloppenberg"
+  },
+  "models": [
+    {
+      "name": "1045",
+      "url": "/kloppenberg/1045/parts",
+      "code": "1045"
+    },
+    {
+      "name": "1315",
+      "url": "/kloppenberg/1315/parts",
+      "code": "1315"
+    },
+    {
+      "name": "1325",
+      "url": "/kloppenberg/1325/parts",
+      "code": "1325"
+    },
+    {
+      "name": "1665",
+      "url": "/kloppenberg/1665/parts",
+      "code": "1665"
+    },
+    {
+      "name": "1915",
+      "url": "/kloppenberg/1915/parts",
+      "code": "1915"
+    },
+    {
+      "name": "2415",
+      "url": "/kloppenberg/2415/parts",
+      "code": "2415"
+    },
+    {
+      "name": "705",
+      "url": "/kloppenberg/705/parts",
+      "code": "705"
+    },
+    {
+      "name": "905",
+      "url": "/kloppenberg/905/parts",
+      "code": "905"
+    },
+    {
+      "name": "965",
+      "url": "/kloppenberg/965/parts",
+      "code": "965"
+    },
+    {
+      "name": "DISP-1000",
+      "url": "/kloppenberg/disp-1000/parts",
+      "code": "disp-1000"
+    },
+    {
+      "name": "IFS Double Door",
+      "url": "/kloppenberg/ifs-double-door/parts",
+      "code": "ifs-double-door"
+    },
+    {
+      "name": "IFS Double Door Upright",
+      "url": "/kloppenberg/ifs-double-door-upright/parts",
+      "code": "ifs-double-door-upright"
+    },
+    {
+      "name": "IFS Single Door",
+      "url": "/kloppenberg/ifs-single-door/parts",
+      "code": "ifs-single-door"
+    },
+    {
+      "name": "PCC-250",
+      "url": "/kloppenberg/pcc-250/parts",
+      "code": "pcc-250"
+    },
+    {
+      "name": "SPS-1",
+      "url": "/kloppenberg/sps-1/parts",
+      "code": "sps-1"
+    },
+    {
+      "name": "SPS-2",
+      "url": "/kloppenberg/sps-2/parts",
+      "code": "sps-2"
+    },
+    {
+      "name": "SPS-3",
+      "url": "/kloppenberg/sps-3/parts",
+      "code": "sps-3"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-14T19:13:59.936016"
+}

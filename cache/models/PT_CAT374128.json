@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Denon",
+    "code": "PT_CAT374128",
+    "uri": "denon"
+  },
+  "models": [
+    {
+      "name": "ADV700",
+      "url": "/denon/adv700/parts",
+      "code": "adv700"
+    },
+    {
+      "name": "ADVM71",
+      "url": "/denon/advm71/parts",
+      "code": "advm71"
+    },
+    {
+      "name": "AHD2000",
+      "url": "/denon/ahd2000/parts",
+      "code": "ahd2000"
+    },
+    {
+      "name": "AHD5200",
+      "url": "/denon/ahd5200/parts",
+      "code": "ahd5200"
+    },
+    {
+      "name": "AHD7200",
+      "url": "/denon/ahd7200/parts",
+      "code": "ahd7200"
+    },
+    {
+      "name": "AHD9200",
+      "url": "/denon/ahd9200/parts",
+      "code": "ahd9200"
+    },
+    {
+      "name": "ASD3N",
+      "url": "/denon/asd3n/parts",
+      "code": "asd3n"
+    },
+    {
+      "name": "AVPA1HDCI",
+      "url": "/denon/avpa1hdci/parts",
+      "code": "avpa1hdci"
+    },
+    {
+      "name": "AVR3808CI",
+      "url": "/denon/avr3808ci/parts",
+      "code": "avr3808ci"
+    },
+    {
+      "name": "AVR4308CI",
+      "url": "/denon/avr4308ci/parts",
+      "code": "avr4308ci"
+    },
+    {
+      "name": "AVRS730H",
+      "url": "/denon/avrs730h/parts",
+      "code": "avrs730h"
+    },
+    {
+      "name": "AVRS930H",
+      "url": "/denon/avrs930h/parts",
+      "code": "avrs930h"
+    },
+    {
+      "name": "AVRX1300W",
+      "url": "/denon/avrx1300w/parts",
+      "code": "avrx1300w"
+    },
+    {
+      "name": "AVRX6300H",
+      "url": "/denon/avrx6300h/parts",
+      "code": "avrx6300h"
+    },
+    {
+      "name": "AVRX6700H",
+      "url": "/denon/avrx6700h/parts",
+      "code": "avrx6700h"
+    },
+    {
+      "name": "AVRX7200W",
+      "url": "/denon/avrx7200w/parts",
+      "code": "avrx7200w"
+    },
+    {
+      "name": "AVRX7200WA",
+      "url": "/denon/avrx7200wa/parts",
+      "code": "avrx7200wa"
+    },
+    {
+      "name": "DBP1611UD",
+      "url": "/denon/dbp1611ud/parts",
+      "code": "dbp1611ud"
+    },
+    {
+      "name": "DBP4010UDCI",
+      "url": "/denon/dbp4010udci/parts",
+      "code": "dbp4010udci"
+    },
+    {
+      "name": "DBPA100",
+      "url": "/denon/dbpa100/parts",
+      "code": "dbpa100"
+    },
+    {
+      "name": "DBT1713UD",
+      "url": "/denon/dbt1713ud/parts",
+      "code": "dbt1713ud"
+    },
+    {
+      "name": "DHTFS3",
+      "url": "/denon/dhtfs3/parts",
+      "code": "dhtfs3"
+    },
+    {
+      "name": "DHTS316",
+      "url": "/denon/dhts316/parts",
+      "code": "dhts316"
+    },
+    {
+      "name": "DHTS516H",
+      "url": "/denon/dhts516h/parts",
+      "code": "dhts516h"
+    },
+    {
+      "name": "DNP800NE",
+      "url": "/denon/dnp800ne/parts",
+      "code": "dnp800ne"
+    },
+    {
+      "name": "DP300F",
+      "url": "/denon/dp300f/parts",
+      "code": "dp300f"
+    },
+    {
+      "name": "DP400",
+      "url": "/denon/dp400/parts",
+      "code": "dp400"
+    },
+    {
+      "name": "DP450USB",
+      "url": "/denon/dp450usb/parts",
+      "code": "dp450usb"
+    },
+    {
+      "name": "DRA325R",
+      "url": "/denon/dra325r/parts",
+      "code": "dra325r"
+    },
+    {
+      "name": "DRA345R",
+      "url": "/denon/dra345r/parts",
+      "code": "dra345r"
+    },
+    {
+      "name": "DRA375RD",
+      "url": "/denon/dra375rd/parts",
+      "code": "dra375rd"
+    },
+    {
+      "name": "DRA395",
+      "url": "/denon/dra395/parts",
+      "code": "dra395"
+    },
+    {
+      "name": "DRA397",
+      "url": "/denon/dra397/parts",
+      "code": "dra397"
+    },
+    {
+      "name": "DRA775RD",
+      "url": "/denon/dra775rd/parts",
+      "code": "dra775rd"
+    },
+    {
+      "name": "DRA800H",
+      "url": "/denon/dra800h/parts",
+      "code": "dra800h"
+    },
+    {
+      "name": "DTR2000",
+      "url": "/denon/dtr2000/parts",
+      "code": "dtr2000"
+    },
+    {
+      "name": "DVD5910",
+      "url": "/denon/dvd5910/parts",
+      "code": "dvd5910"
+    },
+    {
+      "name": "DVM2845CI",
+      "url": "/denon/dvm2845ci/parts",
+      "code": "dvm2845ci"
+    },
+    {
+      "name": "HEOSBAR",
+      "url": "/denon/heosbar/parts",
+      "code": "heosbar"
+    },
+    {
+      "name": "HEOSSUBWOOFER",
+      "url": "/denon/heossubwoofer/parts",
+      "code": "heossubwoofer"
+    },
+    {
+      "name": "HOME150",
+      "url": "/denon/home150/parts",
+      "code": "home150"
+    },
+    {
+      "name": "PMA1600NE",
+      "url": "/denon/pma1600ne/parts",
+      "code": "pma1600ne"
+    },
+    {
+      "name": "PMA2000IVR",
+      "url": "/denon/pma2000ivr/parts",
+      "code": "pma2000ivr"
+    },
+    {
+      "name": "PMA50",
+      "url": "/denon/pma50/parts",
+      "code": "pma50"
+    },
+    {
+      "name": "PMA600NE",
+      "url": "/denon/pma600ne/parts",
+      "code": "pma600ne"
+    },
+    {
+      "name": "PMA800NE",
+      "url": "/denon/pma800ne/parts",
+      "code": "pma800ne"
+    },
+    {
+      "name": "PMA860",
+      "url": "/denon/pma860/parts",
+      "code": "pma860"
+    },
+    {
+      "name": "PMAA110E2",
+      "url": "/denon/pmaa110e2/parts",
+      "code": "pmaa110e2"
+    },
+    {
+      "name": "PMAA110E3",
+      "url": "/denon/pmaa110e3/parts",
+      "code": "pmaa110e3"
+    },
+    {
+      "name": "S302",
+      "url": "/denon/s302/parts",
+      "code": "s302"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:20:57.002085"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Marvel Refrigeration",
+    "code": "PT_CAT223770",
+    "uri": "marvel-refrigeration"
+  },
+  "models": [
+    {
+      "name": "MA15CL",
+      "url": "/marvel-refrigeration/ma15cl/parts",
+      "code": "ma15cl"
+    },
+    {
+      "name": "MA24BC",
+      "url": "/marvel-refrigeration/ma24bc/parts",
+      "code": "ma24bc"
+    },
+    {
+      "name": "MA24BR",
+      "url": "/marvel-refrigeration/ma24br/parts",
+      "code": "ma24br"
+    },
+    {
+      "name": "MA24RAS1",
+      "url": "/marvel-refrigeration/ma24ras1/parts",
+      "code": "ma24ras1"
+    },
+    {
+      "name": "MA24RAS2",
+      "url": "/marvel-refrigeration/ma24ras2/parts",
+      "code": "ma24ras2"
+    },
+    {
+      "name": "MABV224",
+      "url": "/marvel-refrigeration/mabv224/parts",
+      "code": "mabv224"
+    },
+    {
+      "name": "MARE124",
+      "url": "/marvel-refrigeration/mare124/parts",
+      "code": "mare124"
+    },
+    {
+      "name": "MARE224",
+      "url": "/marvel-refrigeration/mare224/parts",
+      "code": "mare224"
+    },
+    {
+      "name": "ML15BC",
+      "url": "/marvel-refrigeration/ml15bc/parts",
+      "code": "ml15bc"
+    },
+    {
+      "name": "ML15CL",
+      "url": "/marvel-refrigeration/ml15cl/parts",
+      "code": "ml15cl"
+    },
+    {
+      "name": "ML15RA",
+      "url": "/marvel-refrigeration/ml15ra/parts",
+      "code": "ml15ra"
+    },
+    {
+      "name": "ML15WS",
+      "url": "/marvel-refrigeration/ml15ws/parts",
+      "code": "ml15ws"
+    },
+    {
+      "name": "ML15WSG0",
+      "url": "/marvel-refrigeration/ml15wsg0/parts",
+      "code": "ml15wsg0"
+    },
+    {
+      "name": "ML24BC",
+      "url": "/marvel-refrigeration/ml24bc/parts",
+      "code": "ml24bc"
+    },
+    {
+      "name": "ML24BCG0",
+      "url": "/marvel-refrigeration/ml24bcg0/parts",
+      "code": "ml24bcg0"
+    },
+    {
+      "name": "ML24BN",
+      "url": "/marvel-refrigeration/ml24bn/parts",
+      "code": "ml24bn"
+    },
+    {
+      "name": "ML24BR",
+      "url": "/marvel-refrigeration/ml24br/parts",
+      "code": "ml24br"
+    },
+    {
+      "name": "ML24FA",
+      "url": "/marvel-refrigeration/ml24fa/parts",
+      "code": "ml24fa"
+    },
+    {
+      "name": "ML24RAS1",
+      "url": "/marvel-refrigeration/ml24ras1/parts",
+      "code": "ml24ras1"
+    },
+    {
+      "name": "ML24RAS2",
+      "url": "/marvel-refrigeration/ml24ras2/parts",
+      "code": "ml24ras2"
+    },
+    {
+      "name": "ML24RD",
+      "url": "/marvel-refrigeration/ml24rd/parts",
+      "code": "ml24rd"
+    },
+    {
+      "name": "ML24RF",
+      "url": "/marvel-refrigeration/ml24rf/parts",
+      "code": "ml24rf"
+    },
+    {
+      "name": "ML24RI",
+      "url": "/marvel-refrigeration/ml24ri/parts",
+      "code": "ml24ri"
+    },
+    {
+      "name": "ML24WB",
+      "url": "/marvel-refrigeration/ml24wb/parts",
+      "code": "ml24wb"
+    },
+    {
+      "name": "ML24WD",
+      "url": "/marvel-refrigeration/ml24wd/parts",
+      "code": "ml24wd"
+    },
+    {
+      "name": "ML24WS",
+      "url": "/marvel-refrigeration/ml24ws/parts",
+      "code": "ml24ws"
+    },
+    {
+      "name": "ML24WSG0",
+      "url": "/marvel-refrigeration/ml24wsg0/parts",
+      "code": "ml24wsg0"
+    },
+    {
+      "name": "ML24WSG1",
+      "url": "/marvel-refrigeration/ml24wsg1/parts",
+      "code": "ml24wsg1"
+    },
+    {
+      "name": "MLBV124",
+      "url": "/marvel-refrigeration/mlbv124/parts",
+      "code": "mlbv124"
+    },
+    {
+      "name": "MLBV215",
+      "url": "/marvel-refrigeration/mlbv215/parts",
+      "code": "mlbv215"
+    },
+    {
+      "name": "MLBV224",
+      "url": "/marvel-refrigeration/mlbv224/parts",
+      "code": "mlbv224"
+    },
+    {
+      "name": "MLDR224",
+      "url": "/marvel-refrigeration/mldr224/parts",
+      "code": "mldr224"
+    },
+    {
+      "name": "MLFZ224",
+      "url": "/marvel-refrigeration/mlfz224/parts",
+      "code": "mlfz224"
+    },
+    {
+      "name": "MLKR224",
+      "url": "/marvel-refrigeration/mlkr224/parts",
+      "code": "mlkr224"
+    },
+    {
+      "name": "MLRE024",
+      "url": "/marvel-refrigeration/mlre024/parts",
+      "code": "mlre024"
+    },
+    {
+      "name": "MLRE124",
+      "url": "/marvel-refrigeration/mlre124/parts",
+      "code": "mlre124"
+    },
+    {
+      "name": "MLRE215",
+      "url": "/marvel-refrigeration/mlre215/parts",
+      "code": "mlre215"
+    },
+    {
+      "name": "MLRF224",
+      "url": "/marvel-refrigeration/mlrf224/parts",
+      "code": "mlrf224"
+    },
+    {
+      "name": "MLRI224",
+      "url": "/marvel-refrigeration/mlri224/parts",
+      "code": "mlri224"
+    },
+    {
+      "name": "MLWC115",
+      "url": "/marvel-refrigeration/mlwc115/parts",
+      "code": "mlwc115"
+    },
+    {
+      "name": "MLWC124",
+      "url": "/marvel-refrigeration/mlwc124/parts",
+      "code": "mlwc124"
+    },
+    {
+      "name": "MLWC215",
+      "url": "/marvel-refrigeration/mlwc215/parts",
+      "code": "mlwc215"
+    },
+    {
+      "name": "MLWC224",
+      "url": "/marvel-refrigeration/mlwc224/parts",
+      "code": "mlwc224"
+    },
+    {
+      "name": "MLWC324",
+      "url": "/marvel-refrigeration/mlwc324/parts",
+      "code": "mlwc324"
+    },
+    {
+      "name": "MLWD224",
+      "url": "/marvel-refrigeration/mlwd224/parts",
+      "code": "mlwd224"
+    },
+    {
+      "name": "MO15CL",
+      "url": "/marvel-refrigeration/mo15cl/parts",
+      "code": "mo15cl"
+    },
+    {
+      "name": "MO15RA",
+      "url": "/marvel-refrigeration/mo15ra/parts",
+      "code": "mo15ra"
+    },
+    {
+      "name": "MO24BN",
+      "url": "/marvel-refrigeration/mo24bn/parts",
+      "code": "mo24bn"
+    },
+    {
+      "name": "MO24BNSM",
+      "url": "/marvel-refrigeration/mo24bnsm/parts",
+      "code": "mo24bnsm"
+    },
+    {
+      "name": "MO24FA",
+      "url": "/marvel-refrigeration/mo24fa/parts",
+      "code": "mo24fa"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:27:55.758394"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "KeepRite",
+    "code": "PT_CAT235530",
+    "uri": "keeprite"
+  },
+  "models": [
+    {
+      "name": "BYMC018-024AHWC",
+      "url": "/keeprite/bymc018-024ahwc/parts",
+      "code": "bymc018-024ahwc"
+    },
+    {
+      "name": "BYMD030-036AHWC",
+      "url": "/keeprite/bymd030-036ahwc/parts",
+      "code": "bymd030-036ahwc"
+    },
+    {
+      "name": "CCA724GKA100",
+      "url": "/keeprite/cca724gka100/parts",
+      "code": "cca724gka100"
+    },
+    {
+      "name": "CCA724GKA200",
+      "url": "/keeprite/cca724gka200/parts",
+      "code": "cca724gka200"
+    },
+    {
+      "name": "CCA736GKA100",
+      "url": "/keeprite/cca736gka100/parts",
+      "code": "cca736gka100"
+    },
+    {
+      "name": "CCA736GKA200",
+      "url": "/keeprite/cca736gka200/parts",
+      "code": "cca736gka200"
+    },
+    {
+      "name": "CCA748GKA100",
+      "url": "/keeprite/cca748gka100/parts",
+      "code": "cca748gka100"
+    },
+    {
+      "name": "CCA748GKA200",
+      "url": "/keeprite/cca748gka200/parts",
+      "code": "cca748gka200"
+    },
+    {
+      "name": "CCA760GKA100",
+      "url": "/keeprite/cca760gka100/parts",
+      "code": "cca760gka100"
+    },
+    {
+      "name": "CCA760GKA200",
+      "url": "/keeprite/cca760gka200/parts",
+      "code": "cca760gka200"
+    },
+    {
+      "name": "CCA760GKB101",
+      "url": "/keeprite/cca760gkb101/parts",
+      "code": "cca760gkb101"
+    },
+    {
+      "name": "CCH624GKA100",
+      "url": "/keeprite/cch624gka100/parts",
+      "code": "cch624gka100"
+    },
+    {
+      "name": "CCH624GKA200",
+      "url": "/keeprite/cch624gka200/parts",
+      "code": "cch624gka200"
+    },
+    {
+      "name": "CCH624GKA300",
+      "url": "/keeprite/cch624gka300/parts",
+      "code": "cch624gka300"
+    },
+    {
+      "name": "CCH636GKA100",
+      "url": "/keeprite/cch636gka100/parts",
+      "code": "cch636gka100"
+    },
+    {
+      "name": "CCH636GKA200",
+      "url": "/keeprite/cch636gka200/parts",
+      "code": "cch636gka200"
+    },
+    {
+      "name": "CCH648GKA100",
+      "url": "/keeprite/cch648gka100/parts",
+      "code": "cch648gka100"
+    },
+    {
+      "name": "CCH648GKA200",
+      "url": "/keeprite/cch648gka200/parts",
+      "code": "cch648gka200"
+    },
+    {
+      "name": "CCH660GKA100",
+      "url": "/keeprite/cch660gka100/parts",
+      "code": "cch660gka100"
+    },
+    {
+      "name": "CCH660GKA200",
+      "url": "/keeprite/cch660gka200/parts",
+      "code": "cch660gka200"
+    },
+    {
+      "name": "CSA618GKA100",
+      "url": "/keeprite/csa618gka100/parts",
+      "code": "csa618gka100"
+    },
+    {
+      "name": "CSA624GKA100",
+      "url": "/keeprite/csa624gka100/parts",
+      "code": "csa624gka100"
+    },
+    {
+      "name": "CSA630GKA100",
+      "url": "/keeprite/csa630gka100/parts",
+      "code": "csa630gka100"
+    },
+    {
+      "name": "CSA636GKA100",
+      "url": "/keeprite/csa636gka100/parts",
+      "code": "csa636gka100"
+    },
+    {
+      "name": "CSA642GKA100",
+      "url": "/keeprite/csa642gka100/parts",
+      "code": "csa642gka100"
+    },
+    {
+      "name": "CSA648GKA100",
+      "url": "/keeprite/csa648gka100/parts",
+      "code": "csa648gka100"
+    },
+    {
+      "name": "CSA660GKA100",
+      "url": "/keeprite/csa660gka100/parts",
+      "code": "csa660gka100"
+    },
+    {
+      "name": "CSH418GKA101",
+      "url": "/keeprite/csh418gka101/parts",
+      "code": "csh418gka101"
+    },
+    {
+      "name": "CSH424GKA101",
+      "url": "/keeprite/csh424gka101/parts",
+      "code": "csh424gka101"
+    },
+    {
+      "name": "CSH430GKA101",
+      "url": "/keeprite/csh430gka101/parts",
+      "code": "csh430gka101"
+    },
+    {
+      "name": "CSH436GKA101",
+      "url": "/keeprite/csh436gka101/parts",
+      "code": "csh436gka101"
+    },
+    {
+      "name": "CSH442GKA101",
+      "url": "/keeprite/csh442gka101/parts",
+      "code": "csh442gka101"
+    },
+    {
+      "name": "CSH448GKA101",
+      "url": "/keeprite/csh448gka101/parts",
+      "code": "csh448gka101"
+    },
+    {
+      "name": "CSH460GKA101",
+      "url": "/keeprite/csh460gka101/parts",
+      "code": "csh460gka101"
+    },
+    {
+      "name": "CSH518GKA100",
+      "url": "/keeprite/csh518gka100/parts",
+      "code": "csh518gka100"
+    },
+    {
+      "name": "CSH518GKA200",
+      "url": "/keeprite/csh518gka200/parts",
+      "code": "csh518gka200"
+    },
+    {
+      "name": "CSH524GKA100",
+      "url": "/keeprite/csh524gka100/parts",
+      "code": "csh524gka100"
+    },
+    {
+      "name": "CSH524GKA200",
+      "url": "/keeprite/csh524gka200/parts",
+      "code": "csh524gka200"
+    },
+    {
+      "name": "CSH524HKA100",
+      "url": "/keeprite/csh524hka100/parts",
+      "code": "csh524hka100"
+    },
+    {
+      "name": "CSH524HKA200",
+      "url": "/keeprite/csh524hka200/parts",
+      "code": "csh524hka200"
+    },
+    {
+      "name": "CSH530GKA100",
+      "url": "/keeprite/csh530gka100/parts",
+      "code": "csh530gka100"
+    },
+    {
+      "name": "CSH530GKA200",
+      "url": "/keeprite/csh530gka200/parts",
+      "code": "csh530gka200"
+    },
+    {
+      "name": "CSH530HKA100",
+      "url": "/keeprite/csh530hka100/parts",
+      "code": "csh530hka100"
+    },
+    {
+      "name": "CSH530HKA200",
+      "url": "/keeprite/csh530hka200/parts",
+      "code": "csh530hka200"
+    },
+    {
+      "name": "CSH536GKA100",
+      "url": "/keeprite/csh536gka100/parts",
+      "code": "csh536gka100"
+    },
+    {
+      "name": "CSH536GKA200",
+      "url": "/keeprite/csh536gka200/parts",
+      "code": "csh536gka200"
+    },
+    {
+      "name": "CSH536HKA100",
+      "url": "/keeprite/csh536hka100/parts",
+      "code": "csh536hka100"
+    },
+    {
+      "name": "CSH536HKA200",
+      "url": "/keeprite/csh536hka200/parts",
+      "code": "csh536hka200"
+    },
+    {
+      "name": "CSH542GKA100",
+      "url": "/keeprite/csh542gka100/parts",
+      "code": "csh542gka100"
+    },
+    {
+      "name": "CSH542GKA200",
+      "url": "/keeprite/csh542gka200/parts",
+      "code": "csh542gka200"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:12:19.610472"
+}

@@ -1,0 +1,41 @@
+{
+  "manufacturer": {
+    "name": "JBT",
+    "code": "PT_CAT243170",
+    "uri": "jbt"
+  },
+  "models": [
+    {
+      "name": "CJ",
+      "url": "/jbt/cj/parts",
+      "code": "cj"
+    },
+    {
+      "name": "MFJ",
+      "url": "/jbt/mfj/parts",
+      "code": "mfj"
+    },
+    {
+      "name": "MFJ 2nd Generation",
+      "url": "/jbt/mfj-2nd-generation/parts",
+      "code": "mfj-2nd-generation"
+    },
+    {
+      "name": "MFJ1",
+      "url": "/jbt/mfj1/parts",
+      "code": "mfj1"
+    },
+    {
+      "name": "POS-1",
+      "url": "/jbt/pos-1/parts",
+      "code": "pos-1"
+    },
+    {
+      "name": "PPJ",
+      "url": "/jbt/ppj/parts",
+      "code": "ppj"
+    }
+  ],
+  "total_models": 6,
+  "cached_at": "2025-08-14T19:08:25.356476"
+}

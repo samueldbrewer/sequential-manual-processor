@@ -1,0 +1,66 @@
+{
+  "manufacturer": {
+    "name": "Beech Ovens",
+    "code": "PT_CAT47966",
+    "uri": "beech-ovens"
+  },
+  "models": [
+    {
+      "name": "REC SERIES",
+      "url": "/beech-ovens/rec-series/parts",
+      "code": "rec-series"
+    },
+    {
+      "name": "REC0700",
+      "url": "/beech-ovens/rec0700/parts",
+      "code": "rec0700"
+    },
+    {
+      "name": "REC0850",
+      "url": "/beech-ovens/rec0850/parts",
+      "code": "rec0850"
+    },
+    {
+      "name": "REC1250",
+      "url": "/beech-ovens/rec1250/parts",
+      "code": "rec1250"
+    },
+    {
+      "name": "RGO1250",
+      "url": "/beech-ovens/rgo1250/parts",
+      "code": "rgo1250"
+    },
+    {
+      "name": "RND SERIES",
+      "url": "/beech-ovens/rnd-series/parts",
+      "code": "rnd-series"
+    },
+    {
+      "name": "RND0900",
+      "url": "/beech-ovens/rnd0900/parts",
+      "code": "rnd0900"
+    },
+    {
+      "name": "RND1100",
+      "url": "/beech-ovens/rnd1100/parts",
+      "code": "rnd1100"
+    },
+    {
+      "name": "RND1300",
+      "url": "/beech-ovens/rnd1300/parts",
+      "code": "rnd1300"
+    },
+    {
+      "name": "RND1500",
+      "url": "/beech-ovens/rnd1500/parts",
+      "code": "rnd1500"
+    },
+    {
+      "name": "RND1800",
+      "url": "/beech-ovens/rnd1800/parts",
+      "code": "rnd1800"
+    }
+  ],
+  "total_models": 11,
+  "cached_at": "2025-08-14T17:52:24.013125"
+}

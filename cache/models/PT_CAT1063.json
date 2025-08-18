@@ -1,0 +1,181 @@
+{
+  "manufacturer": {
+    "name": "Electrofreeze",
+    "code": "PT_CAT1063",
+    "uri": "electrofreeze"
+  },
+  "models": [
+    {
+      "name": "145",
+      "url": "/electrofreeze/145/parts",
+      "code": "145"
+    },
+    {
+      "name": "145RH",
+      "url": "/electrofreeze/145rh/parts",
+      "code": "145rh"
+    },
+    {
+      "name": "195",
+      "url": "/electrofreeze/195/parts",
+      "code": "195"
+    },
+    {
+      "name": "30RMT",
+      "url": "/electrofreeze/30rmt/parts",
+      "code": "30rmt"
+    },
+    {
+      "name": "30T-CMT",
+      "url": "/electrofreeze/30t-cmt/parts",
+      "code": "30t-cmt"
+    },
+    {
+      "name": "30T-RMT",
+      "url": "/electrofreeze/30t-rmt/parts",
+      "code": "30t-rmt"
+    },
+    {
+      "name": "78RMT",
+      "url": "/electrofreeze/78rmt/parts",
+      "code": "78rmt"
+    },
+    {
+      "name": "812",
+      "url": "/electrofreeze/812/parts",
+      "code": "812"
+    },
+    {
+      "name": "816C",
+      "url": "/electrofreeze/816c/parts",
+      "code": "816c"
+    },
+    {
+      "name": "876",
+      "url": "/electrofreeze/876/parts",
+      "code": "876"
+    },
+    {
+      "name": "876RH",
+      "url": "/electrofreeze/876rh/parts",
+      "code": "876rh"
+    },
+    {
+      "name": "88RMT",
+      "url": "/electrofreeze/88rmt/parts",
+      "code": "88rmt"
+    },
+    {
+      "name": "957RMT",
+      "url": "/electrofreeze/957rmt/parts",
+      "code": "957rmt"
+    },
+    {
+      "name": "99T-RMT",
+      "url": "/electrofreeze/99t-rmt/parts",
+      "code": "99t-rmt"
+    },
+    {
+      "name": "B12",
+      "url": "/electrofreeze/b12/parts",
+      "code": "b12"
+    },
+    {
+      "name": "B24",
+      "url": "/electrofreeze/b24/parts",
+      "code": "b24"
+    },
+    {
+      "name": "CS4",
+      "url": "/electrofreeze/cs4/parts",
+      "code": "cs4"
+    },
+    {
+      "name": "CS600",
+      "url": "/electrofreeze/cs600/parts",
+      "code": "cs600"
+    },
+    {
+      "name": "CS700",
+      "url": "/electrofreeze/cs700/parts",
+      "code": "cs700"
+    },
+    {
+      "name": "CS700-FG",
+      "url": "/electrofreeze/cs700-fg/parts",
+      "code": "cs700-fg"
+    },
+    {
+      "name": "CS704",
+      "url": "/electrofreeze/cs704/parts",
+      "code": "cs704"
+    },
+    {
+      "name": "CS705",
+      "url": "/electrofreeze/cs705/parts",
+      "code": "cs705"
+    },
+    {
+      "name": "GEN-101",
+      "url": "/electrofreeze/gen-101/parts",
+      "code": "gen-101"
+    },
+    {
+      "name": "GEN-102",
+      "url": "/electrofreeze/gen-102/parts",
+      "code": "gen-102"
+    },
+    {
+      "name": "GEN-103",
+      "url": "/electrofreeze/gen-103/parts",
+      "code": "gen-103"
+    },
+    {
+      "name": "GEN-5099",
+      "url": "/electrofreeze/gen-5099/parts",
+      "code": "gen-5099"
+    },
+    {
+      "name": "GEN-5400",
+      "url": "/electrofreeze/gen-5400/parts",
+      "code": "gen-5400"
+    },
+    {
+      "name": "GES-102",
+      "url": "/electrofreeze/ges-102/parts",
+      "code": "ges-102"
+    },
+    {
+      "name": "GES-103",
+      "url": "/electrofreeze/ges-103/parts",
+      "code": "ges-103"
+    },
+    {
+      "name": "HDM75A",
+      "url": "/electrofreeze/hdm75a/parts",
+      "code": "hdm75a"
+    },
+    {
+      "name": "HDM75A-1",
+      "url": "/electrofreeze/hdm75a-1/parts",
+      "code": "hdm75a-1"
+    },
+    {
+      "name": "SLX400",
+      "url": "/electrofreeze/slx400/parts",
+      "code": "slx400"
+    },
+    {
+      "name": "SLX400E",
+      "url": "/electrofreeze/slx400e/parts",
+      "code": "slx400e"
+    },
+    {
+      "name": "SLX500",
+      "url": "/electrofreeze/slx500/parts",
+      "code": "slx500"
+    }
+  ],
+  "total_models": 34,
+  "cached_at": "2025-08-14T18:25:55.998078"
+}

@@ -1,0 +1,196 @@
+{
+  "manufacturer": {
+    "name": "Power Soak Systems Inc",
+    "code": "PT_CAT20079",
+    "uri": "power-soak-systems-inc"
+  },
+  "models": [
+    {
+      "name": "200PSS120L21D1",
+      "url": "/power-soak-systems-inc/200pss120l21d1/parts",
+      "code": "200pss120l21d1"
+    },
+    {
+      "name": "212-2095",
+      "url": "/power-soak-systems-inc/212-2095/parts",
+      "code": "212-2095"
+    },
+    {
+      "name": "26155",
+      "url": "/power-soak-systems-inc/26155/parts",
+      "code": "26155"
+    },
+    {
+      "name": "26980",
+      "url": "/power-soak-systems-inc/26980/parts",
+      "code": "26980"
+    },
+    {
+      "name": "26981",
+      "url": "/power-soak-systems-inc/26981/parts",
+      "code": "26981"
+    },
+    {
+      "name": "26982",
+      "url": "/power-soak-systems-inc/26982/parts",
+      "code": "26982"
+    },
+    {
+      "name": "26983",
+      "url": "/power-soak-systems-inc/26983/parts",
+      "code": "26983"
+    },
+    {
+      "name": "26984",
+      "url": "/power-soak-systems-inc/26984/parts",
+      "code": "26984"
+    },
+    {
+      "name": "26985",
+      "url": "/power-soak-systems-inc/26985/parts",
+      "code": "26985"
+    },
+    {
+      "name": "26986",
+      "url": "/power-soak-systems-inc/26986/parts",
+      "code": "26986"
+    },
+    {
+      "name": "29132",
+      "url": "/power-soak-systems-inc/29132/parts",
+      "code": "29132"
+    },
+    {
+      "name": "33615",
+      "url": "/power-soak-systems-inc/33615/parts",
+      "code": "33615"
+    },
+    {
+      "name": "B-220",
+      "url": "/power-soak-systems-inc/b-220/parts",
+      "code": "b-220"
+    },
+    {
+      "name": "MX-220",
+      "url": "/power-soak-systems-inc/mx-220/parts",
+      "code": "mx-220"
+    },
+    {
+      "name": "MX-220-H",
+      "url": "/power-soak-systems-inc/mx-220-h/parts",
+      "code": "mx-220-h"
+    },
+    {
+      "name": "MX-220-HT",
+      "url": "/power-soak-systems-inc/mx-220-ht/parts",
+      "code": "mx-220-ht"
+    },
+    {
+      "name": "MX-220-HTS",
+      "url": "/power-soak-systems-inc/mx-220-hts/parts",
+      "code": "mx-220-hts"
+    },
+    {
+      "name": "MX-220-T",
+      "url": "/power-soak-systems-inc/mx-220-t/parts",
+      "code": "mx-220-t"
+    },
+    {
+      "name": "PCD-2",
+      "url": "/power-soak-systems-inc/pcd-2/parts",
+      "code": "pcd-2"
+    },
+    {
+      "name": "PPU2B-66L-208-1",
+      "url": "/power-soak-systems-inc/ppu2b-66l-208-1/parts",
+      "code": "ppu2b-66l-208-1"
+    },
+    {
+      "name": "PPU2B-66L-208-3",
+      "url": "/power-soak-systems-inc/ppu2b-66l-208-3/parts",
+      "code": "ppu2b-66l-208-3"
+    },
+    {
+      "name": "PPU2B-66L-230-1",
+      "url": "/power-soak-systems-inc/ppu2b-66l-230-1/parts",
+      "code": "ppu2b-66l-230-1"
+    },
+    {
+      "name": "PPU2B-66L-230-3",
+      "url": "/power-soak-systems-inc/ppu2b-66l-230-3/parts",
+      "code": "ppu2b-66l-230-3"
+    },
+    {
+      "name": "PPU2B-66L-480-3",
+      "url": "/power-soak-systems-inc/ppu2b-66l-480-3/parts",
+      "code": "ppu2b-66l-480-3"
+    },
+    {
+      "name": "PPU2B-66R-208-1",
+      "url": "/power-soak-systems-inc/ppu2b-66r-208-1/parts",
+      "code": "ppu2b-66r-208-1"
+    },
+    {
+      "name": "PPU2B-66R-208-3",
+      "url": "/power-soak-systems-inc/ppu2b-66r-208-3/parts",
+      "code": "ppu2b-66r-208-3"
+    },
+    {
+      "name": "PPU2B-66R-230-1",
+      "url": "/power-soak-systems-inc/ppu2b-66r-230-1/parts",
+      "code": "ppu2b-66r-230-1"
+    },
+    {
+      "name": "PPU2B-66R-230-3",
+      "url": "/power-soak-systems-inc/ppu2b-66r-230-3/parts",
+      "code": "ppu2b-66r-230-3"
+    },
+    {
+      "name": "PPU2B-66R-480-3",
+      "url": "/power-soak-systems-inc/ppu2b-66r-480-3/parts",
+      "code": "ppu2b-66r-480-3"
+    },
+    {
+      "name": "PS-100",
+      "url": "/power-soak-systems-inc/ps-100/parts",
+      "code": "ps-100"
+    },
+    {
+      "name": "PS-200",
+      "url": "/power-soak-systems-inc/ps-200/parts",
+      "code": "ps-200"
+    },
+    {
+      "name": "PS-201",
+      "url": "/power-soak-systems-inc/ps-201/parts",
+      "code": "ps-201"
+    },
+    {
+      "name": "PS-225",
+      "url": "/power-soak-systems-inc/ps-225/parts",
+      "code": "ps-225"
+    },
+    {
+      "name": "PS-275",
+      "url": "/power-soak-systems-inc/ps-275/parts",
+      "code": "ps-275"
+    },
+    {
+      "name": "PS-50",
+      "url": "/power-soak-systems-inc/ps-50/parts",
+      "code": "ps-50"
+    },
+    {
+      "name": "PS-50-FG",
+      "url": "/power-soak-systems-inc/ps-50-fg/parts",
+      "code": "ps-50-fg"
+    },
+    {
+      "name": "SI-100",
+      "url": "/power-soak-systems-inc/si-100/parts",
+      "code": "si-100"
+    }
+  ],
+  "total_models": 37,
+  "cached_at": "2025-08-14T19:50:35.908015"
+}

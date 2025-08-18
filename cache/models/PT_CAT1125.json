@@ -1,0 +1,121 @@
+{
+  "manufacturer": {
+    "name": "Kairak",
+    "code": "PT_CAT1125",
+    "uri": "kairak"
+  },
+  "models": [
+    {
+      "name": "KE-036",
+      "url": "/kairak/ke-036/parts",
+      "code": "ke-036"
+    },
+    {
+      "name": "KE-048",
+      "url": "/kairak/ke-048/parts",
+      "code": "ke-048"
+    },
+    {
+      "name": "KE-060",
+      "url": "/kairak/ke-060/parts",
+      "code": "ke-060"
+    },
+    {
+      "name": "KE-065",
+      "url": "/kairak/ke-065/parts",
+      "code": "ke-065"
+    },
+    {
+      "name": "KE-072",
+      "url": "/kairak/ke-072/parts",
+      "code": "ke-072"
+    },
+    {
+      "name": "KE-084",
+      "url": "/kairak/ke-084/parts",
+      "code": "ke-084"
+    },
+    {
+      "name": "KE-096",
+      "url": "/kairak/ke-096/parts",
+      "code": "ke-096"
+    },
+    {
+      "name": "KE-110",
+      "url": "/kairak/ke-110/parts",
+      "code": "ke-110"
+    },
+    {
+      "name": "KE-125",
+      "url": "/kairak/ke-125/parts",
+      "code": "ke-125"
+    },
+    {
+      "name": "KE-139",
+      "url": "/kairak/ke-139/parts",
+      "code": "ke-139"
+    },
+    {
+      "name": "KRD-25 to KRD-143",
+      "url": "/kairak/krd-25-to-krd-143/parts",
+      "code": "krd-25-to-krd-143"
+    },
+    {
+      "name": "KRES-38 to KRES-144",
+      "url": "/kairak/kres-38-to-kres-144/parts",
+      "code": "kres-38-to-kres-144"
+    },
+    {
+      "name": "KRI-108SM",
+      "url": "/kairak/kri-108sm/parts",
+      "code": "kri-108sm"
+    },
+    {
+      "name": "KRP-19-S",
+      "url": "/kairak/krp-19-s/parts",
+      "code": "krp-19-s"
+    },
+    {
+      "name": "KRP-27 to KRP-36",
+      "url": "/kairak/krp-27-to-krp-36/parts",
+      "code": "krp-27-to-krp-36"
+    },
+    {
+      "name": "KRP-35S",
+      "url": "/kairak/krp-35s/parts",
+      "code": "krp-35s"
+    },
+    {
+      "name": "KRP-42 to KRP-45",
+      "url": "/kairak/krp-42-to-krp-45/parts",
+      "code": "krp-42-to-krp-45"
+    },
+    {
+      "name": "KRP-48 to KRP-120",
+      "url": "/kairak/krp-48-to-krp-120/parts",
+      "code": "krp-48-to-krp-120"
+    },
+    {
+      "name": "KRP-96-SM",
+      "url": "/kairak/krp-96-sm/parts",
+      "code": "krp-96-sm"
+    },
+    {
+      "name": "KRP-96S",
+      "url": "/kairak/krp-96s/parts",
+      "code": "krp-96s"
+    },
+    {
+      "name": "KRS-36 to KRS-60",
+      "url": "/kairak/krs-36-to-krs-60/parts",
+      "code": "krs-36-to-krs-60"
+    },
+    {
+      "name": "KRS-75 to KRS-90S",
+      "url": "/kairak/krs-75-to-krs-90s/parts",
+      "code": "krs-75-to-krs-90s"
+    }
+  ],
+  "total_models": 22,
+  "cached_at": "2025-08-14T19:10:05.662604"
+}

@@ -1,0 +1,66 @@
+{
+  "manufacturer": {
+    "name": "Imbera",
+    "code": "PT_CAT281875",
+    "uri": "imbera"
+  },
+  "models": [
+    {
+      "name": "G319",
+      "url": "/imbera/g319/parts",
+      "code": "g319"
+    },
+    {
+      "name": "G372",
+      "url": "/imbera/g372/parts",
+      "code": "g372"
+    },
+    {
+      "name": "VFD43",
+      "url": "/imbera/vfd43/parts",
+      "code": "vfd43"
+    },
+    {
+      "name": "VFS24",
+      "url": "/imbera/vfs24/parts",
+      "code": "vfs24"
+    },
+    {
+      "name": "VR06",
+      "url": "/imbera/vr06/parts",
+      "code": "vr06"
+    },
+    {
+      "name": "VR08",
+      "url": "/imbera/vr08/parts",
+      "code": "vr08"
+    },
+    {
+      "name": "VR12",
+      "url": "/imbera/vr12/parts",
+      "code": "vr12"
+    },
+    {
+      "name": "VR43",
+      "url": "/imbera/vr43/parts",
+      "code": "vr43"
+    },
+    {
+      "name": "VRD26",
+      "url": "/imbera/vrd26/parts",
+      "code": "vrd26"
+    },
+    {
+      "name": "VRD37",
+      "url": "/imbera/vrd37/parts",
+      "code": "vrd37"
+    },
+    {
+      "name": "VRD43",
+      "url": "/imbera/vrd43/parts",
+      "code": "vrd43"
+    }
+  ],
+  "total_models": 11,
+  "cached_at": "2025-08-14T19:05:36.075867"
+}

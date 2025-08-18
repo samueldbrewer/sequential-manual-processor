@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Goodman",
+    "code": "PT_CAT223825",
+    "uri": "goodman"
+  },
+  "models": [
+    {
+      "name": "A18-08",
+      "url": "/goodman/a18-08/parts",
+      "code": "a18-08"
+    },
+    {
+      "name": "A24-05",
+      "url": "/goodman/a24-05/parts",
+      "code": "a24-05"
+    },
+    {
+      "name": "A24-08",
+      "url": "/goodman/a24-08/parts",
+      "code": "a24-08"
+    },
+    {
+      "name": "A24-08C",
+      "url": "/goodman/a24-08c/parts",
+      "code": "a24-08c"
+    },
+    {
+      "name": "A24-10",
+      "url": "/goodman/a24-10/parts",
+      "code": "a24-10"
+    },
+    {
+      "name": "A24-10C",
+      "url": "/goodman/a24-10c/parts",
+      "code": "a24-10c"
+    },
+    {
+      "name": "A30-05",
+      "url": "/goodman/a30-05/parts",
+      "code": "a30-05"
+    },
+    {
+      "name": "A30-08",
+      "url": "/goodman/a30-08/parts",
+      "code": "a30-08"
+    },
+    {
+      "name": "A30-08C",
+      "url": "/goodman/a30-08c/parts",
+      "code": "a30-08c"
+    },
+    {
+      "name": "A30-10",
+      "url": "/goodman/a30-10/parts",
+      "code": "a30-10"
+    },
+    {
+      "name": "A30-10C",
+      "url": "/goodman/a30-10c/parts",
+      "code": "a30-10c"
+    },
+    {
+      "name": "A30-15",
+      "url": "/goodman/a30-15/parts",
+      "code": "a30-15"
+    },
+    {
+      "name": "A32-03",
+      "url": "/goodman/a32-03/parts",
+      "code": "a32-03"
+    },
+    {
+      "name": "A32-05",
+      "url": "/goodman/a32-05/parts",
+      "code": "a32-05"
+    },
+    {
+      "name": "A32-10",
+      "url": "/goodman/a32-10/parts",
+      "code": "a32-10"
+    },
+    {
+      "name": "A32-15",
+      "url": "/goodman/a32-15/parts",
+      "code": "a32-15"
+    },
+    {
+      "name": "A36-05C",
+      "url": "/goodman/a36-05c/parts",
+      "code": "a36-05c"
+    },
+    {
+      "name": "A36-06",
+      "url": "/goodman/a36-06/parts",
+      "code": "a36-06"
+    },
+    {
+      "name": "A36-08",
+      "url": "/goodman/a36-08/parts",
+      "code": "a36-08"
+    },
+    {
+      "name": "A36-08C",
+      "url": "/goodman/a36-08c/parts",
+      "code": "a36-08c"
+    },
+    {
+      "name": "A36-10C",
+      "url": "/goodman/a36-10c/parts",
+      "code": "a36-10c"
+    },
+    {
+      "name": "A36-15",
+      "url": "/goodman/a36-15/parts",
+      "code": "a36-15"
+    },
+    {
+      "name": "A36-20",
+      "url": "/goodman/a36-20/parts",
+      "code": "a36-20"
+    },
+    {
+      "name": "A42-08C",
+      "url": "/goodman/a42-08c/parts",
+      "code": "a42-08c"
+    },
+    {
+      "name": "A42-15",
+      "url": "/goodman/a42-15/parts",
+      "code": "a42-15"
+    },
+    {
+      "name": "A42-20",
+      "url": "/goodman/a42-20/parts",
+      "code": "a42-20"
+    },
+    {
+      "name": "A48-00-2RC",
+      "url": "/goodman/a48-00-2rc/parts",
+      "code": "a48-00-2rc"
+    },
+    {
+      "name": "A48-10",
+      "url": "/goodman/a48-10/parts",
+      "code": "a48-10"
+    },
+    {
+      "name": "A48-15",
+      "url": "/goodman/a48-15/parts",
+      "code": "a48-15"
+    },
+    {
+      "name": "A48-20",
+      "url": "/goodman/a48-20/parts",
+      "code": "a48-20"
+    },
+    {
+      "name": "A49-08",
+      "url": "/goodman/a49-08/parts",
+      "code": "a49-08"
+    },
+    {
+      "name": "A49-08C",
+      "url": "/goodman/a49-08c/parts",
+      "code": "a49-08c"
+    },
+    {
+      "name": "A49-10",
+      "url": "/goodman/a49-10/parts",
+      "code": "a49-10"
+    },
+    {
+      "name": "A49-15",
+      "url": "/goodman/a49-15/parts",
+      "code": "a49-15"
+    },
+    {
+      "name": "A49-20",
+      "url": "/goodman/a49-20/parts",
+      "code": "a49-20"
+    },
+    {
+      "name": "A60-00-2RC",
+      "url": "/goodman/a60-00-2rc/parts",
+      "code": "a60-00-2rc"
+    },
+    {
+      "name": "A60-10",
+      "url": "/goodman/a60-10/parts",
+      "code": "a60-10"
+    },
+    {
+      "name": "A60-15",
+      "url": "/goodman/a60-15/parts",
+      "code": "a60-15"
+    },
+    {
+      "name": "A60-20",
+      "url": "/goodman/a60-20/parts",
+      "code": "a60-20"
+    },
+    {
+      "name": "A61-00",
+      "url": "/goodman/a61-00/parts",
+      "code": "a61-00"
+    },
+    {
+      "name": "A61-10",
+      "url": "/goodman/a61-10/parts",
+      "code": "a61-10"
+    },
+    {
+      "name": "A61-15",
+      "url": "/goodman/a61-15/parts",
+      "code": "a61-15"
+    },
+    {
+      "name": "A61-20",
+      "url": "/goodman/a61-20/parts",
+      "code": "a61-20"
+    },
+    {
+      "name": "ACEC800403AXAA",
+      "url": "/goodman/acec800403axaa/parts",
+      "code": "acec800403axaa"
+    },
+    {
+      "name": "ACEC800403AXAB",
+      "url": "/goodman/acec800403axab/parts",
+      "code": "acec800403axab"
+    },
+    {
+      "name": "ACEC800603AXAA",
+      "url": "/goodman/acec800603axaa/parts",
+      "code": "acec800603axaa"
+    },
+    {
+      "name": "ACEC800603AXAB",
+      "url": "/goodman/acec800603axab/parts",
+      "code": "acec800603axab"
+    },
+    {
+      "name": "ACEC800603BXAA",
+      "url": "/goodman/acec800603bxaa/parts",
+      "code": "acec800603bxaa"
+    },
+    {
+      "name": "ACEC800603BXAB",
+      "url": "/goodman/acec800603bxab/parts",
+      "code": "acec800603bxab"
+    },
+    {
+      "name": "ACEC800804BXAA",
+      "url": "/goodman/acec800804bxaa/parts",
+      "code": "acec800804bxaa"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:47:18.770497"
+}

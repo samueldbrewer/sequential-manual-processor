@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Accurex",
+    "code": "PT_CAT243289",
+    "uri": "accurex"
+  },
+  "models": [
+    {
+      "name": "Auto Scrubber",
+      "url": "/accurex/auto-scrubber/parts",
+      "code": "auto-scrubber"
+    },
+    {
+      "name": "Grease Trapper ESP",
+      "url": "/accurex/grease-trapper-esp/parts",
+      "code": "grease-trapper-esp"
+    },
+    {
+      "name": "Kitchen Hood",
+      "url": "/accurex/kitchen-hood/parts",
+      "code": "kitchen-hood"
+    },
+    {
+      "name": "Waterwash Hood",
+      "url": "/accurex/waterwash-hood/parts",
+      "code": "waterwash-hood"
+    },
+    {
+      "name": "XBCW",
+      "url": "/accurex/xbcw/parts",
+      "code": "xbcw"
+    },
+    {
+      "name": "XBDV",
+      "url": "/accurex/xbdv/parts",
+      "code": "xbdv"
+    },
+    {
+      "name": "XBDW",
+      "url": "/accurex/xbdw/parts",
+      "code": "xbdw"
+    },
+    {
+      "name": "XBEP",
+      "url": "/accurex/xbep/parts",
+      "code": "xbep"
+    },
+    {
+      "name": "XBEV",
+      "url": "/accurex/xbev/parts",
+      "code": "xbev"
+    },
+    {
+      "name": "XBEW",
+      "url": "/accurex/xbew/parts",
+      "code": "xbew"
+    },
+    {
+      "name": "XBFV",
+      "url": "/accurex/xbfv/parts",
+      "code": "xbfv"
+    },
+    {
+      "name": "XBRW",
+      "url": "/accurex/xbrw/parts",
+      "code": "xbrw"
+    },
+    {
+      "name": "XBSW",
+      "url": "/accurex/xbsw/parts",
+      "code": "xbsw"
+    },
+    {
+      "name": "XCR-A",
+      "url": "/accurex/xcr-a/parts",
+      "code": "xcr-a"
+    },
+    {
+      "name": "XCR-B",
+      "url": "/accurex/xcr-b/parts",
+      "code": "xcr-b"
+    },
+    {
+      "name": "XCR-C",
+      "url": "/accurex/xcr-c/parts",
+      "code": "xcr-c"
+    },
+    {
+      "name": "XCUBE",
+      "url": "/accurex/xcube/parts",
+      "code": "xcube"
+    },
+    {
+      "name": "XCUE",
+      "url": "/accurex/xcue/parts",
+      "code": "xcue"
+    },
+    {
+      "name": "XD1",
+      "url": "/accurex/xd1/parts",
+      "code": "xd1"
+    },
+    {
+      "name": "XD2",
+      "url": "/accurex/xd2/parts",
+      "code": "xd2"
+    },
+    {
+      "name": "XD3",
+      "url": "/accurex/xd3/parts",
+      "code": "xd3"
+    },
+    {
+      "name": "XDG",
+      "url": "/accurex/xdg/parts",
+      "code": "xdg"
+    },
+    {
+      "name": "XDGX",
+      "url": "/accurex/xdgx/parts",
+      "code": "xdgx"
+    },
+    {
+      "name": "XGCW",
+      "url": "/accurex/xgcw/parts",
+      "code": "xgcw"
+    },
+    {
+      "name": "XGDV",
+      "url": "/accurex/xgdv/parts",
+      "code": "xgdv"
+    },
+    {
+      "name": "XGDW",
+      "url": "/accurex/xgdw/parts",
+      "code": "xgdw"
+    },
+    {
+      "name": "XGEP",
+      "url": "/accurex/xgep/parts",
+      "code": "xgep"
+    },
+    {
+      "name": "XGEV",
+      "url": "/accurex/xgev/parts",
+      "code": "xgev"
+    },
+    {
+      "name": "XGEW",
+      "url": "/accurex/xgew/parts",
+      "code": "xgew"
+    },
+    {
+      "name": "XGH2O",
+      "url": "/accurex/xgh2o/parts",
+      "code": "xgh2o"
+    },
+    {
+      "name": "XGRW",
+      "url": "/accurex/xgrw/parts",
+      "code": "xgrw"
+    },
+    {
+      "name": "XGSW",
+      "url": "/accurex/xgsw/parts",
+      "code": "xgsw"
+    },
+    {
+      "name": "XIGX",
+      "url": "/accurex/xigx/parts",
+      "code": "xigx"
+    },
+    {
+      "name": "XIR-A",
+      "url": "/accurex/xir-a/parts",
+      "code": "xir-a"
+    },
+    {
+      "name": "XIR-B",
+      "url": "/accurex/xir-b/parts",
+      "code": "xir-b"
+    },
+    {
+      "name": "XKC-CV",
+      "url": "/accurex/xkc-cv/parts",
+      "code": "xkc-cv"
+    },
+    {
+      "name": "XKC-DCV",
+      "url": "/accurex/xkc-dcv/parts",
+      "code": "xkc-dcv"
+    },
+    {
+      "name": "XKCW",
+      "url": "/accurex/xkcw/parts",
+      "code": "xkcw"
+    },
+    {
+      "name": "XKDV",
+      "url": "/accurex/xkdv/parts",
+      "code": "xkdv"
+    },
+    {
+      "name": "XKDW",
+      "url": "/accurex/xkdw/parts",
+      "code": "xkdw"
+    },
+    {
+      "name": "XKEP",
+      "url": "/accurex/xkep/parts",
+      "code": "xkep"
+    },
+    {
+      "name": "XKEV",
+      "url": "/accurex/xkev/parts",
+      "code": "xkev"
+    },
+    {
+      "name": "XKEW",
+      "url": "/accurex/xkew/parts",
+      "code": "xkew"
+    },
+    {
+      "name": "XKFV",
+      "url": "/accurex/xkfv/parts",
+      "code": "xkfv"
+    },
+    {
+      "name": "XKRW",
+      "url": "/accurex/xkrw/parts",
+      "code": "xkrw"
+    },
+    {
+      "name": "XKSW",
+      "url": "/accurex/xksw/parts",
+      "code": "xksw"
+    },
+    {
+      "name": "XMSX",
+      "url": "/accurex/xmsx/parts",
+      "code": "xmsx"
+    },
+    {
+      "name": "XO",
+      "url": "/accurex/xo/parts",
+      "code": "xo"
+    },
+    {
+      "name": "XREB",
+      "url": "/accurex/xreb/parts",
+      "code": "xreb"
+    },
+    {
+      "name": "XRED",
+      "url": "/accurex/xred/parts",
+      "code": "xred"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:34:43.673765"
+}

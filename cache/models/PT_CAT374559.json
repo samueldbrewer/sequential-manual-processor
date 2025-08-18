@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT374559",
+    "name": "Utica-Dunkirk",
+    "uri": "utica-dunkirk"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:57:10.521041",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

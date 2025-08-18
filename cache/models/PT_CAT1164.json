@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "Q Infrared Ovens",
+    "code": "PT_CAT1164",
+    "uri": "q-infrared-ovens"
+  },
+  "models": [
+    {
+      "name": "Q-20ECT",
+      "url": "/q-infrared-ovens/q-20ect/parts",
+      "code": "q-20ect"
+    },
+    {
+      "name": "Q-20ECTW",
+      "url": "/q-infrared-ovens/q-20ectw/parts",
+      "code": "q-20ectw"
+    },
+    {
+      "name": "Q-36",
+      "url": "/q-infrared-ovens/q-36/parts",
+      "code": "q-36"
+    },
+    {
+      "name": "Q-36H",
+      "url": "/q-infrared-ovens/q-36h/parts",
+      "code": "q-36h"
+    },
+    {
+      "name": "Q-36W",
+      "url": "/q-infrared-ovens/q-36w/parts",
+      "code": "q-36w"
+    },
+    {
+      "name": "Q-36WH",
+      "url": "/q-infrared-ovens/q-36wh/parts",
+      "code": "q-36wh"
+    },
+    {
+      "name": "QII-40",
+      "url": "/q-infrared-ovens/qii-40/parts",
+      "code": "qii-40"
+    },
+    {
+      "name": "QII-55",
+      "url": "/q-infrared-ovens/qii-55/parts",
+      "code": "qii-55"
+    },
+    {
+      "name": "QII-80",
+      "url": "/q-infrared-ovens/qii-80/parts",
+      "code": "qii-80"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T19:53:31.799323"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Biro",
+    "code": "PT_CAT48073",
+    "uri": "biro"
+  },
+  "models": [
+    {
+      "name": "1056",
+      "url": "/biro/1056/parts",
+      "code": "1056"
+    },
+    {
+      "name": "109PC",
+      "url": "/biro/109pc/parts",
+      "code": "109pc"
+    },
+    {
+      "name": "109PCM",
+      "url": "/biro/109pcm/parts",
+      "code": "109pcm"
+    },
+    {
+      "name": "11",
+      "url": "/biro/11/parts",
+      "code": "11"
+    },
+    {
+      "name": "1433",
+      "url": "/biro/1433/parts",
+      "code": "1433"
+    },
+    {
+      "name": "1433FH",
+      "url": "/biro/1433fh/parts",
+      "code": "1433fh"
+    },
+    {
+      "name": "1556",
+      "url": "/biro/1556/parts",
+      "code": "1556"
+    },
+    {
+      "name": "22",
+      "url": "/biro/22/parts",
+      "code": "22"
+    },
+    {
+      "name": "31PC",
+      "url": "/biro/31pc/parts",
+      "code": "31pc"
+    },
+    {
+      "name": "33",
+      "url": "/biro/33/parts",
+      "code": "33"
+    },
+    {
+      "name": "3334",
+      "url": "/biro/3334/parts",
+      "code": "3334"
+    },
+    {
+      "name": "3334-4003",
+      "url": "/biro/3334-4003/parts",
+      "code": "3334-4003"
+    },
+    {
+      "name": "3334-4003FH",
+      "url": "/biro/3334-4003fh/parts",
+      "code": "3334-4003fh"
+    },
+    {
+      "name": "3334FH",
+      "url": "/biro/3334fh/parts",
+      "code": "3334fh"
+    },
+    {
+      "name": "34",
+      "url": "/biro/34/parts",
+      "code": "34"
+    },
+    {
+      "name": "342",
+      "url": "/biro/342/parts",
+      "code": "342"
+    },
+    {
+      "name": "346",
+      "url": "/biro/346/parts",
+      "code": "346"
+    },
+    {
+      "name": "44",
+      "url": "/biro/44/parts",
+      "code": "44"
+    },
+    {
+      "name": "44SSFH",
+      "url": "/biro/44ssfh/parts",
+      "code": "44ssfh"
+    },
+    {
+      "name": "44TL",
+      "url": "/biro/44tl/parts",
+      "code": "44tl"
+    },
+    {
+      "name": "45516",
+      "url": "/biro/45516/parts",
+      "code": "45516"
+    },
+    {
+      "name": "45526",
+      "url": "/biro/45526/parts",
+      "code": "45526"
+    },
+    {
+      "name": "542",
+      "url": "/biro/542/parts",
+      "code": "542"
+    },
+    {
+      "name": "548",
+      "url": "/biro/548/parts",
+      "code": "548"
+    },
+    {
+      "name": "55",
+      "url": "/biro/55/parts",
+      "code": "55"
+    },
+    {
+      "name": "552",
+      "url": "/biro/552/parts",
+      "code": "552"
+    },
+    {
+      "name": "55TL",
+      "url": "/biro/55tl/parts",
+      "code": "55tl"
+    },
+    {
+      "name": "6642",
+      "url": "/biro/6642/parts",
+      "code": "6642"
+    },
+    {
+      "name": "722",
+      "url": "/biro/722/parts",
+      "code": "722"
+    },
+    {
+      "name": "7542",
+      "url": "/biro/7542/parts",
+      "code": "7542"
+    },
+    {
+      "name": "7548",
+      "url": "/biro/7548/parts",
+      "code": "7548"
+    },
+    {
+      "name": "7552",
+      "url": "/biro/7552/parts",
+      "code": "7552"
+    },
+    {
+      "name": "922",
+      "url": "/biro/922/parts",
+      "code": "922"
+    },
+    {
+      "name": "AFMG-24",
+      "url": "/biro/afmg-24/parts",
+      "code": "afmg-24"
+    },
+    {
+      "name": "AFMG-48-II",
+      "url": "/biro/afmg-48-ii/parts",
+      "code": "afmg-48-ii"
+    },
+    {
+      "name": "AFMG-52",
+      "url": "/biro/afmg-52/parts",
+      "code": "afmg-52"
+    },
+    {
+      "name": "AFMG-52-4",
+      "url": "/biro/afmg-52-4/parts",
+      "code": "afmg-52-4"
+    },
+    {
+      "name": "AFMG-56 MK III",
+      "url": "/biro/afmg-56-mk-iii/parts",
+      "code": "afmg-56-mk-iii"
+    },
+    {
+      "name": "AFMG-56-4",
+      "url": "/biro/afmg-56-4/parts",
+      "code": "afmg-56-4"
+    },
+    {
+      "name": "B1200",
+      "url": "/biro/b1200/parts",
+      "code": "b1200"
+    },
+    {
+      "name": "B300M",
+      "url": "/biro/b300m/parts",
+      "code": "b300m"
+    },
+    {
+      "name": "B350A",
+      "url": "/biro/b350a/parts",
+      "code": "b350a"
+    },
+    {
+      "name": "B350COMFORT",
+      "url": "/biro/b350comfort/parts",
+      "code": "b350comfort"
+    },
+    {
+      "name": "B350M",
+      "url": "/biro/b350m/parts",
+      "code": "b350m"
+    },
+    {
+      "name": "B350MV",
+      "url": "/biro/b350mv/parts",
+      "code": "b350mv"
+    },
+    {
+      "name": "BCC-100",
+      "url": "/biro/bcc-100/parts",
+      "code": "bcc-100"
+    },
+    {
+      "name": "EMG-32",
+      "url": "/biro/emg-32/parts",
+      "code": "emg-32"
+    },
+    {
+      "name": "F2000",
+      "url": "/biro/f2000/parts",
+      "code": "f2000"
+    },
+    {
+      "name": "F3000",
+      "url": "/biro/f3000/parts",
+      "code": "f3000"
+    },
+    {
+      "name": "F4000",
+      "url": "/biro/f4000/parts",
+      "code": "f4000"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:54:58.437133"
+}

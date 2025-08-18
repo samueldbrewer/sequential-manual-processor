@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Micro Matic",
+    "code": "PT_CAT2779301",
+    "uri": "micro-matic"
+  },
+  "models": [
+    {
+      "name": "12543",
+      "url": "/micro-matic/12543/parts",
+      "code": "12543"
+    },
+    {
+      "name": "1688",
+      "url": "/micro-matic/1688/parts",
+      "code": "1688"
+    },
+    {
+      "name": "1688-K",
+      "url": "/micro-matic/1688-k/parts",
+      "code": "1688-k"
+    },
+    {
+      "name": "1689",
+      "url": "/micro-matic/1689/parts",
+      "code": "1689"
+    },
+    {
+      "name": "1734-L",
+      "url": "/micro-matic/1734-l/parts",
+      "code": "1734-l"
+    },
+    {
+      "name": "1734-S",
+      "url": "/micro-matic/1734-s/parts",
+      "code": "1734-s"
+    },
+    {
+      "name": "1735-L",
+      "url": "/micro-matic/1735-l/parts",
+      "code": "1735-l"
+    },
+    {
+      "name": "1735-S",
+      "url": "/micro-matic/1735-s/parts",
+      "code": "1735-s"
+    },
+    {
+      "name": "1736-L",
+      "url": "/micro-matic/1736-l/parts",
+      "code": "1736-l"
+    },
+    {
+      "name": "1736-S",
+      "url": "/micro-matic/1736-s/parts",
+      "code": "1736-s"
+    },
+    {
+      "name": "1737-L",
+      "url": "/micro-matic/1737-l/parts",
+      "code": "1737-l"
+    },
+    {
+      "name": "1737-S",
+      "url": "/micro-matic/1737-s/parts",
+      "code": "1737-s"
+    },
+    {
+      "name": "1738-L",
+      "url": "/micro-matic/1738-l/parts",
+      "code": "1738-l"
+    },
+    {
+      "name": "1738-S",
+      "url": "/micro-matic/1738-s/parts",
+      "code": "1738-s"
+    },
+    {
+      "name": "1739-L",
+      "url": "/micro-matic/1739-l/parts",
+      "code": "1739-l"
+    },
+    {
+      "name": "1739-S",
+      "url": "/micro-matic/1739-s/parts",
+      "code": "1739-s"
+    },
+    {
+      "name": "201-420",
+      "url": "/micro-matic/201-420/parts",
+      "code": "201-420"
+    },
+    {
+      "name": "201-420RW",
+      "url": "/micro-matic/201-420rw/parts",
+      "code": "201-420rw"
+    },
+    {
+      "name": "304",
+      "url": "/micro-matic/304/parts",
+      "code": "304"
+    },
+    {
+      "name": "304-CR",
+      "url": "/micro-matic/304-cr/parts",
+      "code": "304-cr"
+    },
+    {
+      "name": "304-PT",
+      "url": "/micro-matic/304-pt/parts",
+      "code": "304-pt"
+    },
+    {
+      "name": "304-TT",
+      "url": "/micro-matic/304-tt/parts",
+      "code": "304-tt"
+    },
+    {
+      "name": "304G",
+      "url": "/micro-matic/304g/parts",
+      "code": "304g"
+    },
+    {
+      "name": "4329A-3E",
+      "url": "/micro-matic/4329a-3e/parts",
+      "code": "4329a-3e"
+    },
+    {
+      "name": "4329ABR-3E",
+      "url": "/micro-matic/4329abr-3e/parts",
+      "code": "4329abr-3e"
+    },
+    {
+      "name": "4331A",
+      "url": "/micro-matic/4331a/parts",
+      "code": "4331a"
+    },
+    {
+      "name": "4331A-3",
+      "url": "/micro-matic/4331a-3/parts",
+      "code": "4331a-3"
+    },
+    {
+      "name": "4331AS-304",
+      "url": "/micro-matic/4331as-304/parts",
+      "code": "4331as-304"
+    },
+    {
+      "name": "4331NA",
+      "url": "/micro-matic/4331na/parts",
+      "code": "4331na"
+    },
+    {
+      "name": "4331NA-3",
+      "url": "/micro-matic/4331na-3/parts",
+      "code": "4331na-3"
+    },
+    {
+      "name": "4333A",
+      "url": "/micro-matic/4333a/parts",
+      "code": "4333a"
+    },
+    {
+      "name": "4333A-3",
+      "url": "/micro-matic/4333a-3/parts",
+      "code": "4333a-3"
+    },
+    {
+      "name": "4333AS-304",
+      "url": "/micro-matic/4333as-304/parts",
+      "code": "4333as-304"
+    },
+    {
+      "name": "4333NA",
+      "url": "/micro-matic/4333na/parts",
+      "code": "4333na"
+    },
+    {
+      "name": "4333NA-3",
+      "url": "/micro-matic/4333na-3/parts",
+      "code": "4333na-3"
+    },
+    {
+      "name": "4334A",
+      "url": "/micro-matic/4334a/parts",
+      "code": "4334a"
+    },
+    {
+      "name": "4334A-3",
+      "url": "/micro-matic/4334a-3/parts",
+      "code": "4334a-3"
+    },
+    {
+      "name": "4334AS-304",
+      "url": "/micro-matic/4334as-304/parts",
+      "code": "4334as-304"
+    },
+    {
+      "name": "4334NA-3",
+      "url": "/micro-matic/4334na-3/parts",
+      "code": "4334na-3"
+    },
+    {
+      "name": "4336A",
+      "url": "/micro-matic/4336a/parts",
+      "code": "4336a"
+    },
+    {
+      "name": "4336A-3",
+      "url": "/micro-matic/4336a-3/parts",
+      "code": "4336a-3"
+    },
+    {
+      "name": "4336NA",
+      "url": "/micro-matic/4336na/parts",
+      "code": "4336na"
+    },
+    {
+      "name": "4336NA-3",
+      "url": "/micro-matic/4336na-3/parts",
+      "code": "4336na-3"
+    },
+    {
+      "name": "4337A",
+      "url": "/micro-matic/4337a/parts",
+      "code": "4337a"
+    },
+    {
+      "name": "4337A-3",
+      "url": "/micro-matic/4337a-3/parts",
+      "code": "4337a-3"
+    },
+    {
+      "name": "4337AS-304",
+      "url": "/micro-matic/4337as-304/parts",
+      "code": "4337as-304"
+    },
+    {
+      "name": "4338A",
+      "url": "/micro-matic/4338a/parts",
+      "code": "4338a"
+    },
+    {
+      "name": "4338A-3",
+      "url": "/micro-matic/4338a-3/parts",
+      "code": "4338a-3"
+    },
+    {
+      "name": "4338A-3-NF",
+      "url": "/micro-matic/4338a-3-nf/parts",
+      "code": "4338a-3-nf"
+    },
+    {
+      "name": "4338AS-304",
+      "url": "/micro-matic/4338as-304/parts",
+      "code": "4338as-304"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:30:59.699341"
+}

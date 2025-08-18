@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Aerowerks",
+    "code": "PT_CATAEROWERKS",
+    "uri": "aerowerks"
+  },
+  "models": [
+    {
+      "name": "PRC-N",
+      "url": "/aerowerks/prc-n/parts",
+      "code": "prc-n"
+    },
+    {
+      "name": "SBC-N",
+      "url": "/aerowerks/sbc-n/parts",
+      "code": "sbc-n"
+    },
+    {
+      "name": "TAC-N",
+      "url": "/aerowerks/tac-n/parts",
+      "code": "tac-n"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T17:35:57.597627"
+}

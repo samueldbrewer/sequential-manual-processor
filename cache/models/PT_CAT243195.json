@@ -1,0 +1,101 @@
+{
+  "manufacturer": {
+    "name": "Mart Cart",
+    "code": "PT_CAT243195",
+    "uri": "mart-cart"
+  },
+  "models": [
+    {
+      "name": "02002",
+      "url": "/mart-cart/02002/parts",
+      "code": "02002"
+    },
+    {
+      "name": "02002 Comm Series",
+      "url": "/mart-cart/02002-comm-series/parts",
+      "code": "02002-comm-series"
+    },
+    {
+      "name": "3500",
+      "url": "/mart-cart/3500/parts",
+      "code": "3500"
+    },
+    {
+      "name": "3506",
+      "url": "/mart-cart/3506/parts",
+      "code": "3506"
+    },
+    {
+      "name": "3563",
+      "url": "/mart-cart/3563/parts",
+      "code": "3563"
+    },
+    {
+      "name": "3564",
+      "url": "/mart-cart/3564/parts",
+      "code": "3564"
+    },
+    {
+      "name": "3700",
+      "url": "/mart-cart/3700/parts",
+      "code": "3700"
+    },
+    {
+      "name": "4563",
+      "url": "/mart-cart/4563/parts",
+      "code": "4563"
+    },
+    {
+      "name": "5563",
+      "url": "/mart-cart/5563/parts",
+      "code": "5563"
+    },
+    {
+      "name": "5564",
+      "url": "/mart-cart/5564/parts",
+      "code": "5564"
+    },
+    {
+      "name": "Care Chair",
+      "url": "/mart-cart/care-chair/parts",
+      "code": "care-chair"
+    },
+    {
+      "name": "Mart Shopper 01001-MS",
+      "url": "/mart-cart/mart-shopper-01001-ms/parts",
+      "code": "mart-shopper-01001-ms"
+    },
+    {
+      "name": "MartMate 01001-M",
+      "url": "/mart-cart/martmate-01001-m/parts",
+      "code": "martmate-01001-m"
+    },
+    {
+      "name": "UL 4036/4037",
+      "url": "/mart-cart/ul-4036-4037/parts",
+      "code": "ul-4036-4037"
+    },
+    {
+      "name": "UL 4038",
+      "url": "/mart-cart/ul-4038/parts",
+      "code": "ul-4038"
+    },
+    {
+      "name": "UL 4040/4042 GPS",
+      "url": "/mart-cart/ul-4040-4042-gps/parts",
+      "code": "ul-4040-4042-gps"
+    },
+    {
+      "name": "UL 4063",
+      "url": "/mart-cart/ul-4063/parts",
+      "code": "ul-4063"
+    },
+    {
+      "name": "Ultima",
+      "url": "/mart-cart/ultima/parts",
+      "code": "ultima"
+    }
+  ],
+  "total_models": 18,
+  "cached_at": "2025-08-14T19:27:38.619065"
+}

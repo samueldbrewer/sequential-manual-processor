@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Nieco",
+    "code": "PT_CAT1150",
+    "uri": "nieco"
+  },
+  "models": [
+    {
+      "name": "1015A",
+      "url": "/nieco/1015a/parts",
+      "code": "1015a"
+    },
+    {
+      "name": "1015C",
+      "url": "/nieco/1015c/parts",
+      "code": "1015c"
+    },
+    {
+      "name": "1015G",
+      "url": "/nieco/1015g/parts",
+      "code": "1015g"
+    },
+    {
+      "name": "1015GC",
+      "url": "/nieco/1015gc/parts",
+      "code": "1015gc"
+    },
+    {
+      "name": "1020G",
+      "url": "/nieco/1020g/parts",
+      "code": "1020g"
+    },
+    {
+      "name": "1332",
+      "url": "/nieco/1332/parts",
+      "code": "1332"
+    },
+    {
+      "name": "1335",
+      "url": "/nieco/1335/parts",
+      "code": "1335"
+    },
+    {
+      "name": "1352",
+      "url": "/nieco/1352/parts",
+      "code": "1352"
+    },
+    {
+      "name": "1355",
+      "url": "/nieco/1355/parts",
+      "code": "1355"
+    },
+    {
+      "name": "1424",
+      "url": "/nieco/1424/parts",
+      "code": "1424"
+    },
+    {
+      "name": "1424E",
+      "url": "/nieco/1424e/parts",
+      "code": "1424e"
+    },
+    {
+      "name": "142E",
+      "url": "/nieco/142e/parts",
+      "code": "142e"
+    },
+    {
+      "name": "1430E",
+      "url": "/nieco/1430e/parts",
+      "code": "1430e"
+    },
+    {
+      "name": "1435E",
+      "url": "/nieco/1435e/parts",
+      "code": "1435e"
+    },
+    {
+      "name": "1450",
+      "url": "/nieco/1450/parts",
+      "code": "1450"
+    },
+    {
+      "name": "1450E",
+      "url": "/nieco/1450e/parts",
+      "code": "1450e"
+    },
+    {
+      "name": "1725",
+      "url": "/nieco/1725/parts",
+      "code": "1725"
+    },
+    {
+      "name": "522E",
+      "url": "/nieco/522e/parts",
+      "code": "522e"
+    },
+    {
+      "name": "522G",
+      "url": "/nieco/522g/parts",
+      "code": "522g"
+    },
+    {
+      "name": "532E",
+      "url": "/nieco/532e/parts",
+      "code": "532e"
+    },
+    {
+      "name": "532G",
+      "url": "/nieco/532g/parts",
+      "code": "532g"
+    },
+    {
+      "name": "535E",
+      "url": "/nieco/535e/parts",
+      "code": "535e"
+    },
+    {
+      "name": "535G",
+      "url": "/nieco/535g/parts",
+      "code": "535g"
+    },
+    {
+      "name": "615E",
+      "url": "/nieco/615e/parts",
+      "code": "615e"
+    },
+    {
+      "name": "615GTR",
+      "url": "/nieco/615gtr/parts",
+      "code": "615gtr"
+    },
+    {
+      "name": "6220",
+      "url": "/nieco/6220/parts",
+      "code": "6220"
+    },
+    {
+      "name": "624",
+      "url": "/nieco/624/parts",
+      "code": "624"
+    },
+    {
+      "name": "624E",
+      "url": "/nieco/624e/parts",
+      "code": "624e"
+    },
+    {
+      "name": "650",
+      "url": "/nieco/650/parts",
+      "code": "650"
+    },
+    {
+      "name": "650E",
+      "url": "/nieco/650e/parts",
+      "code": "650e"
+    },
+    {
+      "name": "732E",
+      "url": "/nieco/732e/parts",
+      "code": "732e"
+    },
+    {
+      "name": "732G",
+      "url": "/nieco/732g/parts",
+      "code": "732g"
+    },
+    {
+      "name": "735E",
+      "url": "/nieco/735e/parts",
+      "code": "735e"
+    },
+    {
+      "name": "735G",
+      "url": "/nieco/735g/parts",
+      "code": "735g"
+    },
+    {
+      "name": "750BYB",
+      "url": "/nieco/750byb/parts",
+      "code": "750byb"
+    },
+    {
+      "name": "8025G",
+      "url": "/nieco/8025g/parts",
+      "code": "8025g"
+    },
+    {
+      "name": "815E",
+      "url": "/nieco/815e/parts",
+      "code": "815e"
+    },
+    {
+      "name": "815GTR",
+      "url": "/nieco/815gtr/parts",
+      "code": "815gtr"
+    },
+    {
+      "name": "820E",
+      "url": "/nieco/820e/parts",
+      "code": "820e"
+    },
+    {
+      "name": "820G",
+      "url": "/nieco/820g/parts",
+      "code": "820g"
+    },
+    {
+      "name": "824",
+      "url": "/nieco/824/parts",
+      "code": "824"
+    },
+    {
+      "name": "824E",
+      "url": "/nieco/824e/parts",
+      "code": "824e"
+    },
+    {
+      "name": "850",
+      "url": "/nieco/850/parts",
+      "code": "850"
+    },
+    {
+      "name": "850E",
+      "url": "/nieco/850e/parts",
+      "code": "850e"
+    },
+    {
+      "name": "880",
+      "url": "/nieco/880/parts",
+      "code": "880"
+    },
+    {
+      "name": "885",
+      "url": "/nieco/885/parts",
+      "code": "885"
+    },
+    {
+      "name": "9015",
+      "url": "/nieco/9015/parts",
+      "code": "9015"
+    },
+    {
+      "name": "9025",
+      "url": "/nieco/9025/parts",
+      "code": "9025"
+    },
+    {
+      "name": "90357",
+      "url": "/nieco/90357/parts",
+      "code": "90357"
+    },
+    {
+      "name": "922E",
+      "url": "/nieco/922e/parts",
+      "code": "922e"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:41:19.326705"
+}

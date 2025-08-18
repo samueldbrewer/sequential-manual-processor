@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Atosa",
+    "code": "PT_CAT242745",
+    "uri": "atosa"
+  },
+  "models": [
+    {
+      "name": "AMC-3401",
+      "url": "/atosa/amc-3401/parts",
+      "code": "amc-3401"
+    },
+    {
+      "name": "AMC-3402",
+      "url": "/atosa/amc-3402/parts",
+      "code": "amc-3402"
+    },
+    {
+      "name": "AMC-4901",
+      "url": "/atosa/amc-4901/parts",
+      "code": "amc-4901"
+    },
+    {
+      "name": "AMC-4902",
+      "url": "/atosa/amc-4902/parts",
+      "code": "amc-4902"
+    },
+    {
+      "name": "AMC-5801",
+      "url": "/atosa/amc-5801/parts",
+      "code": "amc-5801"
+    },
+    {
+      "name": "AMC-5802",
+      "url": "/atosa/amc-5802/parts",
+      "code": "amc-5802"
+    },
+    {
+      "name": "AOM-40B",
+      "url": "/atosa/aom-40b/parts",
+      "code": "aom-40b"
+    },
+    {
+      "name": "AOM-50B",
+      "url": "/atosa/aom-50b/parts",
+      "code": "aom-50b"
+    },
+    {
+      "name": "ATHOM-28",
+      "url": "/atosa/athom-28/parts",
+      "code": "athom-28"
+    },
+    {
+      "name": "ATHOM-39",
+      "url": "/atosa/athom-39/parts",
+      "code": "athom-39"
+    },
+    {
+      "name": "ATHOM-60",
+      "url": "/atosa/athom-60/parts",
+      "code": "athom-60"
+    },
+    {
+      "name": "ATWET02A",
+      "url": "/atosa/atwet02a/parts",
+      "code": "atwet02a"
+    },
+    {
+      "name": "AWC0608-TF",
+      "url": "/atosa/awc0608-tf/parts",
+      "code": "awc0608-tf"
+    },
+    {
+      "name": "AWC0808-TF",
+      "url": "/atosa/awc0808-tf/parts",
+      "code": "awc0808-tf"
+    },
+    {
+      "name": "AWC0810-TF",
+      "url": "/atosa/awc0810-tf/parts",
+      "code": "awc0810-tf"
+    },
+    {
+      "name": "AWC1010-TF",
+      "url": "/atosa/awc1010-tf/parts",
+      "code": "awc1010-tf"
+    },
+    {
+      "name": "AWC1012-TF",
+      "url": "/atosa/awc1012-tf/parts",
+      "code": "awc1012-tf"
+    },
+    {
+      "name": "AWF0608-TF",
+      "url": "/atosa/awf0608-tf/parts",
+      "code": "awf0608-tf"
+    },
+    {
+      "name": "AWF0808-TF",
+      "url": "/atosa/awf0808-tf/parts",
+      "code": "awf0808-tf"
+    },
+    {
+      "name": "AWF0810-TF",
+      "url": "/atosa/awf0810-tf/parts",
+      "code": "awf0810-tf"
+    },
+    {
+      "name": "AWF1010-TF",
+      "url": "/atosa/awf1010-tf/parts",
+      "code": "awf1010-tf"
+    },
+    {
+      "name": "AWF1012-TF",
+      "url": "/atosa/awf1012-tf/parts",
+      "code": "awf1012-tf"
+    },
+    {
+      "name": "CRDC-35",
+      "url": "/atosa/crdc-35/parts",
+      "code": "crdc-35"
+    },
+    {
+      "name": "CRDC-46",
+      "url": "/atosa/crdc-46/parts",
+      "code": "crdc-46"
+    },
+    {
+      "name": "CRDS-42",
+      "url": "/atosa/crds-42/parts",
+      "code": "crds-42"
+    },
+    {
+      "name": "CRDS-56",
+      "url": "/atosa/crds-56/parts",
+      "code": "crds-56"
+    },
+    {
+      "name": "CTD-3",
+      "url": "/atosa/ctd-3/parts",
+      "code": "ctd-3"
+    },
+    {
+      "name": "CTD-3S",
+      "url": "/atosa/ctd-3s/parts",
+      "code": "ctd-3s"
+    },
+    {
+      "name": "CTD-3ST",
+      "url": "/atosa/ctd-3st/parts",
+      "code": "ctd-3st"
+    },
+    {
+      "name": "CTD-3T",
+      "url": "/atosa/ctd-3t/parts",
+      "code": "ctd-3t"
+    },
+    {
+      "name": "CTD-5",
+      "url": "/atosa/ctd-5/parts",
+      "code": "ctd-5"
+    },
+    {
+      "name": "CTD-5T",
+      "url": "/atosa/ctd-5t/parts",
+      "code": "ctd-5t"
+    },
+    {
+      "name": "CYR400P",
+      "url": "/atosa/cyr400p/parts",
+      "code": "cyr400p"
+    },
+    {
+      "name": "CYR700P",
+      "url": "/atosa/cyr700p/parts",
+      "code": "cyr700p"
+    },
+    {
+      "name": "HD350-AP-161",
+      "url": "/atosa/hd350-ap-161/parts",
+      "code": "hd350-ap-161"
+    },
+    {
+      "name": "MBB23GR",
+      "url": "/atosa/mbb23gr/parts",
+      "code": "mbb23gr"
+    },
+    {
+      "name": "MBB48GGR",
+      "url": "/atosa/mbb48ggr/parts",
+      "code": "mbb48ggr"
+    },
+    {
+      "name": "MBB48GR",
+      "url": "/atosa/mbb48gr/parts",
+      "code": "mbb48gr"
+    },
+    {
+      "name": "MBB59GGR",
+      "url": "/atosa/mbb59ggr/parts",
+      "code": "mbb59ggr"
+    },
+    {
+      "name": "MBB59GR",
+      "url": "/atosa/mbb59gr/parts",
+      "code": "mbb59gr"
+    },
+    {
+      "name": "MBB69GGR",
+      "url": "/atosa/mbb69ggr/parts",
+      "code": "mbb69ggr"
+    },
+    {
+      "name": "MBB69GR",
+      "url": "/atosa/mbb69gr/parts",
+      "code": "mbb69gr"
+    },
+    {
+      "name": "MBB90GGR",
+      "url": "/atosa/mbb90ggr/parts",
+      "code": "mbb90ggr"
+    },
+    {
+      "name": "MBB90GR",
+      "url": "/atosa/mbb90gr/parts",
+      "code": "mbb90gr"
+    },
+    {
+      "name": "MBC36GR",
+      "url": "/atosa/mbc36gr/parts",
+      "code": "mbc36gr"
+    },
+    {
+      "name": "MBC50GR",
+      "url": "/atosa/mbc50gr/parts",
+      "code": "mbc50gr"
+    },
+    {
+      "name": "MBC65GR",
+      "url": "/atosa/mbc65gr/parts",
+      "code": "mbc65gr"
+    },
+    {
+      "name": "MBC80GR",
+      "url": "/atosa/mbc80gr/parts",
+      "code": "mbc80gr"
+    },
+    {
+      "name": "MBF8001",
+      "url": "/atosa/mbf8001/parts",
+      "code": "mbf8001"
+    },
+    {
+      "name": "MBF8002",
+      "url": "/atosa/mbf8002/parts",
+      "code": "mbf8002"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:49:36.727136"
+}

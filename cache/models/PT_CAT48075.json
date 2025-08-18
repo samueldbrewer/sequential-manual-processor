@@ -1,0 +1,166 @@
+{
+  "manufacturer": {
+    "name": "Picard Ovens",
+    "code": "PT_CAT48075",
+    "uri": "picard-ovens"
+  },
+  "models": [
+    {
+      "name": "BK-25N",
+      "url": "/picard-ovens/bk-25n/parts",
+      "code": "bk-25n"
+    },
+    {
+      "name": "BK-25P",
+      "url": "/picard-ovens/bk-25p/parts",
+      "code": "bk-25p"
+    },
+    {
+      "name": "BK-45N",
+      "url": "/picard-ovens/bk-45n/parts",
+      "code": "bk-45n"
+    },
+    {
+      "name": "BK-45P",
+      "url": "/picard-ovens/bk-45p/parts",
+      "code": "bk-45p"
+    },
+    {
+      "name": "HR-70-22",
+      "url": "/picard-ovens/hr-70-22/parts",
+      "code": "hr-70-22"
+    },
+    {
+      "name": "HR-70-33",
+      "url": "/picard-ovens/hr-70-33/parts",
+      "code": "hr-70-33"
+    },
+    {
+      "name": "HR-93-22",
+      "url": "/picard-ovens/hr-93-22/parts",
+      "code": "hr-93-22"
+    },
+    {
+      "name": "HR-93-33",
+      "url": "/picard-ovens/hr-93-33/parts",
+      "code": "hr-93-33"
+    },
+    {
+      "name": "LP-200-3",
+      "url": "/picard-ovens/lp-200-3/parts",
+      "code": "lp-200-3"
+    },
+    {
+      "name": "LP-200-3-20S",
+      "url": "/picard-ovens/lp-200-3-20s/parts",
+      "code": "lp-200-3-20s"
+    },
+    {
+      "name": "LP-280",
+      "url": "/picard-ovens/lp-280/parts",
+      "code": "lp-280"
+    },
+    {
+      "name": "LP-280-B",
+      "url": "/picard-ovens/lp-280-b/parts",
+      "code": "lp-280-b"
+    },
+    {
+      "name": "PPR-1S-1DS",
+      "url": "/picard-ovens/ppr-1s-1ds/parts",
+      "code": "ppr-1s-1ds"
+    },
+    {
+      "name": "PPR-2S-1DS",
+      "url": "/picard-ovens/ppr-2s-1ds/parts",
+      "code": "ppr-2s-1ds"
+    },
+    {
+      "name": "PPR-2S-2DS",
+      "url": "/picard-ovens/ppr-2s-2ds/parts",
+      "code": "ppr-2s-2ds"
+    },
+    {
+      "name": "PPR-3S-1DS",
+      "url": "/picard-ovens/ppr-3s-1ds/parts",
+      "code": "ppr-3s-1ds"
+    },
+    {
+      "name": "PPR-3S-3DS",
+      "url": "/picard-ovens/ppr-3s-3ds/parts",
+      "code": "ppr-3s-3ds"
+    },
+    {
+      "name": "PPR-4S-2DS",
+      "url": "/picard-ovens/ppr-4s-2ds/parts",
+      "code": "ppr-4s-2ds"
+    },
+    {
+      "name": "PPR-6S-2DS",
+      "url": "/picard-ovens/ppr-6s-2ds/parts",
+      "code": "ppr-6s-2ds"
+    },
+    {
+      "name": "PR-36",
+      "url": "/picard-ovens/pr-36/parts",
+      "code": "pr-36"
+    },
+    {
+      "name": "PR-60",
+      "url": "/picard-ovens/pr-60/parts",
+      "code": "pr-60"
+    },
+    {
+      "name": "RE-4-12",
+      "url": "/picard-ovens/re-4-12/parts",
+      "code": "re-4-12"
+    },
+    {
+      "name": "RE-4-16",
+      "url": "/picard-ovens/re-4-16/parts",
+      "code": "re-4-16"
+    },
+    {
+      "name": "RE-4-8",
+      "url": "/picard-ovens/re-4-8/parts",
+      "code": "re-4-8"
+    },
+    {
+      "name": "RE-8-16",
+      "url": "/picard-ovens/re-8-16/parts",
+      "code": "re-8-16"
+    },
+    {
+      "name": "RE-8-24",
+      "url": "/picard-ovens/re-8-24/parts",
+      "code": "re-8-24"
+    },
+    {
+      "name": "RE-8-32",
+      "url": "/picard-ovens/re-8-32/parts",
+      "code": "re-8-32"
+    },
+    {
+      "name": "RP-36",
+      "url": "/picard-ovens/rp-36/parts",
+      "code": "rp-36"
+    },
+    {
+      "name": "RP-60",
+      "url": "/picard-ovens/rp-60/parts",
+      "code": "rp-60"
+    },
+    {
+      "name": "SF-8-16",
+      "url": "/picard-ovens/sf-8-16/parts",
+      "code": "sf-8-16"
+    },
+    {
+      "name": "SF-8-24",
+      "url": "/picard-ovens/sf-8-24/parts",
+      "code": "sf-8-24"
+    }
+  ],
+  "total_models": 31,
+  "cached_at": "2025-08-14T19:49:25.230468"
+}

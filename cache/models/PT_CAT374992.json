@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Laars Heating Systems",
+    "code": "PT_CAT374992",
+    "uri": "laars-heating-systems"
+  },
+  "models": [
+    {
+      "name": "FT Series",
+      "url": "/laars-heating-systems/ft-series/parts",
+      "code": "ft-series"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:18:28.583264"
+}

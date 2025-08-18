@@ -1,0 +1,246 @@
+{
+  "manufacturer": {
+    "name": "Butcher Boy Machines",
+    "code": "PT_CAT242310",
+    "uri": "butcher-boy-machines"
+  },
+  "models": [
+    {
+      "name": "100/42",
+      "url": "/butcher-boy-machines/100-42/parts",
+      "code": "100-42"
+    },
+    {
+      "name": "100/52",
+      "url": "/butcher-boy-machines/100-52/parts",
+      "code": "100-52"
+    },
+    {
+      "name": "1000/56",
+      "url": "/butcher-boy-machines/1000-56/parts",
+      "code": "1000-56"
+    },
+    {
+      "name": "1000/56F",
+      "url": "/butcher-boy-machines/1000-56f/parts",
+      "code": "1000-56f"
+    },
+    {
+      "name": "1000/66S",
+      "url": "/butcher-boy-machines/1000-66s/parts",
+      "code": "1000-66s"
+    },
+    {
+      "name": "150/42",
+      "url": "/butcher-boy-machines/150-42/parts",
+      "code": "150-42"
+    },
+    {
+      "name": "150DM",
+      "url": "/butcher-boy-machines/150dm/parts",
+      "code": "150dm"
+    },
+    {
+      "name": "150M",
+      "url": "/butcher-boy-machines/150m/parts",
+      "code": "150m"
+    },
+    {
+      "name": "200/42",
+      "url": "/butcher-boy-machines/200-42/parts",
+      "code": "200-42"
+    },
+    {
+      "name": "200/52",
+      "url": "/butcher-boy-machines/200-52/parts",
+      "code": "200-52"
+    },
+    {
+      "name": "250-230V",
+      "url": "/butcher-boy-machines/250-230v/parts",
+      "code": "250-230v"
+    },
+    {
+      "name": "250-460V",
+      "url": "/butcher-boy-machines/250-460v/parts",
+      "code": "250-460v"
+    },
+    {
+      "name": "250-Blender",
+      "url": "/butcher-boy-machines/250-blender/parts",
+      "code": "250-blender"
+    },
+    {
+      "name": "250/52",
+      "url": "/butcher-boy-machines/250-52/parts",
+      "code": "250-52"
+    },
+    {
+      "name": "250DM",
+      "url": "/butcher-boy-machines/250dm/parts",
+      "code": "250dm"
+    },
+    {
+      "name": "250M",
+      "url": "/butcher-boy-machines/250m/parts",
+      "code": "250m"
+    },
+    {
+      "name": "500-Blender",
+      "url": "/butcher-boy-machines/500-blender/parts",
+      "code": "500-blender"
+    },
+    {
+      "name": "500/56-380V",
+      "url": "/butcher-boy-machines/500-56-380v/parts",
+      "code": "500-56-380v"
+    },
+    {
+      "name": "500/56-480V",
+      "url": "/butcher-boy-machines/500-56-480v/parts",
+      "code": "500-56-480v"
+    },
+    {
+      "name": "500/56-Magnet",
+      "url": "/butcher-boy-machines/500-56-magnet/parts",
+      "code": "500-56-magnet"
+    },
+    {
+      "name": "500/56F-380V",
+      "url": "/butcher-boy-machines/500-56f-380v/parts",
+      "code": "500-56f-380v"
+    },
+    {
+      "name": "500/56F-480V",
+      "url": "/butcher-boy-machines/500-56f-480v/parts",
+      "code": "500-56f-480v"
+    },
+    {
+      "name": "500/56F-Magnet",
+      "url": "/butcher-boy-machines/500-56f-magnet/parts",
+      "code": "500-56f-magnet"
+    },
+    {
+      "name": "500/66S-380V",
+      "url": "/butcher-boy-machines/500-66s-380v/parts",
+      "code": "500-66s-380v"
+    },
+    {
+      "name": "500/66S-480V",
+      "url": "/butcher-boy-machines/500-66s-480v/parts",
+      "code": "500-66s-480v"
+    },
+    {
+      "name": "500/66S-Magnet",
+      "url": "/butcher-boy-machines/500-66s-magnet/parts",
+      "code": "500-66s-magnet"
+    },
+    {
+      "name": "A42",
+      "url": "/butcher-boy-machines/a42/parts",
+      "code": "a42"
+    },
+    {
+      "name": "A52",
+      "url": "/butcher-boy-machines/a52/parts",
+      "code": "a52"
+    },
+    {
+      "name": "AF42",
+      "url": "/butcher-boy-machines/af42/parts",
+      "code": "af42"
+    },
+    {
+      "name": "AF52",
+      "url": "/butcher-boy-machines/af52/parts",
+      "code": "af52"
+    },
+    {
+      "name": "AU-MF",
+      "url": "/butcher-boy-machines/au-mf/parts",
+      "code": "au-mf"
+    },
+    {
+      "name": "AU42",
+      "url": "/butcher-boy-machines/au42/parts",
+      "code": "au42"
+    },
+    {
+      "name": "AU52",
+      "url": "/butcher-boy-machines/au52/parts",
+      "code": "au52"
+    },
+    {
+      "name": "AU56",
+      "url": "/butcher-boy-machines/au56/parts",
+      "code": "au56"
+    },
+    {
+      "name": "AU56F",
+      "url": "/butcher-boy-machines/au56f/parts",
+      "code": "au56f"
+    },
+    {
+      "name": "AU66S",
+      "url": "/butcher-boy-machines/au66s/parts",
+      "code": "au66s"
+    },
+    {
+      "name": "B12",
+      "url": "/butcher-boy-machines/b12/parts",
+      "code": "b12"
+    },
+    {
+      "name": "B14",
+      "url": "/butcher-boy-machines/b14/parts",
+      "code": "b14"
+    },
+    {
+      "name": "B16",
+      "url": "/butcher-boy-machines/b16/parts",
+      "code": "b16"
+    },
+    {
+      "name": "SA16",
+      "url": "/butcher-boy-machines/sa16/parts",
+      "code": "sa16"
+    },
+    {
+      "name": "SA16LH",
+      "url": "/butcher-boy-machines/sa16lh/parts",
+      "code": "sa16lh"
+    },
+    {
+      "name": "SA20",
+      "url": "/butcher-boy-machines/sa20/parts",
+      "code": "sa20"
+    },
+    {
+      "name": "SA30",
+      "url": "/butcher-boy-machines/sa30/parts",
+      "code": "sa30"
+    },
+    {
+      "name": "SA36",
+      "url": "/butcher-boy-machines/sa36/parts",
+      "code": "sa36"
+    },
+    {
+      "name": "TCA12",
+      "url": "/butcher-boy-machines/tca12/parts",
+      "code": "tca12"
+    },
+    {
+      "name": "TCA22",
+      "url": "/butcher-boy-machines/tca22/parts",
+      "code": "tca22"
+    },
+    {
+      "name": "TCA32",
+      "url": "/butcher-boy-machines/tca32/parts",
+      "code": "tca32"
+    }
+  ],
+  "total_models": 47,
+  "cached_at": "2025-08-14T18:01:42.364886"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Fri-Jado",
+    "code": "PT_CAT222589",
+    "uri": "fri-jado"
+  },
+  "models": [
+    {
+      "name": "CD2",
+      "url": "/fri-jado/cd2/parts",
+      "code": "cd2"
+    },
+    {
+      "name": "CD2-SQUARE",
+      "url": "/fri-jado/cd2-square/parts",
+      "code": "cd2-square"
+    },
+    {
+      "name": "CD3",
+      "url": "/fri-jado/cd3/parts",
+      "code": "cd3"
+    },
+    {
+      "name": "CD3-SQUARE",
+      "url": "/fri-jado/cd3-square/parts",
+      "code": "cd3-square"
+    },
+    {
+      "name": "CD4",
+      "url": "/fri-jado/cd4/parts",
+      "code": "cd4"
+    },
+    {
+      "name": "CD4-SQUARE",
+      "url": "/fri-jado/cd4-square/parts",
+      "code": "cd4-square"
+    },
+    {
+      "name": "CD5",
+      "url": "/fri-jado/cd5/parts",
+      "code": "cd5"
+    },
+    {
+      "name": "CD5-SQUARE",
+      "url": "/fri-jado/cd5-square/parts",
+      "code": "cd5-square"
+    },
+    {
+      "name": "Deli Multisserie Grease Collector",
+      "url": "/fri-jado/deli-multisserie-grease-collector/parts",
+      "code": "deli-multisserie-grease-collector"
+    },
+    {
+      "name": "HD3-FULL SERVICE",
+      "url": "/fri-jado/hd3-full-service/parts",
+      "code": "hd3-full-service"
+    },
+    {
+      "name": "HD3-FULL SERVICE HUMIDIFIED SQUARE",
+      "url": "/fri-jado/hd3-full-service-humidified-square/parts",
+      "code": "hd3-full-service-humidified-square"
+    },
+    {
+      "name": "HD3-FULL SERVICE SQUARE",
+      "url": "/fri-jado/hd3-full-service-square/parts",
+      "code": "hd3-full-service-square"
+    },
+    {
+      "name": "HD3-HUMIDIFIED",
+      "url": "/fri-jado/hd3-humidified/parts",
+      "code": "hd3-humidified"
+    },
+    {
+      "name": "HD3-SELF SERIVCE",
+      "url": "/fri-jado/hd3-self-serivce/parts",
+      "code": "hd3-self-serivce"
+    },
+    {
+      "name": "HD3-Self Service Square",
+      "url": "/fri-jado/hd3-self-service-square/parts",
+      "code": "hd3-self-service-square"
+    },
+    {
+      "name": "HD4-FULL SERVICE",
+      "url": "/fri-jado/hd4-full-service/parts",
+      "code": "hd4-full-service"
+    },
+    {
+      "name": "HD4-FULL SERVICE HUMIDIFIED SQUARE",
+      "url": "/fri-jado/hd4-full-service-humidified-square/parts",
+      "code": "hd4-full-service-humidified-square"
+    },
+    {
+      "name": "HD4-FULL SERVICE SQUARE",
+      "url": "/fri-jado/hd4-full-service-square/parts",
+      "code": "hd4-full-service-square"
+    },
+    {
+      "name": "HD4-HUMIDIFIED",
+      "url": "/fri-jado/hd4-humidified/parts",
+      "code": "hd4-humidified"
+    },
+    {
+      "name": "HD4-SELF SERVICE",
+      "url": "/fri-jado/hd4-self-service/parts",
+      "code": "hd4-self-service"
+    },
+    {
+      "name": "HD4-Self Service Square",
+      "url": "/fri-jado/hd4-self-service-square/parts",
+      "code": "hd4-self-service-square"
+    },
+    {
+      "name": "HD5-FULL SERVICE",
+      "url": "/fri-jado/hd5-full-service/parts",
+      "code": "hd5-full-service"
+    },
+    {
+      "name": "HD5-FULL SERVICE HUMIDIFIED SQUARE",
+      "url": "/fri-jado/hd5-full-service-humidified-square/parts",
+      "code": "hd5-full-service-humidified-square"
+    },
+    {
+      "name": "HD5-FULL SERVICE SQUARE",
+      "url": "/fri-jado/hd5-full-service-square/parts",
+      "code": "hd5-full-service-square"
+    },
+    {
+      "name": "HD5-HUMIDIFIED",
+      "url": "/fri-jado/hd5-humidified/parts",
+      "code": "hd5-humidified"
+    },
+    {
+      "name": "HD5-SELF SERVICE",
+      "url": "/fri-jado/hd5-self-service/parts",
+      "code": "hd5-self-service"
+    },
+    {
+      "name": "HD5-Self Service Square",
+      "url": "/fri-jado/hd5-self-service-square/parts",
+      "code": "hd5-self-service-square"
+    },
+    {
+      "name": "HI48",
+      "url": "/fri-jado/hi48/parts",
+      "code": "hi48"
+    },
+    {
+      "name": "HS2-22-2082/2302/2402T2R",
+      "url": "/fri-jado/hs2-22-2082-2302-2402t2r/parts",
+      "code": "hs2-22-2082-2302-2402t2r"
+    },
+    {
+      "name": "HS2-23-2082/2302/2402T2R",
+      "url": "/fri-jado/hs2-23-2082-2302-2402t2r/parts",
+      "code": "hs2-23-2082-2302-2402t2r"
+    },
+    {
+      "name": "HS2-42-2084/2304/2404T2R",
+      "url": "/fri-jado/hs2-42-2084-2304-2404t2r/parts",
+      "code": "hs2-42-2084-2304-2404t2r"
+    },
+    {
+      "name": "LDR 8+8 S AC Electric",
+      "url": "/fri-jado/ldr-8-8-s-ac-electric/parts",
+      "code": "ldr-8-8-s-ac-electric"
+    },
+    {
+      "name": "LDR-8 S AC Electric",
+      "url": "/fri-jado/ldr-8-s-ac-electric/parts",
+      "code": "ldr-8-s-ac-electric"
+    },
+    {
+      "name": "LDR-8 S AC Gas",
+      "url": "/fri-jado/ldr-8-s-ac-gas/parts",
+      "code": "ldr-8-s-ac-gas"
+    },
+    {
+      "name": "MC30-FULL SERVICE-COLD-CURVED-FLAP DOORS",
+      "url": "/fri-jado/mc30-full-service-cold-curved-flap-doors/parts",
+      "code": "mc30-full-service-cold-curved-flap-doors"
+    },
+    {
+      "name": "MC30-FULL SERVICE-COLD-SQUARE",
+      "url": "/fri-jado/mc30-full-service-cold-square/parts",
+      "code": "mc30-full-service-cold-square"
+    },
+    {
+      "name": "MC30-FULL SERVICE-HOT-CURVED",
+      "url": "/fri-jado/mc30-full-service-hot-curved/parts",
+      "code": "mc30-full-service-hot-curved"
+    },
+    {
+      "name": "MC30-FULL SERVICE-HOT-SQUARE",
+      "url": "/fri-jado/mc30-full-service-hot-square/parts",
+      "code": "mc30-full-service-hot-square"
+    },
+    {
+      "name": "MC30-SELF SERVICE -HOT-SQUARE",
+      "url": "/fri-jado/mc30-self-service-hot-square/parts",
+      "code": "mc30-self-service-hot-square"
+    },
+    {
+      "name": "MC30-SELF SERVICE-HOT-CURVED",
+      "url": "/fri-jado/mc30-self-service-hot-curved/parts",
+      "code": "mc30-self-service-hot-curved"
+    },
+    {
+      "name": "MC40-FULL SERVICE-COLD-CURVED",
+      "url": "/fri-jado/mc40-full-service-cold-curved/parts",
+      "code": "mc40-full-service-cold-curved"
+    },
+    {
+      "name": "MC40-FULL SERVICE-COLD-SQUARE",
+      "url": "/fri-jado/mc40-full-service-cold-square/parts",
+      "code": "mc40-full-service-cold-square"
+    },
+    {
+      "name": "MC40-FULL SERVICE-COLD-SQUARE DOOR",
+      "url": "/fri-jado/mc40-full-service-cold-square-door/parts",
+      "code": "mc40-full-service-cold-square-door"
+    },
+    {
+      "name": "MC40-FULL SERVICE-HOT-CURVED",
+      "url": "/fri-jado/mc40-full-service-hot-curved/parts",
+      "code": "mc40-full-service-hot-curved"
+    },
+    {
+      "name": "MC40-FULL SERVICE-HOT-SQUARE",
+      "url": "/fri-jado/mc40-full-service-hot-square/parts",
+      "code": "mc40-full-service-hot-square"
+    },
+    {
+      "name": "MC40-SELF SERVICE-HOT-CURVED",
+      "url": "/fri-jado/mc40-self-service-hot-curved/parts",
+      "code": "mc40-self-service-hot-curved"
+    },
+    {
+      "name": "MC40-SELF SERVICE-HOT-SQURE",
+      "url": "/fri-jado/mc40-self-service-hot-squre/parts",
+      "code": "mc40-self-service-hot-squre"
+    },
+    {
+      "name": "MC40FULL SERIVCE-COLD-CURVED-FLAP DOORS",
+      "url": "/fri-jado/mc40full-serivce-cold-curved-flap-doors/parts",
+      "code": "mc40full-serivce-cold-curved-flap-doors"
+    },
+    {
+      "name": "MCC Cold 24- 2 Full Serve",
+      "url": "/fri-jado/mcc-cold-24-2-full-serve/parts",
+      "code": "mcc-cold-24-2-full-serve"
+    },
+    {
+      "name": "MCC Cold 24- 2 Self Serve",
+      "url": "/fri-jado/mcc-cold-24-2-self-serve/parts",
+      "code": "mcc-cold-24-2-self-serve"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:37:21.868946"
+}

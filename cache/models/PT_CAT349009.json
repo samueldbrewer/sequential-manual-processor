@@ -1,0 +1,76 @@
+{
+  "manufacturer": {
+    "name": "Gusto",
+    "code": "PT_CAT349009",
+    "uri": "gusto"
+  },
+  "models": [
+    {
+      "name": "GUSVCO-1-208",
+      "url": "/gusto/gusvco-1-208/parts",
+      "code": "gusvco-1-208"
+    },
+    {
+      "name": "GUSVCO-1-240",
+      "url": "/gusto/gusvco-1-240/parts",
+      "code": "gusvco-1-240"
+    },
+    {
+      "name": "GUSVCO-1-NAT",
+      "url": "/gusto/gusvco-1-nat/parts",
+      "code": "gusvco-1-nat"
+    },
+    {
+      "name": "GUSVGR-MN24",
+      "url": "/gusto/gusvgr-mn24/parts",
+      "code": "gusvgr-mn24"
+    },
+    {
+      "name": "GUSVGR-MN36",
+      "url": "/gusto/gusvgr-mn36/parts",
+      "code": "gusvgr-mn36"
+    },
+    {
+      "name": "GUSVGR-MN48",
+      "url": "/gusto/gusvgr-mn48/parts",
+      "code": "gusvgr-mn48"
+    },
+    {
+      "name": "GUSVGR-TH24",
+      "url": "/gusto/gusvgr-th24/parts",
+      "code": "gusvgr-th24"
+    },
+    {
+      "name": "GUSVGR-TH36",
+      "url": "/gusto/gusvgr-th36/parts",
+      "code": "gusvgr-th36"
+    },
+    {
+      "name": "GUSVGR-TH48",
+      "url": "/gusto/gusvgr-th48/parts",
+      "code": "gusvgr-th48"
+    },
+    {
+      "name": "GUSVRNG10N",
+      "url": "/gusto/gusvrng10n/parts",
+      "code": "gusvrng10n"
+    },
+    {
+      "name": "GUSVRNG10P",
+      "url": "/gusto/gusvrng10p/parts",
+      "code": "gusvrng10p"
+    },
+    {
+      "name": "GUSVRNG6N",
+      "url": "/gusto/gusvrng6n/parts",
+      "code": "gusvrng6n"
+    },
+    {
+      "name": "GUSVRNG6P",
+      "url": "/gusto/gusvrng6p/parts",
+      "code": "gusvrng6p"
+    }
+  ],
+  "total_models": 13,
+  "cached_at": "2025-08-14T18:49:31.756002"
+}

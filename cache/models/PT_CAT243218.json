@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Ditting USA",
+    "code": "PT_CAT243218",
+    "uri": "ditting-usa"
+  },
+  "models": [
+    {
+      "name": "1003",
+      "url": "/ditting-usa/1003/parts",
+      "code": "1003"
+    },
+    {
+      "name": "1800",
+      "url": "/ditting-usa/1800/parts",
+      "code": "1800"
+    },
+    {
+      "name": "804",
+      "url": "/ditting-usa/804/parts",
+      "code": "804"
+    },
+    {
+      "name": "807",
+      "url": "/ditting-usa/807/parts",
+      "code": "807"
+    },
+    {
+      "name": "807 Filter",
+      "url": "/ditting-usa/807-filter/parts",
+      "code": "807-filter"
+    },
+    {
+      "name": "807 Lab Sweet",
+      "url": "/ditting-usa/807-lab-sweet/parts",
+      "code": "807-lab-sweet"
+    },
+    {
+      "name": "903",
+      "url": "/ditting-usa/903/parts",
+      "code": "903"
+    },
+    {
+      "name": "E65S",
+      "url": "/ditting-usa/e65s/parts",
+      "code": "e65s"
+    },
+    {
+      "name": "KE640",
+      "url": "/ditting-usa/ke640/parts",
+      "code": "ke640"
+    },
+    {
+      "name": "KFA 1203",
+      "url": "/ditting-usa/kfa-1203/parts",
+      "code": "kfa-1203"
+    },
+    {
+      "name": "KFA 1403",
+      "url": "/ditting-usa/kfa-1403/parts",
+      "code": "kfa-1403"
+    },
+    {
+      "name": "KFA 1403 Industrial",
+      "url": "/ditting-usa/kfa-1403-industrial/parts",
+      "code": "kfa-1403-industrial"
+    },
+    {
+      "name": "KR 1203",
+      "url": "/ditting-usa/kr-1203/parts",
+      "code": "kr-1203"
+    },
+    {
+      "name": "KR 1403",
+      "url": "/ditting-usa/kr-1403/parts",
+      "code": "kr-1403"
+    },
+    {
+      "name": "PEAK",
+      "url": "/ditting-usa/peak/parts",
+      "code": "peak"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T18:22:04.346404"
+}

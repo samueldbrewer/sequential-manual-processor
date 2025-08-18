@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT375286",
+    "name": "Weil McLain",
+    "uri": "weil-mclain"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:57:32.552843",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

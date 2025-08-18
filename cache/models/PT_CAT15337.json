@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Linkrich",
+    "code": "PT_CAT15337",
+    "uri": "linkrich"
+  },
+  "models": [
+    {
+      "name": "B10",
+      "url": "/linkrich/b10/parts",
+      "code": "b10"
+    },
+    {
+      "name": "M20A",
+      "url": "/linkrich/m20a/parts",
+      "code": "m20a"
+    },
+    {
+      "name": "M30A",
+      "url": "/linkrich/m30a/parts",
+      "code": "m30a"
+    },
+    {
+      "name": "M40A",
+      "url": "/linkrich/m40a/parts",
+      "code": "m40a"
+    },
+    {
+      "name": "M60A",
+      "url": "/linkrich/m60a/parts",
+      "code": "m60a"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T19:22:21.183752"
+}

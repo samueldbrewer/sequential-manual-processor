@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Cres Cor",
+    "code": "PT_CAT1043",
+    "uri": "cres-cor"
+  },
+  "models": [
+    {
+      "name": "1000-CH Series",
+      "url": "/cres-cor/1000-ch-series/parts",
+      "code": "1000-ch-series"
+    },
+    {
+      "name": "1000-CH-2D-ED Series",
+      "url": "/cres-cor/1000-ch-2d-ed-series/parts",
+      "code": "1000-ch-2d-ed-series"
+    },
+    {
+      "name": "1000-CH-AL-D",
+      "url": "/cres-cor/1000-ch-al-d/parts",
+      "code": "1000-ch-al-d"
+    },
+    {
+      "name": "1000-CH-AL-SPLIT-D",
+      "url": "/cres-cor/1000-ch-al-split-d/parts",
+      "code": "1000-ch-al-split-d"
+    },
+    {
+      "name": "1000-CH-D Series",
+      "url": "/cres-cor/1000-ch-d-series/parts",
+      "code": "1000-ch-d-series"
+    },
+    {
+      "name": "1000-CH-SK-DE",
+      "url": "/cres-cor/1000-ch-sk-de/parts",
+      "code": "1000-ch-sk-de"
+    },
+    {
+      "name": "1000-CH-SK-DX",
+      "url": "/cres-cor/1000-ch-sk-dx/parts",
+      "code": "1000-ch-sk-dx"
+    },
+    {
+      "name": "1000-CH-SS-D",
+      "url": "/cres-cor/1000-ch-ss-d/parts",
+      "code": "1000-ch-ss-d"
+    },
+    {
+      "name": "1000-CH-SS-SPLIT-D",
+      "url": "/cres-cor/1000-ch-ss-split-d/parts",
+      "code": "1000-ch-ss-split-d"
+    },
+    {
+      "name": "1000-CH-SS-SPLIT-D120",
+      "url": "/cres-cor/1000-ch-ss-split-d120/parts",
+      "code": "1000-ch-ss-split-d120"
+    },
+    {
+      "name": "1000-CH-SS-SPLIT-DE",
+      "url": "/cres-cor/1000-ch-ss-split-de/parts",
+      "code": "1000-ch-ss-split-de"
+    },
+    {
+      "name": "1000-HH-SS-2DE",
+      "url": "/cres-cor/1000-hh-ss-2de/parts",
+      "code": "1000-hh-ss-2de"
+    },
+    {
+      "name": "1000-HH-SS-2DX",
+      "url": "/cres-cor/1000-hh-ss-2dx/parts",
+      "code": "1000-hh-ss-2dx"
+    },
+    {
+      "name": "1000-HH-SS-SPLIT-DE",
+      "url": "/cres-cor/1000-hh-ss-split-de/parts",
+      "code": "1000-hh-ss-split-de"
+    },
+    {
+      "name": "1000-HH-SS-SPLIT-DX",
+      "url": "/cres-cor/1000-hh-ss-split-dx/parts",
+      "code": "1000-hh-ss-split-dx"
+    },
+    {
+      "name": "1000CHAL",
+      "url": "/cres-cor/1000chal/parts",
+      "code": "1000chal"
+    },
+    {
+      "name": "1000CHAL3",
+      "url": "/cres-cor/1000chal3/parts",
+      "code": "1000chal3"
+    },
+    {
+      "name": "1000CHALSPLIT",
+      "url": "/cres-cor/1000chalsplit/parts",
+      "code": "1000chalsplit"
+    },
+    {
+      "name": "1000CHSKD",
+      "url": "/cres-cor/1000chskd/parts",
+      "code": "1000chskd"
+    },
+    {
+      "name": "1000CHSKD120",
+      "url": "/cres-cor/1000chskd120/parts",
+      "code": "1000chskd120"
+    },
+    {
+      "name": "1000CHSKD3",
+      "url": "/cres-cor/1000chskd3/parts",
+      "code": "1000chskd3"
+    },
+    {
+      "name": "1000CHSKDE120",
+      "url": "/cres-cor/1000chskde120/parts",
+      "code": "1000chskde120"
+    },
+    {
+      "name": "1000CHSKDE3",
+      "url": "/cres-cor/1000chskde3/parts",
+      "code": "1000chskde3"
+    },
+    {
+      "name": "1000CHSS",
+      "url": "/cres-cor/1000chss/parts",
+      "code": "1000chss"
+    },
+    {
+      "name": "1000CHSS3",
+      "url": "/cres-cor/1000chss3/parts",
+      "code": "1000chss3"
+    },
+    {
+      "name": "1000CHSSSPLIT",
+      "url": "/cres-cor/1000chsssplit/parts",
+      "code": "1000chsssplit"
+    },
+    {
+      "name": "1000HHSS2DE",
+      "url": "/cres-cor/1000hhss2de/parts",
+      "code": "1000hhss2de"
+    },
+    {
+      "name": "1000HHSS2DE240",
+      "url": "/cres-cor/1000hhss2de240/parts",
+      "code": "1000hhss2de240"
+    },
+    {
+      "name": "1000HHSS2DX",
+      "url": "/cres-cor/1000hhss2dx/parts",
+      "code": "1000hhss2dx"
+    },
+    {
+      "name": "1000HHSS2DX240",
+      "url": "/cres-cor/1000hhss2dx240/parts",
+      "code": "1000hhss2dx240"
+    },
+    {
+      "name": "1000HHSSSPLITDE",
+      "url": "/cres-cor/1000hhsssplitde/parts",
+      "code": "1000hhsssplitde"
+    },
+    {
+      "name": "1000HHSSSPLITDX",
+      "url": "/cres-cor/1000hhsssplitdx/parts",
+      "code": "1000hhsssplitdx"
+    },
+    {
+      "name": "120",
+      "url": "/cres-cor/120/parts",
+      "code": "120"
+    },
+    {
+      "name": "120-240",
+      "url": "/cres-cor/120-240/parts",
+      "code": "120-240"
+    },
+    {
+      "name": "1200-CH-2D Series",
+      "url": "/cres-cor/1200-ch-2d-series/parts",
+      "code": "1200-ch-2d-series"
+    },
+    {
+      "name": "1200-HH-SS-2DE",
+      "url": "/cres-cor/1200-hh-ss-2de/parts",
+      "code": "1200-hh-ss-2de"
+    },
+    {
+      "name": "1200-HH-SS-2DX",
+      "url": "/cres-cor/1200-hh-ss-2dx/parts",
+      "code": "1200-hh-ss-2dx"
+    },
+    {
+      "name": "1200-HH-SS-SPLIT-DE",
+      "url": "/cres-cor/1200-hh-ss-split-de/parts",
+      "code": "1200-hh-ss-split-de"
+    },
+    {
+      "name": "1200-HH-SS-SPLIT-DX",
+      "url": "/cres-cor/1200-hh-ss-split-dx/parts",
+      "code": "1200-hh-ss-split-dx"
+    },
+    {
+      "name": "1200HHSS2DE",
+      "url": "/cres-cor/1200hhss2de/parts",
+      "code": "1200hhss2de"
+    },
+    {
+      "name": "1200HHSS2DE240",
+      "url": "/cres-cor/1200hhss2de240/parts",
+      "code": "1200hhss2de240"
+    },
+    {
+      "name": "1200HHSS2DX",
+      "url": "/cres-cor/1200hhss2dx/parts",
+      "code": "1200hhss2dx"
+    },
+    {
+      "name": "1200HHSS2DX240",
+      "url": "/cres-cor/1200hhss2dx240/parts",
+      "code": "1200hhss2dx240"
+    },
+    {
+      "name": "1200HHSSSPLITDE",
+      "url": "/cres-cor/1200hhsssplitde/parts",
+      "code": "1200hhsssplitde"
+    },
+    {
+      "name": "1200HHSSSPLITDX",
+      "url": "/cres-cor/1200hhsssplitdx/parts",
+      "code": "1200hhsssplitdx"
+    },
+    {
+      "name": "120CR1836",
+      "url": "/cres-cor/120cr1836/parts",
+      "code": "120cr1836"
+    },
+    {
+      "name": "120PH1836D",
+      "url": "/cres-cor/120ph1836d/parts",
+      "code": "120ph1836d"
+    },
+    {
+      "name": "120PH1836D208",
+      "url": "/cres-cor/120ph1836d208/parts",
+      "code": "120ph1836d208"
+    },
+    {
+      "name": "120PH1836D240",
+      "url": "/cres-cor/120ph1836d240/parts",
+      "code": "120ph1836d240"
+    },
+    {
+      "name": "120PHC",
+      "url": "/cres-cor/120phc/parts",
+      "code": "120phc"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:15:26.106978"
+}

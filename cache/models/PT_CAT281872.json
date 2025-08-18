@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "Heat Seal",
+    "code": "PT_CAT281872",
+    "uri": "heat-seal"
+  },
+  "models": [
+    {
+      "name": "102A",
+      "url": "/heat-seal/102a/parts",
+      "code": "102a"
+    },
+    {
+      "name": "104A",
+      "url": "/heat-seal/104a/parts",
+      "code": "104a"
+    },
+    {
+      "name": "107A",
+      "url": "/heat-seal/107a/parts",
+      "code": "107a"
+    },
+    {
+      "name": "112A",
+      "url": "/heat-seal/112a/parts",
+      "code": "112a"
+    },
+    {
+      "name": "112AHP",
+      "url": "/heat-seal/112ahp/parts",
+      "code": "112ahp"
+    },
+    {
+      "name": "500A",
+      "url": "/heat-seal/500a/parts",
+      "code": "500a"
+    },
+    {
+      "name": "500A MINI",
+      "url": "/heat-seal/500a-mini/parts",
+      "code": "500a-mini"
+    },
+    {
+      "name": "600A",
+      "url": "/heat-seal/600a/parts",
+      "code": "600a"
+    },
+    {
+      "name": "625A",
+      "url": "/heat-seal/625a/parts",
+      "code": "625a"
+    },
+    {
+      "name": "625A MINI",
+      "url": "/heat-seal/625a-mini/parts",
+      "code": "625a-mini"
+    },
+    {
+      "name": "800A",
+      "url": "/heat-seal/800a/parts",
+      "code": "800a"
+    },
+    {
+      "name": "825A",
+      "url": "/heat-seal/825a/parts",
+      "code": "825a"
+    },
+    {
+      "name": "850A",
+      "url": "/heat-seal/850a/parts",
+      "code": "850a"
+    },
+    {
+      "name": "875A",
+      "url": "/heat-seal/875a/parts",
+      "code": "875a"
+    },
+    {
+      "name": "SM-1",
+      "url": "/heat-seal/sm-1/parts",
+      "code": "sm-1"
+    },
+    {
+      "name": "SM-1-12",
+      "url": "/heat-seal/sm-1-12/parts",
+      "code": "sm-1-12"
+    },
+    {
+      "name": "SM-1-LWRW",
+      "url": "/heat-seal/sm-1-lwrw/parts",
+      "code": "sm-1-lwrw"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-14T18:53:15.076045"
+}

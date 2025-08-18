@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT235531",
+    "name": "Tempstar",
+    "uri": "tempstar"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:55:38.356463",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

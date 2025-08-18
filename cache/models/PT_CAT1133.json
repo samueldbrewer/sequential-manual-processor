@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Lincoln",
+    "code": "PT_CAT1133",
+    "uri": "lincoln"
+  },
+  "models": [
+    {
+      "name": "1000",
+      "url": "/lincoln/1000/parts",
+      "code": "1000"
+    },
+    {
+      "name": "1001",
+      "url": "/lincoln/1001/parts",
+      "code": "1001"
+    },
+    {
+      "name": "1004",
+      "url": "/lincoln/1004/parts",
+      "code": "1004"
+    },
+    {
+      "name": "1005",
+      "url": "/lincoln/1005/parts",
+      "code": "1005"
+    },
+    {
+      "name": "1022",
+      "url": "/lincoln/1022/parts",
+      "code": "1022"
+    },
+    {
+      "name": "1023",
+      "url": "/lincoln/1023/parts",
+      "code": "1023"
+    },
+    {
+      "name": "1040",
+      "url": "/lincoln/1040/parts",
+      "code": "1040"
+    },
+    {
+      "name": "1041",
+      "url": "/lincoln/1041/parts",
+      "code": "1041"
+    },
+    {
+      "name": "1100",
+      "url": "/lincoln/1100/parts",
+      "code": "1100"
+    },
+    {
+      "name": "1100 Series",
+      "url": "/lincoln/1100-series/parts",
+      "code": "1100-series"
+    },
+    {
+      "name": "1101",
+      "url": "/lincoln/1101/parts",
+      "code": "1101"
+    },
+    {
+      "name": "1102",
+      "url": "/lincoln/1102/parts",
+      "code": "1102"
+    },
+    {
+      "name": "1103",
+      "url": "/lincoln/1103/parts",
+      "code": "1103"
+    },
+    {
+      "name": "1104",
+      "url": "/lincoln/1104/parts",
+      "code": "1104"
+    },
+    {
+      "name": "1105",
+      "url": "/lincoln/1105/parts",
+      "code": "1105"
+    },
+    {
+      "name": "1106",
+      "url": "/lincoln/1106/parts",
+      "code": "1106"
+    },
+    {
+      "name": "1116",
+      "url": "/lincoln/1116/parts",
+      "code": "1116"
+    },
+    {
+      "name": "1116-000-A",
+      "url": "/lincoln/1116-000-a/parts",
+      "code": "1116-000-a"
+    },
+    {
+      "name": "1116-023-8",
+      "url": "/lincoln/1116-023-8/parts",
+      "code": "1116-023-8"
+    },
+    {
+      "name": "1116-080-A",
+      "url": "/lincoln/1116-080-a/parts",
+      "code": "1116-080-a"
+    },
+    {
+      "name": "1116-080-A1",
+      "url": "/lincoln/1116-080-a1/parts",
+      "code": "1116-080-a1"
+    },
+    {
+      "name": "1117",
+      "url": "/lincoln/1117/parts",
+      "code": "1117"
+    },
+    {
+      "name": "1117-000-A",
+      "url": "/lincoln/1117-000-a/parts",
+      "code": "1117-000-a"
+    },
+    {
+      "name": "1117-023-8",
+      "url": "/lincoln/1117-023-8/parts",
+      "code": "1117-023-8"
+    },
+    {
+      "name": "1117-080-A",
+      "url": "/lincoln/1117-080-a/parts",
+      "code": "1117-080-a"
+    },
+    {
+      "name": "1117-080-A1",
+      "url": "/lincoln/1117-080-a1/parts",
+      "code": "1117-080-a1"
+    },
+    {
+      "name": "1130-000-A",
+      "url": "/lincoln/1130-000-a/parts",
+      "code": "1130-000-a"
+    },
+    {
+      "name": "1130-080-A",
+      "url": "/lincoln/1130-080-a/parts",
+      "code": "1130-080-a"
+    },
+    {
+      "name": "1130-080-A1",
+      "url": "/lincoln/1130-080-a1/parts",
+      "code": "1130-080-a1"
+    },
+    {
+      "name": "1130-08H-A",
+      "url": "/lincoln/1130-08h-a/parts",
+      "code": "1130-08h-a"
+    },
+    {
+      "name": "1131-000-A",
+      "url": "/lincoln/1131-000-a/parts",
+      "code": "1131-000-a"
+    },
+    {
+      "name": "1131-080-A",
+      "url": "/lincoln/1131-080-a/parts",
+      "code": "1131-080-a"
+    },
+    {
+      "name": "1131-080-A1",
+      "url": "/lincoln/1131-080-a1/parts",
+      "code": "1131-080-a1"
+    },
+    {
+      "name": "1131-08H-A",
+      "url": "/lincoln/1131-08h-a/parts",
+      "code": "1131-08h-a"
+    },
+    {
+      "name": "1132-000-A",
+      "url": "/lincoln/1132-000-a/parts",
+      "code": "1132-000-a"
+    },
+    {
+      "name": "1132-002-8",
+      "url": "/lincoln/1132-002-8/parts",
+      "code": "1132-002-8"
+    },
+    {
+      "name": "1132-023-8",
+      "url": "/lincoln/1132-023-8/parts",
+      "code": "1132-023-8"
+    },
+    {
+      "name": "1132-080-A",
+      "url": "/lincoln/1132-080-a/parts",
+      "code": "1132-080-a"
+    },
+    {
+      "name": "1132-080-A1",
+      "url": "/lincoln/1132-080-a1/parts",
+      "code": "1132-080-a1"
+    },
+    {
+      "name": "1132-08H-A",
+      "url": "/lincoln/1132-08h-a/parts",
+      "code": "1132-08h-a"
+    },
+    {
+      "name": "1133-000-A",
+      "url": "/lincoln/1133-000-a/parts",
+      "code": "1133-000-a"
+    },
+    {
+      "name": "1133-080-A",
+      "url": "/lincoln/1133-080-a/parts",
+      "code": "1133-080-a"
+    },
+    {
+      "name": "1133-080-A1",
+      "url": "/lincoln/1133-080-a1/parts",
+      "code": "1133-080-a1"
+    },
+    {
+      "name": "1133-08H-A",
+      "url": "/lincoln/1133-08h-a/parts",
+      "code": "1133-08h-a"
+    },
+    {
+      "name": "1134",
+      "url": "/lincoln/1134/parts",
+      "code": "1134"
+    },
+    {
+      "name": "1135",
+      "url": "/lincoln/1135/parts",
+      "code": "1135"
+    },
+    {
+      "name": "1136",
+      "url": "/lincoln/1136/parts",
+      "code": "1136"
+    },
+    {
+      "name": "1150",
+      "url": "/lincoln/1150/parts",
+      "code": "1150"
+    },
+    {
+      "name": "1151",
+      "url": "/lincoln/1151/parts",
+      "code": "1151"
+    },
+    {
+      "name": "1152",
+      "url": "/lincoln/1152/parts",
+      "code": "1152"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:22:10.532677"
+}

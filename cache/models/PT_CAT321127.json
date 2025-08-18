@@ -1,0 +1,91 @@
+{
+  "manufacturer": {
+    "name": "Franke Foodservice System",
+    "code": "PT_CAT321127",
+    "uri": "franke-foodservice-system"
+  },
+  "models": [
+    {
+      "name": "18017647",
+      "url": "/franke-foodservice-system/18017647/parts",
+      "code": "18017647"
+    },
+    {
+      "name": "18018707",
+      "url": "/franke-foodservice-system/18018707/parts",
+      "code": "18018707"
+    },
+    {
+      "name": "18018765",
+      "url": "/franke-foodservice-system/18018765/parts",
+      "code": "18018765"
+    },
+    {
+      "name": "18018767",
+      "url": "/franke-foodservice-system/18018767/parts",
+      "code": "18018767"
+    },
+    {
+      "name": "18030030",
+      "url": "/franke-foodservice-system/18030030/parts",
+      "code": "18030030"
+    },
+    {
+      "name": "18030031",
+      "url": "/franke-foodservice-system/18030031/parts",
+      "code": "18030031"
+    },
+    {
+      "name": "A1000",
+      "url": "/franke-foodservice-system/a1000/parts",
+      "code": "a1000"
+    },
+    {
+      "name": "Delight Linear Line",
+      "url": "/franke-foodservice-system/delight-linear-line/parts",
+      "code": "delight-linear-line"
+    },
+    {
+      "name": "Dual Line",
+      "url": "/franke-foodservice-system/dual-line/parts",
+      "code": "dual-line"
+    },
+    {
+      "name": "HCMF-18",
+      "url": "/franke-foodservice-system/hcmf-18/parts",
+      "code": "hcmf-18"
+    },
+    {
+      "name": "HCMF-30",
+      "url": "/franke-foodservice-system/hcmf-30/parts",
+      "code": "hcmf-30"
+    },
+    {
+      "name": "J Line",
+      "url": "/franke-foodservice-system/j-line/parts",
+      "code": "j-line"
+    },
+    {
+      "name": "Linear Line (Long)",
+      "url": "/franke-foodservice-system/linear-line-long/parts",
+      "code": "linear-line-long"
+    },
+    {
+      "name": "Universal Linear HNH with Slicer 14ft-2in",
+      "url": "/franke-foodservice-system/universal-linear-hnh-with-slicer-14ft-2in/parts",
+      "code": "universal-linear-hnh-with-slicer-14ft-2in"
+    },
+    {
+      "name": "Universal Linear HNH with Slicer 14ft-3in",
+      "url": "/franke-foodservice-system/universal-linear-hnh-with-slicer-14ft-3in/parts",
+      "code": "universal-linear-hnh-with-slicer-14ft-3in"
+    },
+    {
+      "name": "Universal Linear HNH without Slicer 12ft-3in",
+      "url": "/franke-foodservice-system/universal-linear-hnh-without-slicer-12ft-3in/parts",
+      "code": "universal-linear-hnh-without-slicer-12ft-3in"
+    }
+  ],
+  "total_models": 16,
+  "cached_at": "2025-08-14T18:37:03.285005"
+}

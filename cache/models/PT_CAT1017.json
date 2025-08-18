@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Atlas Metal",
+    "code": "PT_CAT1017",
+    "uri": "atlas-metal"
+  },
+  "models": [
+    {
+      "name": "BLC",
+      "url": "/atlas-metal/blc/parts",
+      "code": "blc"
+    },
+    {
+      "name": "BLC-BU",
+      "url": "/atlas-metal/blc-bu/parts",
+      "code": "blc-bu"
+    },
+    {
+      "name": "BLC-RM",
+      "url": "/atlas-metal/blc-rm/parts",
+      "code": "blc-rm"
+    },
+    {
+      "name": "BLH",
+      "url": "/atlas-metal/blh/parts",
+      "code": "blh"
+    },
+    {
+      "name": "BLH-BU",
+      "url": "/atlas-metal/blh-bu/parts",
+      "code": "blh-bu"
+    },
+    {
+      "name": "BLH-H",
+      "url": "/atlas-metal/blh-h/parts",
+      "code": "blh-h"
+    },
+    {
+      "name": "BLH-HBLH-OT",
+      "url": "/atlas-metal/blh-hblh-ot/parts",
+      "code": "blh-hblh-ot"
+    },
+    {
+      "name": "BLH-OT",
+      "url": "/atlas-metal/blh-ot/parts",
+      "code": "blh-ot"
+    },
+    {
+      "name": "BMM-1000",
+      "url": "/atlas-metal/bmm-1000/parts",
+      "code": "bmm-1000"
+    },
+    {
+      "name": "CABT",
+      "url": "/atlas-metal/cabt/parts",
+      "code": "cabt"
+    },
+    {
+      "name": "CADF",
+      "url": "/atlas-metal/cadf/parts",
+      "code": "cadf"
+    },
+    {
+      "name": "CAFB",
+      "url": "/atlas-metal/cafb/parts",
+      "code": "cafb"
+    },
+    {
+      "name": "CAGP",
+      "url": "/atlas-metal/cagp/parts",
+      "code": "cagp"
+    },
+    {
+      "name": "CAH",
+      "url": "/atlas-metal/cah/parts",
+      "code": "cah"
+    },
+    {
+      "name": "CAHB",
+      "url": "/atlas-metal/cahb/parts",
+      "code": "cahb"
+    },
+    {
+      "name": "CAHC",
+      "url": "/atlas-metal/cahc/parts",
+      "code": "cahc"
+    },
+    {
+      "name": "CAIC",
+      "url": "/atlas-metal/caic/parts",
+      "code": "caic"
+    },
+    {
+      "name": "CAIH Heated",
+      "url": "/atlas-metal/caih-heated/parts",
+      "code": "caih-heated"
+    },
+    {
+      "name": "CAPT",
+      "url": "/atlas-metal/capt/parts",
+      "code": "capt"
+    },
+    {
+      "name": "CARF",
+      "url": "/atlas-metal/carf/parts",
+      "code": "carf"
+    },
+    {
+      "name": "CARM",
+      "url": "/atlas-metal/carm/parts",
+      "code": "carm"
+    },
+    {
+      "name": "CATR",
+      "url": "/atlas-metal/catr/parts",
+      "code": "catr"
+    },
+    {
+      "name": "DSCI",
+      "url": "/atlas-metal/dsci/parts",
+      "code": "dsci"
+    },
+    {
+      "name": "DSCIBU",
+      "url": "/atlas-metal/dscibu/parts",
+      "code": "dscibu"
+    },
+    {
+      "name": "DSH",
+      "url": "/atlas-metal/dsh/parts",
+      "code": "dsh"
+    },
+    {
+      "name": "DSHBU",
+      "url": "/atlas-metal/dshbu/parts",
+      "code": "dshbu"
+    },
+    {
+      "name": "DSRM",
+      "url": "/atlas-metal/dsrm/parts",
+      "code": "dsrm"
+    },
+    {
+      "name": "DSRMBU",
+      "url": "/atlas-metal/dsrmbu/parts",
+      "code": "dsrmbu"
+    },
+    {
+      "name": "HB-3",
+      "url": "/atlas-metal/hb-3/parts",
+      "code": "hb-3"
+    },
+    {
+      "name": "HB-4",
+      "url": "/atlas-metal/hb-4/parts",
+      "code": "hb-4"
+    },
+    {
+      "name": "HB-5",
+      "url": "/atlas-metal/hb-5/parts",
+      "code": "hb-5"
+    },
+    {
+      "name": "MEPD Series",
+      "url": "/atlas-metal/mepd-series/parts",
+      "code": "mepd-series"
+    },
+    {
+      "name": "MEPD2",
+      "url": "/atlas-metal/mepd2/parts",
+      "code": "mepd2"
+    },
+    {
+      "name": "MEPD2H",
+      "url": "/atlas-metal/mepd2h/parts",
+      "code": "mepd2h"
+    },
+    {
+      "name": "MEPD3",
+      "url": "/atlas-metal/mepd3/parts",
+      "code": "mepd3"
+    },
+    {
+      "name": "MEPD3H",
+      "url": "/atlas-metal/mepd3h/parts",
+      "code": "mepd3h"
+    },
+    {
+      "name": "MEPD4",
+      "url": "/atlas-metal/mepd4/parts",
+      "code": "mepd4"
+    },
+    {
+      "name": "MEPD4H",
+      "url": "/atlas-metal/mepd4h/parts",
+      "code": "mepd4h"
+    },
+    {
+      "name": "MEPDH Series",
+      "url": "/atlas-metal/mepdh-series/parts",
+      "code": "mepdh-series"
+    },
+    {
+      "name": "MOPD Series",
+      "url": "/atlas-metal/mopd-series/parts",
+      "code": "mopd-series"
+    },
+    {
+      "name": "MOPD2",
+      "url": "/atlas-metal/mopd2/parts",
+      "code": "mopd2"
+    },
+    {
+      "name": "MOPD2H",
+      "url": "/atlas-metal/mopd2h/parts",
+      "code": "mopd2h"
+    },
+    {
+      "name": "MOPD3",
+      "url": "/atlas-metal/mopd3/parts",
+      "code": "mopd3"
+    },
+    {
+      "name": "MOPD3H",
+      "url": "/atlas-metal/mopd3h/parts",
+      "code": "mopd3h"
+    },
+    {
+      "name": "MOPD4",
+      "url": "/atlas-metal/mopd4/parts",
+      "code": "mopd4"
+    },
+    {
+      "name": "MOPD4H",
+      "url": "/atlas-metal/mopd4h/parts",
+      "code": "mopd4h"
+    },
+    {
+      "name": "MOPDH Series",
+      "url": "/atlas-metal/mopdh-series/parts",
+      "code": "mopdh-series"
+    },
+    {
+      "name": "PD Series",
+      "url": "/atlas-metal/pd-series/parts",
+      "code": "pd-series"
+    },
+    {
+      "name": "PDH Series",
+      "url": "/atlas-metal/pdh-series/parts",
+      "code": "pdh-series"
+    },
+    {
+      "name": "PDS Series",
+      "url": "/atlas-metal/pds-series/parts",
+      "code": "pds-series"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:49:18.056010"
+}

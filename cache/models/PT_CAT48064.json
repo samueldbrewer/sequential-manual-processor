@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Ovention",
+    "code": "PT_CAT48064",
+    "uri": "ovention"
+  },
+  "models": [
+    {
+      "name": "C1400",
+      "url": "/ovention/c1400/parts",
+      "code": "c1400"
+    },
+    {
+      "name": "C2000",
+      "url": "/ovention/c2000/parts",
+      "code": "c2000"
+    },
+    {
+      "name": "C2600",
+      "url": "/ovention/c2600/parts",
+      "code": "c2600"
+    },
+    {
+      "name": "F1400",
+      "url": "/ovention/f1400/parts",
+      "code": "f1400"
+    },
+    {
+      "name": "M1313",
+      "url": "/ovention/m1313/parts",
+      "code": "m1313"
+    },
+    {
+      "name": "M1718",
+      "url": "/ovention/m1718/parts",
+      "code": "m1718"
+    },
+    {
+      "name": "M360-12",
+      "url": "/ovention/m360-12/parts",
+      "code": "m360-12"
+    },
+    {
+      "name": "M360-14",
+      "url": "/ovention/m360-14/parts",
+      "code": "m360-14"
+    },
+    {
+      "name": "MiLO-14",
+      "url": "/ovention/milo-14/parts",
+      "code": "milo-14"
+    },
+    {
+      "name": "MiLO2-16",
+      "url": "/ovention/milo2-16/parts",
+      "code": "milo2-16"
+    },
+    {
+      "name": "MiSA-a12",
+      "url": "/ovention/misa-a12/parts",
+      "code": "misa-a12"
+    },
+    {
+      "name": "S1200",
+      "url": "/ovention/s1200/parts",
+      "code": "s1200"
+    },
+    {
+      "name": "S1600",
+      "url": "/ovention/s1600/parts",
+      "code": "s1600"
+    },
+    {
+      "name": "S2000",
+      "url": "/ovention/s2000/parts",
+      "code": "s2000"
+    },
+    {
+      "name": "S2000NC",
+      "url": "/ovention/s2000nc/parts",
+      "code": "s2000nc"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T19:46:40.360757"
+}

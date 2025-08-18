@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Nilma",
+    "code": "PT_CAT224032",
+    "uri": "nilma"
+  },
+  "models": [
+    {
+      "name": "C40/2",
+      "url": "/nilma/c40-2/parts",
+      "code": "c40-2"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:41:29.818095"
+}

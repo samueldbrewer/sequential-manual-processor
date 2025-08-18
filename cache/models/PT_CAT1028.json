@@ -1,0 +1,256 @@
+{
+  "manufacturer": {
+    "name": "Blickman",
+    "code": "PT_CAT1028",
+    "uri": "blickman"
+  },
+  "models": [
+    {
+      "name": "1305",
+      "url": "/blickman/1305/parts",
+      "code": "1305"
+    },
+    {
+      "name": "1310",
+      "url": "/blickman/1310/parts",
+      "code": "1310"
+    },
+    {
+      "name": "1410SS",
+      "url": "/blickman/1410ss/parts",
+      "code": "1410ss"
+    },
+    {
+      "name": "1410SS-4",
+      "url": "/blickman/1410ss-4/parts",
+      "code": "1410ss-4"
+    },
+    {
+      "name": "2010",
+      "url": "/blickman/2010/parts",
+      "code": "2010"
+    },
+    {
+      "name": "2018",
+      "url": "/blickman/2018/parts",
+      "code": "2018"
+    },
+    {
+      "name": "2025",
+      "url": "/blickman/2025/parts",
+      "code": "2025"
+    },
+    {
+      "name": "2118",
+      "url": "/blickman/2118/parts",
+      "code": "2118"
+    },
+    {
+      "name": "2230",
+      "url": "/blickman/2230/parts",
+      "code": "2230"
+    },
+    {
+      "name": "2301SS",
+      "url": "/blickman/2301ss/parts",
+      "code": "2301ss"
+    },
+    {
+      "name": "2441",
+      "url": "/blickman/2441/parts",
+      "code": "2441"
+    },
+    {
+      "name": "2442",
+      "url": "/blickman/2442/parts",
+      "code": "2442"
+    },
+    {
+      "name": "7774SS",
+      "url": "/blickman/7774ss/parts",
+      "code": "7774ss"
+    },
+    {
+      "name": "7774SS-LF",
+      "url": "/blickman/7774ss-lf/parts",
+      "code": "7774ss-lf"
+    },
+    {
+      "name": "7807MR",
+      "url": "/blickman/7807mr/parts",
+      "code": "7807mr"
+    },
+    {
+      "name": "7807MR-HB",
+      "url": "/blickman/7807mr-hb/parts",
+      "code": "7807mr-hb"
+    },
+    {
+      "name": "7807SS",
+      "url": "/blickman/7807ss/parts",
+      "code": "7807ss"
+    },
+    {
+      "name": "7807SS-HB",
+      "url": "/blickman/7807ss-hb/parts",
+      "code": "7807ss-hb"
+    },
+    {
+      "name": "7808MR",
+      "url": "/blickman/7808mr/parts",
+      "code": "7808mr"
+    },
+    {
+      "name": "7808MR-HB",
+      "url": "/blickman/7808mr-hb/parts",
+      "code": "7808mr-hb"
+    },
+    {
+      "name": "7808SS",
+      "url": "/blickman/7808ss/parts",
+      "code": "7808ss"
+    },
+    {
+      "name": "7808SS-HB",
+      "url": "/blickman/7808ss-hb/parts",
+      "code": "7808ss-hb"
+    },
+    {
+      "name": "7921MS",
+      "url": "/blickman/7921ms/parts",
+      "code": "7921ms"
+    },
+    {
+      "name": "8047SS",
+      "url": "/blickman/8047ss/parts",
+      "code": "8047ss"
+    },
+    {
+      "name": "8047SS-KIT",
+      "url": "/blickman/8047ss-kit/parts",
+      "code": "8047ss-kit"
+    },
+    {
+      "name": "8048SS",
+      "url": "/blickman/8048ss/parts",
+      "code": "8048ss"
+    },
+    {
+      "name": "8048SS-KIT",
+      "url": "/blickman/8048ss-kit/parts",
+      "code": "8048ss-kit"
+    },
+    {
+      "name": "8049SS",
+      "url": "/blickman/8049ss/parts",
+      "code": "8049ss"
+    },
+    {
+      "name": "8049SS-KIT",
+      "url": "/blickman/8049ss-kit/parts",
+      "code": "8049ss-kit"
+    },
+    {
+      "name": "8773SS",
+      "url": "/blickman/8773ss/parts",
+      "code": "8773ss"
+    },
+    {
+      "name": "8773SS-LF",
+      "url": "/blickman/8773ss-lf/parts",
+      "code": "8773ss-lf"
+    },
+    {
+      "name": "8889SS",
+      "url": "/blickman/8889ss/parts",
+      "code": "8889ss"
+    },
+    {
+      "name": "8889SS-4",
+      "url": "/blickman/8889ss-4/parts",
+      "code": "8889ss-4"
+    },
+    {
+      "name": "8890SS",
+      "url": "/blickman/8890ss/parts",
+      "code": "8890ss"
+    },
+    {
+      "name": "8890SS-4",
+      "url": "/blickman/8890ss-4/parts",
+      "code": "8890ss-4"
+    },
+    {
+      "name": "CCC1-19",
+      "url": "/blickman/ccc1-19/parts",
+      "code": "ccc1-19"
+    },
+    {
+      "name": "CCC1-19G",
+      "url": "/blickman/ccc1-19g/parts",
+      "code": "ccc1-19g"
+    },
+    {
+      "name": "CCC2-19",
+      "url": "/blickman/ccc2-19/parts",
+      "code": "ccc2-19"
+    },
+    {
+      "name": "CCC2-19G",
+      "url": "/blickman/ccc2-19g/parts",
+      "code": "ccc2-19g"
+    },
+    {
+      "name": "CCC3-19",
+      "url": "/blickman/ccc3-19/parts",
+      "code": "ccc3-19"
+    },
+    {
+      "name": "CCC3-19G",
+      "url": "/blickman/ccc3-19g/parts",
+      "code": "ccc3-19g"
+    },
+    {
+      "name": "CCC4-19",
+      "url": "/blickman/ccc4-19/parts",
+      "code": "ccc4-19"
+    },
+    {
+      "name": "CCC4-19G",
+      "url": "/blickman/ccc4-19g/parts",
+      "code": "ccc4-19g"
+    },
+    {
+      "name": "CCC5-19",
+      "url": "/blickman/ccc5-19/parts",
+      "code": "ccc5-19"
+    },
+    {
+      "name": "CCC5-19G",
+      "url": "/blickman/ccc5-19g/parts",
+      "code": "ccc5-19g"
+    },
+    {
+      "name": "NZ9000",
+      "url": "/blickman/nz9000/parts",
+      "code": "nz9000"
+    },
+    {
+      "name": "NZ9100",
+      "url": "/blickman/nz9100/parts",
+      "code": "nz9100"
+    },
+    {
+      "name": "OCC3",
+      "url": "/blickman/occ3/parts",
+      "code": "occ3"
+    },
+    {
+      "name": "OCC4",
+      "url": "/blickman/occ4/parts",
+      "code": "occ4"
+    }
+  ],
+  "total_models": 49,
+  "cached_at": "2025-08-14T17:55:48.203763"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Reznor",
+    "code": "PT_CAT223837",
+    "uri": "reznor"
+  },
+  "models": [
+    {
+      "name": "ACUA 60",
+      "url": "/reznor/acua-60/parts",
+      "code": "acua-60"
+    },
+    {
+      "name": "ACUA 72",
+      "url": "/reznor/acua-72/parts",
+      "code": "acua-72"
+    },
+    {
+      "name": "ACUA 90",
+      "url": "/reznor/acua-90/parts",
+      "code": "acua-90"
+    },
+    {
+      "name": "ACUB 120",
+      "url": "/reznor/acub-120/parts",
+      "code": "acub-120"
+    },
+    {
+      "name": "ACUB 150",
+      "url": "/reznor/acub-150/parts",
+      "code": "acub-150"
+    },
+    {
+      "name": "ACUB 90",
+      "url": "/reznor/acub-90/parts",
+      "code": "acub-90"
+    },
+    {
+      "name": "ACUC 120",
+      "url": "/reznor/acuc-120/parts",
+      "code": "acuc-120"
+    },
+    {
+      "name": "ACUC 150",
+      "url": "/reznor/acuc-150/parts",
+      "code": "acuc-150"
+    },
+    {
+      "name": "ACUC 180",
+      "url": "/reznor/acuc-180/parts",
+      "code": "acuc-180"
+    },
+    {
+      "name": "ADF 1200",
+      "url": "/reznor/adf-1200/parts",
+      "code": "adf-1200"
+    },
+    {
+      "name": "ADF 300",
+      "url": "/reznor/adf-300/parts",
+      "code": "adf-300"
+    },
+    {
+      "name": "ADF 500",
+      "url": "/reznor/adf-500/parts",
+      "code": "adf-500"
+    },
+    {
+      "name": "ADF 700",
+      "url": "/reznor/adf-700/parts",
+      "code": "adf-700"
+    },
+    {
+      "name": "ADFH 1200",
+      "url": "/reznor/adfh-1200/parts",
+      "code": "adfh-1200"
+    },
+    {
+      "name": "ADFH 300",
+      "url": "/reznor/adfh-300/parts",
+      "code": "adfh-300"
+    },
+    {
+      "name": "ADFH 500",
+      "url": "/reznor/adfh-500/parts",
+      "code": "adfh-500"
+    },
+    {
+      "name": "ADFH 700",
+      "url": "/reznor/adfh-700/parts",
+      "code": "adfh-700"
+    },
+    {
+      "name": "B 100",
+      "url": "/reznor/b-100/parts",
+      "code": "b-100"
+    },
+    {
+      "name": "B 125",
+      "url": "/reznor/b-125/parts",
+      "code": "b-125"
+    },
+    {
+      "name": "B 130",
+      "url": "/reznor/b-130/parts",
+      "code": "b-130"
+    },
+    {
+      "name": "B 165",
+      "url": "/reznor/b-165/parts",
+      "code": "b-165"
+    },
+    {
+      "name": "B 200",
+      "url": "/reznor/b-200/parts",
+      "code": "b-200"
+    },
+    {
+      "name": "B 25",
+      "url": "/reznor/b-25/parts",
+      "code": "b-25"
+    },
+    {
+      "name": "B 250",
+      "url": "/reznor/b-250/parts",
+      "code": "b-250"
+    },
+    {
+      "name": "B 300",
+      "url": "/reznor/b-300/parts",
+      "code": "b-300"
+    },
+    {
+      "name": "B 400",
+      "url": "/reznor/b-400/parts",
+      "code": "b-400"
+    },
+    {
+      "name": "B 50",
+      "url": "/reznor/b-50/parts",
+      "code": "b-50"
+    },
+    {
+      "name": "B 75",
+      "url": "/reznor/b-75/parts",
+      "code": "b-75"
+    },
+    {
+      "name": "BE 100",
+      "url": "/reznor/be-100/parts",
+      "code": "be-100"
+    },
+    {
+      "name": "BE 125",
+      "url": "/reznor/be-125/parts",
+      "code": "be-125"
+    },
+    {
+      "name": "BE 130",
+      "url": "/reznor/be-130/parts",
+      "code": "be-130"
+    },
+    {
+      "name": "BE 165",
+      "url": "/reznor/be-165/parts",
+      "code": "be-165"
+    },
+    {
+      "name": "BE 200",
+      "url": "/reznor/be-200/parts",
+      "code": "be-200"
+    },
+    {
+      "name": "BE 25",
+      "url": "/reznor/be-25/parts",
+      "code": "be-25"
+    },
+    {
+      "name": "BE 250",
+      "url": "/reznor/be-250/parts",
+      "code": "be-250"
+    },
+    {
+      "name": "BE 300",
+      "url": "/reznor/be-300/parts",
+      "code": "be-300"
+    },
+    {
+      "name": "BE 400",
+      "url": "/reznor/be-400/parts",
+      "code": "be-400"
+    },
+    {
+      "name": "BE 50",
+      "url": "/reznor/be-50/parts",
+      "code": "be-50"
+    },
+    {
+      "name": "BE 75",
+      "url": "/reznor/be-75/parts",
+      "code": "be-75"
+    },
+    {
+      "name": "CAUA 150",
+      "url": "/reznor/caua-150/parts",
+      "code": "caua-150"
+    },
+    {
+      "name": "CAUA 200",
+      "url": "/reznor/caua-200/parts",
+      "code": "caua-200"
+    },
+    {
+      "name": "CAUA 250",
+      "url": "/reznor/caua-250/parts",
+      "code": "caua-250"
+    },
+    {
+      "name": "CAUA 300",
+      "url": "/reznor/caua-300/parts",
+      "code": "caua-300"
+    },
+    {
+      "name": "CAUA 350",
+      "url": "/reznor/caua-350/parts",
+      "code": "caua-350"
+    },
+    {
+      "name": "CAUA 400",
+      "url": "/reznor/caua-400/parts",
+      "code": "caua-400"
+    },
+    {
+      "name": "EEDU 100",
+      "url": "/reznor/eedu-100/parts",
+      "code": "eedu-100"
+    },
+    {
+      "name": "EEDU 125",
+      "url": "/reznor/eedu-125/parts",
+      "code": "eedu-125"
+    },
+    {
+      "name": "EEDU 140",
+      "url": "/reznor/eedu-140/parts",
+      "code": "eedu-140"
+    },
+    {
+      "name": "EEDU 170",
+      "url": "/reznor/eedu-170/parts",
+      "code": "eedu-170"
+    },
+    {
+      "name": "EEDU 200",
+      "url": "/reznor/eedu-200/parts",
+      "code": "eedu-200"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:58:38.692263"
+}

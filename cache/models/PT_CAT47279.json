@@ -1,0 +1,136 @@
+{
+  "manufacturer": {
+    "name": "Marsal Pizza Ovens",
+    "code": "PT_CAT47279",
+    "uri": "marsal-pizza-ovens"
+  },
+  "models": [
+    {
+      "name": "BM68S",
+      "url": "/marsal-pizza-ovens/bm68s/parts",
+      "code": "bm68s"
+    },
+    {
+      "name": "BM72S",
+      "url": "/marsal-pizza-ovens/bm72s/parts",
+      "code": "bm72s"
+    },
+    {
+      "name": "CT 301",
+      "url": "/marsal-pizza-ovens/ct-301/parts",
+      "code": "ct-301"
+    },
+    {
+      "name": "CT 302",
+      "url": "/marsal-pizza-ovens/ct-302/parts",
+      "code": "ct-302"
+    },
+    {
+      "name": "EDO 2136-1",
+      "url": "/marsal-pizza-ovens/edo-2136-1/parts",
+      "code": "edo-2136-1"
+    },
+    {
+      "name": "EDO 42-1",
+      "url": "/marsal-pizza-ovens/edo-42-1/parts",
+      "code": "edo-42-1"
+    },
+    {
+      "name": "EDO 42-3",
+      "url": "/marsal-pizza-ovens/edo-42-3/parts",
+      "code": "edo-42-3"
+    },
+    {
+      "name": "EDO 57-1",
+      "url": "/marsal-pizza-ovens/edo-57-1/parts",
+      "code": "edo-57-1"
+    },
+    {
+      "name": "EDO 57-3",
+      "url": "/marsal-pizza-ovens/edo-57-3/parts",
+      "code": "edo-57-3"
+    },
+    {
+      "name": "MB236",
+      "url": "/marsal-pizza-ovens/mb236/parts",
+      "code": "mb236"
+    },
+    {
+      "name": "MB260",
+      "url": "/marsal-pizza-ovens/mb260/parts",
+      "code": "mb260"
+    },
+    {
+      "name": "MB42",
+      "url": "/marsal-pizza-ovens/mb42/parts",
+      "code": "mb42"
+    },
+    {
+      "name": "MB60",
+      "url": "/marsal-pizza-ovens/mb60/parts",
+      "code": "mb60"
+    },
+    {
+      "name": "MB866",
+      "url": "/marsal-pizza-ovens/mb866/parts",
+      "code": "mb866"
+    },
+    {
+      "name": "SD1048",
+      "url": "/marsal-pizza-ovens/sd1048/parts",
+      "code": "sd1048"
+    },
+    {
+      "name": "SD1060",
+      "url": "/marsal-pizza-ovens/sd1060/parts",
+      "code": "sd1060"
+    },
+    {
+      "name": "SD10866",
+      "url": "/marsal-pizza-ovens/sd10866/parts",
+      "code": "sd10866"
+    },
+    {
+      "name": "SD236",
+      "url": "/marsal-pizza-ovens/sd236/parts",
+      "code": "sd236"
+    },
+    {
+      "name": "SD248",
+      "url": "/marsal-pizza-ovens/sd248/parts",
+      "code": "sd248"
+    },
+    {
+      "name": "SD260",
+      "url": "/marsal-pizza-ovens/sd260/parts",
+      "code": "sd260"
+    },
+    {
+      "name": "SD448",
+      "url": "/marsal-pizza-ovens/sd448/parts",
+      "code": "sd448"
+    },
+    {
+      "name": "SD660",
+      "url": "/marsal-pizza-ovens/sd660/parts",
+      "code": "sd660"
+    },
+    {
+      "name": "SD866",
+      "url": "/marsal-pizza-ovens/sd866/parts",
+      "code": "sd866"
+    },
+    {
+      "name": "WF42",
+      "url": "/marsal-pizza-ovens/wf42/parts",
+      "code": "wf42"
+    },
+    {
+      "name": "WF60",
+      "url": "/marsal-pizza-ovens/wf60/parts",
+      "code": "wf60"
+    }
+  ],
+  "total_models": 25,
+  "cached_at": "2025-08-14T19:27:12.535298"
+}

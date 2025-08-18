@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Pitco",
+    "code": "PT_CAT1163",
+    "uri": "pitco"
+  },
+  "models": [
+    {
+      "name": "12",
+      "url": "/pitco/12/parts",
+      "code": "12"
+    },
+    {
+      "name": "14",
+      "url": "/pitco/14/parts",
+      "code": "14"
+    },
+    {
+      "name": "14R",
+      "url": "/pitco/14r/parts",
+      "code": "14r"
+    },
+    {
+      "name": "18",
+      "url": "/pitco/18/parts",
+      "code": "18"
+    },
+    {
+      "name": "18-2WKSUFM",
+      "url": "/pitco/18-2wksufm/parts",
+      "code": "18-2wksufm"
+    },
+    {
+      "name": "18S",
+      "url": "/pitco/18s/parts",
+      "code": "18s"
+    },
+    {
+      "name": "18WKS",
+      "url": "/pitco/18wks/parts",
+      "code": "18wks"
+    },
+    {
+      "name": "20F",
+      "url": "/pitco/20f/parts",
+      "code": "20f"
+    },
+    {
+      "name": "24P",
+      "url": "/pitco/24p/parts",
+      "code": "24p"
+    },
+    {
+      "name": "24RUFM",
+      "url": "/pitco/24rufm/parts",
+      "code": "24rufm"
+    },
+    {
+      "name": "3-SSH55SSTC-S/FD",
+      "url": "/pitco/3-ssh55sstc-s-fd/parts",
+      "code": "3-ssh55sstc-s-fd"
+    },
+    {
+      "name": "34FF",
+      "url": "/pitco/34ff/parts",
+      "code": "34ff"
+    },
+    {
+      "name": "34P",
+      "url": "/pitco/34p/parts",
+      "code": "34p"
+    },
+    {
+      "name": "35C+",
+      "url": "/pitco/35c/parts",
+      "code": "35c"
+    },
+    {
+      "name": "3SSH75RSSTC-S-FD",
+      "url": "/pitco/3ssh75rsstc-s-fd/parts",
+      "code": "3ssh75rsstc-s-fd"
+    },
+    {
+      "name": "40C+",
+      "url": "/pitco/40c/parts",
+      "code": "40c"
+    },
+    {
+      "name": "40S",
+      "url": "/pitco/40s/parts",
+      "code": "40s"
+    },
+    {
+      "name": "45C",
+      "url": "/pitco/45c/parts",
+      "code": "45c"
+    },
+    {
+      "name": "45C+",
+      "url": "/pitco/45c/parts",
+      "code": "45c"
+    },
+    {
+      "name": "4SSH75CSFD",
+      "url": "/pitco/4ssh75csfd/parts",
+      "code": "4ssh75csfd"
+    },
+    {
+      "name": "4SSH75RSSTC-S-FD",
+      "url": "/pitco/4ssh75rsstc-s-fd/parts",
+      "code": "4ssh75rsstc-s-fd"
+    },
+    {
+      "name": "5SSH75CSFD",
+      "url": "/pitco/5ssh75csfd/parts",
+      "code": "5ssh75csfd"
+    },
+    {
+      "name": "65C+",
+      "url": "/pitco/65c/parts",
+      "code": "65c"
+    },
+    {
+      "name": "7",
+      "url": "/pitco/7/parts",
+      "code": "7"
+    },
+    {
+      "name": "AE14S",
+      "url": "/pitco/ae14s/parts",
+      "code": "ae14s"
+    },
+    {
+      "name": "AG14S",
+      "url": "/pitco/ag14s/parts",
+      "code": "ag14s"
+    },
+    {
+      "name": "AW-SG14R",
+      "url": "/pitco/aw-sg14r/parts",
+      "code": "aw-sg14r"
+    },
+    {
+      "name": "AW-SG14R-2",
+      "url": "/pitco/aw-sg14r-2/parts",
+      "code": "aw-sg14r-2"
+    },
+    {
+      "name": "AW-SG14R-3-FD",
+      "url": "/pitco/aw-sg14r-3-fd/parts",
+      "code": "aw-sg14r-3-fd"
+    },
+    {
+      "name": "AW-SG14R-4-FD",
+      "url": "/pitco/aw-sg14r-4-fd/parts",
+      "code": "aw-sg14r-4-fd"
+    },
+    {
+      "name": "AW-SGF14R",
+      "url": "/pitco/aw-sgf14r/parts",
+      "code": "aw-sgf14r"
+    },
+    {
+      "name": "BK-SG14RS-PCFM",
+      "url": "/pitco/bk-sg14rs-pcfm/parts",
+      "code": "bk-sg14rs-pcfm"
+    },
+    {
+      "name": "BKSSH60W",
+      "url": "/pitco/bkssh60w/parts",
+      "code": "bkssh60w"
+    },
+    {
+      "name": "CKSSH55C",
+      "url": "/pitco/ckssh55c/parts",
+      "code": "ckssh55c"
+    },
+    {
+      "name": "CKSSH60WC",
+      "url": "/pitco/ckssh60wc/parts",
+      "code": "ckssh60wc"
+    },
+    {
+      "name": "CRTE",
+      "url": "/pitco/crte/parts",
+      "code": "crte"
+    },
+    {
+      "name": "CRTE (Digital)",
+      "url": "/pitco/crte-digital/parts",
+      "code": "crte-digital"
+    },
+    {
+      "name": "CRTE (Solid State)",
+      "url": "/pitco/crte-solid-state/parts",
+      "code": "crte-solid-state"
+    },
+    {
+      "name": "DD24RUFM",
+      "url": "/pitco/dd24rufm/parts",
+      "code": "dd24rufm"
+    },
+    {
+      "name": "E12",
+      "url": "/pitco/e12/parts",
+      "code": "e12"
+    },
+    {
+      "name": "E14",
+      "url": "/pitco/e14/parts",
+      "code": "e14"
+    },
+    {
+      "name": "E14B",
+      "url": "/pitco/e14b/parts",
+      "code": "e14b"
+    },
+    {
+      "name": "E14X",
+      "url": "/pitco/e14x/parts",
+      "code": "e14x"
+    },
+    {
+      "name": "E18",
+      "url": "/pitco/e18/parts",
+      "code": "e18"
+    },
+    {
+      "name": "E18B",
+      "url": "/pitco/e18b/parts",
+      "code": "e18b"
+    },
+    {
+      "name": "E24",
+      "url": "/pitco/e24/parts",
+      "code": "e24"
+    },
+    {
+      "name": "E24FF",
+      "url": "/pitco/e24ff/parts",
+      "code": "e24ff"
+    },
+    {
+      "name": "E34",
+      "url": "/pitco/e34/parts",
+      "code": "e34"
+    },
+    {
+      "name": "E34FF",
+      "url": "/pitco/e34ff/parts",
+      "code": "e34ff"
+    },
+    {
+      "name": "E400",
+      "url": "/pitco/e400/parts",
+      "code": "e400"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:50:08.496191"
+}

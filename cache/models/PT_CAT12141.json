@@ -1,0 +1,41 @@
+{
+  "manufacturer": {
+    "name": "Red Goat",
+    "code": "PT_CAT12141",
+    "uri": "red-goat"
+  },
+  "models": [
+    {
+      "name": "A SERIES",
+      "url": "/red-goat/a-series/parts",
+      "code": "a-series"
+    },
+    {
+      "name": "B SERIES",
+      "url": "/red-goat/b-series/parts",
+      "code": "b-series"
+    },
+    {
+      "name": "C Series",
+      "url": "/red-goat/c-series/parts",
+      "code": "c-series"
+    },
+    {
+      "name": "H SERIES",
+      "url": "/red-goat/h-series/parts",
+      "code": "h-series"
+    },
+    {
+      "name": "RAC1",
+      "url": "/red-goat/rac1/parts",
+      "code": "rac1"
+    },
+    {
+      "name": "RAC2",
+      "url": "/red-goat/rac2/parts",
+      "code": "rac2"
+    }
+  ],
+  "total_models": 6,
+  "cached_at": "2025-08-14T19:57:01.194734"
+}

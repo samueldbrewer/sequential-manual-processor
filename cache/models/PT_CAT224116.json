@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Erika Record",
+    "code": "PT_CAT224116",
+    "uri": "erika-record"
+  },
+  "models": [
+    {
+      "name": "AUTOMAT",
+      "url": "/erika-record/automat/parts",
+      "code": "automat"
+    },
+    {
+      "name": "AUTOMAT RED GATE",
+      "url": "/erika-record/automat-red-gate/parts",
+      "code": "automat-red-gate"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T18:29:09.189508"
+}

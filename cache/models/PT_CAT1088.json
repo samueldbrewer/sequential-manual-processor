@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Globe",
+    "code": "PT_CAT1088",
+    "uri": "globe"
+  },
+  "models": [
+    {
+      "name": "131X-WS",
+      "url": "/globe/131x-ws/parts",
+      "code": "131x-ws"
+    },
+    {
+      "name": "2500",
+      "url": "/globe/2500/parts",
+      "code": "2500"
+    },
+    {
+      "name": "2750",
+      "url": "/globe/2750/parts",
+      "code": "2750"
+    },
+    {
+      "name": "2850V",
+      "url": "/globe/2850v/parts",
+      "code": "2850v"
+    },
+    {
+      "name": "2875V",
+      "url": "/globe/2875v/parts",
+      "code": "2875v"
+    },
+    {
+      "name": "3500",
+      "url": "/globe/3500/parts",
+      "code": "3500"
+    },
+    {
+      "name": "3600",
+      "url": "/globe/3600/parts",
+      "code": "3600"
+    },
+    {
+      "name": "3600N",
+      "url": "/globe/3600n/parts",
+      "code": "3600n"
+    },
+    {
+      "name": "3600NF",
+      "url": "/globe/3600nf/parts",
+      "code": "3600nf"
+    },
+    {
+      "name": "3600P",
+      "url": "/globe/3600p/parts",
+      "code": "3600p"
+    },
+    {
+      "name": "3750",
+      "url": "/globe/3750/parts",
+      "code": "3750"
+    },
+    {
+      "name": "3850",
+      "url": "/globe/3850/parts",
+      "code": "3850"
+    },
+    {
+      "name": "3850N",
+      "url": "/globe/3850n/parts",
+      "code": "3850n"
+    },
+    {
+      "name": "3850NF",
+      "url": "/globe/3850nf/parts",
+      "code": "3850nf"
+    },
+    {
+      "name": "3850P",
+      "url": "/globe/3850p/parts",
+      "code": "3850p"
+    },
+    {
+      "name": "3850V",
+      "url": "/globe/3850v/parts",
+      "code": "3850v"
+    },
+    {
+      "name": "3875V",
+      "url": "/globe/3875v/parts",
+      "code": "3875v"
+    },
+    {
+      "name": "3975",
+      "url": "/globe/3975/parts",
+      "code": "3975"
+    },
+    {
+      "name": "3975N",
+      "url": "/globe/3975n/parts",
+      "code": "3975n"
+    },
+    {
+      "name": "3975NF",
+      "url": "/globe/3975nf/parts",
+      "code": "3975nf"
+    },
+    {
+      "name": "3975P",
+      "url": "/globe/3975p/parts",
+      "code": "3975p"
+    },
+    {
+      "name": "4500",
+      "url": "/globe/4500/parts",
+      "code": "4500"
+    },
+    {
+      "name": "4600",
+      "url": "/globe/4600/parts",
+      "code": "4600"
+    },
+    {
+      "name": "4600N",
+      "url": "/globe/4600n/parts",
+      "code": "4600n"
+    },
+    {
+      "name": "4600NF",
+      "url": "/globe/4600nf/parts",
+      "code": "4600nf"
+    },
+    {
+      "name": "4600P",
+      "url": "/globe/4600p/parts",
+      "code": "4600p"
+    },
+    {
+      "name": "4750",
+      "url": "/globe/4750/parts",
+      "code": "4750"
+    },
+    {
+      "name": "4850",
+      "url": "/globe/4850/parts",
+      "code": "4850"
+    },
+    {
+      "name": "4875V",
+      "url": "/globe/4875v/parts",
+      "code": "4875v"
+    },
+    {
+      "name": "4913",
+      "url": "/globe/4913/parts",
+      "code": "4913"
+    },
+    {
+      "name": "4913N",
+      "url": "/globe/4913n/parts",
+      "code": "4913n"
+    },
+    {
+      "name": "4975",
+      "url": "/globe/4975/parts",
+      "code": "4975"
+    },
+    {
+      "name": "4975A",
+      "url": "/globe/4975a/parts",
+      "code": "4975a"
+    },
+    {
+      "name": "4975N",
+      "url": "/globe/4975n/parts",
+      "code": "4975n"
+    },
+    {
+      "name": "4975P",
+      "url": "/globe/4975p/parts",
+      "code": "4975p"
+    },
+    {
+      "name": "500L",
+      "url": "/globe/500l/parts",
+      "code": "500l"
+    },
+    {
+      "name": "500LR",
+      "url": "/globe/500lr/parts",
+      "code": "500lr"
+    },
+    {
+      "name": "725L",
+      "url": "/globe/725l/parts",
+      "code": "725l"
+    },
+    {
+      "name": "725LR",
+      "url": "/globe/725lr/parts",
+      "code": "725lr"
+    },
+    {
+      "name": "775L",
+      "url": "/globe/775l/parts",
+      "code": "775l"
+    },
+    {
+      "name": "775LR",
+      "url": "/globe/775lr/parts",
+      "code": "775lr"
+    },
+    {
+      "name": "825L",
+      "url": "/globe/825l/parts",
+      "code": "825l"
+    },
+    {
+      "name": "825LR",
+      "url": "/globe/825lr/parts",
+      "code": "825lr"
+    },
+    {
+      "name": "850L",
+      "url": "/globe/850l/parts",
+      "code": "850l"
+    },
+    {
+      "name": "850LR",
+      "url": "/globe/850lr/parts",
+      "code": "850lr"
+    },
+    {
+      "name": "875L",
+      "url": "/globe/875l/parts",
+      "code": "875l"
+    },
+    {
+      "name": "875LR",
+      "url": "/globe/875lr/parts",
+      "code": "875lr"
+    },
+    {
+      "name": "C10",
+      "url": "/globe/c10/parts",
+      "code": "c10"
+    },
+    {
+      "name": "C12",
+      "url": "/globe/c12/parts",
+      "code": "c12"
+    },
+    {
+      "name": "C12HT",
+      "url": "/globe/c12ht/parts",
+      "code": "c12ht"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:45:18.205374"
+}

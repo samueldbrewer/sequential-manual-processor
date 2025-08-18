@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Quikserv",
+    "code": "PT_CATQUIKSERV",
+    "uri": "quikserv"
+  },
+  "models": [
+    {
+      "name": "BP-4841E",
+      "url": "/quikserv/bp-4841e/parts",
+      "code": "bp-4841e"
+    },
+    {
+      "name": "BP-7236E",
+      "url": "/quikserv/bp-7236e/parts",
+      "code": "bp-7236e"
+    },
+    {
+      "name": "BP-7241E-IP",
+      "url": "/quikserv/bp-7241e-ip/parts",
+      "code": "bp-7241e-ip"
+    },
+    {
+      "name": "BPSC-4236",
+      "url": "/quikserv/bpsc-4236/parts",
+      "code": "bpsc-4236"
+    },
+    {
+      "name": "BPSC-4840",
+      "url": "/quikserv/bpsc-4840/parts",
+      "code": "bpsc-4840"
+    },
+    {
+      "name": "BPSC-5440",
+      "url": "/quikserv/bpsc-5440/parts",
+      "code": "bpsc-5440"
+    },
+    {
+      "name": "FM-1",
+      "url": "/quikserv/fm-1/parts",
+      "code": "fm-1"
+    },
+    {
+      "name": "FM-42E",
+      "url": "/quikserv/fm-42e/parts",
+      "code": "fm-42e"
+    },
+    {
+      "name": "IF-BPSC-7241",
+      "url": "/quikserv/if-bpsc-7241/parts",
+      "code": "if-bpsc-7241"
+    },
+    {
+      "name": "PW-54E",
+      "url": "/quikserv/pw-54e/parts",
+      "code": "pw-54e"
+    },
+    {
+      "name": "QSB-12",
+      "url": "/quikserv/qsb-12/parts",
+      "code": "qsb-12"
+    },
+    {
+      "name": "QSB-12S",
+      "url": "/quikserv/qsb-12s/parts",
+      "code": "qsb-12s"
+    },
+    {
+      "name": "QSP-713S-E",
+      "url": "/quikserv/qsp-713s-e/parts",
+      "code": "qsp-713s-e"
+    },
+    {
+      "name": "SS-4538E",
+      "url": "/quikserv/ss-4538e/parts",
+      "code": "ss-4538e"
+    },
+    {
+      "name": "SST-4860",
+      "url": "/quikserv/sst-4860/parts",
+      "code": "sst-4860"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T19:54:22.552115"
+}

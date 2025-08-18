@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hoshizaki",
+    "code": "PT_CAT1098",
+    "uri": "hoshizaki"
+  },
+  "models": [
+    {
+      "name": "AM-100BAE",
+      "url": "/hoshizaki/am-100bae/parts",
+      "code": "am-100bae"
+    },
+    {
+      "name": "AM-150BAF",
+      "url": "/hoshizaki/am-150baf/parts",
+      "code": "am-150baf"
+    },
+    {
+      "name": "AM-150BWF",
+      "url": "/hoshizaki/am-150bwf/parts",
+      "code": "am-150bwf"
+    },
+    {
+      "name": "AM-50BAE",
+      "url": "/hoshizaki/am-50bae/parts",
+      "code": "am-50bae"
+    },
+    {
+      "name": "AM-50BAE-AD",
+      "url": "/hoshizaki/am-50bae-ad/parts",
+      "code": "am-50bae-ad"
+    },
+    {
+      "name": "AM-50BAE-ADDS",
+      "url": "/hoshizaki/am-50bae-adds/parts",
+      "code": "am-50bae-adds"
+    },
+    {
+      "name": "AM-50BAE-DS",
+      "url": "/hoshizaki/am-50bae-ds/parts",
+      "code": "am-50bae-ds"
+    },
+    {
+      "name": "AM-50BAJ",
+      "url": "/hoshizaki/am-50baj/parts",
+      "code": "am-50baj"
+    },
+    {
+      "name": "AM-50BAJ-AD",
+      "url": "/hoshizaki/am-50baj-ad/parts",
+      "code": "am-50baj-ad"
+    },
+    {
+      "name": "AM-50BAJ-ADDS",
+      "url": "/hoshizaki/am-50baj-adds/parts",
+      "code": "am-50baj-adds"
+    },
+    {
+      "name": "AM-50BAJ-DS",
+      "url": "/hoshizaki/am-50baj-ds/parts",
+      "code": "am-50baj-ds"
+    },
+    {
+      "name": "B-1150SS",
+      "url": "/hoshizaki/b-1150ss/parts",
+      "code": "b-1150ss"
+    },
+    {
+      "name": "B-1300SS",
+      "url": "/hoshizaki/b-1300ss/parts",
+      "code": "b-1300ss"
+    },
+    {
+      "name": "B-1300SS-A",
+      "url": "/hoshizaki/b-1300ss-a/parts",
+      "code": "b-1300ss-a"
+    },
+    {
+      "name": "B-1500SS",
+      "url": "/hoshizaki/b-1500ss/parts",
+      "code": "b-1500ss"
+    },
+    {
+      "name": "B-1650SS",
+      "url": "/hoshizaki/b-1650ss/parts",
+      "code": "b-1650ss"
+    },
+    {
+      "name": "B-250PD",
+      "url": "/hoshizaki/b-250pd/parts",
+      "code": "b-250pd"
+    },
+    {
+      "name": "B-250PF",
+      "url": "/hoshizaki/b-250pf/parts",
+      "code": "b-250pf"
+    },
+    {
+      "name": "B-300PD",
+      "url": "/hoshizaki/b-300pd/parts",
+      "code": "b-300pd"
+    },
+    {
+      "name": "B-300PF",
+      "url": "/hoshizaki/b-300pf/parts",
+      "code": "b-300pf"
+    },
+    {
+      "name": "B-300SD",
+      "url": "/hoshizaki/b-300sd/parts",
+      "code": "b-300sd"
+    },
+    {
+      "name": "B-300SF",
+      "url": "/hoshizaki/b-300sf/parts",
+      "code": "b-300sf"
+    },
+    {
+      "name": "B-500PD",
+      "url": "/hoshizaki/b-500pd/parts",
+      "code": "b-500pd"
+    },
+    {
+      "name": "B-500PF",
+      "url": "/hoshizaki/b-500pf/parts",
+      "code": "b-500pf"
+    },
+    {
+      "name": "B-500SD",
+      "url": "/hoshizaki/b-500sd/parts",
+      "code": "b-500sd"
+    },
+    {
+      "name": "B-500SF",
+      "url": "/hoshizaki/b-500sf/parts",
+      "code": "b-500sf"
+    },
+    {
+      "name": "B-700PD",
+      "url": "/hoshizaki/b-700pd/parts",
+      "code": "b-700pd"
+    },
+    {
+      "name": "B-700PF",
+      "url": "/hoshizaki/b-700pf/parts",
+      "code": "b-700pf"
+    },
+    {
+      "name": "B-700SD",
+      "url": "/hoshizaki/b-700sd/parts",
+      "code": "b-700sd"
+    },
+    {
+      "name": "B-700SF",
+      "url": "/hoshizaki/b-700sf/parts",
+      "code": "b-700sf"
+    },
+    {
+      "name": "B-800PD",
+      "url": "/hoshizaki/b-800pd/parts",
+      "code": "b-800pd"
+    },
+    {
+      "name": "B-800PF",
+      "url": "/hoshizaki/b-800pf/parts",
+      "code": "b-800pf"
+    },
+    {
+      "name": "B-800SD",
+      "url": "/hoshizaki/b-800sd/parts",
+      "code": "b-800sd"
+    },
+    {
+      "name": "B-800SF",
+      "url": "/hoshizaki/b-800sf/parts",
+      "code": "b-800sf"
+    },
+    {
+      "name": "B-900PF",
+      "url": "/hoshizaki/b-900pf/parts",
+      "code": "b-900pf"
+    },
+    {
+      "name": "B-900SD",
+      "url": "/hoshizaki/b-900sd/parts",
+      "code": "b-900sd"
+    },
+    {
+      "name": "B-900SF",
+      "url": "/hoshizaki/b-900sf/parts",
+      "code": "b-900sf"
+    },
+    {
+      "name": "BB59",
+      "url": "/hoshizaki/bb59/parts",
+      "code": "bb59"
+    },
+    {
+      "name": "BB59-G",
+      "url": "/hoshizaki/bb59-g/parts",
+      "code": "bb59-g"
+    },
+    {
+      "name": "BB59-G-S",
+      "url": "/hoshizaki/bb59-g-s/parts",
+      "code": "bb59-g-s"
+    },
+    {
+      "name": "BB59-S",
+      "url": "/hoshizaki/bb59-s/parts",
+      "code": "bb59-s"
+    },
+    {
+      "name": "BB69",
+      "url": "/hoshizaki/bb69/parts",
+      "code": "bb69"
+    },
+    {
+      "name": "BB69-G",
+      "url": "/hoshizaki/bb69-g/parts",
+      "code": "bb69-g"
+    },
+    {
+      "name": "BB69-G-S",
+      "url": "/hoshizaki/bb69-g-s/parts",
+      "code": "bb69-g-s"
+    },
+    {
+      "name": "BB69-S",
+      "url": "/hoshizaki/bb69-s/parts",
+      "code": "bb69-s"
+    },
+    {
+      "name": "BB80",
+      "url": "/hoshizaki/bb80/parts",
+      "code": "bb80"
+    },
+    {
+      "name": "BB80-G",
+      "url": "/hoshizaki/bb80-g/parts",
+      "code": "bb80-g"
+    },
+    {
+      "name": "BB80-G-S",
+      "url": "/hoshizaki/bb80-g-s/parts",
+      "code": "bb80-g-s"
+    },
+    {
+      "name": "BB80-S",
+      "url": "/hoshizaki/bb80-s/parts",
+      "code": "bb80-s"
+    },
+    {
+      "name": "BB95",
+      "url": "/hoshizaki/bb95/parts",
+      "code": "bb95"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:01:11.400747"
+}

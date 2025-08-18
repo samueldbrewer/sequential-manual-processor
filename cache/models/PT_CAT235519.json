@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Midea",
+    "code": "PT_CAT235519",
+    "uri": "midea"
+  },
+  "models": [
+    {
+      "name": "0E7830",
+      "url": "/midea/0e7830/parts",
+      "code": "0e7830"
+    },
+    {
+      "name": "0E7831",
+      "url": "/midea/0e7831/parts",
+      "code": "0e7831"
+    },
+    {
+      "name": "0E7832",
+      "url": "/midea/0e7832/parts",
+      "code": "0e7832"
+    },
+    {
+      "name": "0E7833",
+      "url": "/midea/0e7833/parts",
+      "code": "0e7833"
+    },
+    {
+      "name": "0E7834",
+      "url": "/midea/0e7834/parts",
+      "code": "0e7834"
+    },
+    {
+      "name": "0E7835",
+      "url": "/midea/0e7835/parts",
+      "code": "0e7835"
+    },
+    {
+      "name": "0E7836",
+      "url": "/midea/0e7836/parts",
+      "code": "0e7836"
+    },
+    {
+      "name": "0E7837",
+      "url": "/midea/0e7837/parts",
+      "code": "0e7837"
+    },
+    {
+      "name": "0L9917",
+      "url": "/midea/0l9917/parts",
+      "code": "0l9917"
+    },
+    {
+      "name": "1028237",
+      "url": "/midea/1028237/parts",
+      "code": "1028237"
+    },
+    {
+      "name": "1028238",
+      "url": "/midea/1028238/parts",
+      "code": "1028238"
+    },
+    {
+      "name": "1028239",
+      "url": "/midea/1028239/parts",
+      "code": "1028239"
+    },
+    {
+      "name": "1028240",
+      "url": "/midea/1028240/parts",
+      "code": "1028240"
+    },
+    {
+      "name": "1028241",
+      "url": "/midea/1028241/parts",
+      "code": "1028241"
+    },
+    {
+      "name": "1028242",
+      "url": "/midea/1028242/parts",
+      "code": "1028242"
+    },
+    {
+      "name": "1028243",
+      "url": "/midea/1028243/parts",
+      "code": "1028243"
+    },
+    {
+      "name": "1028244",
+      "url": "/midea/1028244/parts",
+      "code": "1028244"
+    },
+    {
+      "name": "1028310",
+      "url": "/midea/1028310/parts",
+      "code": "1028310"
+    },
+    {
+      "name": "1028311",
+      "url": "/midea/1028311/parts",
+      "code": "1028311"
+    },
+    {
+      "name": "1028312",
+      "url": "/midea/1028312/parts",
+      "code": "1028312"
+    },
+    {
+      "name": "1028313",
+      "url": "/midea/1028313/parts",
+      "code": "1028313"
+    },
+    {
+      "name": "1028315",
+      "url": "/midea/1028315/parts",
+      "code": "1028315"
+    },
+    {
+      "name": "10KPD",
+      "url": "/midea/10kpd/parts",
+      "code": "10kpd"
+    },
+    {
+      "name": "10KPH",
+      "url": "/midea/10kph/parts",
+      "code": "10kph"
+    },
+    {
+      "name": "116498",
+      "url": "/midea/116498/parts",
+      "code": "116498"
+    },
+    {
+      "name": "12",
+      "url": "/midea/12/parts",
+      "code": "12"
+    },
+    {
+      "name": "127391",
+      "url": "/midea/127391/parts",
+      "code": "127391"
+    },
+    {
+      "name": "127392",
+      "url": "/midea/127392/parts",
+      "code": "127392"
+    },
+    {
+      "name": "12KTTW",
+      "url": "/midea/12kttw/parts",
+      "code": "12kttw"
+    },
+    {
+      "name": "137180",
+      "url": "/midea/137180/parts",
+      "code": "137180"
+    },
+    {
+      "name": "137181",
+      "url": "/midea/137181/parts",
+      "code": "137181"
+    },
+    {
+      "name": "137189",
+      "url": "/midea/137189/parts",
+      "code": "137189"
+    },
+    {
+      "name": "139155",
+      "url": "/midea/139155/parts",
+      "code": "139155"
+    },
+    {
+      "name": "189974",
+      "url": "/midea/189974/parts",
+      "code": "189974"
+    },
+    {
+      "name": "1972852",
+      "url": "/midea/1972852/parts",
+      "code": "1972852"
+    },
+    {
+      "name": "1972854",
+      "url": "/midea/1972854/parts",
+      "code": "1972854"
+    },
+    {
+      "name": "246066",
+      "url": "/midea/246066/parts",
+      "code": "246066"
+    },
+    {
+      "name": "246535",
+      "url": "/midea/246535/parts",
+      "code": "246535"
+    },
+    {
+      "name": "246538",
+      "url": "/midea/246538/parts",
+      "code": "246538"
+    },
+    {
+      "name": "246540",
+      "url": "/midea/246540/parts",
+      "code": "246540"
+    },
+    {
+      "name": "246541",
+      "url": "/midea/246541/parts",
+      "code": "246541"
+    },
+    {
+      "name": "2465576",
+      "url": "/midea/2465576/parts",
+      "code": "2465576"
+    },
+    {
+      "name": "2465577",
+      "url": "/midea/2465577/parts",
+      "code": "2465577"
+    },
+    {
+      "name": "2465578",
+      "url": "/midea/2465578/parts",
+      "code": "2465578"
+    },
+    {
+      "name": "2465579",
+      "url": "/midea/2465579/parts",
+      "code": "2465579"
+    },
+    {
+      "name": "2477793",
+      "url": "/midea/2477793/parts",
+      "code": "2477793"
+    },
+    {
+      "name": "2477794",
+      "url": "/midea/2477794/parts",
+      "code": "2477794"
+    },
+    {
+      "name": "2477795",
+      "url": "/midea/2477795/parts",
+      "code": "2477795"
+    },
+    {
+      "name": "2477796",
+      "url": "/midea/2477796/parts",
+      "code": "2477796"
+    },
+    {
+      "name": "2477797",
+      "url": "/midea/2477797/parts",
+      "code": "2477797"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:32:39.386994"
+}

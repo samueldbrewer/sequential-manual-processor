@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Everpure",
+    "code": "PT_CAT1070",
+    "uri": "everpure"
+  },
+  "models": [
+    {
+      "name": "6 GAL WBMFS, SS",
+      "url": "/everpure/6-gal-wbmfs-ss/parts",
+      "code": "6-gal-wbmfs-ss"
+    },
+    {
+      "name": "9325-05",
+      "url": "/everpure/9325-05/parts",
+      "code": "9325-05"
+    },
+    {
+      "name": "CB-302E",
+      "url": "/everpure/cb-302e/parts",
+      "code": "cb-302e"
+    },
+    {
+      "name": "CB20-124E",
+      "url": "/everpure/cb20-124e/parts",
+      "code": "cb20-124e"
+    },
+    {
+      "name": "CB20-302E",
+      "url": "/everpure/cb20-302e/parts",
+      "code": "cb20-302e"
+    },
+    {
+      "name": "CB20-312E",
+      "url": "/everpure/cb20-312e/parts",
+      "code": "cb20-312e"
+    },
+    {
+      "name": "CES-2850E-120",
+      "url": "/everpure/ces-2850e-120/parts",
+      "code": "ces-2850e-120"
+    },
+    {
+      "name": "CES-2850E-60",
+      "url": "/everpure/ces-2850e-60/parts",
+      "code": "ces-2850e-60"
+    },
+    {
+      "name": "CES-2850E-90",
+      "url": "/everpure/ces-2850e-90/parts",
+      "code": "ces-2850e-90"
+    },
+    {
+      "name": "CES-2900E-120",
+      "url": "/everpure/ces-2900e-120/parts",
+      "code": "ces-2900e-120"
+    },
+    {
+      "name": "CES-2900E-120-DP",
+      "url": "/everpure/ces-2900e-120-dp/parts",
+      "code": "ces-2900e-120-dp"
+    },
+    {
+      "name": "CES-2900E-150",
+      "url": "/everpure/ces-2900e-150/parts",
+      "code": "ces-2900e-150"
+    },
+    {
+      "name": "CES-2900E-150-DP",
+      "url": "/everpure/ces-2900e-150-dp/parts",
+      "code": "ces-2900e-150-dp"
+    },
+    {
+      "name": "CES-2900E-210",
+      "url": "/everpure/ces-2900e-210/parts",
+      "code": "ces-2900e-210"
+    },
+    {
+      "name": "CES-2900E-210-DP",
+      "url": "/everpure/ces-2900e-210-dp/parts",
+      "code": "ces-2900e-210-dp"
+    },
+    {
+      "name": "CES-2900E-300",
+      "url": "/everpure/ces-2900e-300/parts",
+      "code": "ces-2900e-300"
+    },
+    {
+      "name": "CES-2900E-300-DP",
+      "url": "/everpure/ces-2900e-300-dp/parts",
+      "code": "ces-2900e-300-dp"
+    },
+    {
+      "name": "CES-3900E-300-HWBP",
+      "url": "/everpure/ces-3900e-300-hwbp/parts",
+      "code": "ces-3900e-300-hwbp"
+    },
+    {
+      "name": "CES-3900E-450-HWBP",
+      "url": "/everpure/ces-3900e-450-hwbp/parts",
+      "code": "ces-3900e-450-hwbp"
+    },
+    {
+      "name": "CES-9500E-120",
+      "url": "/everpure/ces-9500e-120/parts",
+      "code": "ces-9500e-120"
+    },
+    {
+      "name": "CES-9500E-150",
+      "url": "/everpure/ces-9500e-150/parts",
+      "code": "ces-9500e-150"
+    },
+    {
+      "name": "CES-9500E-60",
+      "url": "/everpure/ces-9500e-60/parts",
+      "code": "ces-9500e-60"
+    },
+    {
+      "name": "CES-9500E-90",
+      "url": "/everpure/ces-9500e-90/parts",
+      "code": "ces-9500e-90"
+    },
+    {
+      "name": "CGS-55",
+      "url": "/everpure/cgs-55/parts",
+      "code": "cgs-55"
+    },
+    {
+      "name": "Coldrink 3-7FC",
+      "url": "/everpure/coldrink-3-7fc/parts",
+      "code": "coldrink-3-7fc"
+    },
+    {
+      "name": "Coldrink 4-4FC",
+      "url": "/everpure/coldrink-4-4fc/parts",
+      "code": "coldrink-4-4fc"
+    },
+    {
+      "name": "Coldrink 4-7FC",
+      "url": "/everpure/coldrink-4-7fc/parts",
+      "code": "coldrink-4-7fc"
+    },
+    {
+      "name": "ENDURANCE HF QUAD SYSTEM",
+      "url": "/everpure/endurance-hf-quad-system/parts",
+      "code": "endurance-hf-quad-system"
+    },
+    {
+      "name": "ENDURANCE HF TRIPLE SYSTEM",
+      "url": "/everpure/endurance-hf-triple-system/parts",
+      "code": "endurance-hf-triple-system"
+    },
+    {
+      "name": "ENDURANCE HF TWIN SYSTEM",
+      "url": "/everpure/endurance-hf-twin-system/parts",
+      "code": "endurance-hf-twin-system"
+    },
+    {
+      "name": "ENDURANCE SC HF QUAD SYS 1.1",
+      "url": "/everpure/endurance-sc-hf-quad-sys-1-1/parts",
+      "code": "endurance-sc-hf-quad-sys-1-1"
+    },
+    {
+      "name": "ENDURANCE SC TRIPLE SYS 1.1",
+      "url": "/everpure/endurance-sc-triple-sys-1-1/parts",
+      "code": "endurance-sc-triple-sys-1-1"
+    },
+    {
+      "name": "ENDURANCE SC TWIN SYSTEM 1.0",
+      "url": "/everpure/endurance-sc-twin-system-1-0/parts",
+      "code": "endurance-sc-twin-system-1-0"
+    },
+    {
+      "name": "EV932806",
+      "url": "/everpure/ev932806/parts",
+      "code": "ev932806"
+    },
+    {
+      "name": "EZ-RO 200/10G",
+      "url": "/everpure/ez-ro-200-10g/parts",
+      "code": "ez-ro-200-10g"
+    },
+    {
+      "name": "EZ-RO 200/10G-BL",
+      "url": "/everpure/ez-ro-200-10g-bl/parts",
+      "code": "ez-ro-200-10g-bl"
+    },
+    {
+      "name": "EZ-RO 200/16G",
+      "url": "/everpure/ez-ro-200-16g/parts",
+      "code": "ez-ro-200-16g"
+    },
+    {
+      "name": "EZ-RO 200/16G-BL",
+      "url": "/everpure/ez-ro-200-16g-bl/parts",
+      "code": "ez-ro-200-16g-bl"
+    },
+    {
+      "name": "EZ-RO 200/2G",
+      "url": "/everpure/ez-ro-200-2g/parts",
+      "code": "ez-ro-200-2g"
+    },
+    {
+      "name": "EZ-RO 200/2G-BL",
+      "url": "/everpure/ez-ro-200-2g-bl/parts",
+      "code": "ez-ro-200-2g-bl"
+    },
+    {
+      "name": "EZ-RO 200/5G",
+      "url": "/everpure/ez-ro-200-5g/parts",
+      "code": "ez-ro-200-5g"
+    },
+    {
+      "name": "EZ-RO 200/5G-BL",
+      "url": "/everpure/ez-ro-200-5g-bl/parts",
+      "code": "ez-ro-200-5g-bl"
+    },
+    {
+      "name": "EZ-RO 375/10G",
+      "url": "/everpure/ez-ro-375-10g/parts",
+      "code": "ez-ro-375-10g"
+    },
+    {
+      "name": "EZ-RO 375/10G-BL",
+      "url": "/everpure/ez-ro-375-10g-bl/parts",
+      "code": "ez-ro-375-10g-bl"
+    },
+    {
+      "name": "EZ-RO 375/16ATM",
+      "url": "/everpure/ez-ro-375-16atm/parts",
+      "code": "ez-ro-375-16atm"
+    },
+    {
+      "name": "EZ-RO 375/16ATM-BL",
+      "url": "/everpure/ez-ro-375-16atm-bl/parts",
+      "code": "ez-ro-375-16atm-bl"
+    },
+    {
+      "name": "EZ-RO 375/16G",
+      "url": "/everpure/ez-ro-375-16g/parts",
+      "code": "ez-ro-375-16g"
+    },
+    {
+      "name": "EZ-RO 375/16G-BL",
+      "url": "/everpure/ez-ro-375-16g-bl/parts",
+      "code": "ez-ro-375-16g-bl"
+    },
+    {
+      "name": "EZ-RO 375/2G",
+      "url": "/everpure/ez-ro-375-2g/parts",
+      "code": "ez-ro-375-2g"
+    },
+    {
+      "name": "EZ-RO 375/2G-BL",
+      "url": "/everpure/ez-ro-375-2g-bl/parts",
+      "code": "ez-ro-375-2g-bl"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:30:15.935565"
+}

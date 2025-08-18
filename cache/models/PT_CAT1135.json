@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Manitowoc Ice",
+    "code": "PT_CAT1135",
+    "uri": "manitowoc-ice"
+  },
+  "models": [
+    {
+      "name": "A0100",
+      "url": "/manitowoc-ice/a0100/parts",
+      "code": "a0100"
+    },
+    {
+      "name": "A0150",
+      "url": "/manitowoc-ice/a0150/parts",
+      "code": "a0150"
+    },
+    {
+      "name": "A320V",
+      "url": "/manitowoc-ice/a320v/parts",
+      "code": "a320v"
+    },
+    {
+      "name": "A400V",
+      "url": "/manitowoc-ice/a400v/parts",
+      "code": "a400v"
+    },
+    {
+      "name": "A570V",
+      "url": "/manitowoc-ice/a570v/parts",
+      "code": "a570v"
+    },
+    {
+      "name": "A970V",
+      "url": "/manitowoc-ice/a970v/parts",
+      "code": "a970v"
+    },
+    {
+      "name": "AC0340A",
+      "url": "/manitowoc-ice/ac0340a/parts",
+      "code": "ac0340a"
+    },
+    {
+      "name": "AC0350W",
+      "url": "/manitowoc-ice/ac0350w/parts",
+      "code": "ac0350w"
+    },
+    {
+      "name": "AC0370",
+      "url": "/manitowoc-ice/ac0370/parts",
+      "code": "ac0370"
+    },
+    {
+      "name": "AC0695A",
+      "url": "/manitowoc-ice/ac0695a/parts",
+      "code": "ac0695a"
+    },
+    {
+      "name": "AC1195A",
+      "url": "/manitowoc-ice/ac1195a/parts",
+      "code": "ac1195a"
+    },
+    {
+      "name": "AC3250W",
+      "url": "/manitowoc-ice/ac3250w/parts",
+      "code": "ac3250w"
+    },
+    {
+      "name": "AD0102A",
+      "url": "/manitowoc-ice/ad0102a/parts",
+      "code": "ad0102a"
+    },
+    {
+      "name": "AD0103W",
+      "url": "/manitowoc-ice/ad0103w/parts",
+      "code": "ad0103w"
+    },
+    {
+      "name": "AD0152A",
+      "url": "/manitowoc-ice/ad0152a/parts",
+      "code": "ad0152a"
+    },
+    {
+      "name": "AD0153W",
+      "url": "/manitowoc-ice/ad0153w/parts",
+      "code": "ad0153w"
+    },
+    {
+      "name": "AD0202A",
+      "url": "/manitowoc-ice/ad0202a/parts",
+      "code": "ad0202a"
+    },
+    {
+      "name": "AD0203W",
+      "url": "/manitowoc-ice/ad0203w/parts",
+      "code": "ad0203w"
+    },
+    {
+      "name": "AD0204A",
+      "url": "/manitowoc-ice/ad0204a/parts",
+      "code": "ad0204a"
+    },
+    {
+      "name": "AD0205W",
+      "url": "/manitowoc-ice/ad0205w/parts",
+      "code": "ad0205w"
+    },
+    {
+      "name": "AD0402A",
+      "url": "/manitowoc-ice/ad0402a/parts",
+      "code": "ad0402a"
+    },
+    {
+      "name": "AD0402AS",
+      "url": "/manitowoc-ice/ad0402as/parts",
+      "code": "ad0402as"
+    },
+    {
+      "name": "AD0403W",
+      "url": "/manitowoc-ice/ad0403w/parts",
+      "code": "ad0403w"
+    },
+    {
+      "name": "AD0403WS",
+      "url": "/manitowoc-ice/ad0403ws/parts",
+      "code": "ad0403ws"
+    },
+    {
+      "name": "AD0602A",
+      "url": "/manitowoc-ice/ad0602a/parts",
+      "code": "ad0602a"
+    },
+    {
+      "name": "AD0603W",
+      "url": "/manitowoc-ice/ad0603w/parts",
+      "code": "ad0603w"
+    },
+    {
+      "name": "AD1102A",
+      "url": "/manitowoc-ice/ad1102a/parts",
+      "code": "ad1102a"
+    },
+    {
+      "name": "AD1103W",
+      "url": "/manitowoc-ice/ad1103w/parts",
+      "code": "ad1103w"
+    },
+    {
+      "name": "AD2202A",
+      "url": "/manitowoc-ice/ad2202a/parts",
+      "code": "ad2202a"
+    },
+    {
+      "name": "AD2203W",
+      "url": "/manitowoc-ice/ad2203w/parts",
+      "code": "ad2203w"
+    },
+    {
+      "name": "AD2290N",
+      "url": "/manitowoc-ice/ad2290n/parts",
+      "code": "ad2290n"
+    },
+    {
+      "name": "AM0281",
+      "url": "/manitowoc-ice/am0281/parts",
+      "code": "am0281"
+    },
+    {
+      "name": "AM0311A",
+      "url": "/manitowoc-ice/am0311a/parts",
+      "code": "am0311a"
+    },
+    {
+      "name": "AM0312A",
+      "url": "/manitowoc-ice/am0312a/parts",
+      "code": "am0312a"
+    },
+    {
+      "name": "AM0313A",
+      "url": "/manitowoc-ice/am0313a/parts",
+      "code": "am0313a"
+    },
+    {
+      "name": "AM0321W",
+      "url": "/manitowoc-ice/am0321w/parts",
+      "code": "am0321w"
+    },
+    {
+      "name": "AM0322W",
+      "url": "/manitowoc-ice/am0322w/parts",
+      "code": "am0322w"
+    },
+    {
+      "name": "AM0323W",
+      "url": "/manitowoc-ice/am0323w/parts",
+      "code": "am0323w"
+    },
+    {
+      "name": "AM0361",
+      "url": "/manitowoc-ice/am0361/parts",
+      "code": "am0361"
+    },
+    {
+      "name": "AM0362",
+      "url": "/manitowoc-ice/am0362/parts",
+      "code": "am0362"
+    },
+    {
+      "name": "AM0651",
+      "url": "/manitowoc-ice/am0651/parts",
+      "code": "am0651"
+    },
+    {
+      "name": "AM0652",
+      "url": "/manitowoc-ice/am0652/parts",
+      "code": "am0652"
+    },
+    {
+      "name": "AM0654",
+      "url": "/manitowoc-ice/am0654/parts",
+      "code": "am0654"
+    },
+    {
+      "name": "AM0661",
+      "url": "/manitowoc-ice/am0661/parts",
+      "code": "am0661"
+    },
+    {
+      "name": "AM0662",
+      "url": "/manitowoc-ice/am0662/parts",
+      "code": "am0662"
+    },
+    {
+      "name": "AM0711A",
+      "url": "/manitowoc-ice/am0711a/parts",
+      "code": "am0711a"
+    },
+    {
+      "name": "AM0712A",
+      "url": "/manitowoc-ice/am0712a/parts",
+      "code": "am0712a"
+    },
+    {
+      "name": "AM0713A",
+      "url": "/manitowoc-ice/am0713a/parts",
+      "code": "am0713a"
+    },
+    {
+      "name": "AM0721W",
+      "url": "/manitowoc-ice/am0721w/parts",
+      "code": "am0721w"
+    },
+    {
+      "name": "AM0722W",
+      "url": "/manitowoc-ice/am0722w/parts",
+      "code": "am0722w"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:26:02.761814"
+}

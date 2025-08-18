@@ -1,0 +1,256 @@
+{
+  "manufacturer": {
+    "name": "Adcraft",
+    "code": "PT_CAT321128",
+    "uri": "adcraft"
+  },
+  "models": [
+    {
+      "name": "DF-12L",
+      "url": "/adcraft/df-12l/parts",
+      "code": "df-12l"
+    },
+    {
+      "name": "FW-1200W",
+      "url": "/adcraft/fw-1200w/parts",
+      "code": "fw-1200w"
+    },
+    {
+      "name": "GRISTA GRFZ-1D",
+      "url": "/adcraft/grista-grfz-1d/parts",
+      "code": "grista-grfz-1d"
+    },
+    {
+      "name": "GRISTA GRFZ-2D",
+      "url": "/adcraft/grista-grfz-2d/parts",
+      "code": "grista-grfz-2d"
+    },
+    {
+      "name": "GRISTA GRFZ-3D",
+      "url": "/adcraft/grista-grfz-3d/parts",
+      "code": "grista-grfz-3d"
+    },
+    {
+      "name": "GRISTA GRPZ-1D",
+      "url": "/adcraft/grista-grpz-1d/parts",
+      "code": "grista-grpz-1d"
+    },
+    {
+      "name": "GRISTA GRPZ-2D",
+      "url": "/adcraft/grista-grpz-2d/parts",
+      "code": "grista-grpz-2d"
+    },
+    {
+      "name": "GRISTA GRPZ-3D",
+      "url": "/adcraft/grista-grpz-3d/parts",
+      "code": "grista-grpz-3d"
+    },
+    {
+      "name": "GRISTA GRRF-1D",
+      "url": "/adcraft/grista-grrf-1d/parts",
+      "code": "grista-grrf-1d"
+    },
+    {
+      "name": "GRISTA GRRF-2D",
+      "url": "/adcraft/grista-grrf-2d/parts",
+      "code": "grista-grrf-2d"
+    },
+    {
+      "name": "GRISTA GRRF-3D",
+      "url": "/adcraft/grista-grrf-3d/parts",
+      "code": "grista-grrf-3d"
+    },
+    {
+      "name": "GRISTA GRSL-1D",
+      "url": "/adcraft/grista-grsl-1d/parts",
+      "code": "grista-grsl-1d"
+    },
+    {
+      "name": "GRISTA GRSL-2D",
+      "url": "/adcraft/grista-grsl-2d/parts",
+      "code": "grista-grsl-2d"
+    },
+    {
+      "name": "GRISTA GRSL-2D/60",
+      "url": "/adcraft/grista-grsl-2d-60/parts",
+      "code": "grista-grsl-2d-60"
+    },
+    {
+      "name": "GRISTA GRSL-3D",
+      "url": "/adcraft/grista-grsl-3d/parts",
+      "code": "grista-grsl-3d"
+    },
+    {
+      "name": "GRISTA GRSLM-1D",
+      "url": "/adcraft/grista-grslm-1d/parts",
+      "code": "grista-grslm-1d"
+    },
+    {
+      "name": "GRISTA GRSLM-2D",
+      "url": "/adcraft/grista-grslm-2d/parts",
+      "code": "grista-grslm-2d"
+    },
+    {
+      "name": "GRISTA GRSLM-2D/60",
+      "url": "/adcraft/grista-grslm-2d-60/parts",
+      "code": "grista-grslm-2d-60"
+    },
+    {
+      "name": "GRISTA GRSLM-3D",
+      "url": "/adcraft/grista-grslm-3d/parts",
+      "code": "grista-grslm-3d"
+    },
+    {
+      "name": "GRISTA GRUCFZ-27",
+      "url": "/adcraft/grista-grucfz-27/parts",
+      "code": "grista-grucfz-27"
+    },
+    {
+      "name": "GRISTA GRUCFZ-48",
+      "url": "/adcraft/grista-grucfz-48/parts",
+      "code": "grista-grucfz-48"
+    },
+    {
+      "name": "GRISTA GRUCRF-27",
+      "url": "/adcraft/grista-grucrf-27/parts",
+      "code": "grista-grucrf-27"
+    },
+    {
+      "name": "GRISTA GRUCRF-48",
+      "url": "/adcraft/grista-grucrf-48/parts",
+      "code": "grista-grucrf-48"
+    },
+    {
+      "name": "GRISTA GRUCRF-60",
+      "url": "/adcraft/grista-grucrf-60/parts",
+      "code": "grista-grucrf-60"
+    },
+    {
+      "name": "GRISTA GRUCRF-72",
+      "url": "/adcraft/grista-grucrf-72/parts",
+      "code": "grista-grucrf-72"
+    },
+    {
+      "name": "U-STAR USBB-4824",
+      "url": "/adcraft/u-star-usbb-4824/parts",
+      "code": "u-star-usbb-4824"
+    },
+    {
+      "name": "U-STAR USBB-4824G",
+      "url": "/adcraft/u-star-usbb-4824g/parts",
+      "code": "u-star-usbb-4824g"
+    },
+    {
+      "name": "U-STAR USBB-5928G",
+      "url": "/adcraft/u-star-usbb-5928g/parts",
+      "code": "u-star-usbb-5928g"
+    },
+    {
+      "name": "U-STAR USBB-6024",
+      "url": "/adcraft/u-star-usbb-6024/parts",
+      "code": "u-star-usbb-6024"
+    },
+    {
+      "name": "U-STAR USBB-7224",
+      "url": "/adcraft/u-star-usbb-7224/parts",
+      "code": "u-star-usbb-7224"
+    },
+    {
+      "name": "U-STAR USBB-7224G",
+      "url": "/adcraft/u-star-usbb-7224g/parts",
+      "code": "u-star-usbb-7224g"
+    },
+    {
+      "name": "U-STAR USBB-9028G",
+      "url": "/adcraft/u-star-usbb-9028g/parts",
+      "code": "u-star-usbb-9028g"
+    },
+    {
+      "name": "U-STAR USBC-25",
+      "url": "/adcraft/u-star-usbc-25/parts",
+      "code": "u-star-usbc-25"
+    },
+    {
+      "name": "U-STAR USBC-50",
+      "url": "/adcraft/u-star-usbc-50/parts",
+      "code": "u-star-usbc-50"
+    },
+    {
+      "name": "U-STAR USBC-65",
+      "url": "/adcraft/u-star-usbc-65/parts",
+      "code": "u-star-usbc-65"
+    },
+    {
+      "name": "U-STAR USBC-95",
+      "url": "/adcraft/u-star-usbc-95/parts",
+      "code": "u-star-usbc-95"
+    },
+    {
+      "name": "U-STAR USBD-2428",
+      "url": "/adcraft/u-star-usbd-2428/parts",
+      "code": "u-star-usbd-2428"
+    },
+    {
+      "name": "U-STAR USBD-4824/2",
+      "url": "/adcraft/u-star-usbd-4824-2/parts",
+      "code": "u-star-usbd-4824-2"
+    },
+    {
+      "name": "U-STAR USBD-5928/2",
+      "url": "/adcraft/u-star-usbd-5928-2/parts",
+      "code": "u-star-usbd-5928-2"
+    },
+    {
+      "name": "U-STAR USBD-9028/2",
+      "url": "/adcraft/u-star-usbd-9028-2/parts",
+      "code": "u-star-usbd-9028-2"
+    },
+    {
+      "name": "U-STAR USRFS-1D/22",
+      "url": "/adcraft/u-star-usrfs-1d-22/parts",
+      "code": "u-star-usrfs-1d-22"
+    },
+    {
+      "name": "U-STAR USRFS-1D/25",
+      "url": "/adcraft/u-star-usrfs-1d-25/parts",
+      "code": "u-star-usrfs-1d-25"
+    },
+    {
+      "name": "U-STAR USRFS-1D/B",
+      "url": "/adcraft/u-star-usrfs-1d-b/parts",
+      "code": "u-star-usrfs-1d-b"
+    },
+    {
+      "name": "U-STAR USRFS-1D/W",
+      "url": "/adcraft/u-star-usrfs-1d-w/parts",
+      "code": "u-star-usrfs-1d-w"
+    },
+    {
+      "name": "U-STAR USRFS-2D/B",
+      "url": "/adcraft/u-star-usrfs-2d-b/parts",
+      "code": "u-star-usrfs-2d-b"
+    },
+    {
+      "name": "U-STAR USRFS-2D/W",
+      "url": "/adcraft/u-star-usrfs-2d-w/parts",
+      "code": "u-star-usrfs-2d-w"
+    },
+    {
+      "name": "U-STAR USRFS-2DS/B",
+      "url": "/adcraft/u-star-usrfs-2ds-b/parts",
+      "code": "u-star-usrfs-2ds-b"
+    },
+    {
+      "name": "U-STAR USRFS-2DS/W",
+      "url": "/adcraft/u-star-usrfs-2ds-w/parts",
+      "code": "u-star-usrfs-2ds-w"
+    },
+    {
+      "name": "U-STAR USRFS-3D/79",
+      "url": "/adcraft/u-star-usrfs-3d-79/parts",
+      "code": "u-star-usrfs-3d-79"
+    }
+  ],
+  "total_models": 49,
+  "cached_at": "2025-08-14T17:35:20.269059"
+}

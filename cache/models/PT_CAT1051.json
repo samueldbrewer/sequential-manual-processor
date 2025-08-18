@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Danby",
+    "code": "PT_CAT1051",
+    "uri": "danby"
+  },
+  "models": [
+    {
+      "name": "3824515",
+      "url": "/danby/3824515/parts",
+      "code": "3824515"
+    },
+    {
+      "name": "3824516",
+      "url": "/danby/3824516/parts",
+      "code": "3824516"
+    },
+    {
+      "name": "3824517",
+      "url": "/danby/3824517/parts",
+      "code": "3824517"
+    },
+    {
+      "name": "3824518",
+      "url": "/danby/3824518/parts",
+      "code": "3824518"
+    },
+    {
+      "name": "3824525",
+      "url": "/danby/3824525/parts",
+      "code": "3824525"
+    },
+    {
+      "name": "3824526",
+      "url": "/danby/3824526/parts",
+      "code": "3824526"
+    },
+    {
+      "name": "3824527",
+      "url": "/danby/3824527/parts",
+      "code": "3824527"
+    },
+    {
+      "name": "416711",
+      "url": "/danby/416711/parts",
+      "code": "416711"
+    },
+    {
+      "name": "46199192",
+      "url": "/danby/46199192/parts",
+      "code": "46199192"
+    },
+    {
+      "name": "530393",
+      "url": "/danby/530393/parts",
+      "code": "530393"
+    },
+    {
+      "name": "ADR30A1G",
+      "url": "/danby/adr30a1g/parts",
+      "code": "adr30a1g"
+    },
+    {
+      "name": "ADR30A2G",
+      "url": "/danby/adr30a2g/parts",
+      "code": "adr30a2g"
+    },
+    {
+      "name": "ADR30B1G",
+      "url": "/danby/adr30b1g/parts",
+      "code": "adr30b1g"
+    },
+    {
+      "name": "ADR45A1G",
+      "url": "/danby/adr45a1g/parts",
+      "code": "adr45a1g"
+    },
+    {
+      "name": "ADR50A2",
+      "url": "/danby/adr50a2/parts",
+      "code": "adr50a2"
+    },
+    {
+      "name": "ADR50A2G",
+      "url": "/danby/adr50a2g/parts",
+      "code": "adr50a2g"
+    },
+    {
+      "name": "ADR50B1G",
+      "url": "/danby/adr50b1g/parts",
+      "code": "adr50b1g"
+    },
+    {
+      "name": "ADR50B6G",
+      "url": "/danby/adr50b6g/parts",
+      "code": "adr50b6g"
+    },
+    {
+      "name": "ADR70A1C",
+      "url": "/danby/adr70a1c/parts",
+      "code": "adr70a1c"
+    },
+    {
+      "name": "ADR70A2C",
+      "url": "/danby/adr70a2c/parts",
+      "code": "adr70a2c"
+    },
+    {
+      "name": "ADR70A2G",
+      "url": "/danby/adr70a2g/parts",
+      "code": "adr70a2g"
+    },
+    {
+      "name": "ADR70B1C",
+      "url": "/danby/adr70b1c/parts",
+      "code": "adr70b1c"
+    },
+    {
+      "name": "ADR70B1G",
+      "url": "/danby/adr70b1g/parts",
+      "code": "adr70b1g"
+    },
+    {
+      "name": "ADR70B6C",
+      "url": "/danby/adr70b6c/parts",
+      "code": "adr70b6c"
+    },
+    {
+      "name": "ADR70B6G",
+      "url": "/danby/adr70b6g/parts",
+      "code": "adr70b6g"
+    },
+    {
+      "name": "ADR70B6PC",
+      "url": "/danby/adr70b6pc/parts",
+      "code": "adr70b6pc"
+    },
+    {
+      "name": "APA070B1G",
+      "url": "/danby/apa070b1g/parts",
+      "code": "apa070b1g"
+    },
+    {
+      "name": "CDR2500E",
+      "url": "/danby/cdr2500e/parts",
+      "code": "cdr2500e"
+    },
+    {
+      "name": "CRF2291",
+      "url": "/danby/crf2291/parts",
+      "code": "crf2291"
+    },
+    {
+      "name": "CRR2291",
+      "url": "/danby/crr2291/parts",
+      "code": "crr2291"
+    },
+    {
+      "name": "D1866WE",
+      "url": "/danby/d1866we/parts",
+      "code": "d1866we"
+    },
+    {
+      "name": "D7297W",
+      "url": "/danby/d7297w/parts",
+      "code": "d7297w"
+    },
+    {
+      "name": "D7307WY",
+      "url": "/danby/d7307wy/parts",
+      "code": "d7307wy"
+    },
+    {
+      "name": "DAG026A1BDB",
+      "url": "/danby/dag026a1bdb/parts",
+      "code": "dag026a1bdb"
+    },
+    {
+      "name": "DAR017A2BDD",
+      "url": "/danby/dar017a2bdd/parts",
+      "code": "dar017a2bdd"
+    },
+    {
+      "name": "DAR026A1BDD",
+      "url": "/danby/dar026a1bdd/parts",
+      "code": "dar026a1bdd"
+    },
+    {
+      "name": "DAR026A1WDD",
+      "url": "/danby/dar026a1wdd/parts",
+      "code": "dar026a1wdd"
+    },
+    {
+      "name": "DAR033A1BDD",
+      "url": "/danby/dar033a1bdd/parts",
+      "code": "dar033a1bdd"
+    },
+    {
+      "name": "DAR033A1WDD",
+      "url": "/danby/dar033a1wdd/parts",
+      "code": "dar033a1wdd"
+    },
+    {
+      "name": "DAR044A1SLDD",
+      "url": "/danby/dar044a1sldd/parts",
+      "code": "dar044a1sldd"
+    },
+    {
+      "name": "DAR044A1SSDD",
+      "url": "/danby/dar044a1ssdd/parts",
+      "code": "dar044a1ssdd"
+    },
+    {
+      "name": "DAR044A1WDD",
+      "url": "/danby/dar044a1wdd/parts",
+      "code": "dar044a1wdd"
+    },
+    {
+      "name": "DAR044A2SLDD",
+      "url": "/danby/dar044a2sldd/parts",
+      "code": "dar044a2sldd"
+    },
+    {
+      "name": "DAR044A3SLDD",
+      "url": "/danby/dar044a3sldd/parts",
+      "code": "dar044a3sldd"
+    },
+    {
+      "name": "DAR044A4BDD",
+      "url": "/danby/dar044a4bdd/parts",
+      "code": "dar044a4bdd"
+    },
+    {
+      "name": "DAR044A4BSLDD",
+      "url": "/danby/dar044a4bsldd/parts",
+      "code": "dar044a4bsldd"
+    },
+    {
+      "name": "DAR044A4BSLDDU",
+      "url": "/danby/dar044a4bslddu/parts",
+      "code": "dar044a4bslddu"
+    },
+    {
+      "name": "DAR044A4BSSDD",
+      "url": "/danby/dar044a4bssdd/parts",
+      "code": "dar044a4bssdd"
+    },
+    {
+      "name": "DAR044A4WDD",
+      "url": "/danby/dar044a4wdd/parts",
+      "code": "dar044a4wdd"
+    },
+    {
+      "name": "DAR044A5BSLDD",
+      "url": "/danby/dar044a5bsldd/parts",
+      "code": "dar044a5bsldd"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:17:08.698340"
+}

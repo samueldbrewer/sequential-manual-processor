@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Prince Castle",
+    "code": "PT_CAT1157",
+    "uri": "prince-castle"
+  },
+  "models": [
+    {
+      "name": "101-K",
+      "url": "/prince-castle/101-k/parts",
+      "code": "101-k"
+    },
+    {
+      "name": "101-KL",
+      "url": "/prince-castle/101-kl/parts",
+      "code": "101-kl"
+    },
+    {
+      "name": "102",
+      "url": "/prince-castle/102/parts",
+      "code": "102"
+    },
+    {
+      "name": "102-A",
+      "url": "/prince-castle/102-a/parts",
+      "code": "102-a"
+    },
+    {
+      "name": "107-A",
+      "url": "/prince-castle/107-a/parts",
+      "code": "107-a"
+    },
+    {
+      "name": "107-AMC",
+      "url": "/prince-castle/107-amc/parts",
+      "code": "107-amc"
+    },
+    {
+      "name": "107-CE",
+      "url": "/prince-castle/107-ce/parts",
+      "code": "107-ce"
+    },
+    {
+      "name": "107-FMCL",
+      "url": "/prince-castle/107-fmcl/parts",
+      "code": "107-fmcl"
+    },
+    {
+      "name": "107-H",
+      "url": "/prince-castle/107-h/parts",
+      "code": "107-h"
+    },
+    {
+      "name": "107-MC",
+      "url": "/prince-castle/107-mc/parts",
+      "code": "107-mc"
+    },
+    {
+      "name": "108 Series",
+      "url": "/prince-castle/108-series/parts",
+      "code": "108-series"
+    },
+    {
+      "name": "108-A Series",
+      "url": "/prince-castle/108-a-series/parts",
+      "code": "108-a-series"
+    },
+    {
+      "name": "108-F",
+      "url": "/prince-castle/108-f/parts",
+      "code": "108-f"
+    },
+    {
+      "name": "108-L",
+      "url": "/prince-castle/108-l/parts",
+      "code": "108-l"
+    },
+    {
+      "name": "108-LRCP",
+      "url": "/prince-castle/108-lrcp/parts",
+      "code": "108-lrcp"
+    },
+    {
+      "name": "108-M",
+      "url": "/prince-castle/108-m/parts",
+      "code": "108-m"
+    },
+    {
+      "name": "122-043",
+      "url": "/prince-castle/122-043/parts",
+      "code": "122-043"
+    },
+    {
+      "name": "141-D",
+      "url": "/prince-castle/141-d/parts",
+      "code": "141-d"
+    },
+    {
+      "name": "141-DL",
+      "url": "/prince-castle/141-dl/parts",
+      "code": "141-dl"
+    },
+    {
+      "name": "141-H",
+      "url": "/prince-castle/141-h/parts",
+      "code": "141-h"
+    },
+    {
+      "name": "142-C",
+      "url": "/prince-castle/142-c/parts",
+      "code": "142-c"
+    },
+    {
+      "name": "149",
+      "url": "/prince-castle/149/parts",
+      "code": "149"
+    },
+    {
+      "name": "161",
+      "url": "/prince-castle/161/parts",
+      "code": "161"
+    },
+    {
+      "name": "161-PG",
+      "url": "/prince-castle/161-pg/parts",
+      "code": "161-pg"
+    },
+    {
+      "name": "161-SW",
+      "url": "/prince-castle/161-sw/parts",
+      "code": "161-sw"
+    },
+    {
+      "name": "164-A",
+      "url": "/prince-castle/164-a/parts",
+      "code": "164-a"
+    },
+    {
+      "name": "164-B",
+      "url": "/prince-castle/164-b/parts",
+      "code": "164-b"
+    },
+    {
+      "name": "165",
+      "url": "/prince-castle/165/parts",
+      "code": "165"
+    },
+    {
+      "name": "173",
+      "url": "/prince-castle/173/parts",
+      "code": "173"
+    },
+    {
+      "name": "184",
+      "url": "/prince-castle/184/parts",
+      "code": "184"
+    },
+    {
+      "name": "196",
+      "url": "/prince-castle/196/parts",
+      "code": "196"
+    },
+    {
+      "name": "196-JACK",
+      "url": "/prince-castle/196-jack/parts",
+      "code": "196-jack"
+    },
+    {
+      "name": "197-FCE",
+      "url": "/prince-castle/197-fce/parts",
+      "code": "197-fce"
+    },
+    {
+      "name": "197BK",
+      "url": "/prince-castle/197bk/parts",
+      "code": "197bk"
+    },
+    {
+      "name": "212-G",
+      "url": "/prince-castle/212-g/parts",
+      "code": "212-g"
+    },
+    {
+      "name": "212-GF",
+      "url": "/prince-castle/212-gf/parts",
+      "code": "212-gf"
+    },
+    {
+      "name": "212-GFC",
+      "url": "/prince-castle/212-gfc/parts",
+      "code": "212-gfc"
+    },
+    {
+      "name": "212-GFCCE",
+      "url": "/prince-castle/212-gfcce/parts",
+      "code": "212-gfcce"
+    },
+    {
+      "name": "212-GFCE",
+      "url": "/prince-castle/212-gfce/parts",
+      "code": "212-gfce"
+    },
+    {
+      "name": "212-M",
+      "url": "/prince-castle/212-m/parts",
+      "code": "212-m"
+    },
+    {
+      "name": "213-LFALC",
+      "url": "/prince-castle/213-lfalc/parts",
+      "code": "213-lfalc"
+    },
+    {
+      "name": "213-LFKC",
+      "url": "/prince-castle/213-lfkc/parts",
+      "code": "213-lfkc"
+    },
+    {
+      "name": "213-LFMCEC",
+      "url": "/prince-castle/213-lfmcec/parts",
+      "code": "213-lfmcec"
+    },
+    {
+      "name": "213-NDB",
+      "url": "/prince-castle/213-ndb/parts",
+      "code": "213-ndb"
+    },
+    {
+      "name": "213-NPDB",
+      "url": "/prince-castle/213-npdb/parts",
+      "code": "213-npdb"
+    },
+    {
+      "name": "213-SS",
+      "url": "/prince-castle/213-ss/parts",
+      "code": "213-ss"
+    },
+    {
+      "name": "233-71",
+      "url": "/prince-castle/233-71/parts",
+      "code": "233-71"
+    },
+    {
+      "name": "2445",
+      "url": "/prince-castle/2445/parts",
+      "code": "2445"
+    },
+    {
+      "name": "2446",
+      "url": "/prince-castle/2446/parts",
+      "code": "2446"
+    },
+    {
+      "name": "2447",
+      "url": "/prince-castle/2447/parts",
+      "code": "2447"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:53:04.175492"
+}

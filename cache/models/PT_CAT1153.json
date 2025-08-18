@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "Nu-Vu",
+    "code": "PT_CAT1153",
+    "uri": "nu-vu"
+  },
+  "models": [
+    {
+      "name": "HW-2G",
+      "url": "/nu-vu/hw-2g/parts",
+      "code": "hw-2g"
+    },
+    {
+      "name": "NVT-3-9",
+      "url": "/nu-vu/nvt-3-9/parts",
+      "code": "nvt-3-9"
+    },
+    {
+      "name": "OP-2FM",
+      "url": "/nu-vu/op-2fm/parts",
+      "code": "op-2fm"
+    },
+    {
+      "name": "PROW-18",
+      "url": "/nu-vu/prow-18/parts",
+      "code": "prow-18"
+    },
+    {
+      "name": "SUB-123",
+      "url": "/nu-vu/sub-123/parts",
+      "code": "sub-123"
+    },
+    {
+      "name": "SUB-123P",
+      "url": "/nu-vu/sub-123p/parts",
+      "code": "sub-123p"
+    },
+    {
+      "name": "UB-E 4/8",
+      "url": "/nu-vu/ub-e-4-8/parts",
+      "code": "ub-e-4-8"
+    },
+    {
+      "name": "X5",
+      "url": "/nu-vu/x5/parts",
+      "code": "x5"
+    },
+    {
+      "name": "XO-1",
+      "url": "/nu-vu/xo-1/parts",
+      "code": "xo-1"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T19:43:49.933631"
+}

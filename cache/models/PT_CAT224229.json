@@ -1,0 +1,41 @@
+{
+  "manufacturer": {
+    "name": "Joe Tap",
+    "code": "PT_CAT224229",
+    "uri": "joe-tap"
+  },
+  "models": [
+    {
+      "name": "JT-NIT-RTD-4444",
+      "url": "/joe-tap/jt-nit-rtd-4444/parts",
+      "code": "jt-nit-rtd-4444"
+    },
+    {
+      "name": "JT-NITCOM",
+      "url": "/joe-tap/jt-nitcom/parts",
+      "code": "jt-nitcom"
+    },
+    {
+      "name": "JT-QN24-220-L",
+      "url": "/joe-tap/jt-qn24-220-l/parts",
+      "code": "jt-qn24-220-l"
+    },
+    {
+      "name": "JT-QN24-220-R",
+      "url": "/joe-tap/jt-qn24-220-r/parts",
+      "code": "jt-qn24-220-r"
+    },
+    {
+      "name": "JT-QN24-L",
+      "url": "/joe-tap/jt-qn24-l/parts",
+      "code": "jt-qn24-l"
+    },
+    {
+      "name": "JT-QN24-R",
+      "url": "/joe-tap/jt-qn24-r/parts",
+      "code": "jt-qn24-r"
+    }
+  ],
+  "total_models": 6,
+  "cached_at": "2025-08-14T19:09:54.859341"
+}

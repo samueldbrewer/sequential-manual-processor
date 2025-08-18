@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Jac Machines",
+    "code": "PT_CAT223919",
+    "uri": "jac-machines"
+  },
+  "models": [
+    {
+      "name": "CHUTE LCS 450 ETL",
+      "url": "/jac-machines/chute-lcs-450-etl/parts",
+      "code": "chute-lcs-450-etl"
+    },
+    {
+      "name": "DIV 20  ROUND",
+      "url": "/jac-machines/div-20-round/parts",
+      "code": "div-20-round"
+    },
+    {
+      "name": "DIV-R 20 C ELT",
+      "url": "/jac-machines/div-r-20-c-elt/parts",
+      "code": "div-r-20-c-elt"
+    },
+    {
+      "name": "DURO BEG 600 ETL",
+      "url": "/jac-machines/duro-beg-600-etl/parts",
+      "code": "duro-beg-600-etl"
+    },
+    {
+      "name": "DURO BEL 450 ETL",
+      "url": "/jac-machines/duro-bel-450-etl/parts",
+      "code": "duro-bel-450-etl"
+    },
+    {
+      "name": "ECO+EPK 450 ETL",
+      "url": "/jac-machines/eco-epk-450-etl/parts",
+      "code": "eco-epk-450-etl"
+    },
+    {
+      "name": "NEW SELF SFNP",
+      "url": "/jac-machines/new-self-sfnp/parts",
+      "code": "new-self-sfnp"
+    },
+    {
+      "name": "PICOMATIC MRK ETL",
+      "url": "/jac-machines/picomatic-mrk-etl/parts",
+      "code": "picomatic-mrk-etl"
+    },
+    {
+      "name": "PICOMATIC MRP ETL",
+      "url": "/jac-machines/picomatic-mrp-etl/parts",
+      "code": "picomatic-mrp-etl"
+    },
+    {
+      "name": "UNIC",
+      "url": "/jac-machines/unic/parts",
+      "code": "unic"
+    },
+    {
+      "name": "VARIA ONE VSL 800",
+      "url": "/jac-machines/varia-one-vsl-800/parts",
+      "code": "varia-one-vsl-800"
+    },
+    {
+      "name": "VARIA-1000",
+      "url": "/jac-machines/varia-1000/parts",
+      "code": "varia-1000"
+    },
+    {
+      "name": "VARIA-800",
+      "url": "/jac-machines/varia-800/parts",
+      "code": "varia-800"
+    },
+    {
+      "name": "VPL770 SELF",
+      "url": "/jac-machines/vpl770-self/parts",
+      "code": "vpl770-self"
+    },
+    {
+      "name": "ZIP",
+      "url": "/jac-machines/zip/parts",
+      "code": "zip"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T19:08:35.858318"
+}

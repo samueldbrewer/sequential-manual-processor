@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "SandenVendo",
+    "code": "PT_CAT243237",
+    "uri": "sandenvendo"
+  },
+  "models": [
+    {
+      "name": "2000 Series (Retired)",
+      "url": "/sandenvendo/2000-series-retired/parts",
+      "code": "2000-series-retired"
+    },
+    {
+      "name": "270 Dr Pepper (Retired)",
+      "url": "/sandenvendo/270-dr-pepper-retired/parts",
+      "code": "270-dr-pepper-retired"
+    },
+    {
+      "name": "270 Pepsi (Retired)",
+      "url": "/sandenvendo/270-pepsi-retired/parts",
+      "code": "270-pepsi-retired"
+    },
+    {
+      "name": "280 Dr Pepper (Retired)",
+      "url": "/sandenvendo/280-dr-pepper-retired/parts",
+      "code": "280-dr-pepper-retired"
+    },
+    {
+      "name": "280 Pepsi (Retired)",
+      "url": "/sandenvendo/280-pepsi-retired/parts",
+      "code": "280-pepsi-retired"
+    },
+    {
+      "name": "310 Dr Pepper (Retired)",
+      "url": "/sandenvendo/310-dr-pepper-retired/parts",
+      "code": "310-dr-pepper-retired"
+    },
+    {
+      "name": "310 Pepsi (Retired)",
+      "url": "/sandenvendo/310-pepsi-retired/parts",
+      "code": "310-pepsi-retired"
+    },
+    {
+      "name": "324 Dr Pepper (Retired)",
+      "url": "/sandenvendo/324-dr-pepper-retired/parts",
+      "code": "324-dr-pepper-retired"
+    },
+    {
+      "name": "324 Pepsi (Retired)",
+      "url": "/sandenvendo/324-pepsi-retired/parts",
+      "code": "324-pepsi-retired"
+    },
+    {
+      "name": "388 Dr Pepper (Retired)",
+      "url": "/sandenvendo/388-dr-pepper-retired/parts",
+      "code": "388-dr-pepper-retired"
+    },
+    {
+      "name": "388 Pepsi (Retired)",
+      "url": "/sandenvendo/388-pepsi-retired/parts",
+      "code": "388-pepsi-retired"
+    },
+    {
+      "name": "392 Dr Pepper (Retired)",
+      "url": "/sandenvendo/392-dr-pepper-retired/parts",
+      "code": "392-dr-pepper-retired"
+    },
+    {
+      "name": "392 Pepsi (Retired)",
+      "url": "/sandenvendo/392-pepsi-retired/parts",
+      "code": "392-pepsi-retired"
+    },
+    {
+      "name": "406 Dr Pepper (Retired)",
+      "url": "/sandenvendo/406-dr-pepper-retired/parts",
+      "code": "406-dr-pepper-retired"
+    },
+    {
+      "name": "406 Pepsi (Retired)",
+      "url": "/sandenvendo/406-pepsi-retired/parts",
+      "code": "406-pepsi-retired"
+    },
+    {
+      "name": "450 (Retired)",
+      "url": "/sandenvendo/450-retired/parts",
+      "code": "450-retired"
+    },
+    {
+      "name": "453 (Retired)",
+      "url": "/sandenvendo/453-retired/parts",
+      "code": "453-retired"
+    },
+    {
+      "name": "455 (Retired)",
+      "url": "/sandenvendo/455-retired/parts",
+      "code": "455-retired"
+    },
+    {
+      "name": "457 (Retired)",
+      "url": "/sandenvendo/457-retired/parts",
+      "code": "457-retired"
+    },
+    {
+      "name": "460 Dr Pepper (Retired)",
+      "url": "/sandenvendo/460-dr-pepper-retired/parts",
+      "code": "460-dr-pepper-retired"
+    },
+    {
+      "name": "460 Pepsi (Retired)",
+      "url": "/sandenvendo/460-pepsi-retired/parts",
+      "code": "460-pepsi-retired"
+    },
+    {
+      "name": "470 Dr Pepper (Retired)",
+      "url": "/sandenvendo/470-dr-pepper-retired/parts",
+      "code": "470-dr-pepper-retired"
+    },
+    {
+      "name": "470 Pepsi (Retired)",
+      "url": "/sandenvendo/470-pepsi-retired/parts",
+      "code": "470-pepsi-retired"
+    },
+    {
+      "name": "490 Dr Pepper (Retired)",
+      "url": "/sandenvendo/490-dr-pepper-retired/parts",
+      "code": "490-dr-pepper-retired"
+    },
+    {
+      "name": "490 Pepsi (Retired)",
+      "url": "/sandenvendo/490-pepsi-retired/parts",
+      "code": "490-pepsi-retired"
+    },
+    {
+      "name": "511 UNIVENDOR2 Trade",
+      "url": "/sandenvendo/511-univendor2-trade/parts",
+      "code": "511-univendor2-trade"
+    },
+    {
+      "name": "601 UNIVENDOR2 Trade",
+      "url": "/sandenvendo/601-univendor2-trade/parts",
+      "code": "601-univendor2-trade"
+    },
+    {
+      "name": "GFV",
+      "url": "/sandenvendo/gfv/parts",
+      "code": "gfv"
+    },
+    {
+      "name": "HFD000001 (Retired)",
+      "url": "/sandenvendo/hfd000001-retired/parts",
+      "code": "hfd000001-retired"
+    },
+    {
+      "name": "HFD000002 (Retired)",
+      "url": "/sandenvendo/hfd000002-retired/parts",
+      "code": "hfd000002-retired"
+    },
+    {
+      "name": "HFD000003 (Retired)",
+      "url": "/sandenvendo/hfd000003-retired/parts",
+      "code": "hfd000003-retired"
+    },
+    {
+      "name": "HFD000004 (Retired)",
+      "url": "/sandenvendo/hfd000004-retired/parts",
+      "code": "hfd000004-retired"
+    },
+    {
+      "name": "HFD000005 (Retired)",
+      "url": "/sandenvendo/hfd000005-retired/parts",
+      "code": "hfd000005-retired"
+    },
+    {
+      "name": "HFD000006",
+      "url": "/sandenvendo/hfd000006/parts",
+      "code": "hfd000006"
+    },
+    {
+      "name": "HFD000007",
+      "url": "/sandenvendo/hfd000007/parts",
+      "code": "hfd000007"
+    },
+    {
+      "name": "HFDC00001 (Retired)",
+      "url": "/sandenvendo/hfdc00001-retired/parts",
+      "code": "hfdc00001-retired"
+    },
+    {
+      "name": "HFDC00002",
+      "url": "/sandenvendo/hfdc00002/parts",
+      "code": "hfdc00002"
+    },
+    {
+      "name": "HFDC00003",
+      "url": "/sandenvendo/hfdc00003/parts",
+      "code": "hfdc00003"
+    },
+    {
+      "name": "HFDH00001",
+      "url": "/sandenvendo/hfdh00001/parts",
+      "code": "hfdh00001"
+    },
+    {
+      "name": "HFDH00002",
+      "url": "/sandenvendo/hfdh00002/parts",
+      "code": "hfdh00002"
+    },
+    {
+      "name": "HFDHC0001",
+      "url": "/sandenvendo/hfdhc0001/parts",
+      "code": "hfdhc0001"
+    },
+    {
+      "name": "HFDHC0002",
+      "url": "/sandenvendo/hfdhc0002/parts",
+      "code": "hfdhc0002"
+    },
+    {
+      "name": "HFDHC0003",
+      "url": "/sandenvendo/hfdhc0003/parts",
+      "code": "hfdhc0003"
+    },
+    {
+      "name": "HFDHC0004",
+      "url": "/sandenvendo/hfdhc0004/parts",
+      "code": "hfdhc0004"
+    },
+    {
+      "name": "HFDHC0005",
+      "url": "/sandenvendo/hfdhc0005/parts",
+      "code": "hfdhc0005"
+    },
+    {
+      "name": "HFDHC0006",
+      "url": "/sandenvendo/hfdhc0006/parts",
+      "code": "hfdhc0006"
+    },
+    {
+      "name": "HFDHC0007",
+      "url": "/sandenvendo/hfdhc0007/parts",
+      "code": "hfdhc0007"
+    },
+    {
+      "name": "HFDHC0008",
+      "url": "/sandenvendo/hfdhc0008/parts",
+      "code": "hfdhc0008"
+    },
+    {
+      "name": "HFDHC0009",
+      "url": "/sandenvendo/hfdhc0009/parts",
+      "code": "hfdhc0009"
+    },
+    {
+      "name": "HFDHC0010",
+      "url": "/sandenvendo/hfdhc0010/parts",
+      "code": "hfdhc0010"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T22:00:43.745921"
+}

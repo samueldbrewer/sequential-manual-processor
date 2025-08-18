@@ -1,0 +1,41 @@
+{
+  "manufacturer": {
+    "name": "Precision Mixer",
+    "code": "PT_CAT223848",
+    "uri": "precision-mixer"
+  },
+  "models": [
+    {
+      "name": "AV-01",
+      "url": "/precision-mixer/av-01/parts",
+      "code": "av-01"
+    },
+    {
+      "name": "AV-02",
+      "url": "/precision-mixer/av-02/parts",
+      "code": "av-02"
+    },
+    {
+      "name": "HD-60",
+      "url": "/precision-mixer/hd-60/parts",
+      "code": "hd-60"
+    },
+    {
+      "name": "HUB-30",
+      "url": "/precision-mixer/hub-30/parts",
+      "code": "hub-30"
+    },
+    {
+      "name": "HUB-40",
+      "url": "/precision-mixer/hub-40/parts",
+      "code": "hub-40"
+    },
+    {
+      "name": "HUB-50",
+      "url": "/precision-mixer/hub-50/parts",
+      "code": "hub-50"
+    }
+  ],
+  "total_models": 6,
+  "cached_at": "2025-08-14T19:51:15.487369"
+}

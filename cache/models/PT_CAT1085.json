@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Giles",
+    "code": "PT_CAT1085",
+    "uri": "giles"
+  },
+  "models": [
+    {
+      "name": "EH-5",
+      "url": "/giles/eh-5/parts",
+      "code": "eh-5"
+    },
+    {
+      "name": "EH-6",
+      "url": "/giles/eh-6/parts",
+      "code": "eh-6"
+    },
+    {
+      "name": "EOF-10-10/FFLT/24",
+      "url": "/giles/eof-10-10-fflt-24/parts",
+      "code": "eof-10-10-fflt-24"
+    },
+    {
+      "name": "EOF-10-10/FFLT/24/24",
+      "url": "/giles/eof-10-10-fflt-24-24/parts",
+      "code": "eof-10-10-fflt-24-24"
+    },
+    {
+      "name": "EOF-20",
+      "url": "/giles/eof-20/parts",
+      "code": "eof-20"
+    },
+    {
+      "name": "EOF-20/20",
+      "url": "/giles/eof-20-20/parts",
+      "code": "eof-20-20"
+    },
+    {
+      "name": "EOF-20/20/20",
+      "url": "/giles/eof-20-20-20/parts",
+      "code": "eof-20-20-20"
+    },
+    {
+      "name": "EOF-20/24/24",
+      "url": "/giles/eof-20-24-24/parts",
+      "code": "eof-20-24-24"
+    },
+    {
+      "name": "EOF-20/FFLT/24",
+      "url": "/giles/eof-20-fflt-24/parts",
+      "code": "eof-20-fflt-24"
+    },
+    {
+      "name": "EOF-20/FFLT/24/24",
+      "url": "/giles/eof-20-fflt-24-24/parts",
+      "code": "eof-20-fflt-24-24"
+    },
+    {
+      "name": "EOF10-10/20",
+      "url": "/giles/eof10-10-20/parts",
+      "code": "eof10-10-20"
+    },
+    {
+      "name": "FSH-2",
+      "url": "/giles/fsh-2/parts",
+      "code": "fsh-2"
+    },
+    {
+      "name": "FSH-2-PH",
+      "url": "/giles/fsh-2-ph/parts",
+      "code": "fsh-2-ph"
+    },
+    {
+      "name": "FSH-2A-99",
+      "url": "/giles/fsh-2a-99/parts",
+      "code": "fsh-2a-99"
+    },
+    {
+      "name": "FSH-2A-99W",
+      "url": "/giles/fsh-2a-99w/parts",
+      "code": "fsh-2a-99w"
+    },
+    {
+      "name": "FSH-3.5",
+      "url": "/giles/fsh-3-5/parts",
+      "code": "fsh-3-5"
+    },
+    {
+      "name": "FSH-4",
+      "url": "/giles/fsh-4/parts",
+      "code": "fsh-4"
+    },
+    {
+      "name": "FSH-5",
+      "url": "/giles/fsh-5/parts",
+      "code": "fsh-5"
+    },
+    {
+      "name": "FSH-6",
+      "url": "/giles/fsh-6/parts",
+      "code": "fsh-6"
+    },
+    {
+      "name": "GBF-35",
+      "url": "/giles/gbf-35/parts",
+      "code": "gbf-35"
+    },
+    {
+      "name": "GBF-35-2/5",
+      "url": "/giles/gbf-35-2-5/parts",
+      "code": "gbf-35-2-5"
+    },
+    {
+      "name": "GBF-35/35",
+      "url": "/giles/gbf-35-35/parts",
+      "code": "gbf-35-35"
+    },
+    {
+      "name": "GBF-35/35/35",
+      "url": "/giles/gbf-35-35-35/parts",
+      "code": "gbf-35-35-35"
+    },
+    {
+      "name": "GBF-35D-VH",
+      "url": "/giles/gbf-35d-vh/parts",
+      "code": "gbf-35d-vh"
+    },
+    {
+      "name": "GBF-50",
+      "url": "/giles/gbf-50/parts",
+      "code": "gbf-50"
+    },
+    {
+      "name": "GBF-50-2/5",
+      "url": "/giles/gbf-50-2-5/parts",
+      "code": "gbf-50-2-5"
+    },
+    {
+      "name": "GBF-50/50",
+      "url": "/giles/gbf-50-50/parts",
+      "code": "gbf-50-50"
+    },
+    {
+      "name": "GBF-50/50/50",
+      "url": "/giles/gbf-50-50-50/parts",
+      "code": "gbf-50-50-50"
+    },
+    {
+      "name": "GBF-50D-VH",
+      "url": "/giles/gbf-50d-vh/parts",
+      "code": "gbf-50d-vh"
+    },
+    {
+      "name": "GBF-70",
+      "url": "/giles/gbf-70/parts",
+      "code": "gbf-70"
+    },
+    {
+      "name": "GBF-70/70",
+      "url": "/giles/gbf-70-70/parts",
+      "code": "gbf-70-70"
+    },
+    {
+      "name": "GBF-70/70/70",
+      "url": "/giles/gbf-70-70-70/parts",
+      "code": "gbf-70-70-70"
+    },
+    {
+      "name": "GBF-80/80/80G",
+      "url": "/giles/gbf-80-80-80g/parts",
+      "code": "gbf-80-80-80g"
+    },
+    {
+      "name": "GBF-80/80G",
+      "url": "/giles/gbf-80-80g/parts",
+      "code": "gbf-80-80g"
+    },
+    {
+      "name": "GBF-80G",
+      "url": "/giles/gbf-80g/parts",
+      "code": "gbf-80g"
+    },
+    {
+      "name": "GBF2-35-50-GVH",
+      "url": "/giles/gbf2-35-50-gvh/parts",
+      "code": "gbf2-35-50-gvh"
+    },
+    {
+      "name": "GBF\u00ad50\u00adVH",
+      "url": "/giles/gbf-50-vh/parts",
+      "code": "gbf-50-vh"
+    },
+    {
+      "name": "GCW-2/1",
+      "url": "/giles/gcw-2-1/parts",
+      "code": "gcw-2-1"
+    },
+    {
+      "name": "GCW-3/1",
+      "url": "/giles/gcw-3-1/parts",
+      "code": "gcw-3-1"
+    },
+    {
+      "name": "GEF-400",
+      "url": "/giles/gef-400/parts",
+      "code": "gef-400"
+    },
+    {
+      "name": "GEF-400-VH",
+      "url": "/giles/gef-400-vh/parts",
+      "code": "gef-400-vh"
+    },
+    {
+      "name": "GEF-560",
+      "url": "/giles/gef-560/parts",
+      "code": "gef-560"
+    },
+    {
+      "name": "GEF-560-VH",
+      "url": "/giles/gef-560-vh/parts",
+      "code": "gef-560-vh"
+    },
+    {
+      "name": "GEF-720",
+      "url": "/giles/gef-720/parts",
+      "code": "gef-720"
+    },
+    {
+      "name": "GEF-720-VH",
+      "url": "/giles/gef-720-vh/parts",
+      "code": "gef-720-vh"
+    },
+    {
+      "name": "GEF\u00ad400\u00adVH",
+      "url": "/giles/gef-400-vh/parts",
+      "code": "gef-400-vh"
+    },
+    {
+      "name": "GEF\u00ad560\u00adVH",
+      "url": "/giles/gef-560-vh/parts",
+      "code": "gef-560-vh"
+    },
+    {
+      "name": "GGF-400",
+      "url": "/giles/ggf-400/parts",
+      "code": "ggf-400"
+    },
+    {
+      "name": "GGF-720",
+      "url": "/giles/ggf-720/parts",
+      "code": "ggf-720"
+    },
+    {
+      "name": "GHC-5",
+      "url": "/giles/ghc-5/parts",
+      "code": "ghc-5"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:44:21.510349"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Grindmaster",
+    "code": "PT_CAT1089",
+    "uri": "grindmaster"
+  },
+  "models": [
+    {
+      "name": "100",
+      "url": "/grindmaster/100/parts",
+      "code": "100"
+    },
+    {
+      "name": "115A",
+      "url": "/grindmaster/115a/parts",
+      "code": "115a"
+    },
+    {
+      "name": "115AB",
+      "url": "/grindmaster/115ab/parts",
+      "code": "115ab"
+    },
+    {
+      "name": "1750",
+      "url": "/grindmaster/1750/parts",
+      "code": "1750"
+    },
+    {
+      "name": "190-SS",
+      "url": "/grindmaster/190-ss/parts",
+      "code": "190-ss"
+    },
+    {
+      "name": "190E-SSG",
+      "url": "/grindmaster/190e-ssg/parts",
+      "code": "190e-ssg"
+    },
+    {
+      "name": "190E-SSG",
+      "url": "/grindmaster/190e-ssg/parts",
+      "code": "190e-ssg"
+    },
+    {
+      "name": "190SS",
+      "url": "/grindmaster/190ss/parts",
+      "code": "190ss"
+    },
+    {
+      "name": "2450",
+      "url": "/grindmaster/2450/parts",
+      "code": "2450"
+    },
+    {
+      "name": "250",
+      "url": "/grindmaster/250/parts",
+      "code": "250"
+    },
+    {
+      "name": "250-00034",
+      "url": "/grindmaster/250-00034/parts",
+      "code": "250-00034"
+    },
+    {
+      "name": "250-230V",
+      "url": "/grindmaster/250-230v/parts",
+      "code": "250-230v"
+    },
+    {
+      "name": "250-3A",
+      "url": "/grindmaster/250-3a/parts",
+      "code": "250-3a"
+    },
+    {
+      "name": "250A",
+      "url": "/grindmaster/250a/parts",
+      "code": "250a"
+    },
+    {
+      "name": "250AB",
+      "url": "/grindmaster/250ab/parts",
+      "code": "250ab"
+    },
+    {
+      "name": "250RH-2",
+      "url": "/grindmaster/250rh-2/parts",
+      "code": "250rh-2"
+    },
+    {
+      "name": "250RH-3",
+      "url": "/grindmaster/250rh-3/parts",
+      "code": "250rh-3"
+    },
+    {
+      "name": "2K-GB",
+      "url": "/grindmaster/2k-gb/parts",
+      "code": "2k-gb"
+    },
+    {
+      "name": "3311",
+      "url": "/grindmaster/3311/parts",
+      "code": "3311"
+    },
+    {
+      "name": "3312",
+      "url": "/grindmaster/3312/parts",
+      "code": "3312"
+    },
+    {
+      "name": "3341",
+      "url": "/grindmaster/3341/parts",
+      "code": "3341"
+    },
+    {
+      "name": "3341A",
+      "url": "/grindmaster/3341a/parts",
+      "code": "3341a"
+    },
+    {
+      "name": "3342",
+      "url": "/grindmaster/3342/parts",
+      "code": "3342"
+    },
+    {
+      "name": "3352",
+      "url": "/grindmaster/3352/parts",
+      "code": "3352"
+    },
+    {
+      "name": "3361",
+      "url": "/grindmaster/3361/parts",
+      "code": "3361"
+    },
+    {
+      "name": "3511",
+      "url": "/grindmaster/3511/parts",
+      "code": "3511"
+    },
+    {
+      "name": "3K-GB",
+      "url": "/grindmaster/3k-gb/parts",
+      "code": "3k-gb"
+    },
+    {
+      "name": "3K-GB-LD",
+      "url": "/grindmaster/3k-gb-ld/parts",
+      "code": "3k-gb-ld"
+    },
+    {
+      "name": "3K-GB-NL",
+      "url": "/grindmaster/3k-gb-nl/parts",
+      "code": "3k-gb-nl"
+    },
+    {
+      "name": "4K-GB",
+      "url": "/grindmaster/4k-gb/parts",
+      "code": "4k-gb"
+    },
+    {
+      "name": "4K-GB-LD",
+      "url": "/grindmaster/4k-gb-ld/parts",
+      "code": "4k-gb-ld"
+    },
+    {
+      "name": "5311",
+      "url": "/grindmaster/5311/parts",
+      "code": "5311"
+    },
+    {
+      "name": "5511",
+      "url": "/grindmaster/5511/parts",
+      "code": "5511"
+    },
+    {
+      "name": "5512",
+      "url": "/grindmaster/5512/parts",
+      "code": "5512"
+    },
+    {
+      "name": "5512E",
+      "url": "/grindmaster/5512e/parts",
+      "code": "5512e"
+    },
+    {
+      "name": "5711",
+      "url": "/grindmaster/5711/parts",
+      "code": "5711"
+    },
+    {
+      "name": "5941",
+      "url": "/grindmaster/5941/parts",
+      "code": "5941"
+    },
+    {
+      "name": "5K-GB",
+      "url": "/grindmaster/5k-gb/parts",
+      "code": "5k-gb"
+    },
+    {
+      "name": "6321L",
+      "url": "/grindmaster/6321l/parts",
+      "code": "6321l"
+    },
+    {
+      "name": "7000",
+      "url": "/grindmaster/7000/parts",
+      "code": "7000"
+    },
+    {
+      "name": "7400",
+      "url": "/grindmaster/7400/parts",
+      "code": "7400"
+    },
+    {
+      "name": "7416E",
+      "url": "/grindmaster/7416e/parts",
+      "code": "7416e"
+    },
+    {
+      "name": "7446E",
+      "url": "/grindmaster/7446e/parts",
+      "code": "7446e"
+    },
+    {
+      "name": "7700",
+      "url": "/grindmaster/7700/parts",
+      "code": "7700"
+    },
+    {
+      "name": "7713E",
+      "url": "/grindmaster/7713e/parts",
+      "code": "7713e"
+    },
+    {
+      "name": "7716E",
+      "url": "/grindmaster/7716e/parts",
+      "code": "7716e"
+    },
+    {
+      "name": "7773E",
+      "url": "/grindmaster/7773e/parts",
+      "code": "7773e"
+    },
+    {
+      "name": "7776E",
+      "url": "/grindmaster/7776e/parts",
+      "code": "7776e"
+    },
+    {
+      "name": "8000",
+      "url": "/grindmaster/8000/parts",
+      "code": "8000"
+    },
+    {
+      "name": "810",
+      "url": "/grindmaster/810/parts",
+      "code": "810"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:48:40.969293"
+}

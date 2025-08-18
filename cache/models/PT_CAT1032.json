@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Bunn",
+    "code": "PT_CAT1032",
+    "uri": "bunn"
+  },
+  "models": [
+    {
+      "name": "1 GPR",
+      "url": "/bunn/1-gpr/parts",
+      "code": "1-gpr"
+    },
+    {
+      "name": "1 GPR-FF",
+      "url": "/bunn/1-gpr-ff/parts",
+      "code": "1-gpr-ff"
+    },
+    {
+      "name": "1.5 GPR",
+      "url": "/bunn/1-5-gpr/parts",
+      "code": "1-5-gpr"
+    },
+    {
+      "name": "1.5 GPR-FF",
+      "url": "/bunn/1-5-gpr-ff/parts",
+      "code": "1-5-gpr-ff"
+    },
+    {
+      "name": "1.5 Gallon (5.7L) GPR-FF Server (20950.0004)",
+      "url": "/bunn/1-5-gallon-5-7l-gpr-ff-server-20950-0004/parts",
+      "code": "1-5-gallon-5-7l-gpr-ff-server-20950-0004"
+    },
+    {
+      "name": "1.5GPR-FF TOP HANDLES-BLACK (20950.0509)",
+      "url": "/bunn/1-5gpr-ff-top-handles-black-20950-0509/parts",
+      "code": "1-5gpr-ff-top-handles-black-20950-0509"
+    },
+    {
+      "name": "1.75 GPR-FF",
+      "url": "/bunn/1-75-gpr-ff/parts",
+      "code": "1-75-gpr-ff"
+    },
+    {
+      "name": "1.75GPR-FF ROUND TANK (35750.0500)",
+      "url": "/bunn/1-75gpr-ff-round-tank-35750-0500/parts",
+      "code": "1-75gpr-ff-round-tank-35750-0500"
+    },
+    {
+      "name": "1GDSG Gen 3",
+      "url": "/bunn/1gdsg-gen-3/parts",
+      "code": "1gdsg-gen-3"
+    },
+    {
+      "name": "1GPR-FF, BAIL HNDL (12487.0005)",
+      "url": "/bunn/1gpr-ff-bail-hndl-12487-0005/parts",
+      "code": "1gpr-ff-bail-hndl-12487-0005"
+    },
+    {
+      "name": "1GPR-FF,TOP HANDLE/BLK DECAL (12487.0012)",
+      "url": "/bunn/1gpr-ff-top-handle-blk-decal-12487-0012/parts",
+      "code": "1gpr-ff-top-handle-blk-decal-12487-0012"
+    },
+    {
+      "name": "1GPR-FF,TOP HANDLE/BRN DECAL (12487.0010)",
+      "url": "/bunn/1gpr-ff-top-handle-brn-decal-12487-0010/parts",
+      "code": "1gpr-ff-top-handle-brn-decal-12487-0010"
+    },
+    {
+      "name": "1GPR-FF,TOP HANDLE/GRN DECAL (12487.0011)",
+      "url": "/bunn/1gpr-ff-top-handle-grn-decal-12487-0011/parts",
+      "code": "1gpr-ff-top-handle-grn-decal-12487-0011"
+    },
+    {
+      "name": "1GPR-SS, BAIL HNDL (12487.0001)",
+      "url": "/bunn/1gpr-ss-bail-hndl-12487-0001/parts",
+      "code": "1gpr-ss-bail-hndl-12487-0001"
+    },
+    {
+      "name": "1GPR-SS, SIDE HNDL (12487.0003)",
+      "url": "/bunn/1gpr-ss-side-hndl-12487-0003/parts",
+      "code": "1gpr-ss-side-hndl-12487-0003"
+    },
+    {
+      "name": "1SH",
+      "url": "/bunn/1sh/parts",
+      "code": "1sh"
+    },
+    {
+      "name": "1SH STAND, 120V BLK 6\" LEGS (27825.0004)",
+      "url": "/bunn/1sh-stand-120v-blk-6-legs-27825-0004/parts",
+      "code": "1sh-stand-120v-blk-6-legs-27825-0004"
+    },
+    {
+      "name": "1SH STAND, CE 220-240V 50-60 HZ EURO(27825.0001)",
+      "url": "/bunn/1sh-stand-ce-220-240v-50-60-hz-euro-27825-0001/parts",
+      "code": "1sh-stand-ce-220-240v-50-60-hz-euro-27825-0001"
+    },
+    {
+      "name": "1SH STAND, CE 220-240V INF SERIES(27825.0300)",
+      "url": "/bunn/1sh-stand-ce-220-240v-inf-series-27825-0300/parts",
+      "code": "1sh-stand-ce-220-240v-inf-series-27825-0300"
+    },
+    {
+      "name": "1SH STAND, CE 220-240V W/UK PLUG(27825.0002)",
+      "url": "/bunn/1sh-stand-ce-220-240v-w-uk-plug-27825-0002/parts",
+      "code": "1sh-stand-ce-220-240v-w-uk-plug-27825-0002"
+    },
+    {
+      "name": "1SH STAND, CE 220V 60 HZ INMETRO (27825.0006)",
+      "url": "/bunn/1sh-stand-ce-220v-60-hz-inmetro-27825-0006/parts",
+      "code": "1sh-stand-ce-220v-60-hz-inmetro-27825-0006"
+    },
+    {
+      "name": "1SH STAND, KETI 220V/60HZ (27825.0015)",
+      "url": "/bunn/1sh-stand-keti-220v-60hz-27825-0015/parts",
+      "code": "1sh-stand-keti-220v-60hz-27825-0015"
+    },
+    {
+      "name": "1SH STAND,120V BLK ON/OFF SW (27825.0010)",
+      "url": "/bunn/1sh-stand-120v-blk-on-off-sw-27825-0010/parts",
+      "code": "1sh-stand-120v-blk-on-off-sw-27825-0010"
+    },
+    {
+      "name": "1SH Soft Heat Stand Black (27825.0003)",
+      "url": "/bunn/1sh-soft-heat-stand-black-27825-0003/parts",
+      "code": "1sh-soft-heat-stand-black-27825-0003"
+    },
+    {
+      "name": "1SH Soft Heat Stand Stainless (27825.0000)",
+      "url": "/bunn/1sh-soft-heat-stand-stainless-27825-0000/parts",
+      "code": "1sh-soft-heat-stand-stainless-27825-0000"
+    },
+    {
+      "name": "1SH Soft Heat Stand, WiFi (27825.0201)",
+      "url": "/bunn/1sh-soft-heat-stand-wifi-27825-0201/parts",
+      "code": "1sh-soft-heat-stand-wifi-27825-0201"
+    },
+    {
+      "name": "1SH Stand, 120V Infusion Series (27825.0200)",
+      "url": "/bunn/1sh-stand-120v-infusion-series-27825-0200/parts",
+      "code": "1sh-stand-120v-infusion-series-27825-0200"
+    },
+    {
+      "name": "2 GPR",
+      "url": "/bunn/2-gpr/parts",
+      "code": "2-gpr"
+    },
+    {
+      "name": "2/CWTF15,2UPR/1LWR(12950.0213)(SET00.0150)",
+      "url": "/bunn/2-cwtf15-2upr-1lwr-12950-0213-set00-0150/parts",
+      "code": "2-cwtf15-2upr-1lwr-12950-0213-set00-0150"
+    },
+    {
+      "name": "2SH",
+      "url": "/bunn/2sh/parts",
+      "code": "2sh"
+    },
+    {
+      "name": "2SH STAND, CE 220-240V INF SERIES(27875.0300)",
+      "url": "/bunn/2sh-stand-ce-220-240v-inf-series-27875-0300/parts",
+      "code": "2sh-stand-ce-220-240v-inf-series-27875-0300"
+    },
+    {
+      "name": "2SH STAND, CE 220V 60HZ INMETRO(27875.0005)",
+      "url": "/bunn/2sh-stand-ce-220v-60hz-inmetro-27875-0005/parts",
+      "code": "2sh-stand-ce-220v-60hz-inmetro-27875-0005"
+    },
+    {
+      "name": "2SH STAND, CE 230V W/UK PLUG (27875.0002)",
+      "url": "/bunn/2sh-stand-ce-230v-w-uk-plug-27875-0002/parts",
+      "code": "2sh-stand-ce-230v-w-uk-plug-27875-0002"
+    },
+    {
+      "name": "2SH STAND, KETI 220V (27875.0013)",
+      "url": "/bunn/2sh-stand-keti-220v-27875-0013/parts",
+      "code": "2sh-stand-keti-220v-27875-0013"
+    },
+    {
+      "name": "2SH Soft Heat Stand, Black (27875.0003)",
+      "url": "/bunn/2sh-soft-heat-stand-black-27875-0003/parts",
+      "code": "2sh-soft-heat-stand-black-27875-0003"
+    },
+    {
+      "name": "2SH Soft Heat Stand, Infusion Series (27875.0200)",
+      "url": "/bunn/2sh-soft-heat-stand-infusion-series-27875-0200/parts",
+      "code": "2sh-soft-heat-stand-infusion-series-27875-0200"
+    },
+    {
+      "name": "2SH Soft Heat Stand, Stainless Steel (27875.0000)",
+      "url": "/bunn/2sh-soft-heat-stand-stainless-steel-27875-0000/parts",
+      "code": "2sh-soft-heat-stand-stainless-steel-27875-0000"
+    },
+    {
+      "name": "2SH Soft Heat Stand, WiFi (27875.0201)",
+      "url": "/bunn/2sh-soft-heat-stand-wifi-27875-0201/parts",
+      "code": "2sh-soft-heat-stand-wifi-27875-0201"
+    },
+    {
+      "name": "A10",
+      "url": "/bunn/a10/parts",
+      "code": "a10"
+    },
+    {
+      "name": "A10-A",
+      "url": "/bunn/a10-a/parts",
+      "code": "a10-a"
+    },
+    {
+      "name": "ACCESSORY KIT, AFPO-2 SHRT PRB ULTRA (28790.1004)",
+      "url": "/bunn/accessory-kit-afpo-2-shrt-prb-ultra-28790-1004/parts",
+      "code": "accessory-kit-afpo-2-shrt-prb-ultra-28790-1004"
+    },
+    {
+      "name": "ACCESSORY KIT, AFPO-2 SL ULTRA (28790.1005)",
+      "url": "/bunn/accessory-kit-afpo-2-sl-ultra-28790-1005/parts",
+      "code": "accessory-kit-afpo-2-sl-ultra-28790-1005"
+    },
+    {
+      "name": "AF PR-2",
+      "url": "/bunn/af-pr-2/parts",
+      "code": "af-pr-2"
+    },
+    {
+      "name": "AF PR-3",
+      "url": "/bunn/af-pr-3/parts",
+      "code": "af-pr-3"
+    },
+    {
+      "name": "AFPO-2",
+      "url": "/bunn/afpo-2/parts",
+      "code": "afpo-2"
+    },
+    {
+      "name": "AFPO-2 SL",
+      "url": "/bunn/afpo-2-sl/parts",
+      "code": "afpo-2-sl"
+    },
+    {
+      "name": "AFPO-2 SL, (28400.0004)",
+      "url": "/bunn/afpo-2-sl-28400-0004/parts",
+      "code": "afpo-2-sl-28400-0004"
+    },
+    {
+      "name": "AFPO-2, ULTRA (28400.0007)",
+      "url": "/bunn/afpo-2-ultra-28400-0007/parts",
+      "code": "afpo-2-ultra-28400-0007"
+    },
+    {
+      "name": "AFPO-2, W/SHORT PROBE ULTRA (28400.0010)",
+      "url": "/bunn/afpo-2-w-short-probe-ultra-28400-0010/parts",
+      "code": "afpo-2-w-short-probe-ultra-28400-0010"
+    },
+    {
+      "name": "AFPO-3",
+      "url": "/bunn/afpo-3/parts",
+      "code": "afpo-3"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:01:16.757796"
+}

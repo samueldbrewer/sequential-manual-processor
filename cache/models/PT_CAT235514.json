@@ -1,0 +1,216 @@
+{
+  "manufacturer": {
+    "name": "Eureka",
+    "code": "PT_CAT235514",
+    "uri": "eureka"
+  },
+  "models": [
+    {
+      "name": "3670G",
+      "url": "/eureka/3670g/parts",
+      "code": "3670g"
+    },
+    {
+      "name": "3670M",
+      "url": "/eureka/3670m/parts",
+      "code": "3670m"
+    },
+    {
+      "name": "HDUE2CR",
+      "url": "/eureka/hdue2cr/parts",
+      "code": "hdue2cr"
+    },
+    {
+      "name": "NEC120",
+      "url": "/eureka/nec120/parts",
+      "code": "nec120"
+    },
+    {
+      "name": "NEC120C",
+      "url": "/eureka/nec120c/parts",
+      "code": "nec120c"
+    },
+    {
+      "name": "NEC122X",
+      "url": "/eureka/nec122x/parts",
+      "code": "nec122x"
+    },
+    {
+      "name": "NEH100",
+      "url": "/eureka/neh100/parts",
+      "code": "neh100"
+    },
+    {
+      "name": "NEN200C",
+      "url": "/eureka/nen200c/parts",
+      "code": "nen200c"
+    },
+    {
+      "name": "NEU100C",
+      "url": "/eureka/neu100c/parts",
+      "code": "neu100c"
+    },
+    {
+      "name": "NEU102",
+      "url": "/eureka/neu102/parts",
+      "code": "neu102"
+    },
+    {
+      "name": "NEU10AE2",
+      "url": "/eureka/neu10ae2/parts",
+      "code": "neu10ae2"
+    },
+    {
+      "name": "NEU10AE4",
+      "url": "/eureka/neu10ae4/parts",
+      "code": "neu10ae4"
+    },
+    {
+      "name": "NEU150",
+      "url": "/eureka/neu150/parts",
+      "code": "neu150"
+    },
+    {
+      "name": "NEU180",
+      "url": "/eureka/neu180/parts",
+      "code": "neu180"
+    },
+    {
+      "name": "NEU180AE1",
+      "url": "/eureka/neu180ae1/parts",
+      "code": "neu180ae1"
+    },
+    {
+      "name": "NEU180AE2",
+      "url": "/eureka/neu180ae2/parts",
+      "code": "neu180ae2"
+    },
+    {
+      "name": "NEU180AE3",
+      "url": "/eureka/neu180ae3/parts",
+      "code": "neu180ae3"
+    },
+    {
+      "name": "NEU180AEC",
+      "url": "/eureka/neu180aec/parts",
+      "code": "neu180aec"
+    },
+    {
+      "name": "NEU180CDISP",
+      "url": "/eureka/neu180cdisp/parts",
+      "code": "neu180cdisp"
+    },
+    {
+      "name": "NEU181",
+      "url": "/eureka/neu181/parts",
+      "code": "neu181"
+    },
+    {
+      "name": "NEU182A",
+      "url": "/eureka/neu182a/parts",
+      "code": "neu182a"
+    },
+    {
+      "name": "NEU182B",
+      "url": "/eureka/neu182b/parts",
+      "code": "neu182b"
+    },
+    {
+      "name": "NEU182C",
+      "url": "/eureka/neu182c/parts",
+      "code": "neu182c"
+    },
+    {
+      "name": "NEU186",
+      "url": "/eureka/neu186/parts",
+      "code": "neu186"
+    },
+    {
+      "name": "NEU186C",
+      "url": "/eureka/neu186c/parts",
+      "code": "neu186c"
+    },
+    {
+      "name": "NEU188",
+      "url": "/eureka/neu188/parts",
+      "code": "neu188"
+    },
+    {
+      "name": "NEU188A",
+      "url": "/eureka/neu188a/parts",
+      "code": "neu188a"
+    },
+    {
+      "name": "NEU190",
+      "url": "/eureka/neu190/parts",
+      "code": "neu190"
+    },
+    {
+      "name": "NEU192",
+      "url": "/eureka/neu192/parts",
+      "code": "neu192"
+    },
+    {
+      "name": "NEU192A",
+      "url": "/eureka/neu192a/parts",
+      "code": "neu192a"
+    },
+    {
+      "name": "NEU202",
+      "url": "/eureka/neu202/parts",
+      "code": "neu202"
+    },
+    {
+      "name": "NEU203",
+      "url": "/eureka/neu203/parts",
+      "code": "neu203"
+    },
+    {
+      "name": "NEU250",
+      "url": "/eureka/neu250/parts",
+      "code": "neu250"
+    },
+    {
+      "name": "NEU280",
+      "url": "/eureka/neu280/parts",
+      "code": "neu280"
+    },
+    {
+      "name": "NEU522",
+      "url": "/eureka/neu522/parts",
+      "code": "neu522"
+    },
+    {
+      "name": "NEU526",
+      "url": "/eureka/neu526/parts",
+      "code": "neu526"
+    },
+    {
+      "name": "NEU560",
+      "url": "/eureka/neu560/parts",
+      "code": "neu560"
+    },
+    {
+      "name": "NEU562",
+      "url": "/eureka/neu562/parts",
+      "code": "neu562"
+    },
+    {
+      "name": "NEU562A",
+      "url": "/eureka/neu562a/parts",
+      "code": "neu562a"
+    },
+    {
+      "name": "NEU610",
+      "url": "/eureka/neu610/parts",
+      "code": "neu610"
+    },
+    {
+      "name": "NEU610DISP",
+      "url": "/eureka/neu610disp/parts",
+      "code": "neu610disp"
+    }
+  ],
+  "total_models": 41,
+  "cached_at": "2025-08-14T18:29:21.431873"
+}

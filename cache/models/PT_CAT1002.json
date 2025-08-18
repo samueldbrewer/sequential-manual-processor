@@ -1,0 +1,206 @@
+{
+  "manufacturer": {
+    "name": "American Dish Service",
+    "code": "PT_CAT1002",
+    "uri": "american-dish-service"
+  },
+  "models": [
+    {
+      "name": "5-AG-ES",
+      "url": "/american-dish-service/5-ag-es/parts",
+      "code": "5-ag-es"
+    },
+    {
+      "name": "5-AG-S",
+      "url": "/american-dish-service/5-ag-s/parts",
+      "code": "5-ag-s"
+    },
+    {
+      "name": "5-CD",
+      "url": "/american-dish-service/5-cd/parts",
+      "code": "5-cd"
+    },
+    {
+      "name": "5-CD LF",
+      "url": "/american-dish-service/5-cd-lf/parts",
+      "code": "5-cd-lf"
+    },
+    {
+      "name": "5-CD RF",
+      "url": "/american-dish-service/5-cd-rf/parts",
+      "code": "5-cd-rf"
+    },
+    {
+      "name": "5AGES",
+      "url": "/american-dish-service/5ages/parts",
+      "code": "5ages"
+    },
+    {
+      "name": "ADC-44",
+      "url": "/american-dish-service/adc-44/parts",
+      "code": "adc-44"
+    },
+    {
+      "name": "ADC-44 L-R",
+      "url": "/american-dish-service/adc-44-l-r/parts",
+      "code": "adc-44-l-r"
+    },
+    {
+      "name": "ADC-44 R-L",
+      "url": "/american-dish-service/adc-44-r-l/parts",
+      "code": "adc-44-r-l"
+    },
+    {
+      "name": "ADC-44 TALL L-R",
+      "url": "/american-dish-service/adc-44-tall-l-r/parts",
+      "code": "adc-44-tall-l-r"
+    },
+    {
+      "name": "ADC-44 TALL R-L",
+      "url": "/american-dish-service/adc-44-tall-r-l/parts",
+      "code": "adc-44-tall-r-l"
+    },
+    {
+      "name": "ADC-66",
+      "url": "/american-dish-service/adc-66/parts",
+      "code": "adc-66"
+    },
+    {
+      "name": "ADC-66 L-R",
+      "url": "/american-dish-service/adc-66-l-r/parts",
+      "code": "adc-66-l-r"
+    },
+    {
+      "name": "ADC-66 R-L",
+      "url": "/american-dish-service/adc-66-r-l/parts",
+      "code": "adc-66-r-l"
+    },
+    {
+      "name": "AF-3DS",
+      "url": "/american-dish-service/af-3ds/parts",
+      "code": "af-3ds"
+    },
+    {
+      "name": "AF-AFC-3D-S",
+      "url": "/american-dish-service/af-afc-3d-s/parts",
+      "code": "af-afc-3d-s"
+    },
+    {
+      "name": "AF-AFC-ES",
+      "url": "/american-dish-service/af-afc-es/parts",
+      "code": "af-afc-es"
+    },
+    {
+      "name": "AF-ES",
+      "url": "/american-dish-service/af-es/parts",
+      "code": "af-es"
+    },
+    {
+      "name": "AFB",
+      "url": "/american-dish-service/afb/parts",
+      "code": "afb"
+    },
+    {
+      "name": "AFBC",
+      "url": "/american-dish-service/afbc/parts",
+      "code": "afbc"
+    },
+    {
+      "name": "AFC-3DS",
+      "url": "/american-dish-service/afc-3ds/parts",
+      "code": "afc-3ds"
+    },
+    {
+      "name": "AFC-ES",
+      "url": "/american-dish-service/afc-es/parts",
+      "code": "afc-es"
+    },
+    {
+      "name": "ASQ",
+      "url": "/american-dish-service/asq/parts",
+      "code": "asq"
+    },
+    {
+      "name": "ASQ II",
+      "url": "/american-dish-service/asq-ii/parts",
+      "code": "asq-ii"
+    },
+    {
+      "name": "ASQ-II",
+      "url": "/american-dish-service/asq-ii/parts",
+      "code": "asq-ii"
+    },
+    {
+      "name": "AWS",
+      "url": "/american-dish-service/aws/parts",
+      "code": "aws"
+    },
+    {
+      "name": "AWS-H",
+      "url": "/american-dish-service/aws-h/parts",
+      "code": "aws-h"
+    },
+    {
+      "name": "ET-AF",
+      "url": "/american-dish-service/et-af/parts",
+      "code": "et-af"
+    },
+    {
+      "name": "ET-PD",
+      "url": "/american-dish-service/et-pd/parts",
+      "code": "et-pd"
+    },
+    {
+      "name": "ET-PD-H",
+      "url": "/american-dish-service/et-pd-h/parts",
+      "code": "et-pd-h"
+    },
+    {
+      "name": "ETAF-3",
+      "url": "/american-dish-service/etaf-3/parts",
+      "code": "etaf-3"
+    },
+    {
+      "name": "ETAF-M",
+      "url": "/american-dish-service/etaf-m/parts",
+      "code": "etaf-m"
+    },
+    {
+      "name": "HT-25",
+      "url": "/american-dish-service/ht-25/parts",
+      "code": "ht-25"
+    },
+    {
+      "name": "HT-34",
+      "url": "/american-dish-service/ht-34/parts",
+      "code": "ht-34"
+    },
+    {
+      "name": "HUB-40-HIGH TEMP",
+      "url": "/american-dish-service/hub-40-high-temp/parts",
+      "code": "hub-40-high-temp"
+    },
+    {
+      "name": "L-90-3DW-S",
+      "url": "/american-dish-service/l-90-3dw-s/parts",
+      "code": "l-90-3dw-s"
+    },
+    {
+      "name": "L-90-3DWC-S",
+      "url": "/american-dish-service/l-90-3dwc-s/parts",
+      "code": "l-90-3dwc-s"
+    },
+    {
+      "name": "L-90-3DWS-3 DOOR",
+      "url": "/american-dish-service/l-90-3dws-3-door/parts",
+      "code": "l-90-3dws-3-door"
+    },
+    {
+      "name": "WS2",
+      "url": "/american-dish-service/ws2/parts",
+      "code": "ws2"
+    }
+  ],
+  "total_models": 39,
+  "cached_at": "2025-08-14T17:43:03.377806"
+}

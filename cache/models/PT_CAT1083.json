@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Food Warming Equipment",
+    "code": "PT_CAT1083",
+    "uri": "food-warming-equipment"
+  },
+  "models": [
+    {
+      "name": "A SERIES",
+      "url": "/food-warming-equipment/a-series/parts",
+      "code": "a-series"
+    },
+    {
+      "name": "A-XL SERIES",
+      "url": "/food-warming-equipment/a-xl-series/parts",
+      "code": "a-xl-series"
+    },
+    {
+      "name": "ASU-9",
+      "url": "/food-warming-equipment/asu-9/parts",
+      "code": "asu-9"
+    },
+    {
+      "name": "BT SERIES (DIGITAL)",
+      "url": "/food-warming-equipment/bt-series-digital/parts",
+      "code": "bt-series-digital"
+    },
+    {
+      "name": "C Series",
+      "url": "/food-warming-equipment/c-series/parts",
+      "code": "c-series"
+    },
+    {
+      "name": "E SERIES",
+      "url": "/food-warming-equipment/e-series/parts",
+      "code": "e-series"
+    },
+    {
+      "name": "ETC-HD Series",
+      "url": "/food-warming-equipment/etc-hd-series/parts",
+      "code": "etc-hd-series"
+    },
+    {
+      "name": "ETC-PH Series",
+      "url": "/food-warming-equipment/etc-ph-series/parts",
+      "code": "etc-ph-series"
+    },
+    {
+      "name": "F Series",
+      "url": "/food-warming-equipment/f-series/parts",
+      "code": "f-series"
+    },
+    {
+      "name": "HHC SERIES",
+      "url": "/food-warming-equipment/hhc-series/parts",
+      "code": "hhc-series"
+    },
+    {
+      "name": "HLC SERIES",
+      "url": "/food-warming-equipment/hlc-series/parts",
+      "code": "hlc-series"
+    },
+    {
+      "name": "HLC SERIES SIDE LOAD",
+      "url": "/food-warming-equipment/hlc-series-side-load/parts",
+      "code": "hlc-series-side-load"
+    },
+    {
+      "name": "HLC-8-CHP",
+      "url": "/food-warming-equipment/hlc-8-chp/parts",
+      "code": "hlc-8-chp"
+    },
+    {
+      "name": "HMC-230",
+      "url": "/food-warming-equipment/hmc-230/parts",
+      "code": "hmc-230"
+    },
+    {
+      "name": "HS-24",
+      "url": "/food-warming-equipment/hs-24/parts",
+      "code": "hs-24"
+    },
+    {
+      "name": "LCH SERIES",
+      "url": "/food-warming-equipment/lch-series/parts",
+      "code": "lch-series"
+    },
+    {
+      "name": "LCH-10",
+      "url": "/food-warming-equipment/lch-10/parts",
+      "code": "lch-10"
+    },
+    {
+      "name": "LCH-18",
+      "url": "/food-warming-equipment/lch-18/parts",
+      "code": "lch-18"
+    },
+    {
+      "name": "LCH-1826-18",
+      "url": "/food-warming-equipment/lch-1826-18/parts",
+      "code": "lch-1826-18"
+    },
+    {
+      "name": "LCH-6-G2",
+      "url": "/food-warming-equipment/lch-6-g2/parts",
+      "code": "lch-6-g2"
+    },
+    {
+      "name": "LCH-6-SK-LV-G2",
+      "url": "/food-warming-equipment/lch-6-sk-lv-g2/parts",
+      "code": "lch-6-sk-lv-g2"
+    },
+    {
+      "name": "LCH-8",
+      "url": "/food-warming-equipment/lch-8/parts",
+      "code": "lch-8"
+    },
+    {
+      "name": "LCH-CC SERIES",
+      "url": "/food-warming-equipment/lch-cc-series/parts",
+      "code": "lch-cc-series"
+    },
+    {
+      "name": "LCHR-1220-4-SPOD",
+      "url": "/food-warming-equipment/lchr-1220-4-spod/parts",
+      "code": "lchr-1220-4-spod"
+    },
+    {
+      "name": "MT SERIES",
+      "url": "/food-warming-equipment/mt-series/parts",
+      "code": "mt-series"
+    },
+    {
+      "name": "MT-1826-18PDD",
+      "url": "/food-warming-equipment/mt-1826-18pdd/parts",
+      "code": "mt-1826-18pdd"
+    },
+    {
+      "name": "MTU SERIES",
+      "url": "/food-warming-equipment/mtu-series/parts",
+      "code": "mtu-series"
+    },
+    {
+      "name": "P SERIES",
+      "url": "/food-warming-equipment/p-series/parts",
+      "code": "p-series"
+    },
+    {
+      "name": "P SERIES (DIXELL)",
+      "url": "/food-warming-equipment/p-series-dixell/parts",
+      "code": "p-series-dixell"
+    },
+    {
+      "name": "P-108",
+      "url": "/food-warming-equipment/p-108/parts",
+      "code": "p-108"
+    },
+    {
+      "name": "P-120",
+      "url": "/food-warming-equipment/p-120/parts",
+      "code": "p-120"
+    },
+    {
+      "name": "P-120-2",
+      "url": "/food-warming-equipment/p-120-2/parts",
+      "code": "p-120-2"
+    },
+    {
+      "name": "P-144",
+      "url": "/food-warming-equipment/p-144/parts",
+      "code": "p-144"
+    },
+    {
+      "name": "P-144-2",
+      "url": "/food-warming-equipment/p-144-2/parts",
+      "code": "p-144-2"
+    },
+    {
+      "name": "P-180",
+      "url": "/food-warming-equipment/p-180/parts",
+      "code": "p-180"
+    },
+    {
+      "name": "P-180-2",
+      "url": "/food-warming-equipment/p-180-2/parts",
+      "code": "p-180-2"
+    },
+    {
+      "name": "P-200",
+      "url": "/food-warming-equipment/p-200/parts",
+      "code": "p-200"
+    },
+    {
+      "name": "P-200-2",
+      "url": "/food-warming-equipment/p-200-2/parts",
+      "code": "p-200-2"
+    },
+    {
+      "name": "P-48",
+      "url": "/food-warming-equipment/p-48/parts",
+      "code": "p-48"
+    },
+    {
+      "name": "P-60",
+      "url": "/food-warming-equipment/p-60/parts",
+      "code": "p-60"
+    },
+    {
+      "name": "P-72",
+      "url": "/food-warming-equipment/p-72/parts",
+      "code": "p-72"
+    },
+    {
+      "name": "P-80",
+      "url": "/food-warming-equipment/p-80/parts",
+      "code": "p-80"
+    },
+    {
+      "name": "P-90",
+      "url": "/food-warming-equipment/p-90/parts",
+      "code": "p-90"
+    },
+    {
+      "name": "PH SERIES",
+      "url": "/food-warming-equipment/ph-series/parts",
+      "code": "ph-series"
+    },
+    {
+      "name": "PHBB SERIES",
+      "url": "/food-warming-equipment/phbb-series/parts",
+      "code": "phbb-series"
+    },
+    {
+      "name": "PHTT-12",
+      "url": "/food-warming-equipment/phtt-12/parts",
+      "code": "phtt-12"
+    },
+    {
+      "name": "PHTT-12P-KFC",
+      "url": "/food-warming-equipment/phtt-12p-kfc/parts",
+      "code": "phtt-12p-kfc"
+    },
+    {
+      "name": "PHTT-4",
+      "url": "/food-warming-equipment/phtt-4/parts",
+      "code": "phtt-4"
+    },
+    {
+      "name": "PHTT-5P-KFC",
+      "url": "/food-warming-equipment/phtt-5p-kfc/parts",
+      "code": "phtt-5p-kfc"
+    },
+    {
+      "name": "PHTT-6",
+      "url": "/food-warming-equipment/phtt-6/parts",
+      "code": "phtt-6"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:36:42.130920"
+}

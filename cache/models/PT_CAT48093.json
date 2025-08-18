@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Sammic",
+    "code": "PT_CAT48093",
+    "uri": "sammic"
+  },
+  "models": [
+    {
+      "name": "B-30",
+      "url": "/sammic/b-30/parts",
+      "code": "b-30"
+    },
+    {
+      "name": "BE-10",
+      "url": "/sammic/be-10/parts",
+      "code": "be-10"
+    },
+    {
+      "name": "BE-20",
+      "url": "/sammic/be-20/parts",
+      "code": "be-20"
+    },
+    {
+      "name": "BE-30",
+      "url": "/sammic/be-30/parts",
+      "code": "be-30"
+    },
+    {
+      "name": "BE-40",
+      "url": "/sammic/be-40/parts",
+      "code": "be-40"
+    },
+    {
+      "name": "BM-250",
+      "url": "/sammic/bm-250/parts",
+      "code": "bm-250"
+    },
+    {
+      "name": "BM-350",
+      "url": "/sammic/bm-350/parts",
+      "code": "bm-350"
+    },
+    {
+      "name": "BM-5",
+      "url": "/sammic/bm-5/parts",
+      "code": "bm-5"
+    },
+    {
+      "name": "BM-550",
+      "url": "/sammic/bm-550/parts",
+      "code": "bm-550"
+    },
+    {
+      "name": "BM-5E",
+      "url": "/sammic/bm-5e/parts",
+      "code": "bm-5e"
+    },
+    {
+      "name": "BM-750",
+      "url": "/sammic/bm-750/parts",
+      "code": "bm-750"
+    },
+    {
+      "name": "C-12",
+      "url": "/sammic/c-12/parts",
+      "code": "c-12"
+    },
+    {
+      "name": "C-6",
+      "url": "/sammic/c-6/parts",
+      "code": "c-6"
+    },
+    {
+      "name": "CA-301",
+      "url": "/sammic/ca-301/parts",
+      "code": "ca-301"
+    },
+    {
+      "name": "CA-31",
+      "url": "/sammic/ca-31/parts",
+      "code": "ca-31"
+    },
+    {
+      "name": "CA-3V",
+      "url": "/sammic/ca-3v/parts",
+      "code": "ca-3v"
+    },
+    {
+      "name": "CA-401",
+      "url": "/sammic/ca-401/parts",
+      "code": "ca-401"
+    },
+    {
+      "name": "CA-41",
+      "url": "/sammic/ca-41/parts",
+      "code": "ca-41"
+    },
+    {
+      "name": "CA-4V",
+      "url": "/sammic/ca-4v/parts",
+      "code": "ca-4v"
+    },
+    {
+      "name": "CA-601",
+      "url": "/sammic/ca-601/parts",
+      "code": "ca-601"
+    },
+    {
+      "name": "CF-5",
+      "url": "/sammic/cf-5/parts",
+      "code": "cf-5"
+    },
+    {
+      "name": "CK-241",
+      "url": "/sammic/ck-241/parts",
+      "code": "ck-241"
+    },
+    {
+      "name": "CK-24V",
+      "url": "/sammic/ck-24v/parts",
+      "code": "ck-24v"
+    },
+    {
+      "name": "CK-38V",
+      "url": "/sammic/ck-38v/parts",
+      "code": "ck-38v"
+    },
+    {
+      "name": "CKE-5",
+      "url": "/sammic/cke-5/parts",
+      "code": "cke-5"
+    },
+    {
+      "name": "CKE-8",
+      "url": "/sammic/cke-8/parts",
+      "code": "cke-8"
+    },
+    {
+      "name": "CP-250",
+      "url": "/sammic/cp-250/parts",
+      "code": "cp-250"
+    },
+    {
+      "name": "Combi CK-301",
+      "url": "/sammic/combi-ck-301/parts",
+      "code": "combi-ck-301"
+    },
+    {
+      "name": "Combi CK-302",
+      "url": "/sammic/combi-ck-302/parts",
+      "code": "combi-ck-302"
+    },
+    {
+      "name": "Combi CK-401",
+      "url": "/sammic/combi-ck-401/parts",
+      "code": "combi-ck-401"
+    },
+    {
+      "name": "Combi CK-402",
+      "url": "/sammic/combi-ck-402/parts",
+      "code": "combi-ck-402"
+    },
+    {
+      "name": "E-1000",
+      "url": "/sammic/e-1000/parts",
+      "code": "e-1000"
+    },
+    {
+      "name": "E-18",
+      "url": "/sammic/e-18/parts",
+      "code": "e-18"
+    },
+    {
+      "name": "E-19",
+      "url": "/sammic/e-19/parts",
+      "code": "e-19"
+    },
+    {
+      "name": "E-300",
+      "url": "/sammic/e-300/parts",
+      "code": "e-300"
+    },
+    {
+      "name": "ECM",
+      "url": "/sammic/ecm/parts",
+      "code": "ecm"
+    },
+    {
+      "name": "ECP",
+      "url": "/sammic/ecp/parts",
+      "code": "ecp"
+    },
+    {
+      "name": "ES-100",
+      "url": "/sammic/es-100/parts",
+      "code": "es-100"
+    },
+    {
+      "name": "ES-150",
+      "url": "/sammic/es-150/parts",
+      "code": "es-150"
+    },
+    {
+      "name": "ES-200",
+      "url": "/sammic/es-200/parts",
+      "code": "es-200"
+    },
+    {
+      "name": "K-41",
+      "url": "/sammic/k-41/parts",
+      "code": "k-41"
+    },
+    {
+      "name": "KE-4V",
+      "url": "/sammic/ke-4v/parts",
+      "code": "ke-4v"
+    },
+    {
+      "name": "LV-1100",
+      "url": "/sammic/lv-1100/parts",
+      "code": "lv-1100"
+    },
+    {
+      "name": "LV-1200",
+      "url": "/sammic/lv-1200/parts",
+      "code": "lv-1200"
+    },
+    {
+      "name": "LVT-18",
+      "url": "/sammic/lvt-18/parts",
+      "code": "lvt-18"
+    },
+    {
+      "name": "LVT-18A",
+      "url": "/sammic/lvt-18a/parts",
+      "code": "lvt-18a"
+    },
+    {
+      "name": "LVT-18H",
+      "url": "/sammic/lvt-18h/parts",
+      "code": "lvt-18h"
+    },
+    {
+      "name": "M-10",
+      "url": "/sammic/m-10/parts",
+      "code": "m-10"
+    },
+    {
+      "name": "M-12",
+      "url": "/sammic/m-12/parts",
+      "code": "m-12"
+    },
+    {
+      "name": "M-15",
+      "url": "/sammic/m-15/parts",
+      "code": "m-15"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T21:27:23.183323"
+}

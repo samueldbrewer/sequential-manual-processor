@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Hot Rocks Oven",
+    "code": "PT_CAT224053",
+    "uri": "hot-rocks-oven"
+  },
+  "models": [
+    {
+      "name": "HR-70-22 (Gen 3)",
+      "url": "/hot-rocks-oven/hr-70-22-gen-3/parts",
+      "code": "hr-70-22-gen-3"
+    },
+    {
+      "name": "HR-70-33 (Gen 3)",
+      "url": "/hot-rocks-oven/hr-70-33-gen-3/parts",
+      "code": "hr-70-33-gen-3"
+    },
+    {
+      "name": "HR-93-33 (Gen 3)",
+      "url": "/hot-rocks-oven/hr-93-33-gen-3/parts",
+      "code": "hr-93-33-gen-3"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T19:01:21.866577"
+}

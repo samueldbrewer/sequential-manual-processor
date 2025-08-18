@@ -1,0 +1,151 @@
+{
+  "manufacturer": {
+    "name": "Crown Verity",
+    "code": "PT_CAT47408",
+    "uri": "crown-verity"
+  },
+  "models": [
+    {
+      "name": "3WHS",
+      "url": "/crown-verity/3whs/parts",
+      "code": "3whs"
+    },
+    {
+      "name": "EHS-E",
+      "url": "/crown-verity/ehs-e/parts",
+      "code": "ehs-e"
+    },
+    {
+      "name": "MCB-30",
+      "url": "/crown-verity/mcb-30/parts",
+      "code": "mcb-30"
+    },
+    {
+      "name": "MCB-30PKG",
+      "url": "/crown-verity/mcb-30pkg/parts",
+      "code": "mcb-30pkg"
+    },
+    {
+      "name": "MCB-30PRO",
+      "url": "/crown-verity/mcb-30pro/parts",
+      "code": "mcb-30pro"
+    },
+    {
+      "name": "MCB-30RDP",
+      "url": "/crown-verity/mcb-30rdp/parts",
+      "code": "mcb-30rdp"
+    },
+    {
+      "name": "MCB-30WGP",
+      "url": "/crown-verity/mcb-30wgp/parts",
+      "code": "mcb-30wgp"
+    },
+    {
+      "name": "MCB-36",
+      "url": "/crown-verity/mcb-36/parts",
+      "code": "mcb-36"
+    },
+    {
+      "name": "MCB-36PKG",
+      "url": "/crown-verity/mcb-36pkg/parts",
+      "code": "mcb-36pkg"
+    },
+    {
+      "name": "MCB-36PRO",
+      "url": "/crown-verity/mcb-36pro/parts",
+      "code": "mcb-36pro"
+    },
+    {
+      "name": "MCB-36RDP",
+      "url": "/crown-verity/mcb-36rdp/parts",
+      "code": "mcb-36rdp"
+    },
+    {
+      "name": "MCB-36WGP",
+      "url": "/crown-verity/mcb-36wgp/parts",
+      "code": "mcb-36wgp"
+    },
+    {
+      "name": "MCB-48",
+      "url": "/crown-verity/mcb-48/parts",
+      "code": "mcb-48"
+    },
+    {
+      "name": "MCB-48PKG",
+      "url": "/crown-verity/mcb-48pkg/parts",
+      "code": "mcb-48pkg"
+    },
+    {
+      "name": "MCB-48PRO",
+      "url": "/crown-verity/mcb-48pro/parts",
+      "code": "mcb-48pro"
+    },
+    {
+      "name": "MCB-48RDP",
+      "url": "/crown-verity/mcb-48rdp/parts",
+      "code": "mcb-48rdp"
+    },
+    {
+      "name": "MCB-48WGP",
+      "url": "/crown-verity/mcb-48wgp/parts",
+      "code": "mcb-48wgp"
+    },
+    {
+      "name": "MCB-60",
+      "url": "/crown-verity/mcb-60/parts",
+      "code": "mcb-60"
+    },
+    {
+      "name": "MCB-60-1RDP",
+      "url": "/crown-verity/mcb-60-1rdp/parts",
+      "code": "mcb-60-1rdp"
+    },
+    {
+      "name": "MCB-60RDP",
+      "url": "/crown-verity/mcb-60rdp/parts",
+      "code": "mcb-60rdp"
+    },
+    {
+      "name": "MCB-60RGP",
+      "url": "/crown-verity/mcb-60rgp/parts",
+      "code": "mcb-60rgp"
+    },
+    {
+      "name": "MCB-60RWP",
+      "url": "/crown-verity/mcb-60rwp/parts",
+      "code": "mcb-60rwp"
+    },
+    {
+      "name": "MCB-60WGP",
+      "url": "/crown-verity/mcb-60wgp/parts",
+      "code": "mcb-60wgp"
+    },
+    {
+      "name": "MCB-72",
+      "url": "/crown-verity/mcb-72/parts",
+      "code": "mcb-72"
+    },
+    {
+      "name": "MCB-72RDP",
+      "url": "/crown-verity/mcb-72rdp/parts",
+      "code": "mcb-72rdp"
+    },
+    {
+      "name": "MCB-72RGP",
+      "url": "/crown-verity/mcb-72rgp/parts",
+      "code": "mcb-72rgp"
+    },
+    {
+      "name": "MCB-72RWP",
+      "url": "/crown-verity/mcb-72rwp/parts",
+      "code": "mcb-72rwp"
+    },
+    {
+      "name": "MCB-72WGP",
+      "url": "/crown-verity/mcb-72wgp/parts",
+      "code": "mcb-72wgp"
+    }
+  ],
+  "total_models": 28,
+  "cached_at": "2025-08-14T18:16:05.285757"
+}

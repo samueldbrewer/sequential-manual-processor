@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Fagor Commercial",
+    "code": "PT_CAT15131",
+    "uri": "fagor-commercial"
+  },
+  "models": [
+    {
+      "name": "AD-120W",
+      "url": "/fagor-commercial/ad-120w/parts",
+      "code": "ad-120w"
+    },
+    {
+      "name": "AD-21W",
+      "url": "/fagor-commercial/ad-21w/parts",
+      "code": "ad-21w"
+    },
+    {
+      "name": "AD-48W",
+      "url": "/fagor-commercial/ad-48w/parts",
+      "code": "ad-48w"
+    },
+    {
+      "name": "AD-64CW",
+      "url": "/fagor-commercial/ad-64cw/parts",
+      "code": "ad-64cw"
+    },
+    {
+      "name": "AD-72W",
+      "url": "/fagor-commercial/ad-72w/parts",
+      "code": "ad-72w"
+    },
+    {
+      "name": "AE-061",
+      "url": "/fagor-commercial/ae-061/parts",
+      "code": "ae-061"
+    },
+    {
+      "name": "AE-101",
+      "url": "/fagor-commercial/ae-101/parts",
+      "code": "ae-101"
+    },
+    {
+      "name": "AE-102",
+      "url": "/fagor-commercial/ae-102/parts",
+      "code": "ae-102"
+    },
+    {
+      "name": "CO-402W (Rev.2015)",
+      "url": "/fagor-commercial/co-402w-rev-2015/parts",
+      "code": "co-402w-rev-2015"
+    },
+    {
+      "name": "CO-402W (Rev.2021)",
+      "url": "/fagor-commercial/co-402w-rev-2021/parts",
+      "code": "co-402w-rev-2021"
+    },
+    {
+      "name": "CO-500W (Rev.2021)",
+      "url": "/fagor-commercial/co-500w-rev-2021/parts",
+      "code": "co-500w-rev-2021"
+    },
+    {
+      "name": "CO-502W (Rev.2015)",
+      "url": "/fagor-commercial/co-502w-rev-2015/parts",
+      "code": "co-502w-rev-2015"
+    },
+    {
+      "name": "CO-502W (Rev.2021)",
+      "url": "/fagor-commercial/co-502w-rev-2021/parts",
+      "code": "co-502w-rev-2021"
+    },
+    {
+      "name": "COP-174W (Rev.2021)",
+      "url": "/fagor-commercial/cop-174w-rev-2021/parts",
+      "code": "cop-174w-rev-2021"
+    },
+    {
+      "name": "COP-174WHRS (Rev.2021)",
+      "url": "/fagor-commercial/cop-174whrs-rev-2021/parts",
+      "code": "cop-174whrs-rev-2021"
+    },
+    {
+      "name": "COP-504W (Rev.2015)",
+      "url": "/fagor-commercial/cop-504w-rev-2015/parts",
+      "code": "cop-504w-rev-2015"
+    },
+    {
+      "name": "COP-504W (Rev.2021)",
+      "url": "/fagor-commercial/cop-504w-rev-2021/parts",
+      "code": "cop-504w-rev-2021"
+    },
+    {
+      "name": "CPR-60-4",
+      "url": "/fagor-commercial/cpr-60-4/parts",
+      "code": "cpr-60-4"
+    },
+    {
+      "name": "FBB-24",
+      "url": "/fagor-commercial/fbb-24/parts",
+      "code": "fbb-24"
+    },
+    {
+      "name": "FBB-24(G)",
+      "url": "/fagor-commercial/fbb-24-g/parts",
+      "code": "fbb-24-g"
+    },
+    {
+      "name": "FBB-24(S)",
+      "url": "/fagor-commercial/fbb-24-s/parts",
+      "code": "fbb-24-s"
+    },
+    {
+      "name": "FBB-24(SG)",
+      "url": "/fagor-commercial/fbb-24-sg/parts",
+      "code": "fbb-24-sg"
+    },
+    {
+      "name": "FBB-59",
+      "url": "/fagor-commercial/fbb-59/parts",
+      "code": "fbb-59"
+    },
+    {
+      "name": "FBB-59(G)",
+      "url": "/fagor-commercial/fbb-59-g/parts",
+      "code": "fbb-59-g"
+    },
+    {
+      "name": "FBB-59(S)",
+      "url": "/fagor-commercial/fbb-59-s/parts",
+      "code": "fbb-59-s"
+    },
+    {
+      "name": "FBB-59(SG)",
+      "url": "/fagor-commercial/fbb-59-sg/parts",
+      "code": "fbb-59-sg"
+    },
+    {
+      "name": "FBB-69",
+      "url": "/fagor-commercial/fbb-69/parts",
+      "code": "fbb-69"
+    },
+    {
+      "name": "FBB-69(G)",
+      "url": "/fagor-commercial/fbb-69-g/parts",
+      "code": "fbb-69-g"
+    },
+    {
+      "name": "FBB-69(S)",
+      "url": "/fagor-commercial/fbb-69-s/parts",
+      "code": "fbb-69-s"
+    },
+    {
+      "name": "FBB-69(SG)",
+      "url": "/fagor-commercial/fbb-69-sg/parts",
+      "code": "fbb-69-sg"
+    },
+    {
+      "name": "FBB-79",
+      "url": "/fagor-commercial/fbb-79/parts",
+      "code": "fbb-79"
+    },
+    {
+      "name": "FBB-79(G)",
+      "url": "/fagor-commercial/fbb-79-g/parts",
+      "code": "fbb-79-g"
+    },
+    {
+      "name": "FBB-79(S)",
+      "url": "/fagor-commercial/fbb-79-s/parts",
+      "code": "fbb-79-s"
+    },
+    {
+      "name": "FBB-79(SG)",
+      "url": "/fagor-commercial/fbb-79-sg/parts",
+      "code": "fbb-79-sg"
+    },
+    {
+      "name": "FBB-95",
+      "url": "/fagor-commercial/fbb-95/parts",
+      "code": "fbb-95"
+    },
+    {
+      "name": "FBB-95(G)",
+      "url": "/fagor-commercial/fbb-95-g/parts",
+      "code": "fbb-95-g"
+    },
+    {
+      "name": "FBB-95(S)",
+      "url": "/fagor-commercial/fbb-95-s/parts",
+      "code": "fbb-95-s"
+    },
+    {
+      "name": "FBB-95(SG)",
+      "url": "/fagor-commercial/fbb-95-sg/parts",
+      "code": "fbb-95-sg"
+    },
+    {
+      "name": "FBC-50",
+      "url": "/fagor-commercial/fbc-50/parts",
+      "code": "fbc-50"
+    },
+    {
+      "name": "FBC-50S",
+      "url": "/fagor-commercial/fbc-50s/parts",
+      "code": "fbc-50s"
+    },
+    {
+      "name": "FBC-65",
+      "url": "/fagor-commercial/fbc-65/parts",
+      "code": "fbc-65"
+    },
+    {
+      "name": "FBC-65S",
+      "url": "/fagor-commercial/fbc-65s/parts",
+      "code": "fbc-65s"
+    },
+    {
+      "name": "FBC-95",
+      "url": "/fagor-commercial/fbc-95/parts",
+      "code": "fbc-95"
+    },
+    {
+      "name": "FBC-95S",
+      "url": "/fagor-commercial/fbc-95s/parts",
+      "code": "fbc-95s"
+    },
+    {
+      "name": "FDD-24",
+      "url": "/fagor-commercial/fdd-24/parts",
+      "code": "fdd-24"
+    },
+    {
+      "name": "FDD-24(S)",
+      "url": "/fagor-commercial/fdd-24-s/parts",
+      "code": "fdd-24-s"
+    },
+    {
+      "name": "FDD-59",
+      "url": "/fagor-commercial/fdd-59/parts",
+      "code": "fdd-59"
+    },
+    {
+      "name": "FDD-59(S)",
+      "url": "/fagor-commercial/fdd-59-s/parts",
+      "code": "fdd-59-s"
+    },
+    {
+      "name": "FDD-69",
+      "url": "/fagor-commercial/fdd-69/parts",
+      "code": "fdd-69"
+    },
+    {
+      "name": "FDD-69(S)",
+      "url": "/fagor-commercial/fdd-69-s/parts",
+      "code": "fdd-69-s"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:30:55.743045"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Moffat",
+    "code": "PT_CAT1146",
+    "uri": "moffat"
+  },
+  "models": [
+    {
+      "name": "E22M3",
+      "url": "/moffat/e22m3/parts",
+      "code": "e22m3"
+    },
+    {
+      "name": "E23M3",
+      "url": "/moffat/e23m3/parts",
+      "code": "e23m3"
+    },
+    {
+      "name": "E25",
+      "url": "/moffat/e25/parts",
+      "code": "e25"
+    },
+    {
+      "name": "E25B",
+      "url": "/moffat/e25b/parts",
+      "code": "e25b"
+    },
+    {
+      "name": "E25MS",
+      "url": "/moffat/e25ms/parts",
+      "code": "e25ms"
+    },
+    {
+      "name": "E27",
+      "url": "/moffat/e27/parts",
+      "code": "e27"
+    },
+    {
+      "name": "E27M2",
+      "url": "/moffat/e27m2/parts",
+      "code": "e27m2"
+    },
+    {
+      "name": "E27M3",
+      "url": "/moffat/e27m3/parts",
+      "code": "e27m3"
+    },
+    {
+      "name": "E27MS",
+      "url": "/moffat/e27ms/parts",
+      "code": "e27ms"
+    },
+    {
+      "name": "E28M4",
+      "url": "/moffat/e28m4/parts",
+      "code": "e28m4"
+    },
+    {
+      "name": "E31",
+      "url": "/moffat/e31/parts",
+      "code": "e31"
+    },
+    {
+      "name": "E311",
+      "url": "/moffat/e311/parts",
+      "code": "e311"
+    },
+    {
+      "name": "E311MS",
+      "url": "/moffat/e311ms/parts",
+      "code": "e311ms"
+    },
+    {
+      "name": "E31D4",
+      "url": "/moffat/e31d4/parts",
+      "code": "e31d4"
+    },
+    {
+      "name": "E32",
+      "url": "/moffat/e32/parts",
+      "code": "e32"
+    },
+    {
+      "name": "E32D4",
+      "url": "/moffat/e32d4/parts",
+      "code": "e32d4"
+    },
+    {
+      "name": "E32D5",
+      "url": "/moffat/e32d5/parts",
+      "code": "e32d5"
+    },
+    {
+      "name": "E32M",
+      "url": "/moffat/e32m/parts",
+      "code": "e32m"
+    },
+    {
+      "name": "E32MS",
+      "url": "/moffat/e32ms/parts",
+      "code": "e32ms"
+    },
+    {
+      "name": "E32T4",
+      "url": "/moffat/e32t4/parts",
+      "code": "e32t4"
+    },
+    {
+      "name": "E32T5",
+      "url": "/moffat/e32t5/parts",
+      "code": "e32t5"
+    },
+    {
+      "name": "E33D5",
+      "url": "/moffat/e33d5/parts",
+      "code": "e33d5"
+    },
+    {
+      "name": "E33T",
+      "url": "/moffat/e33t/parts",
+      "code": "e33t"
+    },
+    {
+      "name": "E33T5",
+      "url": "/moffat/e33t5/parts",
+      "code": "e33t5"
+    },
+    {
+      "name": "E35-26",
+      "url": "/moffat/e35-26/parts",
+      "code": "e35-26"
+    },
+    {
+      "name": "E35-30",
+      "url": "/moffat/e35-30/parts",
+      "code": "e35-30"
+    },
+    {
+      "name": "E35C",
+      "url": "/moffat/e35c/parts",
+      "code": "e35c"
+    },
+    {
+      "name": "E35GN-26",
+      "url": "/moffat/e35gn-26/parts",
+      "code": "e35gn-26"
+    },
+    {
+      "name": "E85-12HLD",
+      "url": "/moffat/e85-12hld/parts",
+      "code": "e85-12hld"
+    },
+    {
+      "name": "E85-8HLD",
+      "url": "/moffat/e85-8hld/parts",
+      "code": "e85-8hld"
+    },
+    {
+      "name": "E85A-12HLD",
+      "url": "/moffat/e85a-12hld/parts",
+      "code": "e85a-12hld"
+    },
+    {
+      "name": "E85A-8HLD",
+      "url": "/moffat/e85a-8hld/parts",
+      "code": "e85a-8hld"
+    },
+    {
+      "name": "E87",
+      "url": "/moffat/e87/parts",
+      "code": "e87"
+    },
+    {
+      "name": "E89M",
+      "url": "/moffat/e89m/parts",
+      "code": "e89m"
+    },
+    {
+      "name": "E89MS",
+      "url": "/moffat/e89ms/parts",
+      "code": "e89ms"
+    },
+    {
+      "name": "G32",
+      "url": "/moffat/g32/parts",
+      "code": "g32"
+    },
+    {
+      "name": "G32D4",
+      "url": "/moffat/g32d4/parts",
+      "code": "g32d4"
+    },
+    {
+      "name": "G32D5",
+      "url": "/moffat/g32d5/parts",
+      "code": "g32d5"
+    },
+    {
+      "name": "G32M",
+      "url": "/moffat/g32m/parts",
+      "code": "g32m"
+    },
+    {
+      "name": "G32MS",
+      "url": "/moffat/g32ms/parts",
+      "code": "g32ms"
+    },
+    {
+      "name": "H10D",
+      "url": "/moffat/h10d/parts",
+      "code": "h10d"
+    },
+    {
+      "name": "H10D-FS",
+      "url": "/moffat/h10d-fs/parts",
+      "code": "h10d-fs"
+    },
+    {
+      "name": "H10T",
+      "url": "/moffat/h10t/parts",
+      "code": "h10t"
+    },
+    {
+      "name": "H10T-FS",
+      "url": "/moffat/h10t-fs/parts",
+      "code": "h10t-fs"
+    },
+    {
+      "name": "H8D-FS-UC",
+      "url": "/moffat/h8d-fs-uc/parts",
+      "code": "h8d-fs-uc"
+    },
+    {
+      "name": "H8D-UC",
+      "url": "/moffat/h8d-uc/parts",
+      "code": "h8d-uc"
+    },
+    {
+      "name": "H8T-FS-UC",
+      "url": "/moffat/h8t-fs-uc/parts",
+      "code": "h8t-fs-uc"
+    },
+    {
+      "name": "H8T-UC",
+      "url": "/moffat/h8t-uc/parts",
+      "code": "h8t-uc"
+    },
+    {
+      "name": "HP10T",
+      "url": "/moffat/hp10t/parts",
+      "code": "hp10t"
+    },
+    {
+      "name": "P10M",
+      "url": "/moffat/p10m/parts",
+      "code": "p10m"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:35:09.132587"
+}

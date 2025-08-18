@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Coldzone",
+    "code": "PT_CAT223740",
+    "uri": "coldzone"
+  },
+  "models": [
+    {
+      "name": "BS03E4S",
+      "url": "/coldzone/bs03e4s/parts",
+      "code": "bs03e4s"
+    },
+    {
+      "name": "BS03L4S",
+      "url": "/coldzone/bs03l4s/parts",
+      "code": "bs03l4s"
+    },
+    {
+      "name": "BS04E4S",
+      "url": "/coldzone/bs04e4s/parts",
+      "code": "bs04e4s"
+    },
+    {
+      "name": "BS04L4S",
+      "url": "/coldzone/bs04l4s/parts",
+      "code": "bs04l4s"
+    },
+    {
+      "name": "BS05E4S",
+      "url": "/coldzone/bs05e4s/parts",
+      "code": "bs05e4s"
+    },
+    {
+      "name": "BS05L4S",
+      "url": "/coldzone/bs05l4s/parts",
+      "code": "bs05l4s"
+    },
+    {
+      "name": "BS06E4S",
+      "url": "/coldzone/bs06e4s/parts",
+      "code": "bs06e4s"
+    },
+    {
+      "name": "BS06L4S",
+      "url": "/coldzone/bs06l4s/parts",
+      "code": "bs06l4s"
+    },
+    {
+      "name": "BS07E4S",
+      "url": "/coldzone/bs07e4s/parts",
+      "code": "bs07e4s"
+    },
+    {
+      "name": "BS08E4S",
+      "url": "/coldzone/bs08e4s/parts",
+      "code": "bs08e4s"
+    },
+    {
+      "name": "BS08L4S",
+      "url": "/coldzone/bs08l4s/parts",
+      "code": "bs08l4s"
+    },
+    {
+      "name": "BS09L4S",
+      "url": "/coldzone/bs09l4s/parts",
+      "code": "bs09l4s"
+    },
+    {
+      "name": "BS10E4S",
+      "url": "/coldzone/bs10e4s/parts",
+      "code": "bs10e4s"
+    },
+    {
+      "name": "BS10L4S",
+      "url": "/coldzone/bs10l4s/parts",
+      "code": "bs10l4s"
+    },
+    {
+      "name": "BS12E4S",
+      "url": "/coldzone/bs12e4s/parts",
+      "code": "bs12e4s"
+    },
+    {
+      "name": "BS12L4S",
+      "url": "/coldzone/bs12l4s/parts",
+      "code": "bs12l4s"
+    },
+    {
+      "name": "BS15E4S",
+      "url": "/coldzone/bs15e4s/parts",
+      "code": "bs15e4s"
+    },
+    {
+      "name": "BS15L4S",
+      "url": "/coldzone/bs15l4s/parts",
+      "code": "bs15l4s"
+    },
+    {
+      "name": "BS22L4S",
+      "url": "/coldzone/bs22l4s/parts",
+      "code": "bs22l4s"
+    },
+    {
+      "name": "DS03L4S",
+      "url": "/coldzone/ds03l4s/parts",
+      "code": "ds03l4s"
+    },
+    {
+      "name": "DS04L4S",
+      "url": "/coldzone/ds04l4s/parts",
+      "code": "ds04l4s"
+    },
+    {
+      "name": "DS04M4S",
+      "url": "/coldzone/ds04m4s/parts",
+      "code": "ds04m4s"
+    },
+    {
+      "name": "DS05L4S",
+      "url": "/coldzone/ds05l4s/parts",
+      "code": "ds05l4s"
+    },
+    {
+      "name": "DS05M4S",
+      "url": "/coldzone/ds05m4s/parts",
+      "code": "ds05m4s"
+    },
+    {
+      "name": "DS06L4S",
+      "url": "/coldzone/ds06l4s/parts",
+      "code": "ds06l4s"
+    },
+    {
+      "name": "DS06M4S",
+      "url": "/coldzone/ds06m4s/parts",
+      "code": "ds06m4s"
+    },
+    {
+      "name": "DS07M4S",
+      "url": "/coldzone/ds07m4s/parts",
+      "code": "ds07m4s"
+    },
+    {
+      "name": "DS08L4S",
+      "url": "/coldzone/ds08l4s/parts",
+      "code": "ds08l4s"
+    },
+    {
+      "name": "DS08M4S",
+      "url": "/coldzone/ds08m4s/parts",
+      "code": "ds08m4s"
+    },
+    {
+      "name": "DS09L4S",
+      "url": "/coldzone/ds09l4s/parts",
+      "code": "ds09l4s"
+    },
+    {
+      "name": "DS10L4S",
+      "url": "/coldzone/ds10l4s/parts",
+      "code": "ds10l4s"
+    },
+    {
+      "name": "DS10M4S",
+      "url": "/coldzone/ds10m4s/parts",
+      "code": "ds10m4s"
+    },
+    {
+      "name": "DS12L4S",
+      "url": "/coldzone/ds12l4s/parts",
+      "code": "ds12l4s"
+    },
+    {
+      "name": "DS12M4S",
+      "url": "/coldzone/ds12m4s/parts",
+      "code": "ds12m4s"
+    },
+    {
+      "name": "DS15L4S",
+      "url": "/coldzone/ds15l4s/parts",
+      "code": "ds15l4s"
+    },
+    {
+      "name": "DS15M4S",
+      "url": "/coldzone/ds15m4s/parts",
+      "code": "ds15m4s"
+    },
+    {
+      "name": "DS22L4S",
+      "url": "/coldzone/ds22l4s/parts",
+      "code": "ds22l4s"
+    },
+    {
+      "name": "H055E4S",
+      "url": "/coldzone/h055e4s/parts",
+      "code": "h055e4s"
+    },
+    {
+      "name": "H075L44",
+      "url": "/coldzone/h075l44/parts",
+      "code": "h075l44"
+    },
+    {
+      "name": "H080E4S",
+      "url": "/coldzone/h080e4s/parts",
+      "code": "h080e4s"
+    },
+    {
+      "name": "H100E4S",
+      "url": "/coldzone/h100e4s/parts",
+      "code": "h100e4s"
+    },
+    {
+      "name": "H100L44",
+      "url": "/coldzone/h100l44/parts",
+      "code": "h100l44"
+    },
+    {
+      "name": "H125E4S",
+      "url": "/coldzone/h125e4s/parts",
+      "code": "h125e4s"
+    },
+    {
+      "name": "H150E4S",
+      "url": "/coldzone/h150e4s/parts",
+      "code": "h150e4s"
+    },
+    {
+      "name": "H150L44",
+      "url": "/coldzone/h150l44/parts",
+      "code": "h150l44"
+    },
+    {
+      "name": "H200E4S",
+      "url": "/coldzone/h200e4s/parts",
+      "code": "h200e4s"
+    },
+    {
+      "name": "H200L44",
+      "url": "/coldzone/h200l44/parts",
+      "code": "h200l44"
+    },
+    {
+      "name": "H250E4S",
+      "url": "/coldzone/h250e4s/parts",
+      "code": "h250e4s"
+    },
+    {
+      "name": "H300E4S",
+      "url": "/coldzone/h300e4s/parts",
+      "code": "h300e4s"
+    },
+    {
+      "name": "H300L44",
+      "url": "/coldzone/h300l44/parts",
+      "code": "h300l44"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:10:06.861124"
+}

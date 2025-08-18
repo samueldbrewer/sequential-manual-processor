@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Epson",
+    "code": "PT_CAT374130",
+    "uri": "epson"
+  },
+  "models": [
+    {
+      "name": "ARTISAN710",
+      "url": "/epson/artisan710/parts",
+      "code": "artisan710"
+    },
+    {
+      "name": "ARTISAN800",
+      "url": "/epson/artisan800/parts",
+      "code": "artisan800"
+    },
+    {
+      "name": "ARTISAN810CAN",
+      "url": "/epson/artisan810can/parts",
+      "code": "artisan810can"
+    },
+    {
+      "name": "B11B176011",
+      "url": "/epson/b11b176011/parts",
+      "code": "b11b176011"
+    },
+    {
+      "name": "B11B176013",
+      "url": "/epson/b11b176013/parts",
+      "code": "b11b176013"
+    },
+    {
+      "name": "B11B176051",
+      "url": "/epson/b11b176051/parts",
+      "code": "b11b176051"
+    },
+    {
+      "name": "B11B228201",
+      "url": "/epson/b11b228201/parts",
+      "code": "b11b228201"
+    },
+    {
+      "name": "B11B228201N",
+      "url": "/epson/b11b228201n/parts",
+      "code": "b11b228201n"
+    },
+    {
+      "name": "B11B239201",
+      "url": "/epson/b11b239201/parts",
+      "code": "b11b239201"
+    },
+    {
+      "name": "B11B248301",
+      "url": "/epson/b11b248301/parts",
+      "code": "b11b248301"
+    },
+    {
+      "name": "BL585WI",
+      "url": "/epson/bl585wi/parts",
+      "code": "bl585wi"
+    },
+    {
+      "name": "C11CB86201",
+      "url": "/epson/c11cb86201/parts",
+      "code": "c11cb86201"
+    },
+    {
+      "name": "C11CC33201",
+      "url": "/epson/c11cc33201/parts",
+      "code": "c11cc33201"
+    },
+    {
+      "name": "C11CC98201",
+      "url": "/epson/c11cc98201/parts",
+      "code": "c11cc98201"
+    },
+    {
+      "name": "C11CC98201N",
+      "url": "/epson/c11cc98201n/parts",
+      "code": "c11cc98201n"
+    },
+    {
+      "name": "C11CD16201",
+      "url": "/epson/c11cd16201/parts",
+      "code": "c11cd16201"
+    },
+    {
+      "name": "C11CD16201N",
+      "url": "/epson/c11cd16201n/parts",
+      "code": "c11cd16201n"
+    },
+    {
+      "name": "C11CD19201",
+      "url": "/epson/c11cd19201/parts",
+      "code": "c11cd19201"
+    },
+    {
+      "name": "C11CD19201D",
+      "url": "/epson/c11cd19201d/parts",
+      "code": "c11cd19201d"
+    },
+    {
+      "name": "C11CD19201N",
+      "url": "/epson/c11cd19201n/parts",
+      "code": "c11cd19201n"
+    },
+    {
+      "name": "C11CD19201V",
+      "url": "/epson/c11cd19201v/parts",
+      "code": "c11cd19201v"
+    },
+    {
+      "name": "C11CD29201",
+      "url": "/epson/c11cd29201/parts",
+      "code": "c11cd29201"
+    },
+    {
+      "name": "C11CD29201D",
+      "url": "/epson/c11cd29201d/parts",
+      "code": "c11cd29201d"
+    },
+    {
+      "name": "C11CD29201N",
+      "url": "/epson/c11cd29201n/parts",
+      "code": "c11cd29201n"
+    },
+    {
+      "name": "C11CD29201P",
+      "url": "/epson/c11cd29201p/parts",
+      "code": "c11cd29201p"
+    },
+    {
+      "name": "C11CD29201V",
+      "url": "/epson/c11cd29201v/parts",
+      "code": "c11cd29201v"
+    },
+    {
+      "name": "C11CD86201",
+      "url": "/epson/c11cd86201/parts",
+      "code": "c11cd86201"
+    },
+    {
+      "name": "C11CD86201V",
+      "url": "/epson/c11cd86201v/parts",
+      "code": "c11cd86201v"
+    },
+    {
+      "name": "C11CE71201",
+      "url": "/epson/c11ce71201/parts",
+      "code": "c11ce71201"
+    },
+    {
+      "name": "C11CE71201C",
+      "url": "/epson/c11ce71201c/parts",
+      "code": "c11ce71201c"
+    },
+    {
+      "name": "C11CE71201N",
+      "url": "/epson/c11ce71201n/parts",
+      "code": "c11ce71201n"
+    },
+    {
+      "name": "C11CE78201",
+      "url": "/epson/c11ce78201/parts",
+      "code": "c11ce78201"
+    },
+    {
+      "name": "C11CE78201N",
+      "url": "/epson/c11ce78201n/parts",
+      "code": "c11ce78201n"
+    },
+    {
+      "name": "C11CE91201",
+      "url": "/epson/c11ce91201/parts",
+      "code": "c11ce91201"
+    },
+    {
+      "name": "C11CE91201N",
+      "url": "/epson/c11ce91201n/parts",
+      "code": "c11ce91201n"
+    },
+    {
+      "name": "C11CF38201",
+      "url": "/epson/c11cf38201/parts",
+      "code": "c11cf38201"
+    },
+    {
+      "name": "C11CF38201N",
+      "url": "/epson/c11cf38201n/parts",
+      "code": "c11cf38201n"
+    },
+    {
+      "name": "C11CF38301",
+      "url": "/epson/c11cf38301/parts",
+      "code": "c11cf38301"
+    },
+    {
+      "name": "C11CF38303",
+      "url": "/epson/c11cf38303/parts",
+      "code": "c11cf38303"
+    },
+    {
+      "name": "C11CF49201",
+      "url": "/epson/c11cf49201/parts",
+      "code": "c11cf49201"
+    },
+    {
+      "name": "C11CF49201BE",
+      "url": "/epson/c11cf49201be/parts",
+      "code": "c11cf49201be"
+    },
+    {
+      "name": "C11CF49201C",
+      "url": "/epson/c11cf49201c/parts",
+      "code": "c11cf49201c"
+    },
+    {
+      "name": "C11CF49201N",
+      "url": "/epson/c11cf49201n/parts",
+      "code": "c11cf49201n"
+    },
+    {
+      "name": "C11CF74201",
+      "url": "/epson/c11cf74201/parts",
+      "code": "c11cf74201"
+    },
+    {
+      "name": "C11CF74201BE",
+      "url": "/epson/c11cf74201be/parts",
+      "code": "c11cf74201be"
+    },
+    {
+      "name": "C11CF74201N",
+      "url": "/epson/c11cf74201n/parts",
+      "code": "c11cf74201n"
+    },
+    {
+      "name": "C11CF75201",
+      "url": "/epson/c11cf75201/parts",
+      "code": "c11cf75201"
+    },
+    {
+      "name": "C11CF75201BE",
+      "url": "/epson/c11cf75201be/parts",
+      "code": "c11cf75201be"
+    },
+    {
+      "name": "C11CF75201N",
+      "url": "/epson/c11cf75201n/parts",
+      "code": "c11cf75201n"
+    },
+    {
+      "name": "C11CF76201",
+      "url": "/epson/c11cf76201/parts",
+      "code": "c11cf76201"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:28:58.613611"
+}

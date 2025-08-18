@@ -1,0 +1,116 @@
+{
+  "manufacturer": {
+    "name": "Kolpak",
+    "code": "PT_CAT1123",
+    "uri": "kolpak"
+  },
+  "models": [
+    {
+      "name": "75LC",
+      "url": "/kolpak/75lc/parts",
+      "code": "75lc"
+    },
+    {
+      "name": "CS195M-PD",
+      "url": "/kolpak/cs195m-pd/parts",
+      "code": "cs195m-pd"
+    },
+    {
+      "name": "CS199LPD",
+      "url": "/kolpak/cs199lpd/parts",
+      "code": "cs199lpd"
+    },
+    {
+      "name": "CS70MPD",
+      "url": "/kolpak/cs70mpd/parts",
+      "code": "cs70mpd"
+    },
+    {
+      "name": "Kolpak Walk-Ins",
+      "url": "/kolpak/kolpak-walk-ins/parts",
+      "code": "kolpak-walk-ins"
+    },
+    {
+      "name": "MAC 7 COOLER",
+      "url": "/kolpak/mac-7-cooler/parts",
+      "code": "mac-7-cooler"
+    },
+    {
+      "name": "MAC 7 FREEZER",
+      "url": "/kolpak/mac-7-freezer/parts",
+      "code": "mac-7-freezer"
+    },
+    {
+      "name": "MAC 8 COOLER",
+      "url": "/kolpak/mac-8-cooler/parts",
+      "code": "mac-8-cooler"
+    },
+    {
+      "name": "MAC 8 FREEZER",
+      "url": "/kolpak/mac-8-freezer/parts",
+      "code": "mac-8-freezer"
+    },
+    {
+      "name": "PC039T2",
+      "url": "/kolpak/pc039t2/parts",
+      "code": "pc039t2"
+    },
+    {
+      "name": "PC049T2",
+      "url": "/kolpak/pc049t2/parts",
+      "code": "pc049t2"
+    },
+    {
+      "name": "PC069T2",
+      "url": "/kolpak/pc069t2/parts",
+      "code": "pc069t2"
+    },
+    {
+      "name": "PC069T3",
+      "url": "/kolpak/pc069t3/parts",
+      "code": "pc069t3"
+    },
+    {
+      "name": "PC099T2",
+      "url": "/kolpak/pc099t2/parts",
+      "code": "pc099t2"
+    },
+    {
+      "name": "PC099T3",
+      "url": "/kolpak/pc099t3/parts",
+      "code": "pc099t3"
+    },
+    {
+      "name": "PCL149MOP",
+      "url": "/kolpak/pcl149mop/parts",
+      "code": "pcl149mop"
+    },
+    {
+      "name": "PCL249LOP",
+      "url": "/kolpak/pcl249lop/parts",
+      "code": "pcl249lop"
+    },
+    {
+      "name": "PF064T3",
+      "url": "/kolpak/pf064t3/parts",
+      "code": "pf064t3"
+    },
+    {
+      "name": "PF094T3",
+      "url": "/kolpak/pf094t3/parts",
+      "code": "pf094t3"
+    },
+    {
+      "name": "PF144T3",
+      "url": "/kolpak/pf144t3/parts",
+      "code": "pf144t3"
+    },
+    {
+      "name": "PF194T3",
+      "url": "/kolpak/pf194t3/parts",
+      "code": "pf194t3"
+    }
+  ],
+  "total_models": 21,
+  "cached_at": "2025-08-14T19:14:56.832445"
+}

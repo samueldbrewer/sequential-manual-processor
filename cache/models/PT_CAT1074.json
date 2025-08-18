@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Federal Industries",
+    "code": "PT_CAT1074",
+    "uri": "federal-industries"
+  },
+  "models": [
+    {
+      "name": "2428",
+      "url": "/federal-industries/2428/parts",
+      "code": "2428"
+    },
+    {
+      "name": "2428SSD",
+      "url": "/federal-industries/2428ssd/parts",
+      "code": "2428ssd"
+    },
+    {
+      "name": "3628",
+      "url": "/federal-industries/3628/parts",
+      "code": "3628"
+    },
+    {
+      "name": "3628SSD",
+      "url": "/federal-industries/3628ssd/parts",
+      "code": "3628ssd"
+    },
+    {
+      "name": "4828",
+      "url": "/federal-industries/4828/parts",
+      "code": "4828"
+    },
+    {
+      "name": "4828SSD",
+      "url": "/federal-industries/4828ssd/parts",
+      "code": "4828ssd"
+    },
+    {
+      "name": "BPFD54SS",
+      "url": "/federal-industries/bpfd54ss/parts",
+      "code": "bpfd54ss"
+    },
+    {
+      "name": "CD3628",
+      "url": "/federal-industries/cd3628/parts",
+      "code": "cd3628"
+    },
+    {
+      "name": "CD4828",
+      "url": "/federal-industries/cd4828/parts",
+      "code": "cd4828"
+    },
+    {
+      "name": "CGHIS-2",
+      "url": "/federal-industries/cghis-2/parts",
+      "code": "cghis-2"
+    },
+    {
+      "name": "CGHIS1-2",
+      "url": "/federal-industries/cghis1-2/parts",
+      "code": "cghis1-2"
+    },
+    {
+      "name": "CGHIS3-2",
+      "url": "/federal-industries/cghis3-2/parts",
+      "code": "cghis3-2"
+    },
+    {
+      "name": "CGHIS4-2",
+      "url": "/federal-industries/cghis4-2/parts",
+      "code": "cghis4-2"
+    },
+    {
+      "name": "CGR5048CD",
+      "url": "/federal-industries/cgr5048cd/parts",
+      "code": "cgr5048cd"
+    },
+    {
+      "name": "CK-10",
+      "url": "/federal-industries/ck-10/parts",
+      "code": "ck-10"
+    },
+    {
+      "name": "CK-15",
+      "url": "/federal-industries/ck-15/parts",
+      "code": "ck-15"
+    },
+    {
+      "name": "CK-5",
+      "url": "/federal-industries/ck-5/parts",
+      "code": "ck-5"
+    },
+    {
+      "name": "CRB3628",
+      "url": "/federal-industries/crb3628/parts",
+      "code": "crb3628"
+    },
+    {
+      "name": "CRB4828",
+      "url": "/federal-industries/crb4828/parts",
+      "code": "crb4828"
+    },
+    {
+      "name": "CRR3628",
+      "url": "/federal-industries/crr3628/parts",
+      "code": "crr3628"
+    },
+    {
+      "name": "CRR4828",
+      "url": "/federal-industries/crr4828/parts",
+      "code": "crr4828"
+    },
+    {
+      "name": "CT-42",
+      "url": "/federal-industries/ct-42/parts",
+      "code": "ct-42"
+    },
+    {
+      "name": "ECGD50",
+      "url": "/federal-industries/ecgd50/parts",
+      "code": "ecgd50"
+    },
+    {
+      "name": "ECGD59",
+      "url": "/federal-industries/ecgd59/parts",
+      "code": "ecgd59"
+    },
+    {
+      "name": "ECGD77",
+      "url": "/federal-industries/ecgd77/parts",
+      "code": "ecgd77"
+    },
+    {
+      "name": "ECGR50",
+      "url": "/federal-industries/ecgr50/parts",
+      "code": "ecgr50"
+    },
+    {
+      "name": "ECGR59",
+      "url": "/federal-industries/ecgr59/parts",
+      "code": "ecgr59"
+    },
+    {
+      "name": "ECGR77",
+      "url": "/federal-industries/ecgr77/parts",
+      "code": "ecgr77"
+    },
+    {
+      "name": "ECSS40",
+      "url": "/federal-industries/ecss40/parts",
+      "code": "ecss40"
+    },
+    {
+      "name": "ECSS60",
+      "url": "/federal-industries/ecss60/parts",
+      "code": "ecss60"
+    },
+    {
+      "name": "ERR36",
+      "url": "/federal-industries/err36/parts",
+      "code": "err36"
+    },
+    {
+      "name": "ERR48",
+      "url": "/federal-industries/err48/parts",
+      "code": "err48"
+    },
+    {
+      "name": "ERSSHP378",
+      "url": "/federal-industries/ersshp378/parts",
+      "code": "ersshp378"
+    },
+    {
+      "name": "ERSSHP478",
+      "url": "/federal-industries/ersshp478/parts",
+      "code": "ersshp478"
+    },
+    {
+      "name": "ERSSHP678",
+      "url": "/federal-industries/ersshp678/parts",
+      "code": "ersshp678"
+    },
+    {
+      "name": "ESGSSRC5058",
+      "url": "/federal-industries/esgssrc5058/parts",
+      "code": "esgssrc5058"
+    },
+    {
+      "name": "ESGSSRC5958",
+      "url": "/federal-industries/esgssrc5958/parts",
+      "code": "esgssrc5958"
+    },
+    {
+      "name": "ESGSSRC7758",
+      "url": "/federal-industries/esgssrc7758/parts",
+      "code": "esgssrc7758"
+    },
+    {
+      "name": "ESH3628SSD",
+      "url": "/federal-industries/esh3628ssd/parts",
+      "code": "esh3628ssd"
+    },
+    {
+      "name": "FCC-4",
+      "url": "/federal-industries/fcc-4/parts",
+      "code": "fcc-4"
+    },
+    {
+      "name": "FCC-5",
+      "url": "/federal-industries/fcc-5/parts",
+      "code": "fcc-5"
+    },
+    {
+      "name": "FCC-6",
+      "url": "/federal-industries/fcc-6/parts",
+      "code": "fcc-6"
+    },
+    {
+      "name": "FCCR-4",
+      "url": "/federal-industries/fccr-4/parts",
+      "code": "fccr-4"
+    },
+    {
+      "name": "FCCR-5",
+      "url": "/federal-industries/fccr-5/parts",
+      "code": "fccr-5"
+    },
+    {
+      "name": "FCCR-6",
+      "url": "/federal-industries/fccr-6/parts",
+      "code": "fccr-6"
+    },
+    {
+      "name": "HXISS",
+      "url": "/federal-industries/hxiss/parts",
+      "code": "hxiss"
+    },
+    {
+      "name": "IMSS120",
+      "url": "/federal-industries/imss120/parts",
+      "code": "imss120"
+    },
+    {
+      "name": "IMSS60",
+      "url": "/federal-industries/imss60/parts",
+      "code": "imss60"
+    },
+    {
+      "name": "IMSS84",
+      "url": "/federal-industries/imss84/parts",
+      "code": "imss84"
+    },
+    {
+      "name": "ITR3626-B18",
+      "url": "/federal-industries/itr3626-b18/parts",
+      "code": "itr3626-b18"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:31:23.410381"
+}

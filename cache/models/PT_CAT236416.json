@@ -1,0 +1,51 @@
+{
+  "manufacturer": {
+    "name": "Pratica",
+    "code": "PT_CAT236416",
+    "uri": "pratica"
+  },
+  "models": [
+    {
+      "name": "Chef Express",
+      "url": "/pratica/chef-express/parts",
+      "code": "chef-express"
+    },
+    {
+      "name": "Copa Express",
+      "url": "/pratica/copa-express/parts",
+      "code": "copa-express"
+    },
+    {
+      "name": "Copa Express (Linux)",
+      "url": "/pratica/copa-express-linux/parts",
+      "code": "copa-express-linux"
+    },
+    {
+      "name": "FIT Express",
+      "url": "/pratica/fit-express/parts",
+      "code": "fit-express"
+    },
+    {
+      "name": "Forza STi",
+      "url": "/pratica/forza-sti/parts",
+      "code": "forza-sti"
+    },
+    {
+      "name": "Forza STi (Linux)",
+      "url": "/pratica/forza-sti-linux/parts",
+      "code": "forza-sti-linux"
+    },
+    {
+      "name": "Rocket Express",
+      "url": "/pratica/rocket-express/parts",
+      "code": "rocket-express"
+    },
+    {
+      "name": "Rocket Express (Linux)",
+      "url": "/pratica/rocket-express-linux/parts",
+      "code": "rocket-express-linux"
+    }
+  ],
+  "total_models": 8,
+  "cached_at": "2025-08-14T19:51:04.908815"
+}

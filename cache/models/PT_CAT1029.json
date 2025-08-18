@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Bloomfield",
+    "code": "PT_CAT1029",
+    "uri": "bloomfield"
+  },
+  "models": [
+    {
+      "name": "1012",
+      "url": "/bloomfield/1012/parts",
+      "code": "1012"
+    },
+    {
+      "name": "1016",
+      "url": "/bloomfield/1016/parts",
+      "code": "1016"
+    },
+    {
+      "name": "1016BVM",
+      "url": "/bloomfield/1016bvm/parts",
+      "code": "1016bvm"
+    },
+    {
+      "name": "1040",
+      "url": "/bloomfield/1040/parts",
+      "code": "1040"
+    },
+    {
+      "name": "1072",
+      "url": "/bloomfield/1072/parts",
+      "code": "1072"
+    },
+    {
+      "name": "1080",
+      "url": "/bloomfield/1080/parts",
+      "code": "1080"
+    },
+    {
+      "name": "1080CA",
+      "url": "/bloomfield/1080ca/parts",
+      "code": "1080ca"
+    },
+    {
+      "name": "1082",
+      "url": "/bloomfield/1082/parts",
+      "code": "1082"
+    },
+    {
+      "name": "1082CA",
+      "url": "/bloomfield/1082ca/parts",
+      "code": "1082ca"
+    },
+    {
+      "name": "1082XL",
+      "url": "/bloomfield/1082xl/parts",
+      "code": "1082xl"
+    },
+    {
+      "name": "1082XLCA",
+      "url": "/bloomfield/1082xlca/parts",
+      "code": "1082xlca"
+    },
+    {
+      "name": "1086",
+      "url": "/bloomfield/1086/parts",
+      "code": "1086"
+    },
+    {
+      "name": "1088",
+      "url": "/bloomfield/1088/parts",
+      "code": "1088"
+    },
+    {
+      "name": "1090",
+      "url": "/bloomfield/1090/parts",
+      "code": "1090"
+    },
+    {
+      "name": "1091",
+      "url": "/bloomfield/1091/parts",
+      "code": "1091"
+    },
+    {
+      "name": "1092",
+      "url": "/bloomfield/1092/parts",
+      "code": "1092"
+    },
+    {
+      "name": "1093",
+      "url": "/bloomfield/1093/parts",
+      "code": "1093"
+    },
+    {
+      "name": "1222",
+      "url": "/bloomfield/1222/parts",
+      "code": "1222"
+    },
+    {
+      "name": "1222CA",
+      "url": "/bloomfield/1222ca/parts",
+      "code": "1222ca"
+    },
+    {
+      "name": "1223-2G",
+      "url": "/bloomfield/1223-2g/parts",
+      "code": "1223-2g"
+    },
+    {
+      "name": "1225",
+      "url": "/bloomfield/1225/parts",
+      "code": "1225"
+    },
+    {
+      "name": "1226",
+      "url": "/bloomfield/1226/parts",
+      "code": "1226"
+    },
+    {
+      "name": "1226-5G",
+      "url": "/bloomfield/1226-5g/parts",
+      "code": "1226-5g"
+    },
+    {
+      "name": "1882",
+      "url": "/bloomfield/1882/parts",
+      "code": "1882"
+    },
+    {
+      "name": "1882CA",
+      "url": "/bloomfield/1882ca/parts",
+      "code": "1882ca"
+    },
+    {
+      "name": "1883",
+      "url": "/bloomfield/1883/parts",
+      "code": "1883"
+    },
+    {
+      "name": "1883CA",
+      "url": "/bloomfield/1883ca/parts",
+      "code": "1883ca"
+    },
+    {
+      "name": "1906",
+      "url": "/bloomfield/1906/parts",
+      "code": "1906"
+    },
+    {
+      "name": "2012",
+      "url": "/bloomfield/2012/parts",
+      "code": "2012"
+    },
+    {
+      "name": "2016",
+      "url": "/bloomfield/2016/parts",
+      "code": "2016"
+    },
+    {
+      "name": "2016EX",
+      "url": "/bloomfield/2016ex/parts",
+      "code": "2016ex"
+    },
+    {
+      "name": "2030",
+      "url": "/bloomfield/2030/parts",
+      "code": "2030"
+    },
+    {
+      "name": "2072",
+      "url": "/bloomfield/2072/parts",
+      "code": "2072"
+    },
+    {
+      "name": "2072FR",
+      "url": "/bloomfield/2072fr/parts",
+      "code": "2072fr"
+    },
+    {
+      "name": "2072FRL",
+      "url": "/bloomfield/2072frl/parts",
+      "code": "2072frl"
+    },
+    {
+      "name": "2072L",
+      "url": "/bloomfield/2072l/parts",
+      "code": "2072l"
+    },
+    {
+      "name": "2074",
+      "url": "/bloomfield/2074/parts",
+      "code": "2074"
+    },
+    {
+      "name": "2074FR",
+      "url": "/bloomfield/2074fr/parts",
+      "code": "2074fr"
+    },
+    {
+      "name": "2074FRL",
+      "url": "/bloomfield/2074frl/parts",
+      "code": "2074frl"
+    },
+    {
+      "name": "2074L",
+      "url": "/bloomfield/2074l/parts",
+      "code": "2074l"
+    },
+    {
+      "name": "2080",
+      "url": "/bloomfield/2080/parts",
+      "code": "2080"
+    },
+    {
+      "name": "2082",
+      "url": "/bloomfield/2082/parts",
+      "code": "2082"
+    },
+    {
+      "name": "2086",
+      "url": "/bloomfield/2086/parts",
+      "code": "2086"
+    },
+    {
+      "name": "2088",
+      "url": "/bloomfield/2088/parts",
+      "code": "2088"
+    },
+    {
+      "name": "2121",
+      "url": "/bloomfield/2121/parts",
+      "code": "2121"
+    },
+    {
+      "name": "2212",
+      "url": "/bloomfield/2212/parts",
+      "code": "2212"
+    },
+    {
+      "name": "2216",
+      "url": "/bloomfield/2216/parts",
+      "code": "2216"
+    },
+    {
+      "name": "2216EX",
+      "url": "/bloomfield/2216ex/parts",
+      "code": "2216ex"
+    },
+    {
+      "name": "2221",
+      "url": "/bloomfield/2221/parts",
+      "code": "2221"
+    },
+    {
+      "name": "2272",
+      "url": "/bloomfield/2272/parts",
+      "code": "2272"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:57:30.181589"
+}

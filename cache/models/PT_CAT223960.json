@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Bradford White",
+    "code": "PT_CAT223960",
+    "uri": "bradford-white"
+  },
+  "models": [
+    {
+      "name": "AST-120-6",
+      "url": "/bradford-white/ast-120-6/parts",
+      "code": "ast-120-6"
+    },
+    {
+      "name": "AST-40-6",
+      "url": "/bradford-white/ast-40-6/parts",
+      "code": "ast-40-6"
+    },
+    {
+      "name": "AST-50-6",
+      "url": "/bradford-white/ast-50-6/parts",
+      "code": "ast-50-6"
+    },
+    {
+      "name": "AST-80-6",
+      "url": "/bradford-white/ast-80-6/parts",
+      "code": "ast-80-6"
+    },
+    {
+      "name": "C-DW2-504T10FBN",
+      "url": "/bradford-white/c-dw2-504t10fbn/parts",
+      "code": "c-dw2-504t10fbn"
+    },
+    {
+      "name": "C-DW2-75T10BN",
+      "url": "/bradford-white/c-dw2-75t10bn/parts",
+      "code": "c-dw2-75t10bn"
+    },
+    {
+      "name": "C-DW2-TW50T10FBN",
+      "url": "/bradford-white/c-dw2-tw50t10fbn/parts",
+      "code": "c-dw2-tw50t10fbn"
+    },
+    {
+      "name": "C-DW2-TW75T10BN",
+      "url": "/bradford-white/c-dw2-tw75t10bn/parts",
+      "code": "c-dw2-tw75t10bn"
+    },
+    {
+      "name": "C-SW2-504T10FBN",
+      "url": "/bradford-white/c-sw2-504t10fbn/parts",
+      "code": "c-sw2-504t10fbn"
+    },
+    {
+      "name": "C-SW2-75T10BN",
+      "url": "/bradford-white/c-sw2-75t10bn/parts",
+      "code": "c-sw2-75t10bn"
+    },
+    {
+      "name": "C-SW2-TW50T10FBN",
+      "url": "/bradford-white/c-sw2-tw50t10fbn/parts",
+      "code": "c-sw2-tw50t10fbn"
+    },
+    {
+      "name": "C-SW2-TW75T10BN",
+      "url": "/bradford-white/c-sw2-tw75t10bn/parts",
+      "code": "c-sw2-tw75t10bn"
+    },
+    {
+      "name": "CEA12-kW-3",
+      "url": "/bradford-white/cea12-kw-3/parts",
+      "code": "cea12-kw-3"
+    },
+    {
+      "name": "CEA120-kW-3",
+      "url": "/bradford-white/cea120-kw-3/parts",
+      "code": "cea120-kw-3"
+    },
+    {
+      "name": "CEA20-kW-3",
+      "url": "/bradford-white/cea20-kw-3/parts",
+      "code": "cea20-kw-3"
+    },
+    {
+      "name": "CEA30-kW-3",
+      "url": "/bradford-white/cea30-kw-3/parts",
+      "code": "cea30-kw-3"
+    },
+    {
+      "name": "CEA40-kW-3",
+      "url": "/bradford-white/cea40-kw-3/parts",
+      "code": "cea40-kw-3"
+    },
+    {
+      "name": "CEA50-kW-3",
+      "url": "/bradford-white/cea50-kw-3/parts",
+      "code": "cea50-kw-3"
+    },
+    {
+      "name": "CEA6-kW-3",
+      "url": "/bradford-white/cea6-kw-3/parts",
+      "code": "cea6-kw-3"
+    },
+    {
+      "name": "CEA80-kW-3",
+      "url": "/bradford-white/cea80-kw-3/parts",
+      "code": "cea80-kw-3"
+    },
+    {
+      "name": "CEHD120",
+      "url": "/bradford-white/cehd120/parts",
+      "code": "cehd120"
+    },
+    {
+      "name": "CEHD50",
+      "url": "/bradford-white/cehd50/parts",
+      "code": "cehd50"
+    },
+    {
+      "name": "CEHD80",
+      "url": "/bradford-white/cehd80/parts",
+      "code": "cehd80"
+    },
+    {
+      "name": "D-100L-199-3N",
+      "url": "/bradford-white/d-100l-199-3n/parts",
+      "code": "d-100l-199-3n"
+    },
+    {
+      "name": "D-100L-250-3N",
+      "url": "/bradford-white/d-100l-250-3n/parts",
+      "code": "d-100l-250-3n"
+    },
+    {
+      "name": "D-100L-270-3N",
+      "url": "/bradford-white/d-100l-270-3n/parts",
+      "code": "d-100l-270-3n"
+    },
+    {
+      "name": "D-100L-300-3N",
+      "url": "/bradford-white/d-100l-300-3n/parts",
+      "code": "d-100l-300-3n"
+    },
+    {
+      "name": "D-100S-199-3N",
+      "url": "/bradford-white/d-100s-199-3n/parts",
+      "code": "d-100s-199-3n"
+    },
+    {
+      "name": "D-100S-250-3N",
+      "url": "/bradford-white/d-100s-250-3n/parts",
+      "code": "d-100s-250-3n"
+    },
+    {
+      "name": "D-100T-199-3N",
+      "url": "/bradford-white/d-100t-199-3n/parts",
+      "code": "d-100t-199-3n"
+    },
+    {
+      "name": "D-100T-250-3N",
+      "url": "/bradford-white/d-100t-250-3n/parts",
+      "code": "d-100t-250-3n"
+    },
+    {
+      "name": "D-38T-155-3N",
+      "url": "/bradford-white/d-38t-155-3n/parts",
+      "code": "d-38t-155-3n"
+    },
+    {
+      "name": "D-65T-370-3N",
+      "url": "/bradford-white/d-65t-370-3n/parts",
+      "code": "d-65t-370-3n"
+    },
+    {
+      "name": "D-65T-399-3N",
+      "url": "/bradford-white/d-65t-399-3n/parts",
+      "code": "d-65t-399-3n"
+    },
+    {
+      "name": "D-65T-625-3N",
+      "url": "/bradford-white/d-65t-625-3n/parts",
+      "code": "d-65t-625-3n"
+    },
+    {
+      "name": "D-65T-625-3NA",
+      "url": "/bradford-white/d-65t-625-3na/parts",
+      "code": "d-65t-625-3na"
+    },
+    {
+      "name": "D-75T-125-3N",
+      "url": "/bradford-white/d-75t-125-3n/parts",
+      "code": "d-75t-125-3n"
+    },
+    {
+      "name": "D-75T-160-3N",
+      "url": "/bradford-white/d-75t-160-3n/parts",
+      "code": "d-75t-160-3n"
+    },
+    {
+      "name": "D-75T-300-3N",
+      "url": "/bradford-white/d-75t-300-3n/parts",
+      "code": "d-75t-300-3n"
+    },
+    {
+      "name": "D-80T-180-3N",
+      "url": "/bradford-white/d-80t-180-3n/parts",
+      "code": "d-80t-180-3n"
+    },
+    {
+      "name": "D-80T-199-3N",
+      "url": "/bradford-white/d-80t-199-3n/parts",
+      "code": "d-80t-199-3n"
+    },
+    {
+      "name": "D-80T-250-3N",
+      "url": "/bradford-white/d-80t-250-3n/parts",
+      "code": "d-80t-250-3n"
+    },
+    {
+      "name": "D-80T-425-3N",
+      "url": "/bradford-white/d-80t-425-3n/parts",
+      "code": "d-80t-425-3n"
+    },
+    {
+      "name": "D-80T-505-3N",
+      "url": "/bradford-white/d-80t-505-3n/parts",
+      "code": "d-80t-505-3n"
+    },
+    {
+      "name": "D-80T-725-3N",
+      "url": "/bradford-white/d-80t-725-3n/parts",
+      "code": "d-80t-725-3n"
+    },
+    {
+      "name": "D-80T-725-3NA",
+      "url": "/bradford-white/d-80t-725-3na/parts",
+      "code": "d-80t-725-3na"
+    },
+    {
+      "name": "E32-120R-3",
+      "url": "/bradford-white/e32-120r-3/parts",
+      "code": "e32-120r-3"
+    },
+    {
+      "name": "E32-50S-3",
+      "url": "/bradford-white/e32-50s-3/parts",
+      "code": "e32-50s-3"
+    },
+    {
+      "name": "E32-80R-3",
+      "url": "/bradford-white/e32-80r-3/parts",
+      "code": "e32-80r-3"
+    },
+    {
+      "name": "EF-100T-150E-3N",
+      "url": "/bradford-white/ef-100t-150e-3n/parts",
+      "code": "ef-100t-150e-3n"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:59:35.094767"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Mitsubishi",
+    "code": "PT_CAT223834",
+    "uri": "mitsubishi"
+  },
+  "models": [
+    {
+      "name": "CMB-P1010NU-G",
+      "url": "/mitsubishi/cmb-p1010nu-g/parts",
+      "code": "cmb-p1010nu-g"
+    },
+    {
+      "name": "CMB-P1010NU-G1",
+      "url": "/mitsubishi/cmb-p1010nu-g1/parts",
+      "code": "cmb-p1010nu-g1"
+    },
+    {
+      "name": "CMB-P1010NU-GA",
+      "url": "/mitsubishi/cmb-p1010nu-ga/parts",
+      "code": "cmb-p1010nu-ga"
+    },
+    {
+      "name": "CMB-P1010NU-HA1",
+      "url": "/mitsubishi/cmb-p1010nu-ha1/parts",
+      "code": "cmb-p1010nu-ha1"
+    },
+    {
+      "name": "CMB-P1012NU-J1",
+      "url": "/mitsubishi/cmb-p1012nu-j1/parts",
+      "code": "cmb-p1012nu-j1"
+    },
+    {
+      "name": "CMB-P1012NU-J1-BV",
+      "url": "/mitsubishi/cmb-p1012nu-j1-bv/parts",
+      "code": "cmb-p1012nu-j1-bv"
+    },
+    {
+      "name": "CMB-P1012NU-JA1",
+      "url": "/mitsubishi/cmb-p1012nu-ja1/parts",
+      "code": "cmb-p1012nu-ja1"
+    },
+    {
+      "name": "CMB-P1012NU-JA1-BV",
+      "url": "/mitsubishi/cmb-p1012nu-ja1-bv/parts",
+      "code": "cmb-p1012nu-ja1-bv"
+    },
+    {
+      "name": "CMB-P1013NU-G",
+      "url": "/mitsubishi/cmb-p1013nu-g/parts",
+      "code": "cmb-p1013nu-g"
+    },
+    {
+      "name": "CMB-P1013NU-G1",
+      "url": "/mitsubishi/cmb-p1013nu-g1/parts",
+      "code": "cmb-p1013nu-g1"
+    },
+    {
+      "name": "CMB-P1013NU-GA",
+      "url": "/mitsubishi/cmb-p1013nu-ga/parts",
+      "code": "cmb-p1013nu-ga"
+    },
+    {
+      "name": "CMB-P1013NU-GA1",
+      "url": "/mitsubishi/cmb-p1013nu-ga1/parts",
+      "code": "cmb-p1013nu-ga1"
+    },
+    {
+      "name": "CMB-P1016NU-G",
+      "url": "/mitsubishi/cmb-p1016nu-g/parts",
+      "code": "cmb-p1016nu-g"
+    },
+    {
+      "name": "CMB-P1016NU-G1",
+      "url": "/mitsubishi/cmb-p1016nu-g1/parts",
+      "code": "cmb-p1016nu-g1"
+    },
+    {
+      "name": "CMB-P1016NU-GA",
+      "url": "/mitsubishi/cmb-p1016nu-ga/parts",
+      "code": "cmb-p1016nu-ga"
+    },
+    {
+      "name": "CMB-P1016NU-HA",
+      "url": "/mitsubishi/cmb-p1016nu-ha/parts",
+      "code": "cmb-p1016nu-ha"
+    },
+    {
+      "name": "CMB-P1016NU-HA1",
+      "url": "/mitsubishi/cmb-p1016nu-ha1/parts",
+      "code": "cmb-p1016nu-ha1"
+    },
+    {
+      "name": "CMB-P1016NU-HB",
+      "url": "/mitsubishi/cmb-p1016nu-hb/parts",
+      "code": "cmb-p1016nu-hb"
+    },
+    {
+      "name": "CMB-P1016NU-HB1",
+      "url": "/mitsubishi/cmb-p1016nu-hb1/parts",
+      "code": "cmb-p1016nu-hb1"
+    },
+    {
+      "name": "CMB-P1016NU-J1",
+      "url": "/mitsubishi/cmb-p1016nu-j1/parts",
+      "code": "cmb-p1016nu-j1"
+    },
+    {
+      "name": "CMB-P1016NU-J1-BV",
+      "url": "/mitsubishi/cmb-p1016nu-j1-bv/parts",
+      "code": "cmb-p1016nu-j1-bv"
+    },
+    {
+      "name": "CMB-P1016NU-JA1",
+      "url": "/mitsubishi/cmb-p1016nu-ja1/parts",
+      "code": "cmb-p1016nu-ja1"
+    },
+    {
+      "name": "CMB-P1016NU-JA1-BV",
+      "url": "/mitsubishi/cmb-p1016nu-ja1-bv/parts",
+      "code": "cmb-p1016nu-ja1-bv"
+    },
+    {
+      "name": "CMB-P1016NU-KA1",
+      "url": "/mitsubishi/cmb-p1016nu-ka1/parts",
+      "code": "cmb-p1016nu-ka1"
+    },
+    {
+      "name": "CMB-P1016NU-KA1-BV",
+      "url": "/mitsubishi/cmb-p1016nu-ka1-bv/parts",
+      "code": "cmb-p1016nu-ka1-bv"
+    },
+    {
+      "name": "CMB-P104NU-GB",
+      "url": "/mitsubishi/cmb-p104nu-gb/parts",
+      "code": "cmb-p104nu-gb"
+    },
+    {
+      "name": "CMB-P104NU-GB1",
+      "url": "/mitsubishi/cmb-p104nu-gb1/parts",
+      "code": "cmb-p104nu-gb1"
+    },
+    {
+      "name": "CMB-P104NU-J1",
+      "url": "/mitsubishi/cmb-p104nu-j1/parts",
+      "code": "cmb-p104nu-j1"
+    },
+    {
+      "name": "CMB-P104NU-J1-BV",
+      "url": "/mitsubishi/cmb-p104nu-j1-bv/parts",
+      "code": "cmb-p104nu-j1-bv"
+    },
+    {
+      "name": "CMB-P104NU-KB1",
+      "url": "/mitsubishi/cmb-p104nu-kb1/parts",
+      "code": "cmb-p104nu-kb1"
+    },
+    {
+      "name": "CMB-P104NU-KB1-BV",
+      "url": "/mitsubishi/cmb-p104nu-kb1-bv/parts",
+      "code": "cmb-p104nu-kb1-bv"
+    },
+    {
+      "name": "CMB-P105NU-G",
+      "url": "/mitsubishi/cmb-p105nu-g/parts",
+      "code": "cmb-p105nu-g"
+    },
+    {
+      "name": "CMB-P105NU-G1",
+      "url": "/mitsubishi/cmb-p105nu-g1/parts",
+      "code": "cmb-p105nu-g1"
+    },
+    {
+      "name": "CMB-P106NU-G",
+      "url": "/mitsubishi/cmb-p106nu-g/parts",
+      "code": "cmb-p106nu-g"
+    },
+    {
+      "name": "CMB-P106NU-G1",
+      "url": "/mitsubishi/cmb-p106nu-g1/parts",
+      "code": "cmb-p106nu-g1"
+    },
+    {
+      "name": "CMB-P106NU-J1",
+      "url": "/mitsubishi/cmb-p106nu-j1/parts",
+      "code": "cmb-p106nu-j1"
+    },
+    {
+      "name": "CMB-P106NU-J1-BV",
+      "url": "/mitsubishi/cmb-p106nu-j1-bv/parts",
+      "code": "cmb-p106nu-j1-bv"
+    },
+    {
+      "name": "CMB-P108NU-G",
+      "url": "/mitsubishi/cmb-p108nu-g/parts",
+      "code": "cmb-p108nu-g"
+    },
+    {
+      "name": "CMB-P108NU-G1",
+      "url": "/mitsubishi/cmb-p108nu-g1/parts",
+      "code": "cmb-p108nu-g1"
+    },
+    {
+      "name": "CMB-P108NU-GA",
+      "url": "/mitsubishi/cmb-p108nu-ga/parts",
+      "code": "cmb-p108nu-ga"
+    },
+    {
+      "name": "CMB-P108NU-GB",
+      "url": "/mitsubishi/cmb-p108nu-gb/parts",
+      "code": "cmb-p108nu-gb"
+    },
+    {
+      "name": "CMB-P108NU-GB1",
+      "url": "/mitsubishi/cmb-p108nu-gb1/parts",
+      "code": "cmb-p108nu-gb1"
+    },
+    {
+      "name": "CMB-P108NU-HA1",
+      "url": "/mitsubishi/cmb-p108nu-ha1/parts",
+      "code": "cmb-p108nu-ha1"
+    },
+    {
+      "name": "CMB-P108NU-J1",
+      "url": "/mitsubishi/cmb-p108nu-j1/parts",
+      "code": "cmb-p108nu-j1"
+    },
+    {
+      "name": "CMB-P108NU-J1-BV",
+      "url": "/mitsubishi/cmb-p108nu-j1-bv/parts",
+      "code": "cmb-p108nu-j1-bv"
+    },
+    {
+      "name": "CMB-P108NU-JA1",
+      "url": "/mitsubishi/cmb-p108nu-ja1/parts",
+      "code": "cmb-p108nu-ja1"
+    },
+    {
+      "name": "CMB-P108NU-JA1-BV",
+      "url": "/mitsubishi/cmb-p108nu-ja1-bv/parts",
+      "code": "cmb-p108nu-ja1-bv"
+    },
+    {
+      "name": "CMB-P108NU-KB1",
+      "url": "/mitsubishi/cmb-p108nu-kb1/parts",
+      "code": "cmb-p108nu-kb1"
+    },
+    {
+      "name": "CMB-P108NU-KB1-BV",
+      "url": "/mitsubishi/cmb-p108nu-kb1-bv/parts",
+      "code": "cmb-p108nu-kb1-bv"
+    },
+    {
+      "name": "LGH-F1200RVX-E",
+      "url": "/mitsubishi/lgh-f1200rvx-e/parts",
+      "code": "lgh-f1200rvx-e"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:34:27.250774"
+}

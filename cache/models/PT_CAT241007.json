@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Caddy",
+    "code": "PT_CAT241007",
+    "uri": "caddy"
+  },
+  "models": [
+    {
+      "name": "21-C",
+      "url": "/caddy/21-c/parts",
+      "code": "21-c"
+    },
+    {
+      "name": "BU-10-10",
+      "url": "/caddy/bu-10-10/parts",
+      "code": "bu-10-10"
+    },
+    {
+      "name": "BV-10-10",
+      "url": "/caddy/bv-10-10/parts",
+      "code": "bv-10-10"
+    },
+    {
+      "name": "CF-10",
+      "url": "/caddy/cf-10/parts",
+      "code": "cf-10"
+    },
+    {
+      "name": "CM100H",
+      "url": "/caddy/cm100h/parts",
+      "code": "cm100h"
+    },
+    {
+      "name": "CM100HH",
+      "url": "/caddy/cm100hh/parts",
+      "code": "cm100hh"
+    },
+    {
+      "name": "CM100SH",
+      "url": "/caddy/cm100sh/parts",
+      "code": "cm100sh"
+    },
+    {
+      "name": "CM200H",
+      "url": "/caddy/cm200h/parts",
+      "code": "cm200h"
+    },
+    {
+      "name": "CM200HH",
+      "url": "/caddy/cm200hh/parts",
+      "code": "cm200hh"
+    },
+    {
+      "name": "CM200SH",
+      "url": "/caddy/cm200sh/parts",
+      "code": "cm200sh"
+    },
+    {
+      "name": "CM300H",
+      "url": "/caddy/cm300h/parts",
+      "code": "cm300h"
+    },
+    {
+      "name": "CM300HH",
+      "url": "/caddy/cm300hh/parts",
+      "code": "cm300hh"
+    },
+    {
+      "name": "CM300SH",
+      "url": "/caddy/cm300sh/parts",
+      "code": "cm300sh"
+    },
+    {
+      "name": "CM400H",
+      "url": "/caddy/cm400h/parts",
+      "code": "cm400h"
+    },
+    {
+      "name": "CM400HH",
+      "url": "/caddy/cm400hh/parts",
+      "code": "cm400hh"
+    },
+    {
+      "name": "CM400SH",
+      "url": "/caddy/cm400sh/parts",
+      "code": "cm400sh"
+    },
+    {
+      "name": "CM500H",
+      "url": "/caddy/cm500h/parts",
+      "code": "cm500h"
+    },
+    {
+      "name": "CM500HH",
+      "url": "/caddy/cm500hh/parts",
+      "code": "cm500hh"
+    },
+    {
+      "name": "CM500SH",
+      "url": "/caddy/cm500sh/parts",
+      "code": "cm500sh"
+    },
+    {
+      "name": "Double Belt Conveyor",
+      "url": "/caddy/double-belt-conveyor/parts",
+      "code": "double-belt-conveyor"
+    },
+    {
+      "name": "RCC",
+      "url": "/caddy/rcc/parts",
+      "code": "rcc"
+    },
+    {
+      "name": "RCF",
+      "url": "/caddy/rcf/parts",
+      "code": "rcf"
+    },
+    {
+      "name": "SKW",
+      "url": "/caddy/skw/parts",
+      "code": "skw"
+    },
+    {
+      "name": "SM-10",
+      "url": "/caddy/sm-10/parts",
+      "code": "sm-10"
+    },
+    {
+      "name": "SV-10-10",
+      "url": "/caddy/sv-10-10/parts",
+      "code": "sv-10-10"
+    },
+    {
+      "name": "SWC",
+      "url": "/caddy/swc/parts",
+      "code": "swc"
+    },
+    {
+      "name": "SWF",
+      "url": "/caddy/swf/parts",
+      "code": "swf"
+    },
+    {
+      "name": "Single Belt Conveyor",
+      "url": "/caddy/single-belt-conveyor/parts",
+      "code": "single-belt-conveyor"
+    },
+    {
+      "name": "TD-607-D",
+      "url": "/caddy/td-607-d/parts",
+      "code": "td-607-d"
+    },
+    {
+      "name": "TD-608-D",
+      "url": "/caddy/td-608-d/parts",
+      "code": "td-608-d"
+    },
+    {
+      "name": "TD-610-D",
+      "url": "/caddy/td-610-d/parts",
+      "code": "td-610-d"
+    },
+    {
+      "name": "TD-614-D",
+      "url": "/caddy/td-614-d/parts",
+      "code": "td-614-d"
+    },
+    {
+      "name": "TD-616-D",
+      "url": "/caddy/td-616-d/parts",
+      "code": "td-616-d"
+    },
+    {
+      "name": "TD-620-D",
+      "url": "/caddy/td-620-d/parts",
+      "code": "td-620-d"
+    },
+    {
+      "name": "TD-621-D",
+      "url": "/caddy/td-621-d/parts",
+      "code": "td-621-d"
+    },
+    {
+      "name": "TD-624-D",
+      "url": "/caddy/td-624-d/parts",
+      "code": "td-624-d"
+    },
+    {
+      "name": "TD-630-D",
+      "url": "/caddy/td-630-d/parts",
+      "code": "td-630-d"
+    },
+    {
+      "name": "TDC-20-D",
+      "url": "/caddy/tdc-20-d/parts",
+      "code": "tdc-20-d"
+    },
+    {
+      "name": "TDC-20-DD",
+      "url": "/caddy/tdc-20-dd/parts",
+      "code": "tdc-20-dd"
+    },
+    {
+      "name": "TDC-24",
+      "url": "/caddy/tdc-24/parts",
+      "code": "tdc-24"
+    },
+    {
+      "name": "TDC-40-D",
+      "url": "/caddy/tdc-40-d/parts",
+      "code": "tdc-40-d"
+    },
+    {
+      "name": "TDC-40-DD",
+      "url": "/caddy/tdc-40-dd/parts",
+      "code": "tdc-40-dd"
+    },
+    {
+      "name": "TF-602",
+      "url": "/caddy/tf-602/parts",
+      "code": "tf-602"
+    },
+    {
+      "name": "TF-603",
+      "url": "/caddy/tf-603/parts",
+      "code": "tf-603"
+    },
+    {
+      "name": "TF-604",
+      "url": "/caddy/tf-604/parts",
+      "code": "tf-604"
+    },
+    {
+      "name": "TF-605",
+      "url": "/caddy/tf-605/parts",
+      "code": "tf-605"
+    },
+    {
+      "name": "TF-606",
+      "url": "/caddy/tf-606/parts",
+      "code": "tf-606"
+    },
+    {
+      "name": "TF-612",
+      "url": "/caddy/tf-612/parts",
+      "code": "tf-612"
+    },
+    {
+      "name": "TF-613",
+      "url": "/caddy/tf-613/parts",
+      "code": "tf-613"
+    },
+    {
+      "name": "TF-614",
+      "url": "/caddy/tf-614/parts",
+      "code": "tf-614"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:02:34.684453"
+}

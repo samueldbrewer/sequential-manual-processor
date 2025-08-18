@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Imperial",
+    "code": "PT_CAT1107",
+    "uri": "imperial"
+  },
+  "models": [
+    {
+      "name": "EBA SERIES",
+      "url": "/imperial/eba-series/parts",
+      "code": "eba-series"
+    },
+    {
+      "name": "GD SERIES",
+      "url": "/imperial/gd-series/parts",
+      "code": "gd-series"
+    },
+    {
+      "name": "IAB-24",
+      "url": "/imperial/iab-24/parts",
+      "code": "iab-24"
+    },
+    {
+      "name": "IAB-30",
+      "url": "/imperial/iab-30/parts",
+      "code": "iab-30"
+    },
+    {
+      "name": "IAB-36",
+      "url": "/imperial/iab-36/parts",
+      "code": "iab-36"
+    },
+    {
+      "name": "IAB-48",
+      "url": "/imperial/iab-48/parts",
+      "code": "iab-48"
+    },
+    {
+      "name": "IAB-60",
+      "url": "/imperial/iab-60/parts",
+      "code": "iab-60"
+    },
+    {
+      "name": "IAB-72",
+      "url": "/imperial/iab-72/parts",
+      "code": "iab-72"
+    },
+    {
+      "name": "IABFR",
+      "url": "/imperial/iabfr/parts",
+      "code": "iabfr"
+    },
+    {
+      "name": "ICB-4827",
+      "url": "/imperial/icb-4827/parts",
+      "code": "icb-4827"
+    },
+    {
+      "name": "ICB-4836",
+      "url": "/imperial/icb-4836/parts",
+      "code": "icb-4836"
+    },
+    {
+      "name": "ICB-6027",
+      "url": "/imperial/icb-6027/parts",
+      "code": "icb-6027"
+    },
+    {
+      "name": "ICB-6036",
+      "url": "/imperial/icb-6036/parts",
+      "code": "icb-6036"
+    },
+    {
+      "name": "ICFB-36",
+      "url": "/imperial/icfb-36/parts",
+      "code": "icfb-36"
+    },
+    {
+      "name": "ICFB-45",
+      "url": "/imperial/icfb-45/parts",
+      "code": "icfb-45"
+    },
+    {
+      "name": "ICMA Series",
+      "url": "/imperial/icma-series/parts",
+      "code": "icma-series"
+    },
+    {
+      "name": "ICMA-24",
+      "url": "/imperial/icma-24/parts",
+      "code": "icma-24"
+    },
+    {
+      "name": "ICMA-36",
+      "url": "/imperial/icma-36/parts",
+      "code": "icma-36"
+    },
+    {
+      "name": "ICMA-48",
+      "url": "/imperial/icma-48/parts",
+      "code": "icma-48"
+    },
+    {
+      "name": "ICMA-60",
+      "url": "/imperial/icma-60/parts",
+      "code": "icma-60"
+    },
+    {
+      "name": "ICMA-72",
+      "url": "/imperial/icma-72/parts",
+      "code": "icma-72"
+    },
+    {
+      "name": "ICMA-84",
+      "url": "/imperial/icma-84/parts",
+      "code": "icma-84"
+    },
+    {
+      "name": "ICRA-1",
+      "url": "/imperial/icra-1/parts",
+      "code": "icra-1"
+    },
+    {
+      "name": "ICRA-2",
+      "url": "/imperial/icra-2/parts",
+      "code": "icra-2"
+    },
+    {
+      "name": "ICRA-3",
+      "url": "/imperial/icra-3/parts",
+      "code": "icra-3"
+    },
+    {
+      "name": "ICRA-4",
+      "url": "/imperial/icra-4/parts",
+      "code": "icra-4"
+    },
+    {
+      "name": "ICRA-5",
+      "url": "/imperial/icra-5/parts",
+      "code": "icra-5"
+    },
+    {
+      "name": "ICV",
+      "url": "/imperial/icv/parts",
+      "code": "icv"
+    },
+    {
+      "name": "ICVD",
+      "url": "/imperial/icvd/parts",
+      "code": "icvd"
+    },
+    {
+      "name": "ICVDG SERIES",
+      "url": "/imperial/icvdg-series/parts",
+      "code": "icvdg-series"
+    },
+    {
+      "name": "ICVE",
+      "url": "/imperial/icve/parts",
+      "code": "icve"
+    },
+    {
+      "name": "ICVG",
+      "url": "/imperial/icvg/parts",
+      "code": "icvg"
+    },
+    {
+      "name": "IDR-37",
+      "url": "/imperial/idr-37/parts",
+      "code": "idr-37"
+    },
+    {
+      "name": "IDR-49",
+      "url": "/imperial/idr-49/parts",
+      "code": "idr-49"
+    },
+    {
+      "name": "IDR-61",
+      "url": "/imperial/idr-61/parts",
+      "code": "idr-61"
+    },
+    {
+      "name": "IF SERIES",
+      "url": "/imperial/if-series/parts",
+      "code": "if-series"
+    },
+    {
+      "name": "IF-BL SERIES",
+      "url": "/imperial/if-bl-series/parts",
+      "code": "if-bl-series"
+    },
+    {
+      "name": "IF-COUNTER",
+      "url": "/imperial/if-counter/parts",
+      "code": "if-counter"
+    },
+    {
+      "name": "IFS-25",
+      "url": "/imperial/ifs-25/parts",
+      "code": "ifs-25"
+    },
+    {
+      "name": "IFS-40",
+      "url": "/imperial/ifs-40/parts",
+      "code": "ifs-40"
+    },
+    {
+      "name": "IFS-40-OP",
+      "url": "/imperial/ifs-40-op/parts",
+      "code": "ifs-40-op"
+    },
+    {
+      "name": "IFS-40E",
+      "url": "/imperial/ifs-40e/parts",
+      "code": "ifs-40e"
+    },
+    {
+      "name": "IFS-50",
+      "url": "/imperial/ifs-50/parts",
+      "code": "ifs-50"
+    },
+    {
+      "name": "IFS-50-OP",
+      "url": "/imperial/ifs-50-op/parts",
+      "code": "ifs-50-op"
+    },
+    {
+      "name": "IFS-50E",
+      "url": "/imperial/ifs-50e/parts",
+      "code": "ifs-50e"
+    },
+    {
+      "name": "IFS-75",
+      "url": "/imperial/ifs-75/parts",
+      "code": "ifs-75"
+    },
+    {
+      "name": "IFS-75-OP",
+      "url": "/imperial/ifs-75-op/parts",
+      "code": "ifs-75-op"
+    },
+    {
+      "name": "IFS-75E",
+      "url": "/imperial/ifs-75e/parts",
+      "code": "ifs-75e"
+    },
+    {
+      "name": "IFS-E SERIES",
+      "url": "/imperial/ifs-e-series/parts",
+      "code": "ifs-e-series"
+    },
+    {
+      "name": "IFSSP250C-12",
+      "url": "/imperial/ifssp250c-12/parts",
+      "code": "ifssp250c-12"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:05:54.827887"
+}

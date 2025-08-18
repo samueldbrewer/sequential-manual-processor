@@ -1,0 +1,76 @@
+{
+  "manufacturer": {
+    "name": "Desmon USA",
+    "code": "PT_CAT20082",
+    "uri": "desmon-usa"
+  },
+  "models": [
+    {
+      "name": "FPTM2-80",
+      "url": "/desmon-usa/fptm2-80/parts",
+      "code": "fptm2-80"
+    },
+    {
+      "name": "FPTM3-80",
+      "url": "/desmon-usa/fptm3-80/parts",
+      "code": "fptm3-80"
+    },
+    {
+      "name": "GB14G",
+      "url": "/desmon-usa/gb14g/parts",
+      "code": "gb14g"
+    },
+    {
+      "name": "GB7",
+      "url": "/desmon-usa/gb7/parts",
+      "code": "gb7"
+    },
+    {
+      "name": "GM14",
+      "url": "/desmon-usa/gm14/parts",
+      "code": "gm14"
+    },
+    {
+      "name": "GPZ166",
+      "url": "/desmon-usa/gpz166/parts",
+      "code": "gpz166"
+    },
+    {
+      "name": "GPZ166A",
+      "url": "/desmon-usa/gpz166a/parts",
+      "code": "gpz166a"
+    },
+    {
+      "name": "GPZ225A",
+      "url": "/desmon-usa/gpz225a/parts",
+      "code": "gpz225a"
+    },
+    {
+      "name": "PCIB7/2-US",
+      "url": "/desmon-usa/pcib7-2-us/parts",
+      "code": "pcib7-2-us"
+    },
+    {
+      "name": "PH10",
+      "url": "/desmon-usa/ph10/parts",
+      "code": "ph10"
+    },
+    {
+      "name": "PH8",
+      "url": "/desmon-usa/ph8/parts",
+      "code": "ph8"
+    },
+    {
+      "name": "TGPB107",
+      "url": "/desmon-usa/tgpb107/parts",
+      "code": "tgpb107"
+    },
+    {
+      "name": "TGPM107",
+      "url": "/desmon-usa/tgpm107/parts",
+      "code": "tgpm107"
+    }
+  ],
+  "total_models": 13,
+  "cached_at": "2025-08-14T18:21:18.606060"
+}

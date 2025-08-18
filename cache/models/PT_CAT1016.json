@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Arctic Air",
+    "code": "PT_CAT1016",
+    "uri": "arctic-air"
+  },
+  "models": [
+    {
+      "name": "AF23",
+      "url": "/arctic-air/af23/parts",
+      "code": "af23"
+    },
+    {
+      "name": "AF49",
+      "url": "/arctic-air/af49/parts",
+      "code": "af49"
+    },
+    {
+      "name": "AR23",
+      "url": "/arctic-air/ar23/parts",
+      "code": "ar23"
+    },
+    {
+      "name": "AR49",
+      "url": "/arctic-air/ar49/parts",
+      "code": "ar49"
+    },
+    {
+      "name": "F22CWF",
+      "url": "/arctic-air/f22cwf/parts",
+      "code": "f22cwf"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T17:47:44.344894"
+}

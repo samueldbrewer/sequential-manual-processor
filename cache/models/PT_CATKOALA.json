@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "Koala",
+    "code": "PT_CATKOALA",
+    "uri": "koala"
+  },
+  "models": [
+    {
+      "name": "KB-100",
+      "url": "/koala/kb-100/parts",
+      "code": "kb-100"
+    },
+    {
+      "name": "KB100-ST",
+      "url": "/koala/kb100-st/parts",
+      "code": "kb100-st"
+    },
+    {
+      "name": "KB101",
+      "url": "/koala/kb101/parts",
+      "code": "kb101"
+    },
+    {
+      "name": "KB105",
+      "url": "/koala/kb105/parts",
+      "code": "kb105"
+    },
+    {
+      "name": "KB110-SSRE",
+      "url": "/koala/kb110-ssre/parts",
+      "code": "kb110-ssre"
+    },
+    {
+      "name": "KB110-SSWM",
+      "url": "/koala/kb110-sswm/parts",
+      "code": "kb110-sswm"
+    },
+    {
+      "name": "KB111-SSRE",
+      "url": "/koala/kb111-ssre/parts",
+      "code": "kb111-ssre"
+    },
+    {
+      "name": "KB111-SSWM",
+      "url": "/koala/kb111-sswm/parts",
+      "code": "kb111-sswm"
+    },
+    {
+      "name": "KB112-01CT",
+      "url": "/koala/kb112-01ct/parts",
+      "code": "kb112-01ct"
+    },
+    {
+      "name": "KB112-01RE",
+      "url": "/koala/kb112-01re/parts",
+      "code": "kb112-01re"
+    },
+    {
+      "name": "KB200",
+      "url": "/koala/kb200/parts",
+      "code": "kb200"
+    },
+    {
+      "name": "KB200-SS",
+      "url": "/koala/kb200-ss/parts",
+      "code": "kb200-ss"
+    },
+    {
+      "name": "KB208",
+      "url": "/koala/kb208/parts",
+      "code": "kb208"
+    },
+    {
+      "name": "KB833",
+      "url": "/koala/kb833/parts",
+      "code": "kb833"
+    },
+    {
+      "name": "KB950",
+      "url": "/koala/kb950/parts",
+      "code": "kb950"
+    },
+    {
+      "name": "KB966",
+      "url": "/koala/kb966/parts",
+      "code": "kb966"
+    },
+    {
+      "name": "KB977",
+      "url": "/koala/kb977/parts",
+      "code": "kb977"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-14T19:14:21.206544"
+}

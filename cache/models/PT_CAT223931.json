@@ -1,0 +1,66 @@
+{
+  "manufacturer": {
+    "name": "Connerton",
+    "code": "PT_CAT223931",
+    "uri": "connerton"
+  },
+  "models": [
+    {
+      "name": "A1-F",
+      "url": "/connerton/a1-f/parts",
+      "code": "a1-f"
+    },
+    {
+      "name": "CEG-M",
+      "url": "/connerton/ceg-m/parts",
+      "code": "ceg-m"
+    },
+    {
+      "name": "CEG-T",
+      "url": "/connerton/ceg-t/parts",
+      "code": "ceg-t"
+    },
+    {
+      "name": "CG-M-S",
+      "url": "/connerton/cg-m-s/parts",
+      "code": "cg-m-s"
+    },
+    {
+      "name": "CG-T-S",
+      "url": "/connerton/cg-t-s/parts",
+      "code": "cg-t-s"
+    },
+    {
+      "name": "CHP-S",
+      "url": "/connerton/chp-s/parts",
+      "code": "chp-s"
+    },
+    {
+      "name": "CRB-S",
+      "url": "/connerton/crb-s/parts",
+      "code": "crb-s"
+    },
+    {
+      "name": "CSP-S",
+      "url": "/connerton/csp-s/parts",
+      "code": "csp-s"
+    },
+    {
+      "name": "LRB-S",
+      "url": "/connerton/lrb-s/parts",
+      "code": "lrb-s"
+    },
+    {
+      "name": "RLRB/L-S",
+      "url": "/connerton/rlrb-l-s/parts",
+      "code": "rlrb-l-s"
+    },
+    {
+      "name": "RLRB/R-S",
+      "url": "/connerton/rlrb-r-s/parts",
+      "code": "rlrb-r-s"
+    }
+  ],
+  "total_models": 11,
+  "cached_at": "2025-08-14T18:12:08.586825"
+}

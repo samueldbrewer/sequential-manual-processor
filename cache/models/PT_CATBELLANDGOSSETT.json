@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "Bell And Gossett",
+    "code": "PT_CATBELLANDGOSSETT",
+    "uri": "bell-and-gossett"
+  },
+  "models": [
+    {
+      "name": "VSX",
+      "url": "/bell-and-gossett/vsx/parts",
+      "code": "vsx"
+    },
+    {
+      "name": "e-60",
+      "url": "/bell-and-gossett/e-60/parts",
+      "code": "e-60"
+    },
+    {
+      "name": "e-80",
+      "url": "/bell-and-gossett/e-80/parts",
+      "code": "e-80"
+    },
+    {
+      "name": "e-80SC",
+      "url": "/bell-and-gossett/e-80sc/parts",
+      "code": "e-80sc"
+    },
+    {
+      "name": "e-82",
+      "url": "/bell-and-gossett/e-82/parts",
+      "code": "e-82"
+    },
+    {
+      "name": "e-82SC",
+      "url": "/bell-and-gossett/e-82sc/parts",
+      "code": "e-82sc"
+    },
+    {
+      "name": "e-90",
+      "url": "/bell-and-gossett/e-90/parts",
+      "code": "e-90"
+    },
+    {
+      "name": "e-90 ECM",
+      "url": "/bell-and-gossett/e-90-ecm/parts",
+      "code": "e-90-ecm"
+    },
+    {
+      "name": "e-90E",
+      "url": "/bell-and-gossett/e-90e/parts",
+      "code": "e-90e"
+    },
+    {
+      "name": "e-HSC",
+      "url": "/bell-and-gossett/e-hsc/parts",
+      "code": "e-hsc"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-14T17:52:34.738723"
+}

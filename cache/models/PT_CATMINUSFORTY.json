@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Minus Forty",
+    "code": "PT_CATMINUSFORTY",
+    "uri": "minus-forty"
+  },
+  "models": [
+    {
+      "name": "22-USGF",
+      "url": "/minus-forty/22-usgf/parts",
+      "code": "22-usgf"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:33:00.723200"
+}

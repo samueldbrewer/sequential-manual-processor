@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Carpigiani",
+    "code": "PT_CAT219700",
+    "uri": "carpigiani"
+  },
+  "models": [
+    {
+      "name": "K3",
+      "url": "/carpigiani/k3/parts",
+      "code": "k3"
+    },
+    {
+      "name": "K3 E",
+      "url": "/carpigiani/k3-e/parts",
+      "code": "k3-e"
+    },
+    {
+      "name": "K3B",
+      "url": "/carpigiani/k3b/parts",
+      "code": "k3b"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T18:04:40.380355"
+}

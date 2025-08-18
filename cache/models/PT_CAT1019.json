@@ -1,0 +1,176 @@
+{
+  "manufacturer": {
+    "name": "Baxter",
+    "code": "PT_CAT1019",
+    "uri": "baxter"
+  },
+  "models": [
+    {
+      "name": "BXA1G",
+      "url": "/baxter/bxa1g/parts",
+      "code": "bxa1g"
+    },
+    {
+      "name": "DPC1S",
+      "url": "/baxter/dpc1s/parts",
+      "code": "dpc1s"
+    },
+    {
+      "name": "MB100",
+      "url": "/baxter/mb100/parts",
+      "code": "mb100"
+    },
+    {
+      "name": "MB300",
+      "url": "/baxter/mb300/parts",
+      "code": "mb300"
+    },
+    {
+      "name": "ML-132113",
+      "url": "/baxter/ml-132113/parts",
+      "code": "ml-132113"
+    },
+    {
+      "name": "ML-132115",
+      "url": "/baxter/ml-132115/parts",
+      "code": "ml-132115"
+    },
+    {
+      "name": "OV-210",
+      "url": "/baxter/ov-210/parts",
+      "code": "ov-210"
+    },
+    {
+      "name": "OV210G-M1B",
+      "url": "/baxter/ov210g-m1b/parts",
+      "code": "ov210g-m1b"
+    },
+    {
+      "name": "OV210G-M2B",
+      "url": "/baxter/ov210g-m2b/parts",
+      "code": "ov210g-m2b"
+    },
+    {
+      "name": "OV310E",
+      "url": "/baxter/ov310e/parts",
+      "code": "ov310e"
+    },
+    {
+      "name": "OV310G",
+      "url": "/baxter/ov310g/parts",
+      "code": "ov310g"
+    },
+    {
+      "name": "OV500E1",
+      "url": "/baxter/ov500e1/parts",
+      "code": "ov500e1"
+    },
+    {
+      "name": "OV500E2",
+      "url": "/baxter/ov500e2/parts",
+      "code": "ov500e2"
+    },
+    {
+      "name": "OV500G2",
+      "url": "/baxter/ov500g2/parts",
+      "code": "ov500g2"
+    },
+    {
+      "name": "OV520E1",
+      "url": "/baxter/ov520e1/parts",
+      "code": "ov520e1"
+    },
+    {
+      "name": "OV520E2",
+      "url": "/baxter/ov520e2/parts",
+      "code": "ov520e2"
+    },
+    {
+      "name": "OV520G1",
+      "url": "/baxter/ov520g1/parts",
+      "code": "ov520g1"
+    },
+    {
+      "name": "OV520G2",
+      "url": "/baxter/ov520g2/parts",
+      "code": "ov520g2"
+    },
+    {
+      "name": "OV850G",
+      "url": "/baxter/ov850g/parts",
+      "code": "ov850g"
+    },
+    {
+      "name": "OV851G",
+      "url": "/baxter/ov851g/parts",
+      "code": "ov851g"
+    },
+    {
+      "name": "PC151DD",
+      "url": "/baxter/pc151dd/parts",
+      "code": "pc151dd"
+    },
+    {
+      "name": "PC201-M28",
+      "url": "/baxter/pc201-m28/parts",
+      "code": "pc201-m28"
+    },
+    {
+      "name": "PW1E",
+      "url": "/baxter/pw1e/parts",
+      "code": "pw1e"
+    },
+    {
+      "name": "PW1S",
+      "url": "/baxter/pw1s/parts",
+      "code": "pw1s"
+    },
+    {
+      "name": "PW2E",
+      "url": "/baxter/pw2e/parts",
+      "code": "pw2e"
+    },
+    {
+      "name": "PW2S",
+      "url": "/baxter/pw2s/parts",
+      "code": "pw2s"
+    },
+    {
+      "name": "PW3S",
+      "url": "/baxter/pw3s/parts",
+      "code": "pw3s"
+    },
+    {
+      "name": "RPW1S",
+      "url": "/baxter/rpw1s/parts",
+      "code": "rpw1s"
+    },
+    {
+      "name": "RPW2E",
+      "url": "/baxter/rpw2e/parts",
+      "code": "rpw2e"
+    },
+    {
+      "name": "RPW2S",
+      "url": "/baxter/rpw2s/parts",
+      "code": "rpw2s"
+    },
+    {
+      "name": "SP600W",
+      "url": "/baxter/sp600w/parts",
+      "code": "sp600w"
+    },
+    {
+      "name": "WM600",
+      "url": "/baxter/wm600/parts",
+      "code": "wm600"
+    },
+    {
+      "name": "WM600C",
+      "url": "/baxter/wm600c/parts",
+      "code": "wm600c"
+    }
+  ],
+  "total_models": 33,
+  "cached_at": "2025-08-14T17:52:13.378658"
+}

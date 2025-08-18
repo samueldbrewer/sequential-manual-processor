@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Norpole",
+    "code": "PT_CAT48065",
+    "uri": "norpole"
+  },
+  "models": [
+    {
+      "name": "NP1F",
+      "url": "/norpole/np1f/parts",
+      "code": "np1f"
+    },
+    {
+      "name": "NP1F (R20)",
+      "url": "/norpole/np1f-r20/parts",
+      "code": "np1f-r20"
+    },
+    {
+      "name": "NP1F-27UC",
+      "url": "/norpole/np1f-27uc/parts",
+      "code": "np1f-27uc"
+    },
+    {
+      "name": "NP1F-27UC (R20)",
+      "url": "/norpole/np1f-27uc-r20/parts",
+      "code": "np1f-27uc-r20"
+    },
+    {
+      "name": "NP1F-27WT",
+      "url": "/norpole/np1f-27wt/parts",
+      "code": "np1f-27wt"
+    },
+    {
+      "name": "NP1F-G",
+      "url": "/norpole/np1f-g/parts",
+      "code": "np1f-g"
+    },
+    {
+      "name": "NP1F-G (R20)",
+      "url": "/norpole/np1f-g-r20/parts",
+      "code": "np1f-g-r20"
+    },
+    {
+      "name": "NP1R",
+      "url": "/norpole/np1r/parts",
+      "code": "np1r"
+    },
+    {
+      "name": "NP1R (R20)",
+      "url": "/norpole/np1r-r20/parts",
+      "code": "np1r-r20"
+    },
+    {
+      "name": "NP1R-27UC",
+      "url": "/norpole/np1r-27uc/parts",
+      "code": "np1r-27uc"
+    },
+    {
+      "name": "NP1R-27UC (R20)",
+      "url": "/norpole/np1r-27uc-r20/parts",
+      "code": "np1r-27uc-r20"
+    },
+    {
+      "name": "NP1R-27WT",
+      "url": "/norpole/np1r-27wt/parts",
+      "code": "np1r-27wt"
+    },
+    {
+      "name": "NP1R-G",
+      "url": "/norpole/np1r-g/parts",
+      "code": "np1r-g"
+    },
+    {
+      "name": "NP1R-G (R20)",
+      "url": "/norpole/np1r-g-r20/parts",
+      "code": "np1r-g-r20"
+    },
+    {
+      "name": "NP1R-PT",
+      "url": "/norpole/np1r-pt/parts",
+      "code": "np1r-pt"
+    },
+    {
+      "name": "NP1R-PT (R20)",
+      "url": "/norpole/np1r-pt-r20/parts",
+      "code": "np1r-pt-r20"
+    },
+    {
+      "name": "NP1R-SW",
+      "url": "/norpole/np1r-sw/parts",
+      "code": "np1r-sw"
+    },
+    {
+      "name": "NP1R-SW (R20)",
+      "url": "/norpole/np1r-sw-r20/parts",
+      "code": "np1r-sw-r20"
+    },
+    {
+      "name": "NP1R-SWMT",
+      "url": "/norpole/np1r-swmt/parts",
+      "code": "np1r-swmt"
+    },
+    {
+      "name": "NP1R-SWMT",
+      "url": "/norpole/np1r-swmt/parts",
+      "code": "np1r-swmt"
+    },
+    {
+      "name": "NP1R-SWMT (R20)",
+      "url": "/norpole/np1r-swmt-r20/parts",
+      "code": "np1r-swmt-r20"
+    },
+    {
+      "name": "NP2F",
+      "url": "/norpole/np2f/parts",
+      "code": "np2f"
+    },
+    {
+      "name": "NP2F (R20)",
+      "url": "/norpole/np2f-r20/parts",
+      "code": "np2f-r20"
+    },
+    {
+      "name": "NP2F-48UC",
+      "url": "/norpole/np2f-48uc/parts",
+      "code": "np2f-48uc"
+    },
+    {
+      "name": "NP2F-48UC (R20)",
+      "url": "/norpole/np2f-48uc-r20/parts",
+      "code": "np2f-48uc-r20"
+    },
+    {
+      "name": "NP2F-48WT",
+      "url": "/norpole/np2f-48wt/parts",
+      "code": "np2f-48wt"
+    },
+    {
+      "name": "NP2F-G (R20)",
+      "url": "/norpole/np2f-g-r20/parts",
+      "code": "np2f-g-r20"
+    },
+    {
+      "name": "NP2R",
+      "url": "/norpole/np2r/parts",
+      "code": "np2r"
+    },
+    {
+      "name": "NP2R (R20)",
+      "url": "/norpole/np2r-r20/parts",
+      "code": "np2r-r20"
+    },
+    {
+      "name": "NP2R-48UC",
+      "url": "/norpole/np2r-48uc/parts",
+      "code": "np2r-48uc"
+    },
+    {
+      "name": "NP2R-48UC (R20)",
+      "url": "/norpole/np2r-48uc-r20/parts",
+      "code": "np2r-48uc-r20"
+    },
+    {
+      "name": "NP2R-48WT",
+      "url": "/norpole/np2r-48wt/parts",
+      "code": "np2r-48wt"
+    },
+    {
+      "name": "NP2R-60UC",
+      "url": "/norpole/np2r-60uc/parts",
+      "code": "np2r-60uc"
+    },
+    {
+      "name": "NP2R-60UC (R20)",
+      "url": "/norpole/np2r-60uc-r20/parts",
+      "code": "np2r-60uc-r20"
+    },
+    {
+      "name": "NP2R-G",
+      "url": "/norpole/np2r-g/parts",
+      "code": "np2r-g"
+    },
+    {
+      "name": "NP2R-G (R20)",
+      "url": "/norpole/np2r-g-r20/parts",
+      "code": "np2r-g-r20"
+    },
+    {
+      "name": "NP2R-PT",
+      "url": "/norpole/np2r-pt/parts",
+      "code": "np2r-pt"
+    },
+    {
+      "name": "NP2R-PT",
+      "url": "/norpole/np2r-pt/parts",
+      "code": "np2r-pt"
+    },
+    {
+      "name": "NP2R-PT (R20)",
+      "url": "/norpole/np2r-pt-r20/parts",
+      "code": "np2r-pt-r20"
+    },
+    {
+      "name": "NP2R-SW",
+      "url": "/norpole/np2r-sw/parts",
+      "code": "np2r-sw"
+    },
+    {
+      "name": "NP2R-SW (R20)",
+      "url": "/norpole/np2r-sw-r20/parts",
+      "code": "np2r-sw-r20"
+    },
+    {
+      "name": "NP2R-SW36",
+      "url": "/norpole/np2r-sw36/parts",
+      "code": "np2r-sw36"
+    },
+    {
+      "name": "NP2R-SW36 (R20)",
+      "url": "/norpole/np2r-sw36-r20/parts",
+      "code": "np2r-sw36-r20"
+    },
+    {
+      "name": "NP2R-SW47",
+      "url": "/norpole/np2r-sw47/parts",
+      "code": "np2r-sw47"
+    },
+    {
+      "name": "NP2R-SW60",
+      "url": "/norpole/np2r-sw60/parts",
+      "code": "np2r-sw60"
+    },
+    {
+      "name": "NP2R-SW60 (R20)",
+      "url": "/norpole/np2r-sw60-r20/parts",
+      "code": "np2r-sw60-r20"
+    },
+    {
+      "name": "NP2R-SWMT",
+      "url": "/norpole/np2r-swmt/parts",
+      "code": "np2r-swmt"
+    },
+    {
+      "name": "NP2R-SWMT",
+      "url": "/norpole/np2r-swmt/parts",
+      "code": "np2r-swmt"
+    },
+    {
+      "name": "NP2R-SWMT (R20)",
+      "url": "/norpole/np2r-swmt-r20/parts",
+      "code": "np2r-swmt-r20"
+    },
+    {
+      "name": "NP2R-SWMT36",
+      "url": "/norpole/np2r-swmt36/parts",
+      "code": "np2r-swmt36"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:42:18.240807"
+}

@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Astro Blender",
+    "code": "PT_CAT281728",
+    "uri": "astro-blender"
+  },
+  "models": [
+    {
+      "name": "AM-2",
+      "url": "/astro-blender/am-2/parts",
+      "code": "am-2"
+    },
+    {
+      "name": "CRC",
+      "url": "/astro-blender/crc/parts",
+      "code": "crc"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T17:48:52.982899"
+}

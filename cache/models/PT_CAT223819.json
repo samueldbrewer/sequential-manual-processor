@@ -1,0 +1,171 @@
+{
+  "manufacturer": {
+    "name": "Carnes",
+    "code": "PT_CAT223819",
+    "uri": "carnes"
+  },
+  "models": [
+    {
+      "name": "ABBD",
+      "url": "/carnes/abbd/parts",
+      "code": "abbd"
+    },
+    {
+      "name": "ABWD",
+      "url": "/carnes/abwd/parts",
+      "code": "abwd"
+    },
+    {
+      "name": "ACEJ",
+      "url": "/carnes/acej/parts",
+      "code": "acej"
+    },
+    {
+      "name": "ACFJ",
+      "url": "/carnes/acfj/parts",
+      "code": "acfj"
+    },
+    {
+      "name": "ACWJ",
+      "url": "/carnes/acwj/parts",
+      "code": "acwj"
+    },
+    {
+      "name": "ADCC",
+      "url": "/carnes/adcc/parts",
+      "code": "adcc"
+    },
+    {
+      "name": "ADCD",
+      "url": "/carnes/adcd/parts",
+      "code": "adcd"
+    },
+    {
+      "name": "ARRE",
+      "url": "/carnes/arre/parts",
+      "code": "arre"
+    },
+    {
+      "name": "ASEH",
+      "url": "/carnes/aseh/parts",
+      "code": "aseh"
+    },
+    {
+      "name": "ASFH",
+      "url": "/carnes/asfh/parts",
+      "code": "asfh"
+    },
+    {
+      "name": "ASWH",
+      "url": "/carnes/aswh/parts",
+      "code": "aswh"
+    },
+    {
+      "name": "AVCD",
+      "url": "/carnes/avcd/parts",
+      "code": "avcd"
+    },
+    {
+      "name": "AVED",
+      "url": "/carnes/aved/parts",
+      "code": "aved"
+    },
+    {
+      "name": "AVRA",
+      "url": "/carnes/avra/parts",
+      "code": "avra"
+    },
+    {
+      "name": "AVWE",
+      "url": "/carnes/avwe/parts",
+      "code": "avwe"
+    },
+    {
+      "name": "VCDD",
+      "url": "/carnes/vcdd/parts",
+      "code": "vcdd"
+    },
+    {
+      "name": "VCDK",
+      "url": "/carnes/vcdk/parts",
+      "code": "vcdk"
+    },
+    {
+      "name": "VEBK",
+      "url": "/carnes/vebk/parts",
+      "code": "vebk"
+    },
+    {
+      "name": "VEDK",
+      "url": "/carnes/vedk/parts",
+      "code": "vedk"
+    },
+    {
+      "name": "VHBB",
+      "url": "/carnes/vhbb/parts",
+      "code": "vhbb"
+    },
+    {
+      "name": "VIBK",
+      "url": "/carnes/vibk/parts",
+      "code": "vibk"
+    },
+    {
+      "name": "VIDK",
+      "url": "/carnes/vidk/parts",
+      "code": "vidk"
+    },
+    {
+      "name": "VLBK",
+      "url": "/carnes/vlbk/parts",
+      "code": "vlbk"
+    },
+    {
+      "name": "VLDK",
+      "url": "/carnes/vldk/parts",
+      "code": "vldk"
+    },
+    {
+      "name": "VQBL",
+      "url": "/carnes/vqbl/parts",
+      "code": "vqbl"
+    },
+    {
+      "name": "VSBB",
+      "url": "/carnes/vsbb/parts",
+      "code": "vsbb"
+    },
+    {
+      "name": "VTBK",
+      "url": "/carnes/vtbk/parts",
+      "code": "vtbk"
+    },
+    {
+      "name": "VTDK",
+      "url": "/carnes/vtdk/parts",
+      "code": "vtdk"
+    },
+    {
+      "name": "VUBK",
+      "url": "/carnes/vubk/parts",
+      "code": "vubk"
+    },
+    {
+      "name": "VUDK",
+      "url": "/carnes/vudk/parts",
+      "code": "vudk"
+    },
+    {
+      "name": "VWBK",
+      "url": "/carnes/vwbk/parts",
+      "code": "vwbk"
+    },
+    {
+      "name": "VWDK",
+      "url": "/carnes/vwdk/parts",
+      "code": "vwdk"
+    }
+  ],
+  "total_models": 32,
+  "cached_at": "2025-08-14T18:04:29.793126"
+}

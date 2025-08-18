@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Perlick",
+    "code": "PT_CAT1158",
+    "uri": "perlick"
+  },
+  "models": [
+    {
+      "name": "3780-4B",
+      "url": "/perlick/3780-4b/parts",
+      "code": "3780-4b"
+    },
+    {
+      "name": "4200",
+      "url": "/perlick/4200/parts",
+      "code": "4200"
+    },
+    {
+      "name": "4204",
+      "url": "/perlick/4204/parts",
+      "code": "4204"
+    },
+    {
+      "name": "4204PR",
+      "url": "/perlick/4204pr/parts",
+      "code": "4204pr"
+    },
+    {
+      "name": "4204W",
+      "url": "/perlick/4204w/parts",
+      "code": "4204w"
+    },
+    {
+      "name": "4204WPR",
+      "url": "/perlick/4204wpr/parts",
+      "code": "4204wpr"
+    },
+    {
+      "name": "4210",
+      "url": "/perlick/4210/parts",
+      "code": "4210"
+    },
+    {
+      "name": "4210W",
+      "url": "/perlick/4210w/parts",
+      "code": "4210w"
+    },
+    {
+      "name": "4400QC SERIES",
+      "url": "/perlick/4400qc-series/parts",
+      "code": "4400qc-series"
+    },
+    {
+      "name": "4404",
+      "url": "/perlick/4404/parts",
+      "code": "4404"
+    },
+    {
+      "name": "4404W",
+      "url": "/perlick/4404w/parts",
+      "code": "4404w"
+    },
+    {
+      "name": "4410",
+      "url": "/perlick/4410/parts",
+      "code": "4410"
+    },
+    {
+      "name": "4410W",
+      "url": "/perlick/4410w/parts",
+      "code": "4410w"
+    },
+    {
+      "name": "4414",
+      "url": "/perlick/4414/parts",
+      "code": "4414"
+    },
+    {
+      "name": "4414-230",
+      "url": "/perlick/4414-230/parts",
+      "code": "4414-230"
+    },
+    {
+      "name": "4414W",
+      "url": "/perlick/4414w/parts",
+      "code": "4414w"
+    },
+    {
+      "name": "4420",
+      "url": "/perlick/4420/parts",
+      "code": "4420"
+    },
+    {
+      "name": "66134-1",
+      "url": "/perlick/66134-1/parts",
+      "code": "66134-1"
+    },
+    {
+      "name": "66134-2",
+      "url": "/perlick/66134-2/parts",
+      "code": "66134-2"
+    },
+    {
+      "name": "66134-3",
+      "url": "/perlick/66134-3/parts",
+      "code": "66134-3"
+    },
+    {
+      "name": "66134-4",
+      "url": "/perlick/66134-4/parts",
+      "code": "66134-4"
+    },
+    {
+      "name": "7258",
+      "url": "/perlick/7258/parts",
+      "code": "7258"
+    },
+    {
+      "name": "7260E",
+      "url": "/perlick/7260e/parts",
+      "code": "7260e"
+    },
+    {
+      "name": "7260E230",
+      "url": "/perlick/7260e230/parts",
+      "code": "7260e230"
+    },
+    {
+      "name": "7262D",
+      "url": "/perlick/7262d/parts",
+      "code": "7262d"
+    },
+    {
+      "name": "7262D230",
+      "url": "/perlick/7262d230/parts",
+      "code": "7262d230"
+    },
+    {
+      "name": "7264",
+      "url": "/perlick/7264/parts",
+      "code": "7264"
+    },
+    {
+      "name": "7264-230",
+      "url": "/perlick/7264-230/parts",
+      "code": "7264-230"
+    },
+    {
+      "name": "8000",
+      "url": "/perlick/8000/parts",
+      "code": "8000"
+    },
+    {
+      "name": "8000-230",
+      "url": "/perlick/8000-230/parts",
+      "code": "8000-230"
+    },
+    {
+      "name": "8184C",
+      "url": "/perlick/8184c/parts",
+      "code": "8184c"
+    },
+    {
+      "name": "834",
+      "url": "/perlick/834/parts",
+      "code": "834"
+    },
+    {
+      "name": "8340",
+      "url": "/perlick/8340/parts",
+      "code": "8340"
+    },
+    {
+      "name": "8350",
+      "url": "/perlick/8350/parts",
+      "code": "8350"
+    },
+    {
+      "name": "8365A",
+      "url": "/perlick/8365a/parts",
+      "code": "8365a"
+    },
+    {
+      "name": "924",
+      "url": "/perlick/924/parts",
+      "code": "924"
+    },
+    {
+      "name": "924 LOW LEAD",
+      "url": "/perlick/924-low-lead/parts",
+      "code": "924-low-lead"
+    },
+    {
+      "name": "926",
+      "url": "/perlick/926/parts",
+      "code": "926"
+    },
+    {
+      "name": "926 LOW LEAD",
+      "url": "/perlick/926-low-lead/parts",
+      "code": "926-low-lead"
+    },
+    {
+      "name": "9276A",
+      "url": "/perlick/9276a/parts",
+      "code": "9276a"
+    },
+    {
+      "name": "9277A",
+      "url": "/perlick/9277a/parts",
+      "code": "9277a"
+    },
+    {
+      "name": "9278A",
+      "url": "/perlick/9278a/parts",
+      "code": "9278a"
+    },
+    {
+      "name": "BBS60",
+      "url": "/perlick/bbs60/parts",
+      "code": "bbs60"
+    },
+    {
+      "name": "BBS84",
+      "url": "/perlick/bbs84/parts",
+      "code": "bbs84"
+    },
+    {
+      "name": "BBSN52",
+      "url": "/perlick/bbsn52/parts",
+      "code": "bbsn52"
+    },
+    {
+      "name": "BC24",
+      "url": "/perlick/bc24/parts",
+      "code": "bc24"
+    },
+    {
+      "name": "BC24-230",
+      "url": "/perlick/bc24-230/parts",
+      "code": "bc24-230"
+    },
+    {
+      "name": "BC36",
+      "url": "/perlick/bc36/parts",
+      "code": "bc36"
+    },
+    {
+      "name": "BC36-230",
+      "url": "/perlick/bc36-230/parts",
+      "code": "bc36-230"
+    },
+    {
+      "name": "BC36LT",
+      "url": "/perlick/bc36lt/parts",
+      "code": "bc36lt"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:49:02.684435"
+}

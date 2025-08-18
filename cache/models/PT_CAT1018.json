@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Bar Maid",
+    "code": "PT_CAT1018",
+    "uri": "bar-maid"
+  },
+  "models": [
+    {
+      "name": "A-200",
+      "url": "/bar-maid/a-200/parts",
+      "code": "a-200"
+    },
+    {
+      "name": "AA-SUB",
+      "url": "/bar-maid/aa-sub/parts",
+      "code": "aa-sub"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T17:51:47.129605"
+}

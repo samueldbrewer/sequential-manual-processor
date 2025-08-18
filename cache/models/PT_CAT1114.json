@@ -1,0 +1,131 @@
+{
+  "manufacturer": {
+    "name": "Jetspray",
+    "code": "PT_CAT1114",
+    "uri": "jetspray"
+  },
+  "models": [
+    {
+      "name": "A8420",
+      "url": "/jetspray/a8420/parts",
+      "code": "a8420"
+    },
+    {
+      "name": "A8421",
+      "url": "/jetspray/a8421/parts",
+      "code": "a8421"
+    },
+    {
+      "name": "A8422",
+      "url": "/jetspray/a8422/parts",
+      "code": "a8422"
+    },
+    {
+      "name": "A8430",
+      "url": "/jetspray/a8430/parts",
+      "code": "a8430"
+    },
+    {
+      "name": "A8431",
+      "url": "/jetspray/a8431/parts",
+      "code": "a8431"
+    },
+    {
+      "name": "A8432",
+      "url": "/jetspray/a8432/parts",
+      "code": "a8432"
+    },
+    {
+      "name": "A8450",
+      "url": "/jetspray/a8450/parts",
+      "code": "a8450"
+    },
+    {
+      "name": "A8530",
+      "url": "/jetspray/a8530/parts",
+      "code": "a8530"
+    },
+    {
+      "name": "A8531",
+      "url": "/jetspray/a8531/parts",
+      "code": "a8531"
+    },
+    {
+      "name": "A8532",
+      "url": "/jetspray/a8532/parts",
+      "code": "a8532"
+    },
+    {
+      "name": "A8533",
+      "url": "/jetspray/a8533/parts",
+      "code": "a8533"
+    },
+    {
+      "name": "A8540",
+      "url": "/jetspray/a8540/parts",
+      "code": "a8540"
+    },
+    {
+      "name": "A8541",
+      "url": "/jetspray/a8541/parts",
+      "code": "a8541"
+    },
+    {
+      "name": "A8542",
+      "url": "/jetspray/a8542/parts",
+      "code": "a8542"
+    },
+    {
+      "name": "A8543",
+      "url": "/jetspray/a8543/parts",
+      "code": "a8543"
+    },
+    {
+      "name": "A8560",
+      "url": "/jetspray/a8560/parts",
+      "code": "a8560"
+    },
+    {
+      "name": "A8661",
+      "url": "/jetspray/a8661/parts",
+      "code": "a8661"
+    },
+    {
+      "name": "A8662",
+      "url": "/jetspray/a8662/parts",
+      "code": "a8662"
+    },
+    {
+      "name": "A8663",
+      "url": "/jetspray/a8663/parts",
+      "code": "a8663"
+    },
+    {
+      "name": "A8701",
+      "url": "/jetspray/a8701/parts",
+      "code": "a8701"
+    },
+    {
+      "name": "A8711",
+      "url": "/jetspray/a8711/parts",
+      "code": "a8711"
+    },
+    {
+      "name": "A8731",
+      "url": "/jetspray/a8731/parts",
+      "code": "a8731"
+    },
+    {
+      "name": "EJ1",
+      "url": "/jetspray/ej1/parts",
+      "code": "ej1"
+    },
+    {
+      "name": "JT-20",
+      "url": "/jetspray/jt-20/parts",
+      "code": "jt-20"
+    }
+  ],
+  "total_models": 24,
+  "cached_at": "2025-08-14T19:09:30.766849"
+}

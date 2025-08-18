@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Groen",
+    "code": "PT_CAT1090",
+    "uri": "groen"
+  },
+  "models": [
+    {
+      "name": "(2)HY-3E",
+      "url": "/groen/2-hy-3e/parts",
+      "code": "2-hy-3e"
+    },
+    {
+      "name": "(2)HY-5E",
+      "url": "/groen/2-hy-5e/parts",
+      "code": "2-hy-5e"
+    },
+    {
+      "name": "(2)HY-5G",
+      "url": "/groen/2-hy-5g/parts",
+      "code": "2-hy-5g"
+    },
+    {
+      "name": "(2)TRI-RES-20G",
+      "url": "/groen/2-tri-res-20g/parts",
+      "code": "2-tri-res-20g"
+    },
+    {
+      "name": "161053",
+      "url": "/groen/161053/parts",
+      "code": "161053"
+    },
+    {
+      "name": "170944",
+      "url": "/groen/170944/parts",
+      "code": "170944"
+    },
+    {
+      "name": "2GSSP-BL-10ES",
+      "url": "/groen/2gssp-bl-10es/parts",
+      "code": "2gssp-bl-10es"
+    },
+    {
+      "name": "2GSSP-BL-10GS",
+      "url": "/groen/2gssp-bl-10gs/parts",
+      "code": "2gssp-bl-10gs"
+    },
+    {
+      "name": "2GSSP-BL-3ES",
+      "url": "/groen/2gssp-bl-3es/parts",
+      "code": "2gssp-bl-3es"
+    },
+    {
+      "name": "2GSSP-BL-3GS",
+      "url": "/groen/2gssp-bl-3gs/parts",
+      "code": "2gssp-bl-3gs"
+    },
+    {
+      "name": "2GSSP-BL-5ES",
+      "url": "/groen/2gssp-bl-5es/parts",
+      "code": "2gssp-bl-5es"
+    },
+    {
+      "name": "2GSSP-BL-5GS",
+      "url": "/groen/2gssp-bl-5gs/parts",
+      "code": "2gssp-bl-5gs"
+    },
+    {
+      "name": "AE/1-100",
+      "url": "/groen/ae-1-100/parts",
+      "code": "ae-1-100"
+    },
+    {
+      "name": "AE/1-20",
+      "url": "/groen/ae-1-20/parts",
+      "code": "ae-1-20"
+    },
+    {
+      "name": "AE/1-40",
+      "url": "/groen/ae-1-40/parts",
+      "code": "ae-1-40"
+    },
+    {
+      "name": "AE/1-60",
+      "url": "/groen/ae-1-60/parts",
+      "code": "ae-1-60"
+    },
+    {
+      "name": "AE/1-80",
+      "url": "/groen/ae-1-80/parts",
+      "code": "ae-1-80"
+    },
+    {
+      "name": "AH Series",
+      "url": "/groen/ah-series/parts",
+      "code": "ah-series"
+    },
+    {
+      "name": "AH-20",
+      "url": "/groen/ah-20/parts",
+      "code": "ah-20"
+    },
+    {
+      "name": "AH-30",
+      "url": "/groen/ah-30/parts",
+      "code": "ah-30"
+    },
+    {
+      "name": "AH-40",
+      "url": "/groen/ah-40/parts",
+      "code": "ah-40"
+    },
+    {
+      "name": "AH-60",
+      "url": "/groen/ah-60/parts",
+      "code": "ah-60"
+    },
+    {
+      "name": "AH-80",
+      "url": "/groen/ah-80/parts",
+      "code": "ah-80"
+    },
+    {
+      "name": "AH/1E-100",
+      "url": "/groen/ah-1e-100/parts",
+      "code": "ah-1e-100"
+    },
+    {
+      "name": "AH/1E-20",
+      "url": "/groen/ah-1e-20/parts",
+      "code": "ah-1e-20"
+    },
+    {
+      "name": "AH/1E-40",
+      "url": "/groen/ah-1e-40/parts",
+      "code": "ah-1e-40"
+    },
+    {
+      "name": "AH/1E-60",
+      "url": "/groen/ah-1e-60/parts",
+      "code": "ah-1e-60"
+    },
+    {
+      "name": "AH/1E-80",
+      "url": "/groen/ah-1e-80/parts",
+      "code": "ah-1e-80"
+    },
+    {
+      "name": "AHS",
+      "url": "/groen/ahs/parts",
+      "code": "ahs"
+    },
+    {
+      "name": "AHS-40",
+      "url": "/groen/ahs-40/parts",
+      "code": "ahs-40"
+    },
+    {
+      "name": "BPM-15E",
+      "url": "/groen/bpm-15e/parts",
+      "code": "bpm-15e"
+    },
+    {
+      "name": "BPM-15E2T",
+      "url": "/groen/bpm-15e2t/parts",
+      "code": "bpm-15e2t"
+    },
+    {
+      "name": "BPM-15EA",
+      "url": "/groen/bpm-15ea/parts",
+      "code": "bpm-15ea"
+    },
+    {
+      "name": "BPM-15EC",
+      "url": "/groen/bpm-15ec/parts",
+      "code": "bpm-15ec"
+    },
+    {
+      "name": "BPM-15G",
+      "url": "/groen/bpm-15g/parts",
+      "code": "bpm-15g"
+    },
+    {
+      "name": "BPM-15G2T",
+      "url": "/groen/bpm-15g2t/parts",
+      "code": "bpm-15g2t"
+    },
+    {
+      "name": "BPM-15GA",
+      "url": "/groen/bpm-15ga/parts",
+      "code": "bpm-15ga"
+    },
+    {
+      "name": "BPM-15GC",
+      "url": "/groen/bpm-15gc/parts",
+      "code": "bpm-15gc"
+    },
+    {
+      "name": "BPM-15GS",
+      "url": "/groen/bpm-15gs/parts",
+      "code": "bpm-15gs"
+    },
+    {
+      "name": "BPM-30E",
+      "url": "/groen/bpm-30e/parts",
+      "code": "bpm-30e"
+    },
+    {
+      "name": "BPM-30E2T",
+      "url": "/groen/bpm-30e2t/parts",
+      "code": "bpm-30e2t"
+    },
+    {
+      "name": "BPM-30EA",
+      "url": "/groen/bpm-30ea/parts",
+      "code": "bpm-30ea"
+    },
+    {
+      "name": "BPM-30EC",
+      "url": "/groen/bpm-30ec/parts",
+      "code": "bpm-30ec"
+    },
+    {
+      "name": "BPM-30G",
+      "url": "/groen/bpm-30g/parts",
+      "code": "bpm-30g"
+    },
+    {
+      "name": "BPM-30G2T",
+      "url": "/groen/bpm-30g2t/parts",
+      "code": "bpm-30g2t"
+    },
+    {
+      "name": "BPM-30GA",
+      "url": "/groen/bpm-30ga/parts",
+      "code": "bpm-30ga"
+    },
+    {
+      "name": "BPM-30GC",
+      "url": "/groen/bpm-30gc/parts",
+      "code": "bpm-30gc"
+    },
+    {
+      "name": "BPM-30GS",
+      "url": "/groen/bpm-30gs/parts",
+      "code": "bpm-30gs"
+    },
+    {
+      "name": "BPM-40E",
+      "url": "/groen/bpm-40e/parts",
+      "code": "bpm-40e"
+    },
+    {
+      "name": "BPM-40E2T",
+      "url": "/groen/bpm-40e2t/parts",
+      "code": "bpm-40e2t"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:49:19.979764"
+}

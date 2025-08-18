@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Master-Bilt",
+    "code": "PT_CAT1139",
+    "uri": "master-bilt"
+  },
+  "models": [
+    {
+      "name": "BB48N",
+      "url": "/master-bilt/bb48n/parts",
+      "code": "bb48n"
+    },
+    {
+      "name": "BB48NG",
+      "url": "/master-bilt/bb48ng/parts",
+      "code": "bb48ng"
+    },
+    {
+      "name": "BB60N",
+      "url": "/master-bilt/bb60n/parts",
+      "code": "bb60n"
+    },
+    {
+      "name": "BB60NG",
+      "url": "/master-bilt/bb60ng/parts",
+      "code": "bb60ng"
+    },
+    {
+      "name": "BB72N",
+      "url": "/master-bilt/bb72n/parts",
+      "code": "bb72n"
+    },
+    {
+      "name": "BB72NG",
+      "url": "/master-bilt/bb72ng/parts",
+      "code": "bb72ng"
+    },
+    {
+      "name": "BC50",
+      "url": "/master-bilt/bc50/parts",
+      "code": "bc50"
+    },
+    {
+      "name": "BC65",
+      "url": "/master-bilt/bc65/parts",
+      "code": "bc65"
+    },
+    {
+      "name": "BC80",
+      "url": "/master-bilt/bc80/parts",
+      "code": "bc80"
+    },
+    {
+      "name": "BCLZR10AC",
+      "url": "/master-bilt/bclzr10ac/parts",
+      "code": "bclzr10ac"
+    },
+    {
+      "name": "BEL-2-30",
+      "url": "/master-bilt/bel-2-30/parts",
+      "code": "bel-2-30"
+    },
+    {
+      "name": "BEL-2-30SC",
+      "url": "/master-bilt/bel-2-30sc/parts",
+      "code": "bel-2-30sc"
+    },
+    {
+      "name": "BEL-3-30",
+      "url": "/master-bilt/bel-3-30/parts",
+      "code": "bel-3-30"
+    },
+    {
+      "name": "BEL-3-30SC",
+      "url": "/master-bilt/bel-3-30sc/parts",
+      "code": "bel-3-30sc"
+    },
+    {
+      "name": "BEL-4-30",
+      "url": "/master-bilt/bel-4-30/parts",
+      "code": "bel-4-30"
+    },
+    {
+      "name": "BEL-4-30SC",
+      "url": "/master-bilt/bel-4-30sc/parts",
+      "code": "bel-4-30sc"
+    },
+    {
+      "name": "BEL-5-30",
+      "url": "/master-bilt/bel-5-30/parts",
+      "code": "bel-5-30"
+    },
+    {
+      "name": "BEL-5-30SC",
+      "url": "/master-bilt/bel-5-30sc/parts",
+      "code": "bel-5-30sc"
+    },
+    {
+      "name": "BEM-2-30",
+      "url": "/master-bilt/bem-2-30/parts",
+      "code": "bem-2-30"
+    },
+    {
+      "name": "BEM-2-30SC",
+      "url": "/master-bilt/bem-2-30sc/parts",
+      "code": "bem-2-30sc"
+    },
+    {
+      "name": "BEM-3-30",
+      "url": "/master-bilt/bem-3-30/parts",
+      "code": "bem-3-30"
+    },
+    {
+      "name": "BEM-3-30SC",
+      "url": "/master-bilt/bem-3-30sc/parts",
+      "code": "bem-3-30sc"
+    },
+    {
+      "name": "BEM-4-30",
+      "url": "/master-bilt/bem-4-30/parts",
+      "code": "bem-4-30"
+    },
+    {
+      "name": "BEM-4-30SC",
+      "url": "/master-bilt/bem-4-30sc/parts",
+      "code": "bem-4-30sc"
+    },
+    {
+      "name": "BEM-5-30",
+      "url": "/master-bilt/bem-5-30/parts",
+      "code": "bem-5-30"
+    },
+    {
+      "name": "BEM-5-30SC",
+      "url": "/master-bilt/bem-5-30sc/parts",
+      "code": "bem-5-30sc"
+    },
+    {
+      "name": "BHC-27",
+      "url": "/master-bilt/bhc-27/parts",
+      "code": "bhc-27"
+    },
+    {
+      "name": "BHC-48",
+      "url": "/master-bilt/bhc-48/parts",
+      "code": "bhc-48"
+    },
+    {
+      "name": "BLG-12",
+      "url": "/master-bilt/blg-12/parts",
+      "code": "blg-12"
+    },
+    {
+      "name": "BLG-12HD",
+      "url": "/master-bilt/blg-12hd/parts",
+      "code": "blg-12hd"
+    },
+    {
+      "name": "BLG-23-HGP",
+      "url": "/master-bilt/blg-23-hgp/parts",
+      "code": "blg-23-hgp"
+    },
+    {
+      "name": "BLG-27",
+      "url": "/master-bilt/blg-27/parts",
+      "code": "blg-27"
+    },
+    {
+      "name": "BLG-27-HGP",
+      "url": "/master-bilt/blg-27-hgp/parts",
+      "code": "blg-27-hgp"
+    },
+    {
+      "name": "BLG-27HD",
+      "url": "/master-bilt/blg-27hd/parts",
+      "code": "blg-27hd"
+    },
+    {
+      "name": "BLG-48",
+      "url": "/master-bilt/blg-48/parts",
+      "code": "blg-48"
+    },
+    {
+      "name": "BLG-48-HGP",
+      "url": "/master-bilt/blg-48-hgp/parts",
+      "code": "blg-48-hgp"
+    },
+    {
+      "name": "BLG-48HD",
+      "url": "/master-bilt/blg-48hd/parts",
+      "code": "blg-48hd"
+    },
+    {
+      "name": "BLG-52",
+      "url": "/master-bilt/blg-52/parts",
+      "code": "blg-52"
+    },
+    {
+      "name": "BLG-52HD",
+      "url": "/master-bilt/blg-52hd/parts",
+      "code": "blg-52hd"
+    },
+    {
+      "name": "BLG-74",
+      "url": "/master-bilt/blg-74/parts",
+      "code": "blg-74"
+    },
+    {
+      "name": "BLG-74-HGP",
+      "url": "/master-bilt/blg-74-hgp/parts",
+      "code": "blg-74-hgp"
+    },
+    {
+      "name": "BLG-74HD",
+      "url": "/master-bilt/blg-74hd/parts",
+      "code": "blg-74hd"
+    },
+    {
+      "name": "BLG-80",
+      "url": "/master-bilt/blg-80/parts",
+      "code": "blg-80"
+    },
+    {
+      "name": "BLG-80HD",
+      "url": "/master-bilt/blg-80hd/parts",
+      "code": "blg-80hd"
+    },
+    {
+      "name": "BMG-23-HGP",
+      "url": "/master-bilt/bmg-23-hgp/parts",
+      "code": "bmg-23-hgp"
+    },
+    {
+      "name": "BMG-27",
+      "url": "/master-bilt/bmg-27/parts",
+      "code": "bmg-27"
+    },
+    {
+      "name": "BMG-27-HGP",
+      "url": "/master-bilt/bmg-27-hgp/parts",
+      "code": "bmg-27-hgp"
+    },
+    {
+      "name": "BMG-48",
+      "url": "/master-bilt/bmg-48/parts",
+      "code": "bmg-48"
+    },
+    {
+      "name": "BMG-48-HGP",
+      "url": "/master-bilt/bmg-48-hgp/parts",
+      "code": "bmg-48-hgp"
+    },
+    {
+      "name": "BMG-48-SLP",
+      "url": "/master-bilt/bmg-48-slp/parts",
+      "code": "bmg-48-slp"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:28:22.239212"
+}

@@ -1,0 +1,151 @@
+{
+  "manufacturer": {
+    "name": "Saeco",
+    "code": "PT_CAT223760",
+    "uri": "saeco"
+  },
+  "models": [
+    {
+      "name": "03510US77G",
+      "url": "/saeco/03510us77g/parts",
+      "code": "03510us77g"
+    },
+    {
+      "name": "HD8325/47",
+      "url": "/saeco/hd8325-47/parts",
+      "code": "hd8325-47"
+    },
+    {
+      "name": "HD8327/47",
+      "url": "/saeco/hd8327-47/parts",
+      "code": "hd8327-47"
+    },
+    {
+      "name": "HD8751/47",
+      "url": "/saeco/hd8751-47/parts",
+      "code": "hd8751-47"
+    },
+    {
+      "name": "HD8752/87",
+      "url": "/saeco/hd8752-87/parts",
+      "code": "hd8752-87"
+    },
+    {
+      "name": "HD8753/87",
+      "url": "/saeco/hd8753-87/parts",
+      "code": "hd8753-87"
+    },
+    {
+      "name": "HD8758/57",
+      "url": "/saeco/hd8758-57/parts",
+      "code": "hd8758-57"
+    },
+    {
+      "name": "HD8759/47",
+      "url": "/saeco/hd8759-47/parts",
+      "code": "hd8759-47"
+    },
+    {
+      "name": "HD8765/47",
+      "url": "/saeco/hd8765-47/parts",
+      "code": "hd8765-47"
+    },
+    {
+      "name": "HD8767/47",
+      "url": "/saeco/hd8767-47/parts",
+      "code": "hd8767-47"
+    },
+    {
+      "name": "HD8768/01",
+      "url": "/saeco/hd8768-01/parts",
+      "code": "hd8768-01"
+    },
+    {
+      "name": "HD8771/93",
+      "url": "/saeco/hd8771-93/parts",
+      "code": "hd8771-93"
+    },
+    {
+      "name": "HD8772/47",
+      "url": "/saeco/hd8772-47/parts",
+      "code": "hd8772-47"
+    },
+    {
+      "name": "HD8773/47",
+      "url": "/saeco/hd8773-47/parts",
+      "code": "hd8773-47"
+    },
+    {
+      "name": "HD8775/48",
+      "url": "/saeco/hd8775-48/parts",
+      "code": "hd8775-48"
+    },
+    {
+      "name": "HD8869/47",
+      "url": "/saeco/hd8869-47/parts",
+      "code": "hd8869-47"
+    },
+    {
+      "name": "HD8924/47",
+      "url": "/saeco/hd8924-47/parts",
+      "code": "hd8924-47"
+    },
+    {
+      "name": "HD8927/47",
+      "url": "/saeco/hd8927-47/parts",
+      "code": "hd8927-47"
+    },
+    {
+      "name": "HD8930/47",
+      "url": "/saeco/hd8930-47/parts",
+      "code": "hd8930-47"
+    },
+    {
+      "name": "HD8944/47",
+      "url": "/saeco/hd8944-47/parts",
+      "code": "hd8944-47"
+    },
+    {
+      "name": "HD8946/47",
+      "url": "/saeco/hd8946-47/parts",
+      "code": "hd8946-47"
+    },
+    {
+      "name": "HD8954/47",
+      "url": "/saeco/hd8954-47/parts",
+      "code": "hd8954-47"
+    },
+    {
+      "name": "RI9822/47",
+      "url": "/saeco/ri9822-47/parts",
+      "code": "ri9822-47"
+    },
+    {
+      "name": "RI9828/47",
+      "url": "/saeco/ri9828-47/parts",
+      "code": "ri9828-47"
+    },
+    {
+      "name": "RI9946/47",
+      "url": "/saeco/ri9946-47/parts",
+      "code": "ri9946-47"
+    },
+    {
+      "name": "SM5572/10",
+      "url": "/saeco/sm5572-10/parts",
+      "code": "sm5572-10"
+    },
+    {
+      "name": "SM7684/04",
+      "url": "/saeco/sm7684-04/parts",
+      "code": "sm7684-04"
+    },
+    {
+      "name": "SM7685/04",
+      "url": "/saeco/sm7685-04/parts",
+      "code": "sm7685-04"
+    }
+  ],
+  "total_models": 28,
+  "cached_at": "2025-08-14T20:46:50.482874"
+}

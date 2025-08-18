@@ -1,0 +1,81 @@
+{
+  "manufacturer": {
+    "name": "Anthony International",
+    "code": "PT_CAT1012",
+    "uri": "anthony-international"
+  },
+  "models": [
+    {
+      "name": "101 Series",
+      "url": "/anthony-international/101-series/parts",
+      "code": "101-series"
+    },
+    {
+      "name": "1950 Series",
+      "url": "/anthony-international/1950-series/parts",
+      "code": "1950-series"
+    },
+    {
+      "name": "401 Series",
+      "url": "/anthony-international/401-series/parts",
+      "code": "401-series"
+    },
+    {
+      "name": "403 Series",
+      "url": "/anthony-international/403-series/parts",
+      "code": "403-series"
+    },
+    {
+      "name": "Eliminaator",
+      "url": "/anthony-international/eliminaator/parts",
+      "code": "eliminaator"
+    },
+    {
+      "name": "Eliminaator Renu",
+      "url": "/anthony-international/eliminaator-renu/parts",
+      "code": "eliminaator-renu"
+    },
+    {
+      "name": "Infinity 60",
+      "url": "/anthony-international/infinity-60/parts",
+      "code": "infinity-60"
+    },
+    {
+      "name": "Infinity 90",
+      "url": "/anthony-international/infinity-90/parts",
+      "code": "infinity-90"
+    },
+    {
+      "name": "Kodiak",
+      "url": "/anthony-international/kodiak/parts",
+      "code": "kodiak"
+    },
+    {
+      "name": "Slide Lids",
+      "url": "/anthony-international/slide-lids/parts",
+      "code": "slide-lids"
+    },
+    {
+      "name": "VSDR",
+      "url": "/anthony-international/vsdr/parts",
+      "code": "vsdr"
+    },
+    {
+      "name": "VSER",
+      "url": "/anthony-international/vser/parts",
+      "code": "vser"
+    },
+    {
+      "name": "Vista B",
+      "url": "/anthony-international/vista-b/parts",
+      "code": "vista-b"
+    },
+    {
+      "name": "Vista C",
+      "url": "/anthony-international/vista-c/parts",
+      "code": "vista-c"
+    }
+  ],
+  "total_models": 14,
+  "cached_at": "2025-08-14T17:45:30.598595"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Blakeslee",
+    "code": "PT_CAT1026",
+    "uri": "blakeslee"
+  },
+  "models": [
+    {
+      "name": "B-12",
+      "url": "/blakeslee/b-12/parts",
+      "code": "b-12"
+    },
+    {
+      "name": "B-20",
+      "url": "/blakeslee/b-20/parts",
+      "code": "b-20"
+    },
+    {
+      "name": "BB1224",
+      "url": "/blakeslee/bb1224/parts",
+      "code": "bb1224"
+    },
+    {
+      "name": "BB2016",
+      "url": "/blakeslee/bb2016/parts",
+      "code": "bb2016"
+    },
+    {
+      "name": "BB914",
+      "url": "/blakeslee/bb914/parts",
+      "code": "bb914"
+    },
+    {
+      "name": "D-18",
+      "url": "/blakeslee/d-18/parts",
+      "code": "d-18"
+    },
+    {
+      "name": "D-3000",
+      "url": "/blakeslee/d-3000/parts",
+      "code": "d-3000"
+    },
+    {
+      "name": "D-8",
+      "url": "/blakeslee/d-8/parts",
+      "code": "d-8"
+    },
+    {
+      "name": "D-8B",
+      "url": "/blakeslee/d-8b/parts",
+      "code": "d-8b"
+    },
+    {
+      "name": "D-8LT",
+      "url": "/blakeslee/d-8lt/parts",
+      "code": "d-8lt"
+    },
+    {
+      "name": "DD-40",
+      "url": "/blakeslee/dd-40/parts",
+      "code": "dd-40"
+    },
+    {
+      "name": "DD-60",
+      "url": "/blakeslee/dd-60/parts",
+      "code": "dd-60"
+    },
+    {
+      "name": "DD-8",
+      "url": "/blakeslee/dd-8/parts",
+      "code": "dd-8"
+    },
+    {
+      "name": "DD-80",
+      "url": "/blakeslee/dd-80/parts",
+      "code": "dd-80"
+    },
+    {
+      "name": "F-20",
+      "url": "/blakeslee/f-20/parts",
+      "code": "f-20"
+    },
+    {
+      "name": "F-30",
+      "url": "/blakeslee/f-30/parts",
+      "code": "f-30"
+    },
+    {
+      "name": "FLIGHT",
+      "url": "/blakeslee/flight/parts",
+      "code": "flight"
+    },
+    {
+      "name": "FLIGHT-A-ROUND",
+      "url": "/blakeslee/flight-a-round/parts",
+      "code": "flight-a-round"
+    },
+    {
+      "name": "G-1000-1",
+      "url": "/blakeslee/g-1000-1/parts",
+      "code": "g-1000-1"
+    },
+    {
+      "name": "G-2000-F",
+      "url": "/blakeslee/g-2000-f/parts",
+      "code": "g-2000-f"
+    },
+    {
+      "name": "G-3000",
+      "url": "/blakeslee/g-3000/parts",
+      "code": "g-3000"
+    },
+    {
+      "name": "R-CC-64",
+      "url": "/blakeslee/r-cc-64/parts",
+      "code": "r-cc-64"
+    },
+    {
+      "name": "R-CCC-96",
+      "url": "/blakeslee/r-ccc-96/parts",
+      "code": "r-ccc-96"
+    },
+    {
+      "name": "R-E-36",
+      "url": "/blakeslee/r-e-36/parts",
+      "code": "r-e-36"
+    },
+    {
+      "name": "R-EE-72",
+      "url": "/blakeslee/r-ee-72/parts",
+      "code": "r-ee-72"
+    },
+    {
+      "name": "R-EEE-108",
+      "url": "/blakeslee/r-eee-108/parts",
+      "code": "r-eee-108"
+    },
+    {
+      "name": "R-L-40",
+      "url": "/blakeslee/r-l-40/parts",
+      "code": "r-l-40"
+    },
+    {
+      "name": "R-LL-80",
+      "url": "/blakeslee/r-ll-80/parts",
+      "code": "r-ll-80"
+    },
+    {
+      "name": "R-LLL-120",
+      "url": "/blakeslee/r-lll-120/parts",
+      "code": "r-lll-120"
+    },
+    {
+      "name": "R-M-50",
+      "url": "/blakeslee/r-m-50/parts",
+      "code": "r-m-50"
+    },
+    {
+      "name": "R-MM-100",
+      "url": "/blakeslee/r-mm-100/parts",
+      "code": "r-mm-100"
+    },
+    {
+      "name": "R-MMM-150",
+      "url": "/blakeslee/r-mmm-150/parts",
+      "code": "r-mmm-150"
+    },
+    {
+      "name": "RC-44-3",
+      "url": "/blakeslee/rc-44-3/parts",
+      "code": "rc-44-3"
+    },
+    {
+      "name": "RC-44-3 DR24",
+      "url": "/blakeslee/rc-44-3-dr24/parts",
+      "code": "rc-44-3-dr24"
+    },
+    {
+      "name": "RC-44-3 HR",
+      "url": "/blakeslee/rc-44-3-hr/parts",
+      "code": "rc-44-3-hr"
+    },
+    {
+      "name": "RC-44-3 HR+DR24",
+      "url": "/blakeslee/rc-44-3-hr-dr24/parts",
+      "code": "rc-44-3-hr-dr24"
+    },
+    {
+      "name": "RC-62-3",
+      "url": "/blakeslee/rc-62-3/parts",
+      "code": "rc-62-3"
+    },
+    {
+      "name": "RC-62-3 DR24",
+      "url": "/blakeslee/rc-62-3-dr24/parts",
+      "code": "rc-62-3-dr24"
+    },
+    {
+      "name": "RC-62-3 HR",
+      "url": "/blakeslee/rc-62-3-hr/parts",
+      "code": "rc-62-3-hr"
+    },
+    {
+      "name": "RC-62-3 HR + DR24",
+      "url": "/blakeslee/rc-62-3-hr-dr24/parts",
+      "code": "rc-62-3-hr-dr24"
+    },
+    {
+      "name": "RC-64-3",
+      "url": "/blakeslee/rc-64-3/parts",
+      "code": "rc-64-3"
+    },
+    {
+      "name": "RC-64-3 DR69",
+      "url": "/blakeslee/rc-64-3-dr69/parts",
+      "code": "rc-64-3-dr69"
+    },
+    {
+      "name": "RC-64-3 DR99",
+      "url": "/blakeslee/rc-64-3-dr99/parts",
+      "code": "rc-64-3-dr99"
+    },
+    {
+      "name": "RC-64-3 HR",
+      "url": "/blakeslee/rc-64-3-hr/parts",
+      "code": "rc-64-3-hr"
+    },
+    {
+      "name": "RC-64-3 HR + DR69",
+      "url": "/blakeslee/rc-64-3-hr-dr69/parts",
+      "code": "rc-64-3-hr-dr69"
+    },
+    {
+      "name": "RC-64-3 HR + DR99",
+      "url": "/blakeslee/rc-64-3-hr-dr99/parts",
+      "code": "rc-64-3-hr-dr99"
+    },
+    {
+      "name": "RC-86-3",
+      "url": "/blakeslee/rc-86-3/parts",
+      "code": "rc-86-3"
+    },
+    {
+      "name": "RC-86-3 DR69",
+      "url": "/blakeslee/rc-86-3-dr69/parts",
+      "code": "rc-86-3-dr69"
+    },
+    {
+      "name": "RC-86-3 DR99",
+      "url": "/blakeslee/rc-86-3-dr99/parts",
+      "code": "rc-86-3-dr99"
+    },
+    {
+      "name": "RC-86-3 HR",
+      "url": "/blakeslee/rc-86-3-hr/parts",
+      "code": "rc-86-3-hr"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:55:23.661261"
+}

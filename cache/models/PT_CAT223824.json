@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Friedrich",
+    "code": "PT_CAT223824",
+    "uri": "friedrich"
+  },
+  "models": [
+    {
+      "name": "AP260",
+      "url": "/friedrich/ap260/parts",
+      "code": "ap260"
+    },
+    {
+      "name": "CCF05A10A",
+      "url": "/friedrich/ccf05a10a/parts",
+      "code": "ccf05a10a"
+    },
+    {
+      "name": "CCF05B10A",
+      "url": "/friedrich/ccf05b10a/parts",
+      "code": "ccf05b10a"
+    },
+    {
+      "name": "CCF06A10A",
+      "url": "/friedrich/ccf06a10a/parts",
+      "code": "ccf06a10a"
+    },
+    {
+      "name": "CCF06B10A",
+      "url": "/friedrich/ccf06b10a/parts",
+      "code": "ccf06b10a"
+    },
+    {
+      "name": "CCF08A10A",
+      "url": "/friedrich/ccf08a10a/parts",
+      "code": "ccf08a10a"
+    },
+    {
+      "name": "CCF08B10A",
+      "url": "/friedrich/ccf08b10a/parts",
+      "code": "ccf08b10a"
+    },
+    {
+      "name": "CCF10A10A",
+      "url": "/friedrich/ccf10a10a/parts",
+      "code": "ccf10a10a"
+    },
+    {
+      "name": "CCF10B10A",
+      "url": "/friedrich/ccf10b10a/parts",
+      "code": "ccf10b10a"
+    },
+    {
+      "name": "CCF12A10A",
+      "url": "/friedrich/ccf12a10a/parts",
+      "code": "ccf12a10a"
+    },
+    {
+      "name": "CCF12B10A",
+      "url": "/friedrich/ccf12b10a/parts",
+      "code": "ccf12b10a"
+    },
+    {
+      "name": "CCV08A10A",
+      "url": "/friedrich/ccv08a10a/parts",
+      "code": "ccv08a10a"
+    },
+    {
+      "name": "CCV10A10A",
+      "url": "/friedrich/ccv10a10a/parts",
+      "code": "ccv10a10a"
+    },
+    {
+      "name": "CCV12A10A",
+      "url": "/friedrich/ccv12a10a/parts",
+      "code": "ccv12a10a"
+    },
+    {
+      "name": "CCW06B10A",
+      "url": "/friedrich/ccw06b10a/parts",
+      "code": "ccw06b10a"
+    },
+    {
+      "name": "CCW06B10B",
+      "url": "/friedrich/ccw06b10b/parts",
+      "code": "ccw06b10b"
+    },
+    {
+      "name": "CCW08B10A",
+      "url": "/friedrich/ccw08b10a/parts",
+      "code": "ccw08b10a"
+    },
+    {
+      "name": "CCW08B10B",
+      "url": "/friedrich/ccw08b10b/parts",
+      "code": "ccw08b10b"
+    },
+    {
+      "name": "CCW10B10A",
+      "url": "/friedrich/ccw10b10a/parts",
+      "code": "ccw10b10a"
+    },
+    {
+      "name": "CCW10B10B",
+      "url": "/friedrich/ccw10b10b/parts",
+      "code": "ccw10b10b"
+    },
+    {
+      "name": "CCW12B10A",
+      "url": "/friedrich/ccw12b10a/parts",
+      "code": "ccw12b10a"
+    },
+    {
+      "name": "CCW12B10B",
+      "url": "/friedrich/ccw12b10b/parts",
+      "code": "ccw12b10b"
+    },
+    {
+      "name": "CCW15B10A",
+      "url": "/friedrich/ccw15b10a/parts",
+      "code": "ccw15b10a"
+    },
+    {
+      "name": "CCW18B30A",
+      "url": "/friedrich/ccw18b30a/parts",
+      "code": "ccw18b30a"
+    },
+    {
+      "name": "CCW18B30B",
+      "url": "/friedrich/ccw18b30b/parts",
+      "code": "ccw18b30b"
+    },
+    {
+      "name": "CCW24B30A",
+      "url": "/friedrich/ccw24b30a/parts",
+      "code": "ccw24b30a"
+    },
+    {
+      "name": "CEW08B11A",
+      "url": "/friedrich/cew08b11a/parts",
+      "code": "cew08b11a"
+    },
+    {
+      "name": "CEW12B33A",
+      "url": "/friedrich/cew12b33a/parts",
+      "code": "cew12b33a"
+    },
+    {
+      "name": "CEW24B33A",
+      "url": "/friedrich/cew24b33a/parts",
+      "code": "cew24b33a"
+    },
+    {
+      "name": "CP05G10A",
+      "url": "/friedrich/cp05g10a/parts",
+      "code": "cp05g10a"
+    },
+    {
+      "name": "CP05G10B",
+      "url": "/friedrich/cp05g10b/parts",
+      "code": "cp05g10b"
+    },
+    {
+      "name": "CP06G10A",
+      "url": "/friedrich/cp06g10a/parts",
+      "code": "cp06g10a"
+    },
+    {
+      "name": "CP06G10B",
+      "url": "/friedrich/cp06g10b/parts",
+      "code": "cp06g10b"
+    },
+    {
+      "name": "CP08G10A",
+      "url": "/friedrich/cp08g10a/parts",
+      "code": "cp08g10a"
+    },
+    {
+      "name": "CP08G10B",
+      "url": "/friedrich/cp08g10b/parts",
+      "code": "cp08g10b"
+    },
+    {
+      "name": "CP10G10A",
+      "url": "/friedrich/cp10g10a/parts",
+      "code": "cp10g10a"
+    },
+    {
+      "name": "CP10G10B",
+      "url": "/friedrich/cp10g10b/parts",
+      "code": "cp10g10b"
+    },
+    {
+      "name": "CP12G10A",
+      "url": "/friedrich/cp12g10a/parts",
+      "code": "cp12g10a"
+    },
+    {
+      "name": "CP12G10B",
+      "url": "/friedrich/cp12g10b/parts",
+      "code": "cp12g10b"
+    },
+    {
+      "name": "CP15G10A",
+      "url": "/friedrich/cp15g10a/parts",
+      "code": "cp15g10a"
+    },
+    {
+      "name": "CP15G10B",
+      "url": "/friedrich/cp15g10b/parts",
+      "code": "cp15g10b"
+    },
+    {
+      "name": "CP18G30A",
+      "url": "/friedrich/cp18g30a/parts",
+      "code": "cp18g30a"
+    },
+    {
+      "name": "CP18G30B",
+      "url": "/friedrich/cp18g30b/parts",
+      "code": "cp18g30b"
+    },
+    {
+      "name": "CP18G30B-A",
+      "url": "/friedrich/cp18g30b-a/parts",
+      "code": "cp18g30b-a"
+    },
+    {
+      "name": "CP24G30A",
+      "url": "/friedrich/cp24g30a/parts",
+      "code": "cp24g30a"
+    },
+    {
+      "name": "CP24G30B",
+      "url": "/friedrich/cp24g30b/parts",
+      "code": "cp24g30b"
+    },
+    {
+      "name": "D25BNP",
+      "url": "/friedrich/d25bnp/parts",
+      "code": "d25bnp"
+    },
+    {
+      "name": "D35B1A",
+      "url": "/friedrich/d35b1a/parts",
+      "code": "d35b1a"
+    },
+    {
+      "name": "D50B1A",
+      "url": "/friedrich/d50b1a/parts",
+      "code": "d50b1a"
+    },
+    {
+      "name": "D50BP",
+      "url": "/friedrich/d50bp/parts",
+      "code": "d50bp"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:38:31.399495"
+}

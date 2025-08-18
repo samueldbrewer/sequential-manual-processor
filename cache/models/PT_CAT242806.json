@@ -1,0 +1,71 @@
+{
+  "manufacturer": {
+    "name": "Angelo Po",
+    "code": "PT_CAT242806",
+    "uri": "angelo-po"
+  },
+  "models": [
+    {
+      "name": "FX101E3",
+      "url": "/angelo-po/fx101e3/parts",
+      "code": "fx101e3"
+    },
+    {
+      "name": "FX101G3",
+      "url": "/angelo-po/fx101g3/parts",
+      "code": "fx101g3"
+    },
+    {
+      "name": "FX122E3",
+      "url": "/angelo-po/fx122e3/parts",
+      "code": "fx122e3"
+    },
+    {
+      "name": "FX122G3",
+      "url": "/angelo-po/fx122g3/parts",
+      "code": "fx122g3"
+    },
+    {
+      "name": "FX201E3",
+      "url": "/angelo-po/fx201e3/parts",
+      "code": "fx201e3"
+    },
+    {
+      "name": "FX201G3",
+      "url": "/angelo-po/fx201g3/parts",
+      "code": "fx201g3"
+    },
+    {
+      "name": "FX202E3",
+      "url": "/angelo-po/fx202e3/parts",
+      "code": "fx202e3"
+    },
+    {
+      "name": "FX202G3",
+      "url": "/angelo-po/fx202g3/parts",
+      "code": "fx202g3"
+    },
+    {
+      "name": "FX61E3",
+      "url": "/angelo-po/fx61e3/parts",
+      "code": "fx61e3"
+    },
+    {
+      "name": "FX61G3",
+      "url": "/angelo-po/fx61g3/parts",
+      "code": "fx61g3"
+    },
+    {
+      "name": "FX82E3",
+      "url": "/angelo-po/fx82e3/parts",
+      "code": "fx82e3"
+    },
+    {
+      "name": "FX82G3",
+      "url": "/angelo-po/fx82g3/parts",
+      "code": "fx82g3"
+    }
+  ],
+  "total_models": 12,
+  "cached_at": "2025-08-14T17:45:19.542430"
+}

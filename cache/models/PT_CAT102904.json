@@ -1,0 +1,51 @@
+{
+  "manufacturer": {
+    "name": "Ready Access",
+    "code": "PT_CAT102904",
+    "uri": "ready-access"
+  },
+  "models": [
+    {
+      "name": "131",
+      "url": "/ready-access/131/parts",
+      "code": "131"
+    },
+    {
+      "name": "275",
+      "url": "/ready-access/275/parts",
+      "code": "275"
+    },
+    {
+      "name": "600 Series",
+      "url": "/ready-access/600-series/parts",
+      "code": "600-series"
+    },
+    {
+      "name": "AA100",
+      "url": "/ready-access/aa100/parts",
+      "code": "aa100"
+    },
+    {
+      "name": "AA300",
+      "url": "/ready-access/aa300/parts",
+      "code": "aa300"
+    },
+    {
+      "name": "BO-10",
+      "url": "/ready-access/bo-10/parts",
+      "code": "bo-10"
+    },
+    {
+      "name": "BO-2",
+      "url": "/ready-access/bo-2/parts",
+      "code": "bo-2"
+    },
+    {
+      "name": "BO-4",
+      "url": "/ready-access/bo-4/parts",
+      "code": "bo-4"
+    }
+  ],
+  "total_models": 8,
+  "cached_at": "2025-08-14T19:56:50.693114"
+}

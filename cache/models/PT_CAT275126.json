@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Huebsch",
+    "code": "PT_CAT275126",
+    "uri": "huebsch"
+  },
+  "models": [
+    {
+      "name": "ATZ90A*N1102",
+      "url": "/huebsch/atz90a-n1102/parts",
+      "code": "atz90a-n1102"
+    },
+    {
+      "name": "DA0220SRG",
+      "url": "/huebsch/da0220srg/parts",
+      "code": "da0220srg"
+    },
+    {
+      "name": "DA0270SRG",
+      "url": "/huebsch/da0270srg/parts",
+      "code": "da0270srg"
+    },
+    {
+      "name": "DA0350SRG",
+      "url": "/huebsch/da0350srg/parts",
+      "code": "da0350srg"
+    },
+    {
+      "name": "DC0220SEL",
+      "url": "/huebsch/dc0220sel/parts",
+      "code": "dc0220sel"
+    },
+    {
+      "name": "DC0220SFG",
+      "url": "/huebsch/dc0220sfg/parts",
+      "code": "dc0220sfg"
+    },
+    {
+      "name": "DC0220SRG",
+      "url": "/huebsch/dc0220srg/parts",
+      "code": "dc0220srg"
+    },
+    {
+      "name": "DC0220SSH",
+      "url": "/huebsch/dc0220ssh/parts",
+      "code": "dc0220ssh"
+    },
+    {
+      "name": "DC0220SSL",
+      "url": "/huebsch/dc0220ssl/parts",
+      "code": "dc0220ssl"
+    },
+    {
+      "name": "DC0270SEL",
+      "url": "/huebsch/dc0270sel/parts",
+      "code": "dc0270sel"
+    },
+    {
+      "name": "DC0270SFG",
+      "url": "/huebsch/dc0270sfg/parts",
+      "code": "dc0270sfg"
+    },
+    {
+      "name": "DC0270SRG",
+      "url": "/huebsch/dc0270srg/parts",
+      "code": "dc0270srg"
+    },
+    {
+      "name": "DC0270SSH",
+      "url": "/huebsch/dc0270ssh/parts",
+      "code": "dc0270ssh"
+    },
+    {
+      "name": "DC0270SSL",
+      "url": "/huebsch/dc0270ssl/parts",
+      "code": "dc0270ssl"
+    },
+    {
+      "name": "DC0300DEL",
+      "url": "/huebsch/dc0300del/parts",
+      "code": "dc0300del"
+    },
+    {
+      "name": "DC0300DFG",
+      "url": "/huebsch/dc0300dfg/parts",
+      "code": "dc0300dfg"
+    },
+    {
+      "name": "DC0300DRG",
+      "url": "/huebsch/dc0300drg/parts",
+      "code": "dc0300drg"
+    },
+    {
+      "name": "DC0300DSL",
+      "url": "/huebsch/dc0300dsl/parts",
+      "code": "dc0300dsl"
+    },
+    {
+      "name": "DC0350SEL",
+      "url": "/huebsch/dc0350sel/parts",
+      "code": "dc0350sel"
+    },
+    {
+      "name": "DC0350SFG",
+      "url": "/huebsch/dc0350sfg/parts",
+      "code": "dc0350sfg"
+    },
+    {
+      "name": "DC0350SRG",
+      "url": "/huebsch/dc0350srg/parts",
+      "code": "dc0350srg"
+    },
+    {
+      "name": "DC0350SSH",
+      "url": "/huebsch/dc0350ssh/parts",
+      "code": "dc0350ssh"
+    },
+    {
+      "name": "DC0350SSL",
+      "url": "/huebsch/dc0350ssl/parts",
+      "code": "dc0350ssl"
+    },
+    {
+      "name": "DC120CSH",
+      "url": "/huebsch/dc120csh/parts",
+      "code": "dc120csh"
+    },
+    {
+      "name": "DC120FG",
+      "url": "/huebsch/dc120fg/parts",
+      "code": "dc120fg"
+    },
+    {
+      "name": "DC170CSH",
+      "url": "/huebsch/dc170csh/parts",
+      "code": "dc170csh"
+    },
+    {
+      "name": "DC170FG",
+      "url": "/huebsch/dc170fg/parts",
+      "code": "dc170fg"
+    },
+    {
+      "name": "DC20AC2",
+      "url": "/huebsch/dc20ac2/parts",
+      "code": "dc20ac2"
+    },
+    {
+      "name": "DC20NC2",
+      "url": "/huebsch/dc20nc2/parts",
+      "code": "dc20nc2"
+    },
+    {
+      "name": "DC25NC2",
+      "url": "/huebsch/dc25nc2/parts",
+      "code": "dc25nc2"
+    },
+    {
+      "name": "DC30AC2",
+      "url": "/huebsch/dc30ac2/parts",
+      "code": "dc30ac2"
+    },
+    {
+      "name": "DC30NC2",
+      "url": "/huebsch/dc30nc2/parts",
+      "code": "dc30nc2"
+    },
+    {
+      "name": "DC40AC2",
+      "url": "/huebsch/dc40ac2/parts",
+      "code": "dc40ac2"
+    },
+    {
+      "name": "DC40NC2",
+      "url": "/huebsch/dc40nc2/parts",
+      "code": "dc40nc2"
+    },
+    {
+      "name": "DC60AC2",
+      "url": "/huebsch/dc60ac2/parts",
+      "code": "dc60ac2"
+    },
+    {
+      "name": "DC60NC2",
+      "url": "/huebsch/dc60nc2/parts",
+      "code": "dc60nc2"
+    },
+    {
+      "name": "DC80NCV",
+      "url": "/huebsch/dc80ncv/parts",
+      "code": "dc80ncv"
+    },
+    {
+      "name": "DCB30CE",
+      "url": "/huebsch/dcb30ce/parts",
+      "code": "dcb30ce"
+    },
+    {
+      "name": "DCB30CG",
+      "url": "/huebsch/dcb30cg/parts",
+      "code": "dcb30cg"
+    },
+    {
+      "name": "DCB30CSH",
+      "url": "/huebsch/dcb30csh/parts",
+      "code": "dcb30csh"
+    },
+    {
+      "name": "DCB30CSL",
+      "url": "/huebsch/dcb30csl/parts",
+      "code": "dcb30csl"
+    },
+    {
+      "name": "DCB30WE",
+      "url": "/huebsch/dcb30we/parts",
+      "code": "dcb30we"
+    },
+    {
+      "name": "DCB30XG",
+      "url": "/huebsch/dcb30xg/parts",
+      "code": "dcb30xg"
+    },
+    {
+      "name": "DCB50CE",
+      "url": "/huebsch/dcb50ce/parts",
+      "code": "dcb50ce"
+    },
+    {
+      "name": "DCB50CG",
+      "url": "/huebsch/dcb50cg/parts",
+      "code": "dcb50cg"
+    },
+    {
+      "name": "DCB50CSH",
+      "url": "/huebsch/dcb50csh/parts",
+      "code": "dcb50csh"
+    },
+    {
+      "name": "DCB50EG",
+      "url": "/huebsch/dcb50eg/parts",
+      "code": "dcb50eg"
+    },
+    {
+      "name": "DCB75CE",
+      "url": "/huebsch/dcb75ce/parts",
+      "code": "dcb75ce"
+    },
+    {
+      "name": "DCB75CG",
+      "url": "/huebsch/dcb75cg/parts",
+      "code": "dcb75cg"
+    },
+    {
+      "name": "DCB75CSH",
+      "url": "/huebsch/dcb75csh/parts",
+      "code": "dcb75csh"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:02:58.350821"
+}

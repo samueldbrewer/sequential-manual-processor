@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Berkel",
+    "code": "PT_CAT1021",
+    "uri": "berkel"
+  },
+  "models": [
+    {
+      "name": "180-D",
+      "url": "/berkel/180-d/parts",
+      "code": "180-d"
+    },
+    {
+      "name": "180-GS",
+      "url": "/berkel/180-gs/parts",
+      "code": "180-gs"
+    },
+    {
+      "name": "1810",
+      "url": "/berkel/1810/parts",
+      "code": "1810"
+    },
+    {
+      "name": "1850",
+      "url": "/berkel/1850/parts",
+      "code": "1850"
+    },
+    {
+      "name": "250",
+      "url": "/berkel/250/parts",
+      "code": "250"
+    },
+    {
+      "name": "300M",
+      "url": "/berkel/300m/parts",
+      "code": "300m"
+    },
+    {
+      "name": "330M",
+      "url": "/berkel/330m/parts",
+      "code": "330m"
+    },
+    {
+      "name": "350",
+      "url": "/berkel/350/parts",
+      "code": "350"
+    },
+    {
+      "name": "350D",
+      "url": "/berkel/350d/parts",
+      "code": "350d"
+    },
+    {
+      "name": "420A",
+      "url": "/berkel/420a/parts",
+      "code": "420a"
+    },
+    {
+      "name": "450A",
+      "url": "/berkel/450a/parts",
+      "code": "450a"
+    },
+    {
+      "name": "550A",
+      "url": "/berkel/550a/parts",
+      "code": "550a"
+    },
+    {
+      "name": "705",
+      "url": "/berkel/705/parts",
+      "code": "705"
+    },
+    {
+      "name": "705S",
+      "url": "/berkel/705s/parts",
+      "code": "705s"
+    },
+    {
+      "name": "808",
+      "url": "/berkel/808/parts",
+      "code": "808"
+    },
+    {
+      "name": "818",
+      "url": "/berkel/818/parts",
+      "code": "818"
+    },
+    {
+      "name": "823",
+      "url": "/berkel/823/parts",
+      "code": "823"
+    },
+    {
+      "name": "823E",
+      "url": "/berkel/823e/parts",
+      "code": "823e"
+    },
+    {
+      "name": "823E-PLUS",
+      "url": "/berkel/823e-plus/parts",
+      "code": "823e-plus"
+    },
+    {
+      "name": "825",
+      "url": "/berkel/825/parts",
+      "code": "825"
+    },
+    {
+      "name": "825A",
+      "url": "/berkel/825a/parts",
+      "code": "825a"
+    },
+    {
+      "name": "825A-PLUS",
+      "url": "/berkel/825a-plus/parts",
+      "code": "825a-plus"
+    },
+    {
+      "name": "825E",
+      "url": "/berkel/825e/parts",
+      "code": "825e"
+    },
+    {
+      "name": "825E-PLUS",
+      "url": "/berkel/825e-plus/parts",
+      "code": "825e-plus"
+    },
+    {
+      "name": "827",
+      "url": "/berkel/827/parts",
+      "code": "827"
+    },
+    {
+      "name": "827A",
+      "url": "/berkel/827a/parts",
+      "code": "827a"
+    },
+    {
+      "name": "827A-PLUS",
+      "url": "/berkel/827a-plus/parts",
+      "code": "827a-plus"
+    },
+    {
+      "name": "827E",
+      "url": "/berkel/827e/parts",
+      "code": "827e"
+    },
+    {
+      "name": "827E-PLUS",
+      "url": "/berkel/827e-plus/parts",
+      "code": "827e-plus"
+    },
+    {
+      "name": "829-A",
+      "url": "/berkel/829-a/parts",
+      "code": "829-a"
+    },
+    {
+      "name": "829A-PLUS",
+      "url": "/berkel/829a-plus/parts",
+      "code": "829a-plus"
+    },
+    {
+      "name": "829E",
+      "url": "/berkel/829e/parts",
+      "code": "829e"
+    },
+    {
+      "name": "829E-PLUS",
+      "url": "/berkel/829e-plus/parts",
+      "code": "829e-plus"
+    },
+    {
+      "name": "839A",
+      "url": "/berkel/839a/parts",
+      "code": "839a"
+    },
+    {
+      "name": "850A",
+      "url": "/berkel/850a/parts",
+      "code": "850a"
+    },
+    {
+      "name": "909",
+      "url": "/berkel/909/parts",
+      "code": "909"
+    },
+    {
+      "name": "909-1",
+      "url": "/berkel/909-1/parts",
+      "code": "909-1"
+    },
+    {
+      "name": "909A",
+      "url": "/berkel/909a/parts",
+      "code": "909a"
+    },
+    {
+      "name": "909E",
+      "url": "/berkel/909e/parts",
+      "code": "909e"
+    },
+    {
+      "name": "909FS",
+      "url": "/berkel/909fs/parts",
+      "code": "909fs"
+    },
+    {
+      "name": "909M",
+      "url": "/berkel/909m/parts",
+      "code": "909m"
+    },
+    {
+      "name": "919",
+      "url": "/berkel/919/parts",
+      "code": "919"
+    },
+    {
+      "name": "919-1",
+      "url": "/berkel/919-1/parts",
+      "code": "919-1"
+    },
+    {
+      "name": "919A",
+      "url": "/berkel/919a/parts",
+      "code": "919a"
+    },
+    {
+      "name": "919E",
+      "url": "/berkel/919e/parts",
+      "code": "919e"
+    },
+    {
+      "name": "919FS",
+      "url": "/berkel/919fs/parts",
+      "code": "919fs"
+    },
+    {
+      "name": "919M",
+      "url": "/berkel/919m/parts",
+      "code": "919m"
+    },
+    {
+      "name": "B10-SLC",
+      "url": "/berkel/b10-slc/parts",
+      "code": "b10-slc"
+    },
+    {
+      "name": "B12-SLC",
+      "url": "/berkel/b12-slc/parts",
+      "code": "b12-slc"
+    },
+    {
+      "name": "B12A-SLC",
+      "url": "/berkel/b12a-slc/parts",
+      "code": "b12a-slc"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:53:17.121922"
+}

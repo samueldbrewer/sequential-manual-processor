@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT243185",
+    "name": "Spaceman USA",
+    "uri": "spaceman-usa"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:55:10.517520",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Omcan",
+    "code": "PT_CAT223780",
+    "uri": "omcan"
+  },
+  "models": [
+    {
+      "name": "AFMG-52-4",
+      "url": "/omcan/afmg-52-4/parts",
+      "code": "afmg-52-4"
+    },
+    {
+      "name": "BB-CN-0005-HC",
+      "url": "/omcan/bb-cn-0005-hc/parts",
+      "code": "bb-cn-0005-hc"
+    },
+    {
+      "name": "BB-CN-0012-DH",
+      "url": "/omcan/bb-cn-0012-dh/parts",
+      "code": "bb-cn-0012-dh"
+    },
+    {
+      "name": "BB-CN-0012-GH",
+      "url": "/omcan/bb-cn-0012-gh/parts",
+      "code": "bb-cn-0012-gh"
+    },
+    {
+      "name": "BB-CN-0012-S",
+      "url": "/omcan/bb-cn-0012-s/parts",
+      "code": "bb-cn-0012-s"
+    },
+    {
+      "name": "BB-CN-0012-SH",
+      "url": "/omcan/bb-cn-0012-sh/parts",
+      "code": "bb-cn-0012-sh"
+    },
+    {
+      "name": "BB-CN-0012E-GH",
+      "url": "/omcan/bb-cn-0012e-gh/parts",
+      "code": "bb-cn-0012e-gh"
+    },
+    {
+      "name": "BB-CN-0012E-SH",
+      "url": "/omcan/bb-cn-0012e-sh/parts",
+      "code": "bb-cn-0012e-sh"
+    },
+    {
+      "name": "BB-CN-0014-HC",
+      "url": "/omcan/bb-cn-0014-hc/parts",
+      "code": "bb-cn-0014-hc"
+    },
+    {
+      "name": "BB-CN-0016-D",
+      "url": "/omcan/bb-cn-0016-d/parts",
+      "code": "bb-cn-0016-d"
+    },
+    {
+      "name": "BB-CN-0016-DH",
+      "url": "/omcan/bb-cn-0016-dh/parts",
+      "code": "bb-cn-0016-dh"
+    },
+    {
+      "name": "BB-CN-0016-GH",
+      "url": "/omcan/bb-cn-0016-gh/parts",
+      "code": "bb-cn-0016-gh"
+    },
+    {
+      "name": "BB-CN-0016-S",
+      "url": "/omcan/bb-cn-0016-s/parts",
+      "code": "bb-cn-0016-s"
+    },
+    {
+      "name": "BB-CN-0016-SH",
+      "url": "/omcan/bb-cn-0016-sh/parts",
+      "code": "bb-cn-0016-sh"
+    },
+    {
+      "name": "BB-CN-0017-HC",
+      "url": "/omcan/bb-cn-0017-hc/parts",
+      "code": "bb-cn-0017-hc"
+    },
+    {
+      "name": "BB-CN-0020-DH",
+      "url": "/omcan/bb-cn-0020-dh/parts",
+      "code": "bb-cn-0020-dh"
+    },
+    {
+      "name": "BB-CN-0020-GH",
+      "url": "/omcan/bb-cn-0020-gh/parts",
+      "code": "bb-cn-0020-gh"
+    },
+    {
+      "name": "BB-CN-0020-SH",
+      "url": "/omcan/bb-cn-0020-sh/parts",
+      "code": "bb-cn-0020-sh"
+    },
+    {
+      "name": "BB-CN-0020E-GH",
+      "url": "/omcan/bb-cn-0020e-gh/parts",
+      "code": "bb-cn-0020e-gh"
+    },
+    {
+      "name": "BB-CN-0020E-SH",
+      "url": "/omcan/bb-cn-0020e-sh/parts",
+      "code": "bb-cn-0020e-sh"
+    },
+    {
+      "name": "BB-CN-0026-HC",
+      "url": "/omcan/bb-cn-0026-hc/parts",
+      "code": "bb-cn-0026-hc"
+    },
+    {
+      "name": "BC-IT-0103",
+      "url": "/omcan/bc-it-0103/parts",
+      "code": "bc-it-0103"
+    },
+    {
+      "name": "BC-IT-0103-T",
+      "url": "/omcan/bc-it-0103-t/parts",
+      "code": "bc-it-0103-t"
+    },
+    {
+      "name": "BC-IT-0905",
+      "url": "/omcan/bc-it-0905/parts",
+      "code": "bc-it-0905"
+    },
+    {
+      "name": "BC-IT-0905-T",
+      "url": "/omcan/bc-it-0905-t/parts",
+      "code": "bc-it-0905-t"
+    },
+    {
+      "name": "BC-IT-0906",
+      "url": "/omcan/bc-it-0906/parts",
+      "code": "bc-it-0906"
+    },
+    {
+      "name": "BC-IT-0906-T",
+      "url": "/omcan/bc-it-0906-t/parts",
+      "code": "bc-it-0906-t"
+    },
+    {
+      "name": "BC-IT-0910",
+      "url": "/omcan/bc-it-0910/parts",
+      "code": "bc-it-0910"
+    },
+    {
+      "name": "BC-IT-0910-T",
+      "url": "/omcan/bc-it-0910-t/parts",
+      "code": "bc-it-0910-t"
+    },
+    {
+      "name": "BD-CN-0007-HC",
+      "url": "/omcan/bd-cn-0007-hc/parts",
+      "code": "bd-cn-0007-hc"
+    },
+    {
+      "name": "BD-CN-0019-HC",
+      "url": "/omcan/bd-cn-0019-hc/parts",
+      "code": "bd-cn-0019-hc"
+    },
+    {
+      "name": "BD-CN-0023-HC",
+      "url": "/omcan/bd-cn-0023-hc/parts",
+      "code": "bd-cn-0023-hc"
+    },
+    {
+      "name": "BD-CN-0032-HC",
+      "url": "/omcan/bd-cn-0032-hc/parts",
+      "code": "bd-cn-0032-hc"
+    },
+    {
+      "name": "BE-CN-0400",
+      "url": "/omcan/be-cn-0400/parts",
+      "code": "be-cn-0400"
+    },
+    {
+      "name": "BE-CN-2083-CSS",
+      "url": "/omcan/be-cn-2083-css/parts",
+      "code": "be-cn-2083-css"
+    },
+    {
+      "name": "BE-CN-2083-FSS",
+      "url": "/omcan/be-cn-2083-fss/parts",
+      "code": "be-cn-2083-fss"
+    },
+    {
+      "name": "BE-IT-0045",
+      "url": "/omcan/be-it-0045/parts",
+      "code": "be-it-0045"
+    },
+    {
+      "name": "BE-IT-0337",
+      "url": "/omcan/be-it-0337/parts",
+      "code": "be-it-0337"
+    },
+    {
+      "name": "BE-IT-0400",
+      "url": "/omcan/be-it-0400/parts",
+      "code": "be-it-0400"
+    },
+    {
+      "name": "BE-IT-710-CSS",
+      "url": "/omcan/be-it-710-css/parts",
+      "code": "be-it-710-css"
+    },
+    {
+      "name": "BE-IT-710-FSS",
+      "url": "/omcan/be-it-710-fss/parts",
+      "code": "be-it-710-fss"
+    },
+    {
+      "name": "BL-BR-0015",
+      "url": "/omcan/bl-br-0015/parts",
+      "code": "bl-br-0015"
+    },
+    {
+      "name": "BL-BR-0025",
+      "url": "/omcan/bl-br-0025/parts",
+      "code": "bl-br-0025"
+    },
+    {
+      "name": "BL-CN-0002-B",
+      "url": "/omcan/bl-cn-0002-b/parts",
+      "code": "bl-cn-0002-b"
+    },
+    {
+      "name": "BL-CN-0559",
+      "url": "/omcan/bl-cn-0559/parts",
+      "code": "bl-cn-0559"
+    },
+    {
+      "name": "BR-CN-0191",
+      "url": "/omcan/br-cn-0191/parts",
+      "code": "br-cn-0191"
+    },
+    {
+      "name": "BS-BR-1880",
+      "url": "/omcan/bs-br-1880/parts",
+      "code": "bs-br-1880"
+    },
+    {
+      "name": "BS-BR-2820-SS",
+      "url": "/omcan/bs-br-2820-ss/parts",
+      "code": "bs-br-2820-ss"
+    },
+    {
+      "name": "BS-BR-3150-SS",
+      "url": "/omcan/bs-br-3150-ss/parts",
+      "code": "bs-br-3150-ss"
+    },
+    {
+      "name": "BS-CN-1651",
+      "url": "/omcan/bs-cn-1651/parts",
+      "code": "bs-cn-1651"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:46:04.044899"
+}

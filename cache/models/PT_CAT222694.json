@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Cooper Atkins",
+    "code": "PT_CAT222694",
+    "uri": "cooper-atkins"
+  },
+  "models": [
+    {
+      "name": "Blue2",
+      "url": "/cooper-atkins/blue2/parts",
+      "code": "blue2"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T18:13:17.589626"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Haier",
+    "code": "PT_CAT235508",
+    "uri": "haier"
+  },
+  "models": [
+    {
+      "name": "13401",
+      "url": "/haier/13401/parts",
+      "code": "13401"
+    },
+    {
+      "name": "13601",
+      "url": "/haier/13601/parts",
+      "code": "13601"
+    },
+    {
+      "name": "14242",
+      "url": "/haier/14242/parts",
+      "code": "14242"
+    },
+    {
+      "name": "14322",
+      "url": "/haier/14322/parts",
+      "code": "14322"
+    },
+    {
+      "name": "1U15RU1ERE",
+      "url": "/haier/1u15ru1ere/parts",
+      "code": "1u15ru1ere"
+    },
+    {
+      "name": "1U18ES2VHA",
+      "url": "/haier/1u18es2vha/parts",
+      "code": "1u18es2vha"
+    },
+    {
+      "name": "1U18RU1ERE",
+      "url": "/haier/1u18ru1ere/parts",
+      "code": "1u18ru1ere"
+    },
+    {
+      "name": "1U24ES2VHA",
+      "url": "/haier/1u24es2vha/parts",
+      "code": "1u24es2vha"
+    },
+    {
+      "name": "1U24LP2VHA",
+      "url": "/haier/1u24lp2vha/parts",
+      "code": "1u24lp2vha"
+    },
+    {
+      "name": "1U24SU1ERE",
+      "url": "/haier/1u24su1ere/parts",
+      "code": "1u24su1ere"
+    },
+    {
+      "name": "1U36LP2VHA",
+      "url": "/haier/1u36lp2vha/parts",
+      "code": "1u36lp2vha"
+    },
+    {
+      "name": "1U48LP2VHA",
+      "url": "/haier/1u48lp2vha/parts",
+      "code": "1u48lp2vha"
+    },
+    {
+      "name": "24D2000A",
+      "url": "/haier/24d2000a/parts",
+      "code": "24d2000a"
+    },
+    {
+      "name": "24D2000B",
+      "url": "/haier/24d2000b/parts",
+      "code": "24d2000b"
+    },
+    {
+      "name": "24D2000C",
+      "url": "/haier/24d2000c/parts",
+      "code": "24d2000c"
+    },
+    {
+      "name": "24D3000A",
+      "url": "/haier/24d3000a/parts",
+      "code": "24d3000a"
+    },
+    {
+      "name": "24E2000A",
+      "url": "/haier/24e2000a/parts",
+      "code": "24e2000a"
+    },
+    {
+      "name": "24F2000A",
+      "url": "/haier/24f2000a/parts",
+      "code": "24f2000a"
+    },
+    {
+      "name": "24G2000A",
+      "url": "/haier/24g2000a/parts",
+      "code": "24g2000a"
+    },
+    {
+      "name": "24G2000B",
+      "url": "/haier/24g2000b/parts",
+      "code": "24g2000b"
+    },
+    {
+      "name": "24G2000C",
+      "url": "/haier/24g2000c/parts",
+      "code": "24g2000c"
+    },
+    {
+      "name": "28E2000A",
+      "url": "/haier/28e2000a/parts",
+      "code": "28e2000a"
+    },
+    {
+      "name": "2U18FS1ERA",
+      "url": "/haier/2u18fs1era/parts",
+      "code": "2u18fs1era"
+    },
+    {
+      "name": "2U18MS2VHB",
+      "url": "/haier/2u18ms2vhb/parts",
+      "code": "2u18ms2vhb"
+    },
+    {
+      "name": "32D2000B",
+      "url": "/haier/32d2000b/parts",
+      "code": "32d2000b"
+    },
+    {
+      "name": "32D2000C",
+      "url": "/haier/32d2000c/parts",
+      "code": "32d2000c"
+    },
+    {
+      "name": "32D2000E",
+      "url": "/haier/32d2000e/parts",
+      "code": "32d2000e"
+    },
+    {
+      "name": "32D2000F",
+      "url": "/haier/32d2000f/parts",
+      "code": "32d2000f"
+    },
+    {
+      "name": "32D2000G",
+      "url": "/haier/32d2000g/parts",
+      "code": "32d2000g"
+    },
+    {
+      "name": "32D2000H",
+      "url": "/haier/32d2000h/parts",
+      "code": "32d2000h"
+    },
+    {
+      "name": "32D3000BA",
+      "url": "/haier/32d3000ba/parts",
+      "code": "32d3000ba"
+    },
+    {
+      "name": "32D3005A",
+      "url": "/haier/32d3005a/parts",
+      "code": "32d3005a"
+    },
+    {
+      "name": "32D3005B",
+      "url": "/haier/32d3005b/parts",
+      "code": "32d3005b"
+    },
+    {
+      "name": "32D3005C",
+      "url": "/haier/32d3005c/parts",
+      "code": "32d3005c"
+    },
+    {
+      "name": "32D3005D",
+      "url": "/haier/32d3005d/parts",
+      "code": "32d3005d"
+    },
+    {
+      "name": "32D3005E",
+      "url": "/haier/32d3005e/parts",
+      "code": "32d3005e"
+    },
+    {
+      "name": "32D3005F",
+      "url": "/haier/32d3005f/parts",
+      "code": "32d3005f"
+    },
+    {
+      "name": "32D3005G",
+      "url": "/haier/32d3005g/parts",
+      "code": "32d3005g"
+    },
+    {
+      "name": "32E2000A",
+      "url": "/haier/32e2000a/parts",
+      "code": "32e2000a"
+    },
+    {
+      "name": "32E3000A",
+      "url": "/haier/32e3000a/parts",
+      "code": "32e3000a"
+    },
+    {
+      "name": "32E3000B",
+      "url": "/haier/32e3000b/parts",
+      "code": "32e3000b"
+    },
+    {
+      "name": "32E3000C",
+      "url": "/haier/32e3000c/parts",
+      "code": "32e3000c"
+    },
+    {
+      "name": "32E3000D",
+      "url": "/haier/32e3000d/parts",
+      "code": "32e3000d"
+    },
+    {
+      "name": "32E3000E",
+      "url": "/haier/32e3000e/parts",
+      "code": "32e3000e"
+    },
+    {
+      "name": "32E3000F",
+      "url": "/haier/32e3000f/parts",
+      "code": "32e3000f"
+    },
+    {
+      "name": "32F2000B",
+      "url": "/haier/32f2000b/parts",
+      "code": "32f2000b"
+    },
+    {
+      "name": "32G2000A",
+      "url": "/haier/32g2000a/parts",
+      "code": "32g2000a"
+    },
+    {
+      "name": "32G2000B",
+      "url": "/haier/32g2000b/parts",
+      "code": "32g2000b"
+    },
+    {
+      "name": "32G2000C",
+      "url": "/haier/32g2000c/parts",
+      "code": "32g2000c"
+    },
+    {
+      "name": "32G2000MA",
+      "url": "/haier/32g2000ma/parts",
+      "code": "32g2000ma"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:51:16.518507"
+}

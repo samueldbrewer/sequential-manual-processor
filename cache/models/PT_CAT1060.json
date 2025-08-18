@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Dynamic Mixer",
+    "code": "PT_CAT1060",
+    "uri": "dynamic-mixer"
+  },
+  "models": [
+    {
+      "name": "AC001",
+      "url": "/dynamic-mixer/ac001/parts",
+      "code": "ac001"
+    },
+    {
+      "name": "AC001.1",
+      "url": "/dynamic-mixer/ac001-1/parts",
+      "code": "ac001-1"
+    },
+    {
+      "name": "AC001.1.A",
+      "url": "/dynamic-mixer/ac001-1-a/parts",
+      "code": "ac001-1-a"
+    },
+    {
+      "name": "AC001.A",
+      "url": "/dynamic-mixer/ac001-a/parts",
+      "code": "ac001-a"
+    },
+    {
+      "name": "AC002",
+      "url": "/dynamic-mixer/ac002/parts",
+      "code": "ac002"
+    },
+    {
+      "name": "AC003",
+      "url": "/dynamic-mixer/ac003/parts",
+      "code": "ac003"
+    },
+    {
+      "name": "AC004",
+      "url": "/dynamic-mixer/ac004/parts",
+      "code": "ac004"
+    },
+    {
+      "name": "AC005",
+      "url": "/dynamic-mixer/ac005/parts",
+      "code": "ac005"
+    },
+    {
+      "name": "AC005.1",
+      "url": "/dynamic-mixer/ac005-1/parts",
+      "code": "ac005-1"
+    },
+    {
+      "name": "AC070",
+      "url": "/dynamic-mixer/ac070/parts",
+      "code": "ac070"
+    },
+    {
+      "name": "AC072T",
+      "url": "/dynamic-mixer/ac072t/parts",
+      "code": "ac072t"
+    },
+    {
+      "name": "AC102",
+      "url": "/dynamic-mixer/ac102/parts",
+      "code": "ac102"
+    },
+    {
+      "name": "AC103",
+      "url": "/dynamic-mixer/ac103/parts",
+      "code": "ac103"
+    },
+    {
+      "name": "AC104",
+      "url": "/dynamic-mixer/ac104/parts",
+      "code": "ac104"
+    },
+    {
+      "name": "AC200",
+      "url": "/dynamic-mixer/ac200/parts",
+      "code": "ac200"
+    },
+    {
+      "name": "AC201",
+      "url": "/dynamic-mixer/ac201/parts",
+      "code": "ac201"
+    },
+    {
+      "name": "AC202",
+      "url": "/dynamic-mixer/ac202/parts",
+      "code": "ac202"
+    },
+    {
+      "name": "AC208",
+      "url": "/dynamic-mixer/ac208/parts",
+      "code": "ac208"
+    },
+    {
+      "name": "AC221",
+      "url": "/dynamic-mixer/ac221/parts",
+      "code": "ac221"
+    },
+    {
+      "name": "AC221.1",
+      "url": "/dynamic-mixer/ac221-1/parts",
+      "code": "ac221-1"
+    },
+    {
+      "name": "AC500",
+      "url": "/dynamic-mixer/ac500/parts",
+      "code": "ac500"
+    },
+    {
+      "name": "AC515.1",
+      "url": "/dynamic-mixer/ac515-1/parts",
+      "code": "ac515-1"
+    },
+    {
+      "name": "AC516",
+      "url": "/dynamic-mixer/ac516/parts",
+      "code": "ac516"
+    },
+    {
+      "name": "AC517",
+      "url": "/dynamic-mixer/ac517/parts",
+      "code": "ac517"
+    },
+    {
+      "name": "AC518",
+      "url": "/dynamic-mixer/ac518/parts",
+      "code": "ac518"
+    },
+    {
+      "name": "BM2000",
+      "url": "/dynamic-mixer/bm2000/parts",
+      "code": "bm2000"
+    },
+    {
+      "name": "CF2000",
+      "url": "/dynamic-mixer/cf2000/parts",
+      "code": "cf2000"
+    },
+    {
+      "name": "DYNACOUPE",
+      "url": "/dynamic-mixer/dynacoupe/parts",
+      "code": "dynacoupe"
+    },
+    {
+      "name": "DYNACUBE",
+      "url": "/dynamic-mixer/dynacube/parts",
+      "code": "dynacube"
+    },
+    {
+      "name": "DYNACUTTER",
+      "url": "/dynamic-mixer/dynacutter/parts",
+      "code": "dynacutter"
+    },
+    {
+      "name": "E001",
+      "url": "/dynamic-mixer/e001/parts",
+      "code": "e001"
+    },
+    {
+      "name": "E002",
+      "url": "/dynamic-mixer/e002/parts",
+      "code": "e002"
+    },
+    {
+      "name": "E003.1.B.T",
+      "url": "/dynamic-mixer/e003-1-b-t/parts",
+      "code": "e003-1-b-t"
+    },
+    {
+      "name": "E003.B.T",
+      "url": "/dynamic-mixer/e003-b-t/parts",
+      "code": "e003-b-t"
+    },
+    {
+      "name": "E004",
+      "url": "/dynamic-mixer/e004/parts",
+      "code": "e004"
+    },
+    {
+      "name": "E007",
+      "url": "/dynamic-mixer/e007/parts",
+      "code": "e007"
+    },
+    {
+      "name": "EM98",
+      "url": "/dynamic-mixer/em98/parts",
+      "code": "em98"
+    },
+    {
+      "name": "FT97",
+      "url": "/dynamic-mixer/ft97/parts",
+      "code": "ft97"
+    },
+    {
+      "name": "FTP 94",
+      "url": "/dynamic-mixer/ftp-94/parts",
+      "code": "ftp-94"
+    },
+    {
+      "name": "GM93",
+      "url": "/dynamic-mixer/gm93/parts",
+      "code": "gm93"
+    },
+    {
+      "name": "JUNIOR COMBI",
+      "url": "/dynamic-mixer/junior-combi/parts",
+      "code": "junior-combi"
+    },
+    {
+      "name": "JUNIOR PLUS",
+      "url": "/dynamic-mixer/junior-plus/parts",
+      "code": "junior-plus"
+    },
+    {
+      "name": "JUNIOR STANDARD",
+      "url": "/dynamic-mixer/junior-standard/parts",
+      "code": "junior-standard"
+    },
+    {
+      "name": "JUNIOR WHISK",
+      "url": "/dynamic-mixer/junior-whisk/parts",
+      "code": "junior-whisk"
+    },
+    {
+      "name": "MD95",
+      "url": "/dynamic-mixer/md95/parts",
+      "code": "md95"
+    },
+    {
+      "name": "MD95 E",
+      "url": "/dynamic-mixer/md95-e/parts",
+      "code": "md95-e"
+    },
+    {
+      "name": "MDH2000",
+      "url": "/dynamic-mixer/mdh2000/parts",
+      "code": "mdh2000"
+    },
+    {
+      "name": "MF001",
+      "url": "/dynamic-mixer/mf001/parts",
+      "code": "mf001"
+    },
+    {
+      "name": "MF001.1",
+      "url": "/dynamic-mixer/mf001-1/parts",
+      "code": "mf001-1"
+    },
+    {
+      "name": "MF002",
+      "url": "/dynamic-mixer/mf002/parts",
+      "code": "mf002"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:25:03.667190"
+}

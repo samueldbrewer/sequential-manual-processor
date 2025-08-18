@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "Jaccard",
+    "code": "PT_CAT224073",
+    "uri": "jaccard"
+  },
+  "models": [
+    {
+      "name": "F-19S",
+      "url": "/jaccard/f-19s/parts",
+      "code": "f-19s"
+    },
+    {
+      "name": "KT-ALP",
+      "url": "/jaccard/kt-alp/parts",
+      "code": "kt-alp"
+    },
+    {
+      "name": "MODEL H",
+      "url": "/jaccard/model-h/parts",
+      "code": "model-h"
+    },
+    {
+      "name": "SECTOR MATIC",
+      "url": "/jaccard/sector-matic/parts",
+      "code": "sector-matic"
+    },
+    {
+      "name": "SECTOR SIMPLEX",
+      "url": "/jaccard/sector-simplex/parts",
+      "code": "sector-simplex"
+    },
+    {
+      "name": "SIMPLEX MATIC",
+      "url": "/jaccard/simplex-matic/parts",
+      "code": "simplex-matic"
+    },
+    {
+      "name": "TSHY",
+      "url": "/jaccard/tshy/parts",
+      "code": "tshy"
+    },
+    {
+      "name": "VA 2000",
+      "url": "/jaccard/va-2000/parts",
+      "code": "va-2000"
+    },
+    {
+      "name": "VA 4000",
+      "url": "/jaccard/va-4000/parts",
+      "code": "va-4000"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T19:08:46.379395"
+}

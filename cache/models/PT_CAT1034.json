@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Carter-Hoffmann",
+    "code": "PT_CAT1034",
+    "uri": "carter-hoffmann"
+  },
+  "models": [
+    {
+      "name": "BB1000",
+      "url": "/carter-hoffmann/bb1000/parts",
+      "code": "bb1000"
+    },
+    {
+      "name": "BB1100",
+      "url": "/carter-hoffmann/bb1100/parts",
+      "code": "bb1100"
+    },
+    {
+      "name": "BB120",
+      "url": "/carter-hoffmann/bb120/parts",
+      "code": "bb120"
+    },
+    {
+      "name": "BB120ES",
+      "url": "/carter-hoffmann/bb120es/parts",
+      "code": "bb120es"
+    },
+    {
+      "name": "BB1300",
+      "url": "/carter-hoffmann/bb1300/parts",
+      "code": "bb1300"
+    },
+    {
+      "name": "BB1300XX",
+      "url": "/carter-hoffmann/bb1300xx/parts",
+      "code": "bb1300xx"
+    },
+    {
+      "name": "BB150",
+      "url": "/carter-hoffmann/bb150/parts",
+      "code": "bb150"
+    },
+    {
+      "name": "BB1600",
+      "url": "/carter-hoffmann/bb1600/parts",
+      "code": "bb1600"
+    },
+    {
+      "name": "BB200D",
+      "url": "/carter-hoffmann/bb200d/parts",
+      "code": "bb200d"
+    },
+    {
+      "name": "BB60",
+      "url": "/carter-hoffmann/bb60/parts",
+      "code": "bb60"
+    },
+    {
+      "name": "BB700",
+      "url": "/carter-hoffmann/bb700/parts",
+      "code": "bb700"
+    },
+    {
+      "name": "BB96",
+      "url": "/carter-hoffmann/bb96/parts",
+      "code": "bb96"
+    },
+    {
+      "name": "BB96ES",
+      "url": "/carter-hoffmann/bb96es/parts",
+      "code": "bb96es"
+    },
+    {
+      "name": "BH2S",
+      "url": "/carter-hoffmann/bh2s/parts",
+      "code": "bh2s"
+    },
+    {
+      "name": "BH3S",
+      "url": "/carter-hoffmann/bh3s/parts",
+      "code": "bh3s"
+    },
+    {
+      "name": "BR1000",
+      "url": "/carter-hoffmann/br1000/parts",
+      "code": "br1000"
+    },
+    {
+      "name": "BR120",
+      "url": "/carter-hoffmann/br120/parts",
+      "code": "br120"
+    },
+    {
+      "name": "BR150",
+      "url": "/carter-hoffmann/br150/parts",
+      "code": "br150"
+    },
+    {
+      "name": "BR96",
+      "url": "/carter-hoffmann/br96/parts",
+      "code": "br96"
+    },
+    {
+      "name": "CAA120",
+      "url": "/carter-hoffmann/caa120/parts",
+      "code": "caa120"
+    },
+    {
+      "name": "CAA144",
+      "url": "/carter-hoffmann/caa144/parts",
+      "code": "caa144"
+    },
+    {
+      "name": "CD252",
+      "url": "/carter-hoffmann/cd252/parts",
+      "code": "cd252"
+    },
+    {
+      "name": "CD252H",
+      "url": "/carter-hoffmann/cd252h/parts",
+      "code": "cd252h"
+    },
+    {
+      "name": "CD260",
+      "url": "/carter-hoffmann/cd260/parts",
+      "code": "cd260"
+    },
+    {
+      "name": "CD260H",
+      "url": "/carter-hoffmann/cd260h/parts",
+      "code": "cd260h"
+    },
+    {
+      "name": "CD27",
+      "url": "/carter-hoffmann/cd27/parts",
+      "code": "cd27"
+    },
+    {
+      "name": "CGM24",
+      "url": "/carter-hoffmann/cgm24/parts",
+      "code": "cgm24"
+    },
+    {
+      "name": "CGM24-240",
+      "url": "/carter-hoffmann/cgm24-240/parts",
+      "code": "cgm24-240"
+    },
+    {
+      "name": "CHA120",
+      "url": "/carter-hoffmann/cha120/parts",
+      "code": "cha120"
+    },
+    {
+      "name": "CHA144",
+      "url": "/carter-hoffmann/cha144/parts",
+      "code": "cha144"
+    },
+    {
+      "name": "CHH120",
+      "url": "/carter-hoffmann/chh120/parts",
+      "code": "chh120"
+    },
+    {
+      "name": "CHH144",
+      "url": "/carter-hoffmann/chh144/parts",
+      "code": "chh144"
+    },
+    {
+      "name": "CHLM223H",
+      "url": "/carter-hoffmann/chlm223h/parts",
+      "code": "chlm223h"
+    },
+    {
+      "name": "CHR120",
+      "url": "/carter-hoffmann/chr120/parts",
+      "code": "chr120"
+    },
+    {
+      "name": "CHR144",
+      "url": "/carter-hoffmann/chr144/parts",
+      "code": "chr144"
+    },
+    {
+      "name": "CHSM223H",
+      "url": "/carter-hoffmann/chsm223h/parts",
+      "code": "chsm223h"
+    },
+    {
+      "name": "CNH10.5TB",
+      "url": "/carter-hoffmann/cnh10-5tb/parts",
+      "code": "cnh10-5tb"
+    },
+    {
+      "name": "CNH12TB",
+      "url": "/carter-hoffmann/cnh12tb/parts",
+      "code": "cnh12tb"
+    },
+    {
+      "name": "CNH14",
+      "url": "/carter-hoffmann/cnh14/parts",
+      "code": "cnh14"
+    },
+    {
+      "name": "CNH18",
+      "url": "/carter-hoffmann/cnh18/parts",
+      "code": "cnh18"
+    },
+    {
+      "name": "CNH28",
+      "url": "/carter-hoffmann/cnh28/parts",
+      "code": "cnh28"
+    },
+    {
+      "name": "CNH28-Birdhouse",
+      "url": "/carter-hoffmann/cnh28-birdhouse/parts",
+      "code": "cnh28-birdhouse"
+    },
+    {
+      "name": "CNH28LP",
+      "url": "/carter-hoffmann/cnh28lp/parts",
+      "code": "cnh28lp"
+    },
+    {
+      "name": "CNH28LP208",
+      "url": "/carter-hoffmann/cnh28lp208/parts",
+      "code": "cnh28lp208"
+    },
+    {
+      "name": "CNH28N8",
+      "url": "/carter-hoffmann/cnh28n8/parts",
+      "code": "cnh28n8"
+    },
+    {
+      "name": "CNH28T",
+      "url": "/carter-hoffmann/cnh28t/parts",
+      "code": "cnh28t"
+    },
+    {
+      "name": "CNH28XD",
+      "url": "/carter-hoffmann/cnh28xd/parts",
+      "code": "cnh28xd"
+    },
+    {
+      "name": "CRR120",
+      "url": "/carter-hoffmann/crr120/parts",
+      "code": "crr120"
+    },
+    {
+      "name": "CRR144",
+      "url": "/carter-hoffmann/crr144/parts",
+      "code": "crr144"
+    },
+    {
+      "name": "CTD1222",
+      "url": "/carter-hoffmann/ctd1222/parts",
+      "code": "ctd1222"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:06:17.626606"
+}

@@ -1,0 +1,51 @@
+{
+  "manufacturer": {
+    "name": "Autofry",
+    "code": "PT_CAT1003",
+    "uri": "autofry"
+  },
+  "models": [
+    {
+      "name": "MTI-10",
+      "url": "/autofry/mti-10/parts",
+      "code": "mti-10"
+    },
+    {
+      "name": "MTI-10X",
+      "url": "/autofry/mti-10x/parts",
+      "code": "mti-10x"
+    },
+    {
+      "name": "MTI-10X-XL",
+      "url": "/autofry/mti-10x-xl/parts",
+      "code": "mti-10x-xl"
+    },
+    {
+      "name": "MTI-10XL",
+      "url": "/autofry/mti-10xl/parts",
+      "code": "mti-10xl"
+    },
+    {
+      "name": "MTI-40C",
+      "url": "/autofry/mti-40c/parts",
+      "code": "mti-40c"
+    },
+    {
+      "name": "MTI-40E",
+      "url": "/autofry/mti-40e/parts",
+      "code": "mti-40e"
+    },
+    {
+      "name": "MTI-5",
+      "url": "/autofry/mti-5/parts",
+      "code": "mti-5"
+    },
+    {
+      "name": "Mini-C",
+      "url": "/autofry/mini-c/parts",
+      "code": "mini-c"
+    }
+  ],
+  "total_models": 8,
+  "cached_at": "2025-08-14T17:49:47.386389"
+}

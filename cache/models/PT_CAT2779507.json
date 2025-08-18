@@ -1,0 +1,91 @@
+{
+  "manufacturer": {
+    "name": "Nespresso Professional",
+    "code": "PT_CAT2779507",
+    "uri": "nespresso-professional"
+  },
+  "models": [
+    {
+      "name": "AGUILA 220",
+      "url": "/nespresso-professional/aguila-220/parts",
+      "code": "aguila-220"
+    },
+    {
+      "name": "AGUILA 420",
+      "url": "/nespresso-professional/aguila-420/parts",
+      "code": "aguila-420"
+    },
+    {
+      "name": "AGUILA 440",
+      "url": "/nespresso-professional/aguila-440/parts",
+      "code": "aguila-440"
+    },
+    {
+      "name": "CAPPUCCINATORE CS20",
+      "url": "/nespresso-professional/cappuccinatore-cs20/parts",
+      "code": "cappuccinatore-cs20"
+    },
+    {
+      "name": "ES100",
+      "url": "/nespresso-professional/es100/parts",
+      "code": "es100"
+    },
+    {
+      "name": "ES50",
+      "url": "/nespresso-professional/es50/parts",
+      "code": "es50"
+    },
+    {
+      "name": "ES80",
+      "url": "/nespresso-professional/es80/parts",
+      "code": "es80"
+    },
+    {
+      "name": "GEMINI CS100",
+      "url": "/nespresso-professional/gemini-cs100/parts",
+      "code": "gemini-cs100"
+    },
+    {
+      "name": "GEMINI CS200",
+      "url": "/nespresso-professional/gemini-cs200/parts",
+      "code": "gemini-cs200"
+    },
+    {
+      "name": "GEMINI CS220",
+      "url": "/nespresso-professional/gemini-cs220/parts",
+      "code": "gemini-cs220"
+    },
+    {
+      "name": "GEMINI CS221",
+      "url": "/nespresso-professional/gemini-cs221/parts",
+      "code": "gemini-cs221"
+    },
+    {
+      "name": "GEMINI CS224",
+      "url": "/nespresso-professional/gemini-cs224/parts",
+      "code": "gemini-cs224"
+    },
+    {
+      "name": "MOMENTO 100",
+      "url": "/nespresso-professional/momento-100/parts",
+      "code": "momento-100"
+    },
+    {
+      "name": "MOMENTO 120",
+      "url": "/nespresso-professional/momento-120/parts",
+      "code": "momento-120"
+    },
+    {
+      "name": "MOMENTO 200",
+      "url": "/nespresso-professional/momento-200/parts",
+      "code": "momento-200"
+    },
+    {
+      "name": "ZENIUS 100",
+      "url": "/nespresso-professional/zenius-100/parts",
+      "code": "zenius-100"
+    }
+  ],
+  "total_models": 16,
+  "cached_at": "2025-08-14T19:40:43.466155"
+}

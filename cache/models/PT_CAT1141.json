@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Middleby",
+    "code": "PT_CAT1141",
+    "uri": "middleby"
+  },
+  "models": [
+    {
+      "name": "DZ26T-DOUBLE",
+      "url": "/middleby/dz26t-double/parts",
+      "code": "dz26t-double"
+    },
+    {
+      "name": "DZ26T-SINGLE",
+      "url": "/middleby/dz26t-single/parts",
+      "code": "dz26t-single"
+    },
+    {
+      "name": "DZ26T-TRIPLE",
+      "url": "/middleby/dz26t-triple/parts",
+      "code": "dz26t-triple"
+    },
+    {
+      "name": "DZ33",
+      "url": "/middleby/dz33/parts",
+      "code": "dz33"
+    },
+    {
+      "name": "DZ33II",
+      "url": "/middleby/dz33ii/parts",
+      "code": "dz33ii"
+    },
+    {
+      "name": "DZ33T-DOUBLE",
+      "url": "/middleby/dz33t-double/parts",
+      "code": "dz33t-double"
+    },
+    {
+      "name": "DZ33T-QUAD",
+      "url": "/middleby/dz33t-quad/parts",
+      "code": "dz33t-quad"
+    },
+    {
+      "name": "DZ33T-SINGLE",
+      "url": "/middleby/dz33t-single/parts",
+      "code": "dz33t-single"
+    },
+    {
+      "name": "DZ33T-TRIPLE",
+      "url": "/middleby/dz33t-triple/parts",
+      "code": "dz33t-triple"
+    },
+    {
+      "name": "DZ55",
+      "url": "/middleby/dz55/parts",
+      "code": "dz55"
+    },
+    {
+      "name": "DZ55II",
+      "url": "/middleby/dz55ii/parts",
+      "code": "dz55ii"
+    },
+    {
+      "name": "DZ55T-DOUBLE",
+      "url": "/middleby/dz55t-double/parts",
+      "code": "dz55t-double"
+    },
+    {
+      "name": "DZ55T-QUAD",
+      "url": "/middleby/dz55t-quad/parts",
+      "code": "dz55t-quad"
+    },
+    {
+      "name": "DZ55T-SINGLE",
+      "url": "/middleby/dz55t-single/parts",
+      "code": "dz55t-single"
+    },
+    {
+      "name": "DZ55T-TRIPLE",
+      "url": "/middleby/dz55t-triple/parts",
+      "code": "dz55t-triple"
+    },
+    {
+      "name": "G-26",
+      "url": "/middleby/g-26/parts",
+      "code": "g-26"
+    },
+    {
+      "name": "PS-636-24",
+      "url": "/middleby/ps-636-24/parts",
+      "code": "ps-636-24"
+    },
+    {
+      "name": "PS200",
+      "url": "/middleby/ps200/parts",
+      "code": "ps200"
+    },
+    {
+      "name": "PS200 Tandem",
+      "url": "/middleby/ps200-tandem/parts",
+      "code": "ps200-tandem"
+    },
+    {
+      "name": "PS200-R68",
+      "url": "/middleby/ps200-r68/parts",
+      "code": "ps200-r68"
+    },
+    {
+      "name": "PS200VL",
+      "url": "/middleby/ps200vl/parts",
+      "code": "ps200vl"
+    },
+    {
+      "name": "PS2020G-1",
+      "url": "/middleby/ps2020g-1/parts",
+      "code": "ps2020g-1"
+    },
+    {
+      "name": "PS2020G-2",
+      "url": "/middleby/ps2020g-2/parts",
+      "code": "ps2020g-2"
+    },
+    {
+      "name": "PS2020G-3",
+      "url": "/middleby/ps2020g-3/parts",
+      "code": "ps2020g-3"
+    },
+    {
+      "name": "PS220-R68",
+      "url": "/middleby/ps220-r68/parts",
+      "code": "ps220-r68"
+    },
+    {
+      "name": "PS220FS",
+      "url": "/middleby/ps220fs/parts",
+      "code": "ps220fs"
+    },
+    {
+      "name": "PS220VL",
+      "url": "/middleby/ps220vl/parts",
+      "code": "ps220vl"
+    },
+    {
+      "name": "PS224",
+      "url": "/middleby/ps224/parts",
+      "code": "ps224"
+    },
+    {
+      "name": "PS224-R68",
+      "url": "/middleby/ps224-r68/parts",
+      "code": "ps224-r68"
+    },
+    {
+      "name": "PS224VL",
+      "url": "/middleby/ps224vl/parts",
+      "code": "ps224vl"
+    },
+    {
+      "name": "PS2620G-1",
+      "url": "/middleby/ps2620g-1/parts",
+      "code": "ps2620g-1"
+    },
+    {
+      "name": "PS2620G-2",
+      "url": "/middleby/ps2620g-2/parts",
+      "code": "ps2620g-2"
+    },
+    {
+      "name": "PS2620G-3",
+      "url": "/middleby/ps2620g-3/parts",
+      "code": "ps2620g-3"
+    },
+    {
+      "name": "PS310",
+      "url": "/middleby/ps310/parts",
+      "code": "ps310"
+    },
+    {
+      "name": "PS314",
+      "url": "/middleby/ps314/parts",
+      "code": "ps314"
+    },
+    {
+      "name": "PS314SBI",
+      "url": "/middleby/ps314sbi/parts",
+      "code": "ps314sbi"
+    },
+    {
+      "name": "PS3240G-1",
+      "url": "/middleby/ps3240g-1/parts",
+      "code": "ps3240g-1"
+    },
+    {
+      "name": "PS3240G-2",
+      "url": "/middleby/ps3240g-2/parts",
+      "code": "ps3240g-2"
+    },
+    {
+      "name": "PS3240G-3",
+      "url": "/middleby/ps3240g-3/parts",
+      "code": "ps3240g-3"
+    },
+    {
+      "name": "PS360",
+      "url": "/middleby/ps360/parts",
+      "code": "ps360"
+    },
+    {
+      "name": "PS360 Tandem",
+      "url": "/middleby/ps360-tandem/parts",
+      "code": "ps360-tandem"
+    },
+    {
+      "name": "PS360EWB",
+      "url": "/middleby/ps360ewb/parts",
+      "code": "ps360ewb"
+    },
+    {
+      "name": "PS360G",
+      "url": "/middleby/ps360g/parts",
+      "code": "ps360g"
+    },
+    {
+      "name": "PS360Q",
+      "url": "/middleby/ps360q/parts",
+      "code": "ps360q"
+    },
+    {
+      "name": "PS360S",
+      "url": "/middleby/ps360s/parts",
+      "code": "ps360s"
+    },
+    {
+      "name": "PS360WB",
+      "url": "/middleby/ps360wb/parts",
+      "code": "ps360wb"
+    },
+    {
+      "name": "PS360WB Tandem",
+      "url": "/middleby/ps360wb-tandem/parts",
+      "code": "ps360wb-tandem"
+    },
+    {
+      "name": "PS360WB70",
+      "url": "/middleby/ps360wb70/parts",
+      "code": "ps360wb70"
+    },
+    {
+      "name": "PS500 Series",
+      "url": "/middleby/ps500-series/parts",
+      "code": "ps500-series"
+    },
+    {
+      "name": "PS520E",
+      "url": "/middleby/ps520e/parts",
+      "code": "ps520e"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:31:16.774910"
+}

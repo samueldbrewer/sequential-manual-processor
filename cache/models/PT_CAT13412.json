@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "Le-Jo",
+    "code": "PT_CAT13412",
+    "uri": "le-jo"
+  },
+  "models": [
+    {
+      "name": "E1201",
+      "url": "/le-jo/e1201/parts",
+      "code": "e1201"
+    },
+    {
+      "name": "E401",
+      "url": "/le-jo/e401/parts",
+      "code": "e401"
+    },
+    {
+      "name": "E530",
+      "url": "/le-jo/e530/parts",
+      "code": "e530"
+    },
+    {
+      "name": "E530SGP",
+      "url": "/le-jo/e530sgp/parts",
+      "code": "e530sgp"
+    },
+    {
+      "name": "E531",
+      "url": "/le-jo/e531/parts",
+      "code": "e531"
+    },
+    {
+      "name": "E532",
+      "url": "/le-jo/e532/parts",
+      "code": "e532"
+    },
+    {
+      "name": "E533",
+      "url": "/le-jo/e533/parts",
+      "code": "e533"
+    },
+    {
+      "name": "E601",
+      "url": "/le-jo/e601/parts",
+      "code": "e601"
+    },
+    {
+      "name": "E640",
+      "url": "/le-jo/e640/parts",
+      "code": "e640"
+    },
+    {
+      "name": "E801",
+      "url": "/le-jo/e801/parts",
+      "code": "e801"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-14T19:20:03.332363"
+}

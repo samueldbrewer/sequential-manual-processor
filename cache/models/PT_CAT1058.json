@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Dispense-Rite",
+    "code": "PT_CAT1058",
+    "uri": "dispense-rite"
+  },
+  "models": [
+    {
+      "name": "ADJ-1",
+      "url": "/dispense-rite/adj-1/parts",
+      "code": "adj-1"
+    },
+    {
+      "name": "ADJ-1.50",
+      "url": "/dispense-rite/adj-1-50/parts",
+      "code": "adj-1-50"
+    },
+    {
+      "name": "ADJ-2",
+      "url": "/dispense-rite/adj-2/parts",
+      "code": "adj-2"
+    },
+    {
+      "name": "ADJ-2F",
+      "url": "/dispense-rite/adj-2f/parts",
+      "code": "adj-2f"
+    },
+    {
+      "name": "ADJ-2S",
+      "url": "/dispense-rite/adj-2s/parts",
+      "code": "adj-2s"
+    },
+    {
+      "name": "ADJ-3",
+      "url": "/dispense-rite/adj-3/parts",
+      "code": "adj-3"
+    },
+    {
+      "name": "BFL-2",
+      "url": "/dispense-rite/bfl-2/parts",
+      "code": "bfl-2"
+    },
+    {
+      "name": "BFL-2F",
+      "url": "/dispense-rite/bfl-2f/parts",
+      "code": "bfl-2f"
+    },
+    {
+      "name": "BFL-2S",
+      "url": "/dispense-rite/bfl-2s/parts",
+      "code": "bfl-2s"
+    },
+    {
+      "name": "BFL-3",
+      "url": "/dispense-rite/bfl-3/parts",
+      "code": "bfl-3"
+    },
+    {
+      "name": "STL-2",
+      "url": "/dispense-rite/stl-2/parts",
+      "code": "stl-2"
+    },
+    {
+      "name": "STL-2F",
+      "url": "/dispense-rite/stl-2f/parts",
+      "code": "stl-2f"
+    },
+    {
+      "name": "STL-2FS",
+      "url": "/dispense-rite/stl-2fs/parts",
+      "code": "stl-2fs"
+    },
+    {
+      "name": "STL-2L",
+      "url": "/dispense-rite/stl-2l/parts",
+      "code": "stl-2l"
+    },
+    {
+      "name": "STL-2S",
+      "url": "/dispense-rite/stl-2s/parts",
+      "code": "stl-2s"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T18:21:53.766867"
+}

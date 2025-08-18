@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Greenheck",
+    "code": "PT_CATGREENCHECK",
+    "uri": "greenheck"
+  },
+  "models": [
+    {
+      "name": "ABD",
+      "url": "/greenheck/abd/parts",
+      "code": "abd"
+    },
+    {
+      "name": "Auto Scrubber",
+      "url": "/greenheck/auto-scrubber/parts",
+      "code": "auto-scrubber"
+    },
+    {
+      "name": "BSQ-10",
+      "url": "/greenheck/bsq-10/parts",
+      "code": "bsq-10"
+    },
+    {
+      "name": "BSQ-100",
+      "url": "/greenheck/bsq-100/parts",
+      "code": "bsq-100"
+    },
+    {
+      "name": "BSQ-12",
+      "url": "/greenheck/bsq-12/parts",
+      "code": "bsq-12"
+    },
+    {
+      "name": "BSQ-120",
+      "url": "/greenheck/bsq-120/parts",
+      "code": "bsq-120"
+    },
+    {
+      "name": "BSQ-13",
+      "url": "/greenheck/bsq-13/parts",
+      "code": "bsq-13"
+    },
+    {
+      "name": "BSQ-130",
+      "url": "/greenheck/bsq-130/parts",
+      "code": "bsq-130"
+    },
+    {
+      "name": "BSQ-130HP",
+      "url": "/greenheck/bsq-130hp/parts",
+      "code": "bsq-130hp"
+    },
+    {
+      "name": "BSQ-13HP",
+      "url": "/greenheck/bsq-13hp/parts",
+      "code": "bsq-13hp"
+    },
+    {
+      "name": "BSQ-14",
+      "url": "/greenheck/bsq-14/parts",
+      "code": "bsq-14"
+    },
+    {
+      "name": "BSQ-140",
+      "url": "/greenheck/bsq-140/parts",
+      "code": "bsq-140"
+    },
+    {
+      "name": "BSQ-140HP",
+      "url": "/greenheck/bsq-140hp/parts",
+      "code": "bsq-140hp"
+    },
+    {
+      "name": "BSQ-14HP",
+      "url": "/greenheck/bsq-14hp/parts",
+      "code": "bsq-14hp"
+    },
+    {
+      "name": "BSQ-16",
+      "url": "/greenheck/bsq-16/parts",
+      "code": "bsq-16"
+    },
+    {
+      "name": "BSQ-160",
+      "url": "/greenheck/bsq-160/parts",
+      "code": "bsq-160"
+    },
+    {
+      "name": "BSQ-160HP",
+      "url": "/greenheck/bsq-160hp/parts",
+      "code": "bsq-160hp"
+    },
+    {
+      "name": "BSQ-16HP",
+      "url": "/greenheck/bsq-16hp/parts",
+      "code": "bsq-16hp"
+    },
+    {
+      "name": "BSQ-18",
+      "url": "/greenheck/bsq-18/parts",
+      "code": "bsq-18"
+    },
+    {
+      "name": "BSQ-180",
+      "url": "/greenheck/bsq-180/parts",
+      "code": "bsq-180"
+    },
+    {
+      "name": "BSQ-180HP",
+      "url": "/greenheck/bsq-180hp/parts",
+      "code": "bsq-180hp"
+    },
+    {
+      "name": "BSQ-18HP",
+      "url": "/greenheck/bsq-18hp/parts",
+      "code": "bsq-18hp"
+    },
+    {
+      "name": "BSQ-200",
+      "url": "/greenheck/bsq-200/parts",
+      "code": "bsq-200"
+    },
+    {
+      "name": "BSQ-200HP",
+      "url": "/greenheck/bsq-200hp/parts",
+      "code": "bsq-200hp"
+    },
+    {
+      "name": "BSQ-21",
+      "url": "/greenheck/bsq-21/parts",
+      "code": "bsq-21"
+    },
+    {
+      "name": "BSQ-21HP",
+      "url": "/greenheck/bsq-21hp/parts",
+      "code": "bsq-21hp"
+    },
+    {
+      "name": "BSQ-24",
+      "url": "/greenheck/bsq-24/parts",
+      "code": "bsq-24"
+    },
+    {
+      "name": "BSQ-240",
+      "url": "/greenheck/bsq-240/parts",
+      "code": "bsq-240"
+    },
+    {
+      "name": "BSQ-240HP",
+      "url": "/greenheck/bsq-240hp/parts",
+      "code": "bsq-240hp"
+    },
+    {
+      "name": "BSQ-24HP",
+      "url": "/greenheck/bsq-24hp/parts",
+      "code": "bsq-24hp"
+    },
+    {
+      "name": "BSQ-30",
+      "url": "/greenheck/bsq-30/parts",
+      "code": "bsq-30"
+    },
+    {
+      "name": "BSQ-300",
+      "url": "/greenheck/bsq-300/parts",
+      "code": "bsq-300"
+    },
+    {
+      "name": "BSQ-300HP",
+      "url": "/greenheck/bsq-300hp/parts",
+      "code": "bsq-300hp"
+    },
+    {
+      "name": "BSQ-30HP",
+      "url": "/greenheck/bsq-30hp/parts",
+      "code": "bsq-30hp"
+    },
+    {
+      "name": "BSQ-36",
+      "url": "/greenheck/bsq-36/parts",
+      "code": "bsq-36"
+    },
+    {
+      "name": "BSQ-360",
+      "url": "/greenheck/bsq-360/parts",
+      "code": "bsq-360"
+    },
+    {
+      "name": "BSQ-360HP",
+      "url": "/greenheck/bsq-360hp/parts",
+      "code": "bsq-360hp"
+    },
+    {
+      "name": "BSQ-36HP",
+      "url": "/greenheck/bsq-36hp/parts",
+      "code": "bsq-36hp"
+    },
+    {
+      "name": "BSQ-420",
+      "url": "/greenheck/bsq-420/parts",
+      "code": "bsq-420"
+    },
+    {
+      "name": "BSQ-7",
+      "url": "/greenheck/bsq-7/parts",
+      "code": "bsq-7"
+    },
+    {
+      "name": "BSQ-70",
+      "url": "/greenheck/bsq-70/parts",
+      "code": "bsq-70"
+    },
+    {
+      "name": "BSQ-8",
+      "url": "/greenheck/bsq-8/parts",
+      "code": "bsq-8"
+    },
+    {
+      "name": "BSQ-80",
+      "url": "/greenheck/bsq-80/parts",
+      "code": "bsq-80"
+    },
+    {
+      "name": "BSQ-9",
+      "url": "/greenheck/bsq-9/parts",
+      "code": "bsq-9"
+    },
+    {
+      "name": "BSQ-90",
+      "url": "/greenheck/bsq-90/parts",
+      "code": "bsq-90"
+    },
+    {
+      "name": "CSP-15",
+      "url": "/greenheck/csp-15/parts",
+      "code": "csp-15"
+    },
+    {
+      "name": "CSP-17",
+      "url": "/greenheck/csp-17/parts",
+      "code": "csp-17"
+    },
+    {
+      "name": "CSP-170",
+      "url": "/greenheck/csp-170/parts",
+      "code": "csp-170"
+    },
+    {
+      "name": "CSP-175",
+      "url": "/greenheck/csp-175/parts",
+      "code": "csp-175"
+    },
+    {
+      "name": "CSP-210",
+      "url": "/greenheck/csp-210/parts",
+      "code": "csp-210"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:48:11.221002"
+}

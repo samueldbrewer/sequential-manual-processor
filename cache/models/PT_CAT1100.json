@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hatco",
+    "code": "PT_CAT1100",
+    "uri": "hatco"
+  },
+  "models": [
+    {
+      "name": "3CS-3",
+      "url": "/hatco/3cs-3/parts",
+      "code": "3cs-3"
+    },
+    {
+      "name": "3CS-3B",
+      "url": "/hatco/3cs-3b/parts",
+      "code": "3cs-3b"
+    },
+    {
+      "name": "3CS-4",
+      "url": "/hatco/3cs-4/parts",
+      "code": "3cs-4"
+    },
+    {
+      "name": "3CS-4B",
+      "url": "/hatco/3cs-4b/parts",
+      "code": "3cs-4b"
+    },
+    {
+      "name": "3CS-6",
+      "url": "/hatco/3cs-6/parts",
+      "code": "3cs-6"
+    },
+    {
+      "name": "3CS-6B",
+      "url": "/hatco/3cs-6b/parts",
+      "code": "3cs-6b"
+    },
+    {
+      "name": "3CS-9",
+      "url": "/hatco/3cs-9/parts",
+      "code": "3cs-9"
+    },
+    {
+      "name": "3CS-9B",
+      "url": "/hatco/3cs-9b/parts",
+      "code": "3cs-9b"
+    },
+    {
+      "name": "3CS2-3",
+      "url": "/hatco/3cs2-3/parts",
+      "code": "3cs2-3"
+    },
+    {
+      "name": "3CS2-3B",
+      "url": "/hatco/3cs2-3b/parts",
+      "code": "3cs2-3b"
+    },
+    {
+      "name": "3CS2-4",
+      "url": "/hatco/3cs2-4/parts",
+      "code": "3cs2-4"
+    },
+    {
+      "name": "3CS2-4B",
+      "url": "/hatco/3cs2-4b/parts",
+      "code": "3cs2-4b"
+    },
+    {
+      "name": "3CS2-6",
+      "url": "/hatco/3cs2-6/parts",
+      "code": "3cs2-6"
+    },
+    {
+      "name": "3CS2-6B",
+      "url": "/hatco/3cs2-6b/parts",
+      "code": "3cs2-6b"
+    },
+    {
+      "name": "3CS2-9",
+      "url": "/hatco/3cs2-9/parts",
+      "code": "3cs2-9"
+    },
+    {
+      "name": "3CS2-9B",
+      "url": "/hatco/3cs2-9b/parts",
+      "code": "3cs2-9b"
+    },
+    {
+      "name": "ABB Series",
+      "url": "/hatco/abb-series/parts",
+      "code": "abb-series"
+    },
+    {
+      "name": "AWD-12",
+      "url": "/hatco/awd-12/parts",
+      "code": "awd-12"
+    },
+    {
+      "name": "C Series",
+      "url": "/hatco/c-series/parts",
+      "code": "c-series"
+    },
+    {
+      "name": "C-12",
+      "url": "/hatco/c-12/parts",
+      "code": "c-12"
+    },
+    {
+      "name": "C-13",
+      "url": "/hatco/c-13/parts",
+      "code": "c-13"
+    },
+    {
+      "name": "C-15",
+      "url": "/hatco/c-15/parts",
+      "code": "c-15"
+    },
+    {
+      "name": "C-17",
+      "url": "/hatco/c-17/parts",
+      "code": "c-17"
+    },
+    {
+      "name": "C-18",
+      "url": "/hatco/c-18/parts",
+      "code": "c-18"
+    },
+    {
+      "name": "C-24",
+      "url": "/hatco/c-24/parts",
+      "code": "c-24"
+    },
+    {
+      "name": "C-27",
+      "url": "/hatco/c-27/parts",
+      "code": "c-27"
+    },
+    {
+      "name": "C-30",
+      "url": "/hatco/c-30/parts",
+      "code": "c-30"
+    },
+    {
+      "name": "C-36",
+      "url": "/hatco/c-36/parts",
+      "code": "c-36"
+    },
+    {
+      "name": "C-39",
+      "url": "/hatco/c-39/parts",
+      "code": "c-39"
+    },
+    {
+      "name": "C-4",
+      "url": "/hatco/c-4/parts",
+      "code": "c-4"
+    },
+    {
+      "name": "C-45",
+      "url": "/hatco/c-45/parts",
+      "code": "c-45"
+    },
+    {
+      "name": "C-5",
+      "url": "/hatco/c-5/parts",
+      "code": "c-5"
+    },
+    {
+      "name": "C-54",
+      "url": "/hatco/c-54/parts",
+      "code": "c-54"
+    },
+    {
+      "name": "C-58",
+      "url": "/hatco/c-58/parts",
+      "code": "c-58"
+    },
+    {
+      "name": "C-6",
+      "url": "/hatco/c-6/parts",
+      "code": "c-6"
+    },
+    {
+      "name": "C-7",
+      "url": "/hatco/c-7/parts",
+      "code": "c-7"
+    },
+    {
+      "name": "C-9",
+      "url": "/hatco/c-9/parts",
+      "code": "c-9"
+    },
+    {
+      "name": "CDW-3N",
+      "url": "/hatco/cdw-3n/parts",
+      "code": "cdw-3n"
+    },
+    {
+      "name": "CHW-43",
+      "url": "/hatco/chw-43/parts",
+      "code": "chw-43"
+    },
+    {
+      "name": "CHW-FUL",
+      "url": "/hatco/chw-ful/parts",
+      "code": "chw-ful"
+    },
+    {
+      "name": "CSBF",
+      "url": "/hatco/csbf/parts",
+      "code": "csbf"
+    },
+    {
+      "name": "CSSB",
+      "url": "/hatco/cssb/parts",
+      "code": "cssb"
+    },
+    {
+      "name": "CSSBF",
+      "url": "/hatco/cssbf/parts",
+      "code": "cssbf"
+    },
+    {
+      "name": "CSU",
+      "url": "/hatco/csu/parts",
+      "code": "csu"
+    },
+    {
+      "name": "CWB-1",
+      "url": "/hatco/cwb-1/parts",
+      "code": "cwb-1"
+    },
+    {
+      "name": "CWB-2",
+      "url": "/hatco/cwb-2/parts",
+      "code": "cwb-2"
+    },
+    {
+      "name": "CWB-3",
+      "url": "/hatco/cwb-3/parts",
+      "code": "cwb-3"
+    },
+    {
+      "name": "CWB-4",
+      "url": "/hatco/cwb-4/parts",
+      "code": "cwb-4"
+    },
+    {
+      "name": "CWB-5",
+      "url": "/hatco/cwb-5/parts",
+      "code": "cwb-5"
+    },
+    {
+      "name": "CWB-6",
+      "url": "/hatco/cwb-6/parts",
+      "code": "cwb-6"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:53:04.429187"
+}

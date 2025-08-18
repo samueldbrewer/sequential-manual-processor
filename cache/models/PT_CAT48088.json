@@ -1,0 +1,46 @@
+{
+  "manufacturer": {
+    "name": "CTX",
+    "code": "PT_CAT48088",
+    "uri": "ctx"
+  },
+  "models": [
+    {
+      "name": "DZ33",
+      "url": "/ctx/dz33/parts",
+      "code": "dz33"
+    },
+    {
+      "name": "DZ33I",
+      "url": "/ctx/dz33i/parts",
+      "code": "dz33i"
+    },
+    {
+      "name": "DZ33II",
+      "url": "/ctx/dz33ii/parts",
+      "code": "dz33ii"
+    },
+    {
+      "name": "DZ55",
+      "url": "/ctx/dz55/parts",
+      "code": "dz55"
+    },
+    {
+      "name": "DZ55II",
+      "url": "/ctx/dz55ii/parts",
+      "code": "dz55ii"
+    },
+    {
+      "name": "G-26",
+      "url": "/ctx/g-26/parts",
+      "code": "g-26"
+    },
+    {
+      "name": "TCO2114",
+      "url": "/ctx/tco2114/parts",
+      "code": "tco2114"
+    }
+  ],
+  "total_models": 7,
+  "cached_at": "2025-08-14T18:02:06.793069"
+}

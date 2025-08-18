@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "Maxx Ice",
+    "code": "PT_CAT47988",
+    "uri": "maxx-ice"
+  },
+  "models": [
+    {
+      "name": "MIB400",
+      "url": "/maxx-ice/mib400/parts",
+      "code": "mib400"
+    },
+    {
+      "name": "MIM100",
+      "url": "/maxx-ice/mim100/parts",
+      "code": "mim100"
+    },
+    {
+      "name": "MIM1000",
+      "url": "/maxx-ice/mim1000/parts",
+      "code": "mim1000"
+    },
+    {
+      "name": "MIM130",
+      "url": "/maxx-ice/mim130/parts",
+      "code": "mim130"
+    },
+    {
+      "name": "MIM250",
+      "url": "/maxx-ice/mim250/parts",
+      "code": "mim250"
+    },
+    {
+      "name": "MIM450",
+      "url": "/maxx-ice/mim450/parts",
+      "code": "mim450"
+    },
+    {
+      "name": "MIM452",
+      "url": "/maxx-ice/mim452/parts",
+      "code": "mim452"
+    },
+    {
+      "name": "MIM50",
+      "url": "/maxx-ice/mim50/parts",
+      "code": "mim50"
+    },
+    {
+      "name": "MIM600",
+      "url": "/maxx-ice/mim600/parts",
+      "code": "mim600"
+    },
+    {
+      "name": "MIM75",
+      "url": "/maxx-ice/mim75/parts",
+      "code": "mim75"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-14T19:28:49.671917"
+}

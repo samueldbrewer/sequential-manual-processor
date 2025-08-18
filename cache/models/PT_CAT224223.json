@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "PuraShield",
+    "code": "PT_CAT224223",
+    "uri": "purashield"
+  },
+  "models": [
+    {
+      "name": "500",
+      "url": "/purashield/500/parts",
+      "code": "500"
+    },
+    {
+      "name": "Smart 500",
+      "url": "/purashield/smart-500/parts",
+      "code": "smart-500"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T19:53:14.755100"
+}

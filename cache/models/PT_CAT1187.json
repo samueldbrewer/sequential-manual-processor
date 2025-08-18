@@ -1,0 +1,126 @@
+{
+  "manufacturer": {
+    "name": "Saniserv",
+    "code": "PT_CAT1187",
+    "uri": "saniserv"
+  },
+  "models": [
+    {
+      "name": "404",
+      "url": "/saniserv/404/parts",
+      "code": "404"
+    },
+    {
+      "name": "414",
+      "url": "/saniserv/414/parts",
+      "code": "414"
+    },
+    {
+      "name": "414W",
+      "url": "/saniserv/414w/parts",
+      "code": "414w"
+    },
+    {
+      "name": "421E",
+      "url": "/saniserv/421e/parts",
+      "code": "421e"
+    },
+    {
+      "name": "424W",
+      "url": "/saniserv/424w/parts",
+      "code": "424w"
+    },
+    {
+      "name": "461E",
+      "url": "/saniserv/461e/parts",
+      "code": "461e"
+    },
+    {
+      "name": "521ET",
+      "url": "/saniserv/521et/parts",
+      "code": "521et"
+    },
+    {
+      "name": "522P",
+      "url": "/saniserv/522p/parts",
+      "code": "522p"
+    },
+    {
+      "name": "527",
+      "url": "/saniserv/527/parts",
+      "code": "527"
+    },
+    {
+      "name": "601",
+      "url": "/saniserv/601/parts",
+      "code": "601"
+    },
+    {
+      "name": "608",
+      "url": "/saniserv/608/parts",
+      "code": "608"
+    },
+    {
+      "name": "708E",
+      "url": "/saniserv/708e/parts",
+      "code": "708e"
+    },
+    {
+      "name": "798E",
+      "url": "/saniserv/798e/parts",
+      "code": "798e"
+    },
+    {
+      "name": "826E",
+      "url": "/saniserv/826e/parts",
+      "code": "826e"
+    },
+    {
+      "name": "B-10",
+      "url": "/saniserv/b-10/parts",
+      "code": "b-10"
+    },
+    {
+      "name": "B-20",
+      "url": "/saniserv/b-20/parts",
+      "code": "b-20"
+    },
+    {
+      "name": "B-5",
+      "url": "/saniserv/b-5/parts",
+      "code": "b-5"
+    },
+    {
+      "name": "DF-100",
+      "url": "/saniserv/df-100/parts",
+      "code": "df-100"
+    },
+    {
+      "name": "DF-200",
+      "url": "/saniserv/df-200/parts",
+      "code": "df-200"
+    },
+    {
+      "name": "DF-300",
+      "url": "/saniserv/df-300/parts",
+      "code": "df-300"
+    },
+    {
+      "name": "LK50",
+      "url": "/saniserv/lk50/parts",
+      "code": "lk50"
+    },
+    {
+      "name": "WB700",
+      "url": "/saniserv/wb700/parts",
+      "code": "wb700"
+    },
+    {
+      "name": "WB7110RF",
+      "url": "/saniserv/wb7110rf/parts",
+      "code": "wb7110rf"
+    }
+  ],
+  "total_models": 23,
+  "cached_at": "2025-08-14T22:05:19.759385"
+}

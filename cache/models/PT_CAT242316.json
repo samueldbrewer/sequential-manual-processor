@@ -1,0 +1,256 @@
+{
+  "manufacturer": {
+    "name": "Cadco",
+    "code": "PT_CAT242316",
+    "uri": "cadco"
+  },
+  "models": [
+    {
+      "name": "BRC-S1N",
+      "url": "/cadco/brc-s1n/parts",
+      "code": "brc-s1n"
+    },
+    {
+      "name": "CDR-1TFB",
+      "url": "/cadco/cdr-1tfb/parts",
+      "code": "cdr-1tfb"
+    },
+    {
+      "name": "CDR-2CFB",
+      "url": "/cadco/cdr-2cfb/parts",
+      "code": "cdr-2cfb"
+    },
+    {
+      "name": "CDR-2TFB",
+      "url": "/cadco/cdr-2tfb/parts",
+      "code": "cdr-2tfb"
+    },
+    {
+      "name": "CG-20",
+      "url": "/cadco/cg-20/parts",
+      "code": "cg-20"
+    },
+    {
+      "name": "CLMB-24RT",
+      "url": "/cadco/clmb-24rt/parts",
+      "code": "clmb-24rt"
+    },
+    {
+      "name": "CMLB-C2RT",
+      "url": "/cadco/cmlb-c2rt/parts",
+      "code": "cmlb-c2rt"
+    },
+    {
+      "name": "CMLB-CSLP",
+      "url": "/cadco/cmlb-cslp/parts",
+      "code": "cmlb-cslp"
+    },
+    {
+      "name": "CMLW-2",
+      "url": "/cadco/cmlw-2/parts",
+      "code": "cmlw-2"
+    },
+    {
+      "name": "CMLW-C",
+      "url": "/cadco/cmlw-c/parts",
+      "code": "cmlw-c"
+    },
+    {
+      "name": "CPG-10",
+      "url": "/cadco/cpg-10/parts",
+      "code": "cpg-10"
+    },
+    {
+      "name": "CPG-10F",
+      "url": "/cadco/cpg-10f/parts",
+      "code": "cpg-10f"
+    },
+    {
+      "name": "CPG-10FC",
+      "url": "/cadco/cpg-10fc/parts",
+      "code": "cpg-10fc"
+    },
+    {
+      "name": "CPG-20",
+      "url": "/cadco/cpg-20/parts",
+      "code": "cpg-20"
+    },
+    {
+      "name": "CPG-20F",
+      "url": "/cadco/cpg-20f/parts",
+      "code": "cpg-20f"
+    },
+    {
+      "name": "CSR-1T",
+      "url": "/cadco/csr-1t/parts",
+      "code": "csr-1t"
+    },
+    {
+      "name": "CSR-3T",
+      "url": "/cadco/csr-3t/parts",
+      "code": "csr-3t"
+    },
+    {
+      "name": "KR-1",
+      "url": "/cadco/kr-1/parts",
+      "code": "kr-1"
+    },
+    {
+      "name": "MCLB-24P",
+      "url": "/cadco/mclb-24p/parts",
+      "code": "mclb-24p"
+    },
+    {
+      "name": "OV-003",
+      "url": "/cadco/ov-003/parts",
+      "code": "ov-003"
+    },
+    {
+      "name": "OV-013",
+      "url": "/cadco/ov-013/parts",
+      "code": "ov-013"
+    },
+    {
+      "name": "OV-023",
+      "url": "/cadco/ov-023/parts",
+      "code": "ov-023"
+    },
+    {
+      "name": "OV250",
+      "url": "/cadco/ov250/parts",
+      "code": "ov250"
+    },
+    {
+      "name": "PHR-1C",
+      "url": "/cadco/phr-1c/parts",
+      "code": "phr-1c"
+    },
+    {
+      "name": "WT-100",
+      "url": "/cadco/wt-100/parts",
+      "code": "wt-100"
+    },
+    {
+      "name": "WT-10S",
+      "url": "/cadco/wt-10s/parts",
+      "code": "wt-10s"
+    },
+    {
+      "name": "WT-40S",
+      "url": "/cadco/wt-40s/parts",
+      "code": "wt-40s"
+    },
+    {
+      "name": "WT-5S",
+      "url": "/cadco/wt-5s/parts",
+      "code": "wt-5s"
+    },
+    {
+      "name": "WTBS-12P",
+      "url": "/cadco/wtbs-12p/parts",
+      "code": "wtbs-12p"
+    },
+    {
+      "name": "WTBS-2",
+      "url": "/cadco/wtbs-2/parts",
+      "code": "wtbs-2"
+    },
+    {
+      "name": "WTBS-2RT",
+      "url": "/cadco/wtbs-2rt/parts",
+      "code": "wtbs-2rt"
+    },
+    {
+      "name": "WTBS-3",
+      "url": "/cadco/wtbs-3/parts",
+      "code": "wtbs-3"
+    },
+    {
+      "name": "WTBS-3RT",
+      "url": "/cadco/wtbs-3rt/parts",
+      "code": "wtbs-3rt"
+    },
+    {
+      "name": "WTBS-4",
+      "url": "/cadco/wtbs-4/parts",
+      "code": "wtbs-4"
+    },
+    {
+      "name": "WTBS-4RT",
+      "url": "/cadco/wtbs-4rt/parts",
+      "code": "wtbs-4rt"
+    },
+    {
+      "name": "WTBS-5",
+      "url": "/cadco/wtbs-5/parts",
+      "code": "wtbs-5"
+    },
+    {
+      "name": "WTBS-5RT",
+      "url": "/cadco/wtbs-5rt/parts",
+      "code": "wtbs-5rt"
+    },
+    {
+      "name": "XAF-113",
+      "url": "/cadco/xaf-113/parts",
+      "code": "xaf-113"
+    },
+    {
+      "name": "XAF-130",
+      "url": "/cadco/xaf-130/parts",
+      "code": "xaf-130"
+    },
+    {
+      "name": "XAF013",
+      "url": "/cadco/xaf013/parts",
+      "code": "xaf013"
+    },
+    {
+      "name": "XAFT-111",
+      "url": "/cadco/xaft-111/parts",
+      "code": "xaft-111"
+    },
+    {
+      "name": "XAFT-115",
+      "url": "/cadco/xaft-115/parts",
+      "code": "xaft-115"
+    },
+    {
+      "name": "XAFT-130",
+      "url": "/cadco/xaft-130/parts",
+      "code": "xaft-130"
+    },
+    {
+      "name": "XAFT-133",
+      "url": "/cadco/xaft-133/parts",
+      "code": "xaft-133"
+    },
+    {
+      "name": "XAFT-135",
+      "url": "/cadco/xaft-135/parts",
+      "code": "xaft-135"
+    },
+    {
+      "name": "XAFT-183",
+      "url": "/cadco/xaft-183/parts",
+      "code": "xaft-183"
+    },
+    {
+      "name": "XAFT-188",
+      "url": "/cadco/xaft-188/parts",
+      "code": "xaft-188"
+    },
+    {
+      "name": "XAFT-195",
+      "url": "/cadco/xaft-195/parts",
+      "code": "xaft-195"
+    },
+    {
+      "name": "XAFT193",
+      "url": "/cadco/xaft193/parts",
+      "code": "xaft193"
+    }
+  ],
+  "total_models": 49,
+  "cached_at": "2025-08-14T18:02:20.802829"
+}

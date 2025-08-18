@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Nuova Simonelli USA",
+    "code": "PT_CAT223076",
+    "uri": "nuova-simonelli-usa"
+  },
+  "models": [
+    {
+      "name": "Adonis 2 Group",
+      "url": "/nuova-simonelli-usa/adonis-2-group/parts",
+      "code": "adonis-2-group"
+    },
+    {
+      "name": "Adonis 3 Group",
+      "url": "/nuova-simonelli-usa/adonis-3-group/parts",
+      "code": "adonis-3-group"
+    },
+    {
+      "name": "Appia Compact",
+      "url": "/nuova-simonelli-usa/appia-compact/parts",
+      "code": "appia-compact"
+    },
+    {
+      "name": "Appia I 1 Group",
+      "url": "/nuova-simonelli-usa/appia-i-1-group/parts",
+      "code": "appia-i-1-group"
+    },
+    {
+      "name": "Appia I 2 Group",
+      "url": "/nuova-simonelli-usa/appia-i-2-group/parts",
+      "code": "appia-i-2-group"
+    },
+    {
+      "name": "Appia I 3 Group",
+      "url": "/nuova-simonelli-usa/appia-i-3-group/parts",
+      "code": "appia-i-3-group"
+    },
+    {
+      "name": "Appia II 1 Group",
+      "url": "/nuova-simonelli-usa/appia-ii-1-group/parts",
+      "code": "appia-ii-1-group"
+    },
+    {
+      "name": "Appia II 2 Group",
+      "url": "/nuova-simonelli-usa/appia-ii-2-group/parts",
+      "code": "appia-ii-2-group"
+    },
+    {
+      "name": "Appia II 3 Group",
+      "url": "/nuova-simonelli-usa/appia-ii-3-group/parts",
+      "code": "appia-ii-3-group"
+    },
+    {
+      "name": "Athena Leva",
+      "url": "/nuova-simonelli-usa/athena-leva/parts",
+      "code": "athena-leva"
+    },
+    {
+      "name": "Athena S",
+      "url": "/nuova-simonelli-usa/athena-s/parts",
+      "code": "athena-s"
+    },
+    {
+      "name": "Aurelia I 2 Group",
+      "url": "/nuova-simonelli-usa/aurelia-i-2-group/parts",
+      "code": "aurelia-i-2-group"
+    },
+    {
+      "name": "Aurelia I 3 Group",
+      "url": "/nuova-simonelli-usa/aurelia-i-3-group/parts",
+      "code": "aurelia-i-3-group"
+    },
+    {
+      "name": "Aurelia I 4 Group",
+      "url": "/nuova-simonelli-usa/aurelia-i-4-group/parts",
+      "code": "aurelia-i-4-group"
+    },
+    {
+      "name": "Aurelia II 2 Group",
+      "url": "/nuova-simonelli-usa/aurelia-ii-2-group/parts",
+      "code": "aurelia-ii-2-group"
+    },
+    {
+      "name": "Aurelia II 2 Group T3",
+      "url": "/nuova-simonelli-usa/aurelia-ii-2-group-t3/parts",
+      "code": "aurelia-ii-2-group-t3"
+    },
+    {
+      "name": "Aurelia II 3 Group",
+      "url": "/nuova-simonelli-usa/aurelia-ii-3-group/parts",
+      "code": "aurelia-ii-3-group"
+    },
+    {
+      "name": "Aurelia II 3 Group T3",
+      "url": "/nuova-simonelli-usa/aurelia-ii-3-group-t3/parts",
+      "code": "aurelia-ii-3-group-t3"
+    },
+    {
+      "name": "Aurelia II 4 Group",
+      "url": "/nuova-simonelli-usa/aurelia-ii-4-group/parts",
+      "code": "aurelia-ii-4-group"
+    },
+    {
+      "name": "Black Eagle",
+      "url": "/nuova-simonelli-usa/black-eagle/parts",
+      "code": "black-eagle"
+    },
+    {
+      "name": "Caffetteria",
+      "url": "/nuova-simonelli-usa/caffetteria/parts",
+      "code": "caffetteria"
+    },
+    {
+      "name": "Crystal Horizon",
+      "url": "/nuova-simonelli-usa/crystal-horizon/parts",
+      "code": "crystal-horizon"
+    },
+    {
+      "name": "Eureka Zenith",
+      "url": "/nuova-simonelli-usa/eureka-zenith/parts",
+      "code": "eureka-zenith"
+    },
+    {
+      "name": "G60",
+      "url": "/nuova-simonelli-usa/g60/parts",
+      "code": "g60"
+    },
+    {
+      "name": "GRINTA",
+      "url": "/nuova-simonelli-usa/grinta/parts",
+      "code": "grinta"
+    },
+    {
+      "name": "Hoasis MAXI",
+      "url": "/nuova-simonelli-usa/hoasis-maxi/parts",
+      "code": "hoasis-maxi"
+    },
+    {
+      "name": "Jazz",
+      "url": "/nuova-simonelli-usa/jazz/parts",
+      "code": "jazz"
+    },
+    {
+      "name": "Kiara 5",
+      "url": "/nuova-simonelli-usa/kiara-5/parts",
+      "code": "kiara-5"
+    },
+    {
+      "name": "Kiara 6",
+      "url": "/nuova-simonelli-usa/kiara-6/parts",
+      "code": "kiara-6"
+    },
+    {
+      "name": "MCD65RA",
+      "url": "/nuova-simonelli-usa/mcd65ra/parts",
+      "code": "mcd65ra"
+    },
+    {
+      "name": "MCD75RA",
+      "url": "/nuova-simonelli-usa/mcd75ra/parts",
+      "code": "mcd75ra"
+    },
+    {
+      "name": "MCF",
+      "url": "/nuova-simonelli-usa/mcf/parts",
+      "code": "mcf"
+    },
+    {
+      "name": "MDL",
+      "url": "/nuova-simonelli-usa/mdl/parts",
+      "code": "mdl"
+    },
+    {
+      "name": "MDLCA",
+      "url": "/nuova-simonelli-usa/mdlca/parts",
+      "code": "mdlca"
+    },
+    {
+      "name": "MDLCA/C",
+      "url": "/nuova-simonelli-usa/mdlca-c/parts",
+      "code": "mdlca-c"
+    },
+    {
+      "name": "MDS",
+      "url": "/nuova-simonelli-usa/mds/parts",
+      "code": "mds"
+    },
+    {
+      "name": "MDSA",
+      "url": "/nuova-simonelli-usa/mdsa/parts",
+      "code": "mdsa"
+    },
+    {
+      "name": "MDX",
+      "url": "/nuova-simonelli-usa/mdx/parts",
+      "code": "mdx"
+    },
+    {
+      "name": "MDX On-Demand",
+      "url": "/nuova-simonelli-usa/mdx-on-demand/parts",
+      "code": "mdx-on-demand"
+    },
+    {
+      "name": "MDXA",
+      "url": "/nuova-simonelli-usa/mdxa/parts",
+      "code": "mdxa"
+    },
+    {
+      "name": "Mac 2000 1 Group",
+      "url": "/nuova-simonelli-usa/mac-2000-1-group/parts",
+      "code": "mac-2000-1-group"
+    },
+    {
+      "name": "Mac 2000 2 Group",
+      "url": "/nuova-simonelli-usa/mac-2000-2-group/parts",
+      "code": "mac-2000-2-group"
+    },
+    {
+      "name": "Mac 2000 3 Group",
+      "url": "/nuova-simonelli-usa/mac-2000-3-group/parts",
+      "code": "mac-2000-3-group"
+    },
+    {
+      "name": "Mac 2000 4 Group",
+      "url": "/nuova-simonelli-usa/mac-2000-4-group/parts",
+      "code": "mac-2000-4-group"
+    },
+    {
+      "name": "Master Coffee",
+      "url": "/nuova-simonelli-usa/master-coffee/parts",
+      "code": "master-coffee"
+    },
+    {
+      "name": "Microbar",
+      "url": "/nuova-simonelli-usa/microbar/parts",
+      "code": "microbar"
+    },
+    {
+      "name": "Microbar II",
+      "url": "/nuova-simonelli-usa/microbar-ii/parts",
+      "code": "microbar-ii"
+    },
+    {
+      "name": "Musica",
+      "url": "/nuova-simonelli-usa/musica/parts",
+      "code": "musica"
+    },
+    {
+      "name": "Mythos Basic",
+      "url": "/nuova-simonelli-usa/mythos-basic/parts",
+      "code": "mythos-basic"
+    },
+    {
+      "name": "Mythos One Clima Pro",
+      "url": "/nuova-simonelli-usa/mythos-one-clima-pro/parts",
+      "code": "mythos-one-clima-pro"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:44:03.752559"
+}

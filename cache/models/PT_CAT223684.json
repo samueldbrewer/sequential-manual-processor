@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Klub Tech",
+    "code": "PT_CAT223684",
+    "uri": "klub-tech"
+  },
+  "models": [
+    {
+      "name": "F2",
+      "url": "/klub-tech/f2/parts",
+      "code": "f2"
+    },
+    {
+      "name": "L1",
+      "url": "/klub-tech/l1/parts",
+      "code": "l1"
+    },
+    {
+      "name": "L2",
+      "url": "/klub-tech/l2/parts",
+      "code": "l2"
+    },
+    {
+      "name": "L3",
+      "url": "/klub-tech/l3/parts",
+      "code": "l3"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T19:14:10.725242"
+}

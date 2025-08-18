@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Convotherm",
+    "code": "PT_CAT266200",
+    "uri": "convotherm"
+  },
+  "models": [
+    {
+      "name": "C4-06.10EB",
+      "url": "/convotherm/c4-06-10eb/parts",
+      "code": "c4-06-10eb"
+    },
+    {
+      "name": "C4-06.10ES",
+      "url": "/convotherm/c4-06-10es/parts",
+      "code": "c4-06-10es"
+    },
+    {
+      "name": "C4-10.10ES",
+      "url": "/convotherm/c4-10-10es/parts",
+      "code": "c4-10-10es"
+    },
+    {
+      "name": "C4ED-06.10EB",
+      "url": "/convotherm/c4ed-06-10eb/parts",
+      "code": "c4ed-06-10eb"
+    },
+    {
+      "name": "C4ED-06.10ES",
+      "url": "/convotherm/c4ed-06-10es/parts",
+      "code": "c4ed-06-10es"
+    },
+    {
+      "name": "C4ED-06.20GB",
+      "url": "/convotherm/c4ed-06-20gb/parts",
+      "code": "c4ed-06-20gb"
+    },
+    {
+      "name": "C4ED-06.20GS",
+      "url": "/convotherm/c4ed-06-20gs/parts",
+      "code": "c4ed-06-20gs"
+    },
+    {
+      "name": "C4ED-10.10EB",
+      "url": "/convotherm/c4ed-10-10eb/parts",
+      "code": "c4ed-10-10eb"
+    },
+    {
+      "name": "C4ED-10.10ES",
+      "url": "/convotherm/c4ed-10-10es/parts",
+      "code": "c4ed-10-10es"
+    },
+    {
+      "name": "C4ED-10.10GB",
+      "url": "/convotherm/c4ed-10-10gb/parts",
+      "code": "c4ed-10-10gb"
+    },
+    {
+      "name": "C4ED-10.10GS",
+      "url": "/convotherm/c4ed-10-10gs/parts",
+      "code": "c4ed-10-10gs"
+    },
+    {
+      "name": "C4ED-10.20EB",
+      "url": "/convotherm/c4ed-10-20eb/parts",
+      "code": "c4ed-10-20eb"
+    },
+    {
+      "name": "C4ED-10.20ES",
+      "url": "/convotherm/c4ed-10-20es/parts",
+      "code": "c4ed-10-20es"
+    },
+    {
+      "name": "C4ED-10.20GB",
+      "url": "/convotherm/c4ed-10-20gb/parts",
+      "code": "c4ed-10-20gb"
+    },
+    {
+      "name": "C4ED-10.20GS",
+      "url": "/convotherm/c4ed-10-20gs/parts",
+      "code": "c4ed-10-20gs"
+    },
+    {
+      "name": "C4ED-12.20EB",
+      "url": "/convotherm/c4ed-12-20eb/parts",
+      "code": "c4ed-12-20eb"
+    },
+    {
+      "name": "C4ED-12.20ES",
+      "url": "/convotherm/c4ed-12-20es/parts",
+      "code": "c4ed-12-20es"
+    },
+    {
+      "name": "C4ED-12.20GB",
+      "url": "/convotherm/c4ed-12-20gb/parts",
+      "code": "c4ed-12-20gb"
+    },
+    {
+      "name": "C4ED-12.20GS",
+      "url": "/convotherm/c4ed-12-20gs/parts",
+      "code": "c4ed-12-20gs"
+    },
+    {
+      "name": "C4ED-20.10EB",
+      "url": "/convotherm/c4ed-20-10eb/parts",
+      "code": "c4ed-20-10eb"
+    },
+    {
+      "name": "C4ED-20.10ES",
+      "url": "/convotherm/c4ed-20-10es/parts",
+      "code": "c4ed-20-10es"
+    },
+    {
+      "name": "C4ED-20.10GB",
+      "url": "/convotherm/c4ed-20-10gb/parts",
+      "code": "c4ed-20-10gb"
+    },
+    {
+      "name": "C4ED-20.10GS",
+      "url": "/convotherm/c4ed-20-10gs/parts",
+      "code": "c4ed-20-10gs"
+    },
+    {
+      "name": "C4ED-20.20EB",
+      "url": "/convotherm/c4ed-20-20eb/parts",
+      "code": "c4ed-20-20eb"
+    },
+    {
+      "name": "C4ED-20.20ES",
+      "url": "/convotherm/c4ed-20-20es/parts",
+      "code": "c4ed-20-20es"
+    },
+    {
+      "name": "C4ED-20.20GB",
+      "url": "/convotherm/c4ed-20-20gb/parts",
+      "code": "c4ed-20-20gb"
+    },
+    {
+      "name": "C4ED-6.10EB",
+      "url": "/convotherm/c4ed-6-10eb/parts",
+      "code": "c4ed-6-10eb"
+    },
+    {
+      "name": "C4ED-6.10ES",
+      "url": "/convotherm/c4ed-6-10es/parts",
+      "code": "c4ed-6-10es"
+    },
+    {
+      "name": "C4ED-6.10GB",
+      "url": "/convotherm/c4ed-6-10gb/parts",
+      "code": "c4ed-6-10gb"
+    },
+    {
+      "name": "C4ED-6.10GS",
+      "url": "/convotherm/c4ed-6-10gs/parts",
+      "code": "c4ed-6-10gs"
+    },
+    {
+      "name": "C4ED-6.20EB",
+      "url": "/convotherm/c4ed-6-20eb/parts",
+      "code": "c4ed-6-20eb"
+    },
+    {
+      "name": "C4ED-6.20ES",
+      "url": "/convotherm/c4ed-6-20es/parts",
+      "code": "c4ed-6-20es"
+    },
+    {
+      "name": "C4ED-6.20GB",
+      "url": "/convotherm/c4ed-6-20gb/parts",
+      "code": "c4ed-6-20gb"
+    },
+    {
+      "name": "C4ED-6.20GS",
+      "url": "/convotherm/c4ed-6-20gs/parts",
+      "code": "c4ed-6-20gs"
+    },
+    {
+      "name": "C4ET-06.10GB",
+      "url": "/convotherm/c4et-06-10gb/parts",
+      "code": "c4et-06-10gb"
+    },
+    {
+      "name": "C4ET-06.10GS",
+      "url": "/convotherm/c4et-06-10gs/parts",
+      "code": "c4et-06-10gs"
+    },
+    {
+      "name": "C4ET-06.20EB",
+      "url": "/convotherm/c4et-06-20eb/parts",
+      "code": "c4et-06-20eb"
+    },
+    {
+      "name": "C4ET-06.20ES",
+      "url": "/convotherm/c4et-06-20es/parts",
+      "code": "c4et-06-20es"
+    },
+    {
+      "name": "C4ET-10.10EB",
+      "url": "/convotherm/c4et-10-10eb/parts",
+      "code": "c4et-10-10eb"
+    },
+    {
+      "name": "C4ET-10.10ES",
+      "url": "/convotherm/c4et-10-10es/parts",
+      "code": "c4et-10-10es"
+    },
+    {
+      "name": "C4ET-10.10GB",
+      "url": "/convotherm/c4et-10-10gb/parts",
+      "code": "c4et-10-10gb"
+    },
+    {
+      "name": "C4ET-10.10GS",
+      "url": "/convotherm/c4et-10-10gs/parts",
+      "code": "c4et-10-10gs"
+    },
+    {
+      "name": "C4ET-10.20EB",
+      "url": "/convotherm/c4et-10-20eb/parts",
+      "code": "c4et-10-20eb"
+    },
+    {
+      "name": "C4ET-10.20ES",
+      "url": "/convotherm/c4et-10-20es/parts",
+      "code": "c4et-10-20es"
+    },
+    {
+      "name": "C4ET-10.20GB",
+      "url": "/convotherm/c4et-10-20gb/parts",
+      "code": "c4et-10-20gb"
+    },
+    {
+      "name": "C4ET-10.20GS",
+      "url": "/convotherm/c4et-10-20gs/parts",
+      "code": "c4et-10-20gs"
+    },
+    {
+      "name": "C4ET-12.20EB",
+      "url": "/convotherm/c4et-12-20eb/parts",
+      "code": "c4et-12-20eb"
+    },
+    {
+      "name": "C4ET-12.20ES",
+      "url": "/convotherm/c4et-12-20es/parts",
+      "code": "c4et-12-20es"
+    },
+    {
+      "name": "C4ET-12.20GB",
+      "url": "/convotherm/c4et-12-20gb/parts",
+      "code": "c4et-12-20gb"
+    },
+    {
+      "name": "C4ET-12.20GS",
+      "url": "/convotherm/c4et-12-20gs/parts",
+      "code": "c4et-12-20gs"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:12:37.958663"
+}

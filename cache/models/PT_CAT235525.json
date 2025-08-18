@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Airquest",
+    "code": "PT_CAT235525",
+    "uri": "airquest"
+  },
+  "models": [
+    {
+      "name": "DLCLRAH36AAK01",
+      "url": "/airquest/dlclrah36aak01/parts",
+      "code": "dlclrah36aak01"
+    },
+    {
+      "name": "DLCLRAH48AAK01",
+      "url": "/airquest/dlclrah48aak01/parts",
+      "code": "dlclrah48aak01"
+    },
+    {
+      "name": "DLCLRAH58AAK01",
+      "url": "/airquest/dlclrah58aak01/parts",
+      "code": "dlclrah58aak01"
+    },
+    {
+      "name": "DLFLCAH36XAK01",
+      "url": "/airquest/dlflcah36xak01/parts",
+      "code": "dlflcah36xak01"
+    },
+    {
+      "name": "DLFLCAH48XAK01",
+      "url": "/airquest/dlflcah48xak01/parts",
+      "code": "dlflcah48xak01"
+    },
+    {
+      "name": "DLFLDAH36XAK01",
+      "url": "/airquest/dlfldah36xak01/parts",
+      "code": "dlfldah36xak01"
+    },
+    {
+      "name": "DLFLDAH48XAK01",
+      "url": "/airquest/dlfldah48xak01/parts",
+      "code": "dlfldah48xak01"
+    },
+    {
+      "name": "DLFLDAH58XAK01",
+      "url": "/airquest/dlfldah58xak01/parts",
+      "code": "dlfldah58xak01"
+    },
+    {
+      "name": "DLFSCAH09XAK01",
+      "url": "/airquest/dlfscah09xak01/parts",
+      "code": "dlfscah09xak01"
+    },
+    {
+      "name": "DLFSCAH12XAK01",
+      "url": "/airquest/dlfscah12xak01/parts",
+      "code": "dlfscah12xak01"
+    },
+    {
+      "name": "DLFSCAH18XAK01",
+      "url": "/airquest/dlfscah18xak01/parts",
+      "code": "dlfscah18xak01"
+    },
+    {
+      "name": "DLFSCAH24XAK01",
+      "url": "/airquest/dlfscah24xak01/parts",
+      "code": "dlfscah24xak01"
+    },
+    {
+      "name": "DLFSDAH09XAK01",
+      "url": "/airquest/dlfsdah09xak01/parts",
+      "code": "dlfsdah09xak01"
+    },
+    {
+      "name": "DLFSDAH12XAK01",
+      "url": "/airquest/dlfsdah12xak01/parts",
+      "code": "dlfsdah12xak01"
+    },
+    {
+      "name": "DLFSDAH18XAK01",
+      "url": "/airquest/dlfsdah18xak01/parts",
+      "code": "dlfsdah18xak01"
+    },
+    {
+      "name": "DLFSDAH24XAK01",
+      "url": "/airquest/dlfsdah24xak01/parts",
+      "code": "dlfsdah24xak01"
+    },
+    {
+      "name": "EAM4X18L14A1",
+      "url": "/airquest/eam4x18l14a1/parts",
+      "code": "eam4x18l14a1"
+    },
+    {
+      "name": "EAM4X18T14A1",
+      "url": "/airquest/eam4x18t14a1/parts",
+      "code": "eam4x18t14a1"
+    },
+    {
+      "name": "EAM4X19L17A1",
+      "url": "/airquest/eam4x19l17a1/parts",
+      "code": "eam4x19l17a1"
+    },
+    {
+      "name": "EAM4X24L14A1",
+      "url": "/airquest/eam4x24l14a1/parts",
+      "code": "eam4x24l14a1"
+    },
+    {
+      "name": "EAM4X24L17A1",
+      "url": "/airquest/eam4x24l17a1/parts",
+      "code": "eam4x24l17a1"
+    },
+    {
+      "name": "EAM4X24T14A1",
+      "url": "/airquest/eam4x24t14a1/parts",
+      "code": "eam4x24t14a1"
+    },
+    {
+      "name": "EAM4X24T17A1",
+      "url": "/airquest/eam4x24t17a1/parts",
+      "code": "eam4x24t17a1"
+    },
+    {
+      "name": "EAM4X25L17A1",
+      "url": "/airquest/eam4x25l17a1/parts",
+      "code": "eam4x25l17a1"
+    },
+    {
+      "name": "EAM4X30L14A1",
+      "url": "/airquest/eam4x30l14a1/parts",
+      "code": "eam4x30l14a1"
+    },
+    {
+      "name": "EAM4X30L17A1",
+      "url": "/airquest/eam4x30l17a1/parts",
+      "code": "eam4x30l17a1"
+    },
+    {
+      "name": "EAM4X30T14A1",
+      "url": "/airquest/eam4x30t14a1/parts",
+      "code": "eam4x30t14a1"
+    },
+    {
+      "name": "EAM4X30T17A1",
+      "url": "/airquest/eam4x30t17a1/parts",
+      "code": "eam4x30t17a1"
+    },
+    {
+      "name": "EAM4X36L14A1",
+      "url": "/airquest/eam4x36l14a1/parts",
+      "code": "eam4x36l14a1"
+    },
+    {
+      "name": "EAM4X36L17A1",
+      "url": "/airquest/eam4x36l17a1/parts",
+      "code": "eam4x36l17a1"
+    },
+    {
+      "name": "EAM4X36L21A1",
+      "url": "/airquest/eam4x36l21a1/parts",
+      "code": "eam4x36l21a1"
+    },
+    {
+      "name": "EAM4X36T14A1",
+      "url": "/airquest/eam4x36t14a1/parts",
+      "code": "eam4x36t14a1"
+    },
+    {
+      "name": "EAM4X36T17A1",
+      "url": "/airquest/eam4x36t17a1/parts",
+      "code": "eam4x36t17a1"
+    },
+    {
+      "name": "EAM4X36T21A1",
+      "url": "/airquest/eam4x36t21a1/parts",
+      "code": "eam4x36t21a1"
+    },
+    {
+      "name": "EAM4X37L17A1",
+      "url": "/airquest/eam4x37l17a1/parts",
+      "code": "eam4x37l17a1"
+    },
+    {
+      "name": "EAM4X37L21A1",
+      "url": "/airquest/eam4x37l21a1/parts",
+      "code": "eam4x37l21a1"
+    },
+    {
+      "name": "EAM4X42L21A1",
+      "url": "/airquest/eam4x42l21a1/parts",
+      "code": "eam4x42l21a1"
+    },
+    {
+      "name": "EAM4X42L24A1",
+      "url": "/airquest/eam4x42l24a1/parts",
+      "code": "eam4x42l24a1"
+    },
+    {
+      "name": "EAM4X42T21A1",
+      "url": "/airquest/eam4x42t21a1/parts",
+      "code": "eam4x42t21a1"
+    },
+    {
+      "name": "EAM4X42T24A1",
+      "url": "/airquest/eam4x42t24a1/parts",
+      "code": "eam4x42t24a1"
+    },
+    {
+      "name": "EAM4X43L21A1",
+      "url": "/airquest/eam4x43l21a1/parts",
+      "code": "eam4x43l21a1"
+    },
+    {
+      "name": "EAM4X48L17A1",
+      "url": "/airquest/eam4x48l17a1/parts",
+      "code": "eam4x48l17a1"
+    },
+    {
+      "name": "EAM4X48L21A1",
+      "url": "/airquest/eam4x48l21a1/parts",
+      "code": "eam4x48l21a1"
+    },
+    {
+      "name": "EAM4X48L24A1",
+      "url": "/airquest/eam4x48l24a1/parts",
+      "code": "eam4x48l24a1"
+    },
+    {
+      "name": "EAM4X48T17A1",
+      "url": "/airquest/eam4x48t17a1/parts",
+      "code": "eam4x48t17a1"
+    },
+    {
+      "name": "EAM4X48T21A1",
+      "url": "/airquest/eam4x48t21a1/parts",
+      "code": "eam4x48t21a1"
+    },
+    {
+      "name": "EAM4X48T24A1",
+      "url": "/airquest/eam4x48t24a1/parts",
+      "code": "eam4x48t24a1"
+    },
+    {
+      "name": "EAM4X60L21A1",
+      "url": "/airquest/eam4x60l21a1/parts",
+      "code": "eam4x60l21a1"
+    },
+    {
+      "name": "EAM4X60L24A1",
+      "url": "/airquest/eam4x60l24a1/parts",
+      "code": "eam4x60l24a1"
+    },
+    {
+      "name": "EAM4X60T21A1",
+      "url": "/airquest/eam4x60t21a1/parts",
+      "code": "eam4x60t21a1"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:37:26.812765"
+}

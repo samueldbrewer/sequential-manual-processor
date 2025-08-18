@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Glastender",
+    "code": "PT_CAT1087",
+    "uri": "glastender"
+  },
+  "models": [
+    {
+      "name": "BB108",
+      "url": "/glastender/bb108/parts",
+      "code": "bb108"
+    },
+    {
+      "name": "BB108 (2009-2016)",
+      "url": "/glastender/bb108-2009-2016/parts",
+      "code": "bb108-2009-2016"
+    },
+    {
+      "name": "BB108-H",
+      "url": "/glastender/bb108-h/parts",
+      "code": "bb108-h"
+    },
+    {
+      "name": "BB108BR",
+      "url": "/glastender/bb108br/parts",
+      "code": "bb108br"
+    },
+    {
+      "name": "BB108BW",
+      "url": "/glastender/bb108bw/parts",
+      "code": "bb108bw"
+    },
+    {
+      "name": "BB108L",
+      "url": "/glastender/bb108l/parts",
+      "code": "bb108l"
+    },
+    {
+      "name": "BB108R",
+      "url": "/glastender/bb108r/parts",
+      "code": "bb108r"
+    },
+    {
+      "name": "BB108WR",
+      "url": "/glastender/bb108wr/parts",
+      "code": "bb108wr"
+    },
+    {
+      "name": "BB36",
+      "url": "/glastender/bb36/parts",
+      "code": "bb36"
+    },
+    {
+      "name": "BB36-D",
+      "url": "/glastender/bb36-d/parts",
+      "code": "bb36-d"
+    },
+    {
+      "name": "BB48",
+      "url": "/glastender/bb48/parts",
+      "code": "bb48"
+    },
+    {
+      "name": "BB60",
+      "url": "/glastender/bb60/parts",
+      "code": "bb60"
+    },
+    {
+      "name": "BB60 (2009-2016)",
+      "url": "/glastender/bb60-2009-2016/parts",
+      "code": "bb60-2009-2016"
+    },
+    {
+      "name": "BB60-H",
+      "url": "/glastender/bb60-h/parts",
+      "code": "bb60-h"
+    },
+    {
+      "name": "BB60BR",
+      "url": "/glastender/bb60br/parts",
+      "code": "bb60br"
+    },
+    {
+      "name": "BB60BW",
+      "url": "/glastender/bb60bw/parts",
+      "code": "bb60bw"
+    },
+    {
+      "name": "BB60L",
+      "url": "/glastender/bb60l/parts",
+      "code": "bb60l"
+    },
+    {
+      "name": "BB60R",
+      "url": "/glastender/bb60r/parts",
+      "code": "bb60r"
+    },
+    {
+      "name": "BB60WR",
+      "url": "/glastender/bb60wr/parts",
+      "code": "bb60wr"
+    },
+    {
+      "name": "BB72",
+      "url": "/glastender/bb72/parts",
+      "code": "bb72"
+    },
+    {
+      "name": "BB84",
+      "url": "/glastender/bb84/parts",
+      "code": "bb84"
+    },
+    {
+      "name": "BB84 (2009-2016)",
+      "url": "/glastender/bb84-2009-2016/parts",
+      "code": "bb84-2009-2016"
+    },
+    {
+      "name": "BB84-H",
+      "url": "/glastender/bb84-h/parts",
+      "code": "bb84-h"
+    },
+    {
+      "name": "BB84BR",
+      "url": "/glastender/bb84br/parts",
+      "code": "bb84br"
+    },
+    {
+      "name": "BB84BW",
+      "url": "/glastender/bb84bw/parts",
+      "code": "bb84bw"
+    },
+    {
+      "name": "BB84BWL-XS(LRR)",
+      "url": "/glastender/bb84bwl-xs-lrr/parts",
+      "code": "bb84bwl-xs-lrr"
+    },
+    {
+      "name": "BB84L",
+      "url": "/glastender/bb84l/parts",
+      "code": "bb84l"
+    },
+    {
+      "name": "BB84R",
+      "url": "/glastender/bb84r/parts",
+      "code": "bb84r"
+    },
+    {
+      "name": "BB84WR",
+      "url": "/glastender/bb84wr/parts",
+      "code": "bb84wr"
+    },
+    {
+      "name": "BB96",
+      "url": "/glastender/bb96/parts",
+      "code": "bb96"
+    },
+    {
+      "name": "BDS",
+      "url": "/glastender/bds/parts",
+      "code": "bds"
+    },
+    {
+      "name": "BLC-1/2",
+      "url": "/glastender/blc-1-2/parts",
+      "code": "blc-1-2"
+    },
+    {
+      "name": "BLC-1/2-2",
+      "url": "/glastender/blc-1-2-2/parts",
+      "code": "blc-1-2-2"
+    },
+    {
+      "name": "BLC-1/3",
+      "url": "/glastender/blc-1-3/parts",
+      "code": "blc-1-3"
+    },
+    {
+      "name": "BLC-1/3-2",
+      "url": "/glastender/blc-1-3-2/parts",
+      "code": "blc-1-3-2"
+    },
+    {
+      "name": "BLC-1/3-E",
+      "url": "/glastender/blc-1-3-e/parts",
+      "code": "blc-1-3-e"
+    },
+    {
+      "name": "BLC-3/4",
+      "url": "/glastender/blc-3-4/parts",
+      "code": "blc-3-4"
+    },
+    {
+      "name": "BLC-3/4-2",
+      "url": "/glastender/blc-3-4-2/parts",
+      "code": "blc-3-4-2"
+    },
+    {
+      "name": "C1FB",
+      "url": "/glastender/c1fb/parts",
+      "code": "c1fb"
+    },
+    {
+      "name": "C1FL",
+      "url": "/glastender/c1fl/parts",
+      "code": "c1fl"
+    },
+    {
+      "name": "C1RL",
+      "url": "/glastender/c1rl/parts",
+      "code": "c1rl"
+    },
+    {
+      "name": "C1SB",
+      "url": "/glastender/c1sb/parts",
+      "code": "c1sb"
+    },
+    {
+      "name": "C1SL",
+      "url": "/glastender/c1sl/parts",
+      "code": "c1sl"
+    },
+    {
+      "name": "C2FB",
+      "url": "/glastender/c2fb/parts",
+      "code": "c2fb"
+    },
+    {
+      "name": "C2SB",
+      "url": "/glastender/c2sb/parts",
+      "code": "c2sb"
+    },
+    {
+      "name": "CM24",
+      "url": "/glastender/cm24/parts",
+      "code": "cm24"
+    },
+    {
+      "name": "CM24 (2011-2016)",
+      "url": "/glastender/cm24-2011-2016/parts",
+      "code": "cm24-2011-2016"
+    },
+    {
+      "name": "CM24 (2017-2019)",
+      "url": "/glastender/cm24-2017-2019/parts",
+      "code": "cm24-2017-2019"
+    },
+    {
+      "name": "CP1FB32",
+      "url": "/glastender/cp1fb32/parts",
+      "code": "cp1fb32"
+    },
+    {
+      "name": "CP1FB36",
+      "url": "/glastender/cp1fb36/parts",
+      "code": "cp1fb36"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:44:49.704982"
+}

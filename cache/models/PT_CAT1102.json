@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Ice O Matic",
+    "code": "PT_CAT1102",
+    "uri": "ice-o-matic"
+  },
+  "models": [
+    {
+      "name": "B100",
+      "url": "/ice-o-matic/b100/parts",
+      "code": "b100"
+    },
+    {
+      "name": "B1000",
+      "url": "/ice-o-matic/b1000/parts",
+      "code": "b1000"
+    },
+    {
+      "name": "B100A",
+      "url": "/ice-o-matic/b100a/parts",
+      "code": "b100a"
+    },
+    {
+      "name": "B100B",
+      "url": "/ice-o-matic/b100b/parts",
+      "code": "b100b"
+    },
+    {
+      "name": "B110",
+      "url": "/ice-o-matic/b110/parts",
+      "code": "b110"
+    },
+    {
+      "name": "B110B",
+      "url": "/ice-o-matic/b110b/parts",
+      "code": "b110b"
+    },
+    {
+      "name": "B120",
+      "url": "/ice-o-matic/b120/parts",
+      "code": "b120"
+    },
+    {
+      "name": "B130",
+      "url": "/ice-o-matic/b130/parts",
+      "code": "b130"
+    },
+    {
+      "name": "B1300",
+      "url": "/ice-o-matic/b1300/parts",
+      "code": "b1300"
+    },
+    {
+      "name": "B1325",
+      "url": "/ice-o-matic/b1325/parts",
+      "code": "b1325"
+    },
+    {
+      "name": "B150",
+      "url": "/ice-o-matic/b150/parts",
+      "code": "b150"
+    },
+    {
+      "name": "B1600",
+      "url": "/ice-o-matic/b1600/parts",
+      "code": "b1600"
+    },
+    {
+      "name": "B170",
+      "url": "/ice-o-matic/b170/parts",
+      "code": "b170"
+    },
+    {
+      "name": "B25",
+      "url": "/ice-o-matic/b25/parts",
+      "code": "b25"
+    },
+    {
+      "name": "B25PP",
+      "url": "/ice-o-matic/b25pp/parts",
+      "code": "b25pp"
+    },
+    {
+      "name": "B40",
+      "url": "/ice-o-matic/b40/parts",
+      "code": "b40"
+    },
+    {
+      "name": "B40A",
+      "url": "/ice-o-matic/b40a/parts",
+      "code": "b40a"
+    },
+    {
+      "name": "B40B",
+      "url": "/ice-o-matic/b40b/parts",
+      "code": "b40b"
+    },
+    {
+      "name": "B42",
+      "url": "/ice-o-matic/b42/parts",
+      "code": "b42"
+    },
+    {
+      "name": "B42A",
+      "url": "/ice-o-matic/b42a/parts",
+      "code": "b42a"
+    },
+    {
+      "name": "B42B",
+      "url": "/ice-o-matic/b42b/parts",
+      "code": "b42b"
+    },
+    {
+      "name": "B55",
+      "url": "/ice-o-matic/b55/parts",
+      "code": "b55"
+    },
+    {
+      "name": "B55A",
+      "url": "/ice-o-matic/b55a/parts",
+      "code": "b55a"
+    },
+    {
+      "name": "B55B",
+      "url": "/ice-o-matic/b55b/parts",
+      "code": "b55b"
+    },
+    {
+      "name": "B700",
+      "url": "/ice-o-matic/b700/parts",
+      "code": "b700"
+    },
+    {
+      "name": "B75",
+      "url": "/ice-o-matic/b75/parts",
+      "code": "b75"
+    },
+    {
+      "name": "C105",
+      "url": "/ice-o-matic/c105/parts",
+      "code": "c105"
+    },
+    {
+      "name": "C106",
+      "url": "/ice-o-matic/c106/parts",
+      "code": "c106"
+    },
+    {
+      "name": "C121",
+      "url": "/ice-o-matic/c121/parts",
+      "code": "c121"
+    },
+    {
+      "name": "C126",
+      "url": "/ice-o-matic/c126/parts",
+      "code": "c126"
+    },
+    {
+      "name": "C135",
+      "url": "/ice-o-matic/c135/parts",
+      "code": "c135"
+    },
+    {
+      "name": "C136",
+      "url": "/ice-o-matic/c136/parts",
+      "code": "c136"
+    },
+    {
+      "name": "C146",
+      "url": "/ice-o-matic/c146/parts",
+      "code": "c146"
+    },
+    {
+      "name": "C185",
+      "url": "/ice-o-matic/c185/parts",
+      "code": "c185"
+    },
+    {
+      "name": "C186",
+      "url": "/ice-o-matic/c186/parts",
+      "code": "c186"
+    },
+    {
+      "name": "C20",
+      "url": "/ice-o-matic/c20/parts",
+      "code": "c20"
+    },
+    {
+      "name": "C25",
+      "url": "/ice-o-matic/c25/parts",
+      "code": "c25"
+    },
+    {
+      "name": "C30",
+      "url": "/ice-o-matic/c30/parts",
+      "code": "c30"
+    },
+    {
+      "name": "C35",
+      "url": "/ice-o-matic/c35/parts",
+      "code": "c35"
+    },
+    {
+      "name": "C40",
+      "url": "/ice-o-matic/c40/parts",
+      "code": "c40"
+    },
+    {
+      "name": "C45",
+      "url": "/ice-o-matic/c45/parts",
+      "code": "c45"
+    },
+    {
+      "name": "C50",
+      "url": "/ice-o-matic/c50/parts",
+      "code": "c50"
+    },
+    {
+      "name": "C61",
+      "url": "/ice-o-matic/c61/parts",
+      "code": "c61"
+    },
+    {
+      "name": "C65",
+      "url": "/ice-o-matic/c65/parts",
+      "code": "c65"
+    },
+    {
+      "name": "C66",
+      "url": "/ice-o-matic/c66/parts",
+      "code": "c66"
+    },
+    {
+      "name": "C81",
+      "url": "/ice-o-matic/c81/parts",
+      "code": "c81"
+    },
+    {
+      "name": "C86",
+      "url": "/ice-o-matic/c86/parts",
+      "code": "c86"
+    },
+    {
+      "name": "CD210",
+      "url": "/ice-o-matic/cd210/parts",
+      "code": "cd210"
+    },
+    {
+      "name": "CD215",
+      "url": "/ice-o-matic/cd215/parts",
+      "code": "cd215"
+    },
+    {
+      "name": "CD220",
+      "url": "/ice-o-matic/cd220/parts",
+      "code": "cd220"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:05:25.226962"
+}

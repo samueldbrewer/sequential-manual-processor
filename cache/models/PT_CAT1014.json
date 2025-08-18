@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "APW Wyott",
+    "code": "PT_CAT1014",
+    "uri": "apw-wyott"
+  },
+  "models": [
+    {
+      "name": "18H",
+      "url": "/apw-wyott/18h/parts",
+      "code": "18h"
+    },
+    {
+      "name": "32HC",
+      "url": "/apw-wyott/32hc/parts",
+      "code": "32hc"
+    },
+    {
+      "name": "40HHC",
+      "url": "/apw-wyott/40hhc/parts",
+      "code": "40hhc"
+    },
+    {
+      "name": "54414-W9",
+      "url": "/apw-wyott/54414-w9/parts",
+      "code": "54414-w9"
+    },
+    {
+      "name": "APWF-15C",
+      "url": "/apw-wyott/apwf-15c/parts",
+      "code": "apwf-15c"
+    },
+    {
+      "name": "APWF-25C",
+      "url": "/apw-wyott/apwf-25c/parts",
+      "code": "apwf-25c"
+    },
+    {
+      "name": "AT EXPRESS",
+      "url": "/apw-wyott/at-express/parts",
+      "code": "at-express"
+    },
+    {
+      "name": "AT-10",
+      "url": "/apw-wyott/at-10/parts",
+      "code": "at-10"
+    },
+    {
+      "name": "AT-30",
+      "url": "/apw-wyott/at-30/parts",
+      "code": "at-30"
+    },
+    {
+      "name": "AT-5",
+      "url": "/apw-wyott/at-5/parts",
+      "code": "at-5"
+    },
+    {
+      "name": "AT/BT SERIES",
+      "url": "/apw-wyott/at-bt-series/parts",
+      "code": "at-bt-series"
+    },
+    {
+      "name": "BC-20",
+      "url": "/apw-wyott/bc-20/parts",
+      "code": "bc-20"
+    },
+    {
+      "name": "BH-1A",
+      "url": "/apw-wyott/bh-1a/parts",
+      "code": "bh-1a"
+    },
+    {
+      "name": "BM-30",
+      "url": "/apw-wyott/bm-30/parts",
+      "code": "bm-30"
+    },
+    {
+      "name": "BM-30D",
+      "url": "/apw-wyott/bm-30d/parts",
+      "code": "bm-30d"
+    },
+    {
+      "name": "BM-80",
+      "url": "/apw-wyott/bm-80/parts",
+      "code": "bm-80"
+    },
+    {
+      "name": "BM-80C",
+      "url": "/apw-wyott/bm-80c/parts",
+      "code": "bm-80c"
+    },
+    {
+      "name": "BM-80CD",
+      "url": "/apw-wyott/bm-80cd/parts",
+      "code": "bm-80cd"
+    },
+    {
+      "name": "BM-80D",
+      "url": "/apw-wyott/bm-80d/parts",
+      "code": "bm-80d"
+    },
+    {
+      "name": "BS-1",
+      "url": "/apw-wyott/bs-1/parts",
+      "code": "bs-1"
+    },
+    {
+      "name": "BT-15",
+      "url": "/apw-wyott/bt-15/parts",
+      "code": "bt-15"
+    },
+    {
+      "name": "BW-20",
+      "url": "/apw-wyott/bw-20/parts",
+      "code": "bw-20"
+    },
+    {
+      "name": "BW-30",
+      "url": "/apw-wyott/bw-30/parts",
+      "code": "bw-30"
+    },
+    {
+      "name": "BW-50",
+      "url": "/apw-wyott/bw-50/parts",
+      "code": "bw-50"
+    },
+    {
+      "name": "BWD-31",
+      "url": "/apw-wyott/bwd-31/parts",
+      "code": "bwd-31"
+    },
+    {
+      "name": "BWD-50",
+      "url": "/apw-wyott/bwd-50/parts",
+      "code": "bwd-50"
+    },
+    {
+      "name": "BWD-75",
+      "url": "/apw-wyott/bwd-75/parts",
+      "code": "bwd-75"
+    },
+    {
+      "name": "BWD-75N",
+      "url": "/apw-wyott/bwd-75n/parts",
+      "code": "bwd-75n"
+    },
+    {
+      "name": "CCW",
+      "url": "/apw-wyott/ccw/parts",
+      "code": "ccw"
+    },
+    {
+      "name": "CCW MK VII-120V",
+      "url": "/apw-wyott/ccw-mk-vii-120v/parts",
+      "code": "ccw-mk-vii-120v"
+    },
+    {
+      "name": "CCW MK VII-240V",
+      "url": "/apw-wyott/ccw-mk-vii-240v/parts",
+      "code": "ccw-mk-vii-240v"
+    },
+    {
+      "name": "CDO-17",
+      "url": "/apw-wyott/cdo-17/parts",
+      "code": "cdo-17"
+    },
+    {
+      "name": "CFHS-16",
+      "url": "/apw-wyott/cfhs-16/parts",
+      "code": "cfhs-16"
+    },
+    {
+      "name": "CFHS-21",
+      "url": "/apw-wyott/cfhs-21/parts",
+      "code": "cfhs-21"
+    },
+    {
+      "name": "CFHS-33H19",
+      "url": "/apw-wyott/cfhs-33h19/parts",
+      "code": "cfhs-33h19"
+    },
+    {
+      "name": "CHDT-2",
+      "url": "/apw-wyott/chdt-2/parts",
+      "code": "chdt-2"
+    },
+    {
+      "name": "CHDT-3",
+      "url": "/apw-wyott/chdt-3/parts",
+      "code": "chdt-3"
+    },
+    {
+      "name": "CHDT-4",
+      "url": "/apw-wyott/chdt-4/parts",
+      "code": "chdt-4"
+    },
+    {
+      "name": "CHDT-5",
+      "url": "/apw-wyott/chdt-5/parts",
+      "code": "chdt-5"
+    },
+    {
+      "name": "CHDT-6",
+      "url": "/apw-wyott/chdt-6/parts",
+      "code": "chdt-6"
+    },
+    {
+      "name": "CHP-1A",
+      "url": "/apw-wyott/chp-1a/parts",
+      "code": "chp-1a"
+    },
+    {
+      "name": "CMC-24",
+      "url": "/apw-wyott/cmc-24/parts",
+      "code": "cmc-24"
+    },
+    {
+      "name": "CMC-36",
+      "url": "/apw-wyott/cmc-36/parts",
+      "code": "cmc-36"
+    },
+    {
+      "name": "CMC-48",
+      "url": "/apw-wyott/cmc-48/parts",
+      "code": "cmc-48"
+    },
+    {
+      "name": "CMP-24",
+      "url": "/apw-wyott/cmp-24/parts",
+      "code": "cmp-24"
+    },
+    {
+      "name": "CMP-36",
+      "url": "/apw-wyott/cmp-36/parts",
+      "code": "cmp-36"
+    },
+    {
+      "name": "CMP-48",
+      "url": "/apw-wyott/cmp-48/parts",
+      "code": "cmp-48"
+    },
+    {
+      "name": "CMW-24",
+      "url": "/apw-wyott/cmw-24/parts",
+      "code": "cmw-24"
+    },
+    {
+      "name": "CMW-36",
+      "url": "/apw-wyott/cmw-36/parts",
+      "code": "cmw-36"
+    },
+    {
+      "name": "CMW-48",
+      "url": "/apw-wyott/cmw-48/parts",
+      "code": "cmw-48"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:33:51.785348"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Robot Coupe",
+    "code": "PT_CAT1170",
+    "uri": "robot-coupe"
+  },
+  "models": [
+    {
+      "name": "BLIXER 6V",
+      "url": "/robot-coupe/blixer-6v/parts",
+      "code": "blixer-6v"
+    },
+    {
+      "name": "Blixer 2",
+      "url": "/robot-coupe/blixer-2/parts",
+      "code": "blixer-2"
+    },
+    {
+      "name": "Blixer 23",
+      "url": "/robot-coupe/blixer-23/parts",
+      "code": "blixer-23"
+    },
+    {
+      "name": "Blixer 3",
+      "url": "/robot-coupe/blixer-3/parts",
+      "code": "blixer-3"
+    },
+    {
+      "name": "Blixer 30",
+      "url": "/robot-coupe/blixer-30/parts",
+      "code": "blixer-30"
+    },
+    {
+      "name": "Blixer 3B",
+      "url": "/robot-coupe/blixer-3b/parts",
+      "code": "blixer-3b"
+    },
+    {
+      "name": "Blixer 3D",
+      "url": "/robot-coupe/blixer-3d/parts",
+      "code": "blixer-3d"
+    },
+    {
+      "name": "Blixer 4",
+      "url": "/robot-coupe/blixer-4/parts",
+      "code": "blixer-4"
+    },
+    {
+      "name": "Blixer 4 Mono",
+      "url": "/robot-coupe/blixer-4-mono/parts",
+      "code": "blixer-4-mono"
+    },
+    {
+      "name": "Blixer 4 Tri",
+      "url": "/robot-coupe/blixer-4-tri/parts",
+      "code": "blixer-4-tri"
+    },
+    {
+      "name": "Blixer 4 V.V.",
+      "url": "/robot-coupe/blixer-4-v-v/parts",
+      "code": "blixer-4-v-v"
+    },
+    {
+      "name": "Blixer 45",
+      "url": "/robot-coupe/blixer-45/parts",
+      "code": "blixer-45"
+    },
+    {
+      "name": "Blixer 4A",
+      "url": "/robot-coupe/blixer-4a/parts",
+      "code": "blixer-4a"
+    },
+    {
+      "name": "Blixer 4VA",
+      "url": "/robot-coupe/blixer-4va/parts",
+      "code": "blixer-4va"
+    },
+    {
+      "name": "Blixer 5V",
+      "url": "/robot-coupe/blixer-5v/parts",
+      "code": "blixer-5v"
+    },
+    {
+      "name": "Blixer 60",
+      "url": "/robot-coupe/blixer-60/parts",
+      "code": "blixer-60"
+    },
+    {
+      "name": "CL-30",
+      "url": "/robot-coupe/cl-30/parts",
+      "code": "cl-30"
+    },
+    {
+      "name": "CL-50",
+      "url": "/robot-coupe/cl-50/parts",
+      "code": "cl-50"
+    },
+    {
+      "name": "CL-50",
+      "url": "/robot-coupe/cl-50/parts",
+      "code": "cl-50"
+    },
+    {
+      "name": "CL-50 Gourmet",
+      "url": "/robot-coupe/cl-50-gourmet/parts",
+      "code": "cl-50-gourmet"
+    },
+    {
+      "name": "CL-50 Ultra E",
+      "url": "/robot-coupe/cl-50-ultra-e/parts",
+      "code": "cl-50-ultra-e"
+    },
+    {
+      "name": "CL-50E",
+      "url": "/robot-coupe/cl-50e/parts",
+      "code": "cl-50e"
+    },
+    {
+      "name": "CL-52",
+      "url": "/robot-coupe/cl-52/parts",
+      "code": "cl-52"
+    },
+    {
+      "name": "CL-55",
+      "url": "/robot-coupe/cl-55/parts",
+      "code": "cl-55"
+    },
+    {
+      "name": "CL-60",
+      "url": "/robot-coupe/cl-60/parts",
+      "code": "cl-60"
+    },
+    {
+      "name": "CL-60E",
+      "url": "/robot-coupe/cl-60e/parts",
+      "code": "cl-60e"
+    },
+    {
+      "name": "CL-60E V.V.",
+      "url": "/robot-coupe/cl-60e-v-v/parts",
+      "code": "cl-60e-v-v"
+    },
+    {
+      "name": "CL52E",
+      "url": "/robot-coupe/cl52e/parts",
+      "code": "cl52e"
+    },
+    {
+      "name": "CMP 250 Combi",
+      "url": "/robot-coupe/cmp-250-combi/parts",
+      "code": "cmp-250-combi"
+    },
+    {
+      "name": "CMP 250 V.V.",
+      "url": "/robot-coupe/cmp-250-v-v/parts",
+      "code": "cmp-250-v-v"
+    },
+    {
+      "name": "CMP 300 Combi",
+      "url": "/robot-coupe/cmp-300-combi/parts",
+      "code": "cmp-300-combi"
+    },
+    {
+      "name": "CMP 300 V.V.",
+      "url": "/robot-coupe/cmp-300-v-v/parts",
+      "code": "cmp-300-v-v"
+    },
+    {
+      "name": "CMP 350 V.V.",
+      "url": "/robot-coupe/cmp-350-v-v/parts",
+      "code": "cmp-350-v-v"
+    },
+    {
+      "name": "CMP 400 V. V.",
+      "url": "/robot-coupe/cmp-400-v-v/parts",
+      "code": "cmp-400-v-v"
+    },
+    {
+      "name": "J100 Ultra",
+      "url": "/robot-coupe/j100-ultra/parts",
+      "code": "j100-ultra"
+    },
+    {
+      "name": "J80 Ultra",
+      "url": "/robot-coupe/j80-ultra/parts",
+      "code": "j80-ultra"
+    },
+    {
+      "name": "MICROMIX",
+      "url": "/robot-coupe/micromix/parts",
+      "code": "micromix"
+    },
+    {
+      "name": "MINI MP 170",
+      "url": "/robot-coupe/mini-mp-170/parts",
+      "code": "mini-mp-170"
+    },
+    {
+      "name": "MINI MP 190 COMBI",
+      "url": "/robot-coupe/mini-mp-190-combi/parts",
+      "code": "mini-mp-190-combi"
+    },
+    {
+      "name": "MINI MP 220",
+      "url": "/robot-coupe/mini-mp-220/parts",
+      "code": "mini-mp-220"
+    },
+    {
+      "name": "MP 350 Combi",
+      "url": "/robot-coupe/mp-350-combi/parts",
+      "code": "mp-350-combi"
+    },
+    {
+      "name": "MP 350 Turbo",
+      "url": "/robot-coupe/mp-350-turbo/parts",
+      "code": "mp-350-turbo"
+    },
+    {
+      "name": "MP 350 Turbo Combi",
+      "url": "/robot-coupe/mp-350-turbo-combi/parts",
+      "code": "mp-350-turbo-combi"
+    },
+    {
+      "name": "MP 350 Turbo V.V.",
+      "url": "/robot-coupe/mp-350-turbo-v-v/parts",
+      "code": "mp-350-turbo-v-v"
+    },
+    {
+      "name": "MP 450 TURBO",
+      "url": "/robot-coupe/mp-450-turbo/parts",
+      "code": "mp-450-turbo"
+    },
+    {
+      "name": "MP 450 Turbo Combi",
+      "url": "/robot-coupe/mp-450-turbo-combi/parts",
+      "code": "mp-450-turbo-combi"
+    },
+    {
+      "name": "MP 450 Turbo FW",
+      "url": "/robot-coupe/mp-450-turbo-fw/parts",
+      "code": "mp-450-turbo-fw"
+    },
+    {
+      "name": "MP 450 Turbo V.V.",
+      "url": "/robot-coupe/mp-450-turbo-v-v/parts",
+      "code": "mp-450-turbo-v-v"
+    },
+    {
+      "name": "MP 550 TURBO",
+      "url": "/robot-coupe/mp-550-turbo/parts",
+      "code": "mp-550-turbo"
+    },
+    {
+      "name": "MP 600 Turbo",
+      "url": "/robot-coupe/mp-600-turbo/parts",
+      "code": "mp-600-turbo"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T20:00:44.720503"
+}

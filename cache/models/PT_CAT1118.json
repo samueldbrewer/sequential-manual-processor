@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Kold-Draft",
+    "code": "PT_CAT1118",
+    "uri": "kold-draft"
+  },
+  "models": [
+    {
+      "name": "AKD-125",
+      "url": "/kold-draft/akd-125/parts",
+      "code": "akd-125"
+    },
+    {
+      "name": "AKD-125-FF",
+      "url": "/kold-draft/akd-125-ff/parts",
+      "code": "akd-125-ff"
+    },
+    {
+      "name": "GB",
+      "url": "/kold-draft/gb/parts",
+      "code": "gb"
+    },
+    {
+      "name": "GB1060",
+      "url": "/kold-draft/gb1060/parts",
+      "code": "gb1060"
+    },
+    {
+      "name": "GB1064",
+      "url": "/kold-draft/gb1064/parts",
+      "code": "gb1064"
+    },
+    {
+      "name": "GB1064A",
+      "url": "/kold-draft/gb1064a/parts",
+      "code": "gb1064a"
+    },
+    {
+      "name": "GB1064AC",
+      "url": "/kold-draft/gb1064ac/parts",
+      "code": "gb1064ac"
+    },
+    {
+      "name": "GB1064AHK",
+      "url": "/kold-draft/gb1064ahk/parts",
+      "code": "gb1064ahk"
+    },
+    {
+      "name": "GB1064AK",
+      "url": "/kold-draft/gb1064ak/parts",
+      "code": "gb1064ak"
+    },
+    {
+      "name": "GB1064L",
+      "url": "/kold-draft/gb1064l/parts",
+      "code": "gb1064l"
+    },
+    {
+      "name": "GB1064LC",
+      "url": "/kold-draft/gb1064lc/parts",
+      "code": "gb1064lc"
+    },
+    {
+      "name": "GB1064LHK",
+      "url": "/kold-draft/gb1064lhk/parts",
+      "code": "gb1064lhk"
+    },
+    {
+      "name": "GB1064LK",
+      "url": "/kold-draft/gb1064lk/parts",
+      "code": "gb1064lk"
+    },
+    {
+      "name": "GB1064R",
+      "url": "/kold-draft/gb1064r/parts",
+      "code": "gb1064r"
+    },
+    {
+      "name": "GB1064R",
+      "url": "/kold-draft/gb1064r/parts",
+      "code": "gb1064r"
+    },
+    {
+      "name": "GB1064RC",
+      "url": "/kold-draft/gb1064rc/parts",
+      "code": "gb1064rc"
+    },
+    {
+      "name": "GB1064RHK",
+      "url": "/kold-draft/gb1064rhk/parts",
+      "code": "gb1064rhk"
+    },
+    {
+      "name": "GB1064RK",
+      "url": "/kold-draft/gb1064rk/parts",
+      "code": "gb1064rk"
+    },
+    {
+      "name": "GB1064RX",
+      "url": "/kold-draft/gb1064rx/parts",
+      "code": "gb1064rx"
+    },
+    {
+      "name": "GB1064X",
+      "url": "/kold-draft/gb1064x/parts",
+      "code": "gb1064x"
+    },
+    {
+      "name": "GB106X",
+      "url": "/kold-draft/gb106x/parts",
+      "code": "gb106x"
+    },
+    {
+      "name": "GB106XA/L",
+      "url": "/kold-draft/gb106xa-l/parts",
+      "code": "gb106xa-l"
+    },
+    {
+      "name": "GB106XHK",
+      "url": "/kold-draft/gb106xhk/parts",
+      "code": "gb106xhk"
+    },
+    {
+      "name": "GB106XR",
+      "url": "/kold-draft/gb106xr/parts",
+      "code": "gb106xr"
+    },
+    {
+      "name": "GB1220",
+      "url": "/kold-draft/gb1220/parts",
+      "code": "gb1220"
+    },
+    {
+      "name": "GB1220W",
+      "url": "/kold-draft/gb1220w/parts",
+      "code": "gb1220w"
+    },
+    {
+      "name": "GB1224R",
+      "url": "/kold-draft/gb1224r/parts",
+      "code": "gb1224r"
+    },
+    {
+      "name": "GB1224W",
+      "url": "/kold-draft/gb1224w/parts",
+      "code": "gb1224w"
+    },
+    {
+      "name": "GB1225W",
+      "url": "/kold-draft/gb1225w/parts",
+      "code": "gb1225w"
+    },
+    {
+      "name": "GB1240",
+      "url": "/kold-draft/gb1240/parts",
+      "code": "gb1240"
+    },
+    {
+      "name": "GB1240R",
+      "url": "/kold-draft/gb1240r/parts",
+      "code": "gb1240r"
+    },
+    {
+      "name": "GB1240W",
+      "url": "/kold-draft/gb1240w/parts",
+      "code": "gb1240w"
+    },
+    {
+      "name": "GB1244R",
+      "url": "/kold-draft/gb1244r/parts",
+      "code": "gb1244r"
+    },
+    {
+      "name": "GB1244W",
+      "url": "/kold-draft/gb1244w/parts",
+      "code": "gb1244w"
+    },
+    {
+      "name": "GB1245R",
+      "url": "/kold-draft/gb1245r/parts",
+      "code": "gb1245r"
+    },
+    {
+      "name": "GB1245W",
+      "url": "/kold-draft/gb1245w/parts",
+      "code": "gb1245w"
+    },
+    {
+      "name": "GB1250",
+      "url": "/kold-draft/gb1250/parts",
+      "code": "gb1250"
+    },
+    {
+      "name": "GB1250A",
+      "url": "/kold-draft/gb1250a/parts",
+      "code": "gb1250a"
+    },
+    {
+      "name": "GB1250R",
+      "url": "/kold-draft/gb1250r/parts",
+      "code": "gb1250r"
+    },
+    {
+      "name": "GB1250W",
+      "url": "/kold-draft/gb1250w/parts",
+      "code": "gb1250w"
+    },
+    {
+      "name": "GB1254A",
+      "url": "/kold-draft/gb1254a/parts",
+      "code": "gb1254a"
+    },
+    {
+      "name": "GB1254R",
+      "url": "/kold-draft/gb1254r/parts",
+      "code": "gb1254r"
+    },
+    {
+      "name": "GB1254W",
+      "url": "/kold-draft/gb1254w/parts",
+      "code": "gb1254w"
+    },
+    {
+      "name": "GB1255R",
+      "url": "/kold-draft/gb1255r/parts",
+      "code": "gb1255r"
+    },
+    {
+      "name": "GB1255W",
+      "url": "/kold-draft/gb1255w/parts",
+      "code": "gb1255w"
+    },
+    {
+      "name": "GB1257",
+      "url": "/kold-draft/gb1257/parts",
+      "code": "gb1257"
+    },
+    {
+      "name": "GB1258",
+      "url": "/kold-draft/gb1258/parts",
+      "code": "gb1258"
+    },
+    {
+      "name": "GB1258W",
+      "url": "/kold-draft/gb1258w/parts",
+      "code": "gb1258w"
+    },
+    {
+      "name": "GB337",
+      "url": "/kold-draft/gb337/parts",
+      "code": "gb337"
+    },
+    {
+      "name": "GB347",
+      "url": "/kold-draft/gb347/parts",
+      "code": "gb347"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:14:46.227236"
+}

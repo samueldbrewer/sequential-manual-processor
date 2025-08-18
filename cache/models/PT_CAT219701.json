@@ -1,0 +1,81 @@
+{
+  "manufacturer": {
+    "name": "Franke",
+    "code": "PT_CAT219701",
+    "uri": "franke"
+  },
+  "models": [
+    {
+      "name": "27800220",
+      "url": "/franke/27800220/parts",
+      "code": "27800220"
+    },
+    {
+      "name": "4006093",
+      "url": "/franke/4006093/parts",
+      "code": "4006093"
+    },
+    {
+      "name": "4006094",
+      "url": "/franke/4006094/parts",
+      "code": "4006094"
+    },
+    {
+      "name": "4006095",
+      "url": "/franke/4006095/parts",
+      "code": "4006095"
+    },
+    {
+      "name": "4007549",
+      "url": "/franke/4007549/parts",
+      "code": "4007549"
+    },
+    {
+      "name": "BBR-36",
+      "url": "/franke/bbr-36/parts",
+      "code": "bbr-36"
+    },
+    {
+      "name": "BBR-45",
+      "url": "/franke/bbr-45/parts",
+      "code": "bbr-45"
+    },
+    {
+      "name": "F3D3",
+      "url": "/franke/f3d3/parts",
+      "code": "f3d3"
+    },
+    {
+      "name": "F3DN",
+      "url": "/franke/f3dn/parts",
+      "code": "f3dn"
+    },
+    {
+      "name": "FM850",
+      "url": "/franke/fm850/parts",
+      "code": "fm850"
+    },
+    {
+      "name": "FS00869",
+      "url": "/franke/fs00869/parts",
+      "code": "fs00869"
+    },
+    {
+      "name": "GSF-18",
+      "url": "/franke/gsf-18/parts",
+      "code": "gsf-18"
+    },
+    {
+      "name": "GSF-30",
+      "url": "/franke/gsf-30/parts",
+      "code": "gsf-30"
+    },
+    {
+      "name": "SINFONIA",
+      "url": "/franke/sinfonia/parts",
+      "code": "sinfonia"
+    }
+  ],
+  "total_models": 14,
+  "cached_at": "2025-08-14T18:36:52.705504"
+}

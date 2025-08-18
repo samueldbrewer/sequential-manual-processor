@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "AccuTemp",
+    "code": "PT_CAT1000",
+    "uri": "accutemp"
+  },
+  "models": [
+    {
+      "name": "208D",
+      "url": "/accutemp/208d/parts",
+      "code": "208d"
+    },
+    {
+      "name": "ACEC-10TW",
+      "url": "/accutemp/acec-10tw/parts",
+      "code": "acec-10tw"
+    },
+    {
+      "name": "ACEC-12TW",
+      "url": "/accutemp/acec-12tw/parts",
+      "code": "acec-12tw"
+    },
+    {
+      "name": "ACEC-20T",
+      "url": "/accutemp/acec-20t/parts",
+      "code": "acec-20t"
+    },
+    {
+      "name": "ACEC-6TW",
+      "url": "/accutemp/acec-6tw/parts",
+      "code": "acec-6tw"
+    },
+    {
+      "name": "ACECT-10",
+      "url": "/accutemp/acect-10/parts",
+      "code": "acect-10"
+    },
+    {
+      "name": "ACECT-12",
+      "url": "/accutemp/acect-12/parts",
+      "code": "acect-12"
+    },
+    {
+      "name": "ACECT-6",
+      "url": "/accutemp/acect-6/parts",
+      "code": "acect-6"
+    },
+    {
+      "name": "ACECTRS-16",
+      "url": "/accutemp/acectrs-16/parts",
+      "code": "acectrs-16"
+    },
+    {
+      "name": "ACECTS-12",
+      "url": "/accutemp/acects-12/parts",
+      "code": "acects-12"
+    },
+    {
+      "name": "ACEL",
+      "url": "/accutemp/acel/parts",
+      "code": "acel"
+    },
+    {
+      "name": "ACELT",
+      "url": "/accutemp/acelt/parts",
+      "code": "acelt"
+    },
+    {
+      "name": "ACELTS-30",
+      "url": "/accutemp/acelts-30/parts",
+      "code": "acelts-30"
+    },
+    {
+      "name": "ACELTS-40",
+      "url": "/accutemp/acelts-40/parts",
+      "code": "acelts-40"
+    },
+    {
+      "name": "ACEMTS-30",
+      "url": "/accutemp/acemts-30/parts",
+      "code": "acemts-30"
+    },
+    {
+      "name": "ACEMTS-40",
+      "url": "/accutemp/acemts-40/parts",
+      "code": "acemts-40"
+    },
+    {
+      "name": "ACEP",
+      "url": "/accutemp/acep/parts",
+      "code": "acep"
+    },
+    {
+      "name": "ACES-30",
+      "url": "/accutemp/aces-30/parts",
+      "code": "aces-30"
+    },
+    {
+      "name": "ACES-40",
+      "url": "/accutemp/aces-40/parts",
+      "code": "aces-40"
+    },
+    {
+      "name": "ACETS-30",
+      "url": "/accutemp/acets-30/parts",
+      "code": "acets-30"
+    },
+    {
+      "name": "ACETS-40",
+      "url": "/accutemp/acets-40/parts",
+      "code": "acets-40"
+    },
+    {
+      "name": "ACGCTRS-16",
+      "url": "/accutemp/acgctrs-16/parts",
+      "code": "acgctrs-16"
+    },
+    {
+      "name": "ACGL-100",
+      "url": "/accutemp/acgl-100/parts",
+      "code": "acgl-100"
+    },
+    {
+      "name": "ACGL-20E",
+      "url": "/accutemp/acgl-20e/parts",
+      "code": "acgl-20e"
+    },
+    {
+      "name": "ACGL-30E",
+      "url": "/accutemp/acgl-30e/parts",
+      "code": "acgl-30e"
+    },
+    {
+      "name": "ACGL-40E",
+      "url": "/accutemp/acgl-40e/parts",
+      "code": "acgl-40e"
+    },
+    {
+      "name": "ACGL-40F",
+      "url": "/accutemp/acgl-40f/parts",
+      "code": "acgl-40f"
+    },
+    {
+      "name": "ACGL-60E",
+      "url": "/accutemp/acgl-60e/parts",
+      "code": "acgl-60e"
+    },
+    {
+      "name": "ACGL-80",
+      "url": "/accutemp/acgl-80/parts",
+      "code": "acgl-80"
+    },
+    {
+      "name": "ACGLT-20",
+      "url": "/accutemp/acglt-20/parts",
+      "code": "acglt-20"
+    },
+    {
+      "name": "ACGLT-30",
+      "url": "/accutemp/acglt-30/parts",
+      "code": "acglt-30"
+    },
+    {
+      "name": "ACGLT-40",
+      "url": "/accutemp/acglt-40/parts",
+      "code": "acglt-40"
+    },
+    {
+      "name": "ACGLT-60",
+      "url": "/accutemp/acglt-60/parts",
+      "code": "acglt-60"
+    },
+    {
+      "name": "ACGLTS-30",
+      "url": "/accutemp/acglts-30/parts",
+      "code": "acglts-30"
+    },
+    {
+      "name": "ACGLTS-40",
+      "url": "/accutemp/acglts-40/parts",
+      "code": "acglts-40"
+    },
+    {
+      "name": "ACGMTS-30",
+      "url": "/accutemp/acgmts-30/parts",
+      "code": "acgmts-30"
+    },
+    {
+      "name": "ACGMTS-40",
+      "url": "/accutemp/acgmts-40/parts",
+      "code": "acgmts-40"
+    },
+    {
+      "name": "ACGS-30",
+      "url": "/accutemp/acgs-30/parts",
+      "code": "acgs-30"
+    },
+    {
+      "name": "ACGS-40",
+      "url": "/accutemp/acgs-40/parts",
+      "code": "acgs-40"
+    },
+    {
+      "name": "ACGTS-30",
+      "url": "/accutemp/acgts-30/parts",
+      "code": "acgts-30"
+    },
+    {
+      "name": "ACGTS-40",
+      "url": "/accutemp/acgts-40/parts",
+      "code": "acgts-40"
+    },
+    {
+      "name": "E3 SERIES",
+      "url": "/accutemp/e3-series/parts",
+      "code": "e3-series"
+    },
+    {
+      "name": "E6 SERIES",
+      "url": "/accutemp/e6-series/parts",
+      "code": "e6-series"
+    },
+    {
+      "name": "E6-Series",
+      "url": "/accutemp/e6-series/parts",
+      "code": "e6-series"
+    },
+    {
+      "name": "E62083D100",
+      "url": "/accutemp/e62083d100/parts",
+      "code": "e62083d100"
+    },
+    {
+      "name": "EEK",
+      "url": "/accutemp/eek/parts",
+      "code": "eek"
+    },
+    {
+      "name": "EG SERIES",
+      "url": "/accutemp/eg-series/parts",
+      "code": "eg-series"
+    },
+    {
+      "name": "EG Series",
+      "url": "/accutemp/eg-series/parts",
+      "code": "eg-series"
+    },
+    {
+      "name": "EGD SERIES",
+      "url": "/accutemp/egd-series/parts",
+      "code": "egd-series"
+    },
+    {
+      "name": "EGF MILITARY",
+      "url": "/accutemp/egf-military/parts",
+      "code": "egf-military"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:34:29.207859"
+}

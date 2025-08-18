@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_2779848",
+    "name": "Rinnai",
+    "uri": "rinnai"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:54:43.674570",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

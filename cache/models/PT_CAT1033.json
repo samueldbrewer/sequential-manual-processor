@@ -1,0 +1,186 @@
+{
+  "manufacturer": {
+    "name": "Bevles",
+    "code": "PT_CAT1033",
+    "uri": "bevles"
+  },
+  "models": [
+    {
+      "name": "CA43-CV13",
+      "url": "/bevles/ca43-cv13/parts",
+      "code": "ca43-cv13"
+    },
+    {
+      "name": "CA43-CV13HW",
+      "url": "/bevles/ca43-cv13hw/parts",
+      "code": "ca43-cv13hw"
+    },
+    {
+      "name": "CA43-CV7",
+      "url": "/bevles/ca43-cv7/parts",
+      "code": "ca43-cv7"
+    },
+    {
+      "name": "CA43-CV7HW",
+      "url": "/bevles/ca43-cv7hw/parts",
+      "code": "ca43-cv7hw"
+    },
+    {
+      "name": "CA43-CVMP6",
+      "url": "/bevles/ca43-cvmp6/parts",
+      "code": "ca43-cvmp6"
+    },
+    {
+      "name": "CA70-CV16",
+      "url": "/bevles/ca70-cv16/parts",
+      "code": "ca70-cv16"
+    },
+    {
+      "name": "CA70-CV16HW",
+      "url": "/bevles/ca70-cv16hw/parts",
+      "code": "ca70-cv16hw"
+    },
+    {
+      "name": "CA70-CV32",
+      "url": "/bevles/ca70-cv32/parts",
+      "code": "ca70-cv32"
+    },
+    {
+      "name": "CA70-CV32HW",
+      "url": "/bevles/ca70-cv32hw/parts",
+      "code": "ca70-cv32hw"
+    },
+    {
+      "name": "CA70-CVMP12",
+      "url": "/bevles/ca70-cvmp12/parts",
+      "code": "ca70-cvmp12"
+    },
+    {
+      "name": "CS36-CH3",
+      "url": "/bevles/cs36-ch3/parts",
+      "code": "cs36-ch3"
+    },
+    {
+      "name": "CS72-CH13",
+      "url": "/bevles/cs72-ch13/parts",
+      "code": "cs72-ch13"
+    },
+    {
+      "name": "CS72-CHUS15M23",
+      "url": "/bevles/cs72-chus15m23/parts",
+      "code": "cs72-chus15m23"
+    },
+    {
+      "name": "CS82-CH8",
+      "url": "/bevles/cs82-ch8/parts",
+      "code": "cs82-ch8"
+    },
+    {
+      "name": "HCSS34W5",
+      "url": "/bevles/hcss34w5/parts",
+      "code": "hcss34w5"
+    },
+    {
+      "name": "HCSS44W6",
+      "url": "/bevles/hcss44w6/parts",
+      "code": "hcss44w6"
+    },
+    {
+      "name": "HCSS74W12",
+      "url": "/bevles/hcss74w12/parts",
+      "code": "hcss74w12"
+    },
+    {
+      "name": "HRH SERIES",
+      "url": "/bevles/hrh-series/parts",
+      "code": "hrh-series"
+    },
+    {
+      "name": "HRHR44P16",
+      "url": "/bevles/hrhr44p16/parts",
+      "code": "hrhr44p16"
+    },
+    {
+      "name": "HRHR44W6",
+      "url": "/bevles/hrhr44w6/parts",
+      "code": "hrhr44w6"
+    },
+    {
+      "name": "HRHR74P34",
+      "url": "/bevles/hrhr74p34/parts",
+      "code": "hrhr74p34"
+    },
+    {
+      "name": "HRHR74W12",
+      "url": "/bevles/hrhr74w12/parts",
+      "code": "hrhr74w12"
+    },
+    {
+      "name": "HTSS44P16",
+      "url": "/bevles/htss44p16/parts",
+      "code": "htss44p16"
+    },
+    {
+      "name": "HTSS44W6",
+      "url": "/bevles/htss44w6/parts",
+      "code": "htss44w6"
+    },
+    {
+      "name": "HTSS74P34",
+      "url": "/bevles/htss74p34/parts",
+      "code": "htss74p34"
+    },
+    {
+      "name": "HTSS74W12",
+      "url": "/bevles/htss74w12/parts",
+      "code": "htss74w12"
+    },
+    {
+      "name": "PHC23-AR10",
+      "url": "/bevles/phc23-ar10/parts",
+      "code": "phc23-ar10"
+    },
+    {
+      "name": "PHC23-AR12",
+      "url": "/bevles/phc23-ar12/parts",
+      "code": "phc23-ar12"
+    },
+    {
+      "name": "PHC70-MP17",
+      "url": "/bevles/phc70-mp17/parts",
+      "code": "phc70-mp17"
+    },
+    {
+      "name": "PHC70-MP17INS",
+      "url": "/bevles/phc70-mp17ins/parts",
+      "code": "phc70-mp17ins"
+    },
+    {
+      "name": "PICA70-32-A",
+      "url": "/bevles/pica70-32-a/parts",
+      "code": "pica70-32-a"
+    },
+    {
+      "name": "PICA70-32-A CINNABON",
+      "url": "/bevles/pica70-32-a-cinnabon/parts",
+      "code": "pica70-32-a-cinnabon"
+    },
+    {
+      "name": "PICA70-32-AED CINNABON",
+      "url": "/bevles/pica70-32-aed-cinnabon/parts",
+      "code": "pica70-32-aed-cinnabon"
+    },
+    {
+      "name": "PICA70-32INS-A",
+      "url": "/bevles/pica70-32ins-a/parts",
+      "code": "pica70-32ins-a"
+    },
+    {
+      "name": "TENDER TOUCH CLASSIC",
+      "url": "/bevles/tender-touch-classic/parts",
+      "code": "tender-touch-classic"
+    }
+  ],
+  "total_models": 35,
+  "cached_at": "2025-08-14T17:54:31.097839"
+}

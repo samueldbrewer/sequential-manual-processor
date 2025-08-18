@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Garland",
+    "code": "PT_CAT1086",
+    "uri": "garland"
+  },
+  "models": [
+    {
+      "name": "10-10 R",
+      "url": "/garland/10-10-r/parts",
+      "code": "10-10-r"
+    },
+    {
+      "name": "10-10S",
+      "url": "/garland/10-10s/parts",
+      "code": "10-10s"
+    },
+    {
+      "name": "10-11R",
+      "url": "/garland/10-11r/parts",
+      "code": "10-11r"
+    },
+    {
+      "name": "10-11RG",
+      "url": "/garland/10-11rg/parts",
+      "code": "10-11rg"
+    },
+    {
+      "name": "10-11S",
+      "url": "/garland/10-11s/parts",
+      "code": "10-11s"
+    },
+    {
+      "name": "10-11SG",
+      "url": "/garland/10-11sg/parts",
+      "code": "10-11sg"
+    },
+    {
+      "name": "10-13R",
+      "url": "/garland/10-13r/parts",
+      "code": "10-13r"
+    },
+    {
+      "name": "10-13RG",
+      "url": "/garland/10-13rg/parts",
+      "code": "10-13rg"
+    },
+    {
+      "name": "10-13S",
+      "url": "/garland/10-13s/parts",
+      "code": "10-13s"
+    },
+    {
+      "name": "10-13SG",
+      "url": "/garland/10-13sg/parts",
+      "code": "10-13sg"
+    },
+    {
+      "name": "10-16R",
+      "url": "/garland/10-16r/parts",
+      "code": "10-16r"
+    },
+    {
+      "name": "10-16S",
+      "url": "/garland/10-16s/parts",
+      "code": "10-16s"
+    },
+    {
+      "name": "10-16T",
+      "url": "/garland/10-16t/parts",
+      "code": "10-16t"
+    },
+    {
+      "name": "10-17R",
+      "url": "/garland/10-17r/parts",
+      "code": "10-17r"
+    },
+    {
+      "name": "10-17S",
+      "url": "/garland/10-17s/parts",
+      "code": "10-17s"
+    },
+    {
+      "name": "10-17T",
+      "url": "/garland/10-17t/parts",
+      "code": "10-17t"
+    },
+    {
+      "name": "10-18R",
+      "url": "/garland/10-18r/parts",
+      "code": "10-18r"
+    },
+    {
+      "name": "10-18RG",
+      "url": "/garland/10-18rg/parts",
+      "code": "10-18rg"
+    },
+    {
+      "name": "10-18S",
+      "url": "/garland/10-18s/parts",
+      "code": "10-18s"
+    },
+    {
+      "name": "10-18SG",
+      "url": "/garland/10-18sg/parts",
+      "code": "10-18sg"
+    },
+    {
+      "name": "10-18T",
+      "url": "/garland/10-18t/parts",
+      "code": "10-18t"
+    },
+    {
+      "name": "10-18TG",
+      "url": "/garland/10-18tg/parts",
+      "code": "10-18tg"
+    },
+    {
+      "name": "10-20R",
+      "url": "/garland/10-20r/parts",
+      "code": "10-20r"
+    },
+    {
+      "name": "10-20RG",
+      "url": "/garland/10-20rg/parts",
+      "code": "10-20rg"
+    },
+    {
+      "name": "10-20S",
+      "url": "/garland/10-20s/parts",
+      "code": "10-20s"
+    },
+    {
+      "name": "10-20SG",
+      "url": "/garland/10-20sg/parts",
+      "code": "10-20sg"
+    },
+    {
+      "name": "10-20T",
+      "url": "/garland/10-20t/parts",
+      "code": "10-20t"
+    },
+    {
+      "name": "10-20TG",
+      "url": "/garland/10-20tg/parts",
+      "code": "10-20tg"
+    },
+    {
+      "name": "10-21R",
+      "url": "/garland/10-21r/parts",
+      "code": "10-21r"
+    },
+    {
+      "name": "10-21S",
+      "url": "/garland/10-21s/parts",
+      "code": "10-21s"
+    },
+    {
+      "name": "10-21T",
+      "url": "/garland/10-21t/parts",
+      "code": "10-21t"
+    },
+    {
+      "name": "10-22R",
+      "url": "/garland/10-22r/parts",
+      "code": "10-22r"
+    },
+    {
+      "name": "10-22S",
+      "url": "/garland/10-22s/parts",
+      "code": "10-22s"
+    },
+    {
+      "name": "10-22T",
+      "url": "/garland/10-22t/parts",
+      "code": "10-22t"
+    },
+    {
+      "name": "10-28",
+      "url": "/garland/10-28/parts",
+      "code": "10-28"
+    },
+    {
+      "name": "10-28G",
+      "url": "/garland/10-28g/parts",
+      "code": "10-28g"
+    },
+    {
+      "name": "10-29",
+      "url": "/garland/10-29/parts",
+      "code": "10-29"
+    },
+    {
+      "name": "10-31F",
+      "url": "/garland/10-31f/parts",
+      "code": "10-31f"
+    },
+    {
+      "name": "10-31FBL",
+      "url": "/garland/10-31fbl/parts",
+      "code": "10-31fbl"
+    },
+    {
+      "name": "10-31SF",
+      "url": "/garland/10-31sf/parts",
+      "code": "10-31sf"
+    },
+    {
+      "name": "10-31SFBL",
+      "url": "/garland/10-31sfbl/parts",
+      "code": "10-31sfbl"
+    },
+    {
+      "name": "10-33 1R",
+      "url": "/garland/10-33-1r/parts",
+      "code": "10-33-1r"
+    },
+    {
+      "name": "10-33 1S",
+      "url": "/garland/10-33-1s/parts",
+      "code": "10-33-1s"
+    },
+    {
+      "name": "10-33 1T",
+      "url": "/garland/10-33-1t/parts",
+      "code": "10-33-1t"
+    },
+    {
+      "name": "10-33 2R",
+      "url": "/garland/10-33-2r/parts",
+      "code": "10-33-2r"
+    },
+    {
+      "name": "10-33 2S",
+      "url": "/garland/10-33-2s/parts",
+      "code": "10-33-2s"
+    },
+    {
+      "name": "10-33 2T",
+      "url": "/garland/10-33-2t/parts",
+      "code": "10-33-2t"
+    },
+    {
+      "name": "10-70F",
+      "url": "/garland/10-70f/parts",
+      "code": "10-70f"
+    },
+    {
+      "name": "10/33",
+      "url": "/garland/10-33/parts",
+      "code": "10-33"
+    },
+    {
+      "name": "18B",
+      "url": "/garland/18b/parts",
+      "code": "18b"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:43:41.869072"
+}

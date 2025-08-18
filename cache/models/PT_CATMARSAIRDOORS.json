@@ -1,0 +1,136 @@
+{
+  "manufacturer": {
+    "name": "Mars Air Systems",
+    "code": "PT_CATMARSAIRDOORS",
+    "uri": "mars-air-systems"
+  },
+  "models": [
+    {
+      "name": "AWS-4UA-OB-VHP",
+      "url": "/mars-air-systems/aws-4ua-ob-vhp/parts",
+      "code": "aws-4ua-ob-vhp"
+    },
+    {
+      "name": "BD1496-1UG-TS",
+      "url": "/mars-air-systems/bd1496-1ug-ts/parts",
+      "code": "bd1496-1ug-ts"
+    },
+    {
+      "name": "BD1896-1EH-TS",
+      "url": "/mars-air-systems/bd1896-1eh-ts/parts",
+      "code": "bd1896-1eh-ts"
+    },
+    {
+      "name": "BD2296-1EH-TS",
+      "url": "/mars-air-systems/bd2296-1eh-ts/parts",
+      "code": "bd2296-1eh-ts"
+    },
+    {
+      "name": "BD2696-1EH-TS",
+      "url": "/mars-air-systems/bd2696-1eh-ts/parts",
+      "code": "bd2696-1eh-ts"
+    },
+    {
+      "name": "BD3096-1EH-TS",
+      "url": "/mars-air-systems/bd3096-1eh-ts/parts",
+      "code": "bd3096-1eh-ts"
+    },
+    {
+      "name": "EP296-2UG-TS",
+      "url": "/mars-air-systems/ep296-2ug-ts/parts",
+      "code": "ep296-2ug-ts"
+    },
+    {
+      "name": "HV236-1UA-TS",
+      "url": "/mars-air-systems/hv236-1ua-ts/parts",
+      "code": "hv236-1ua-ts"
+    },
+    {
+      "name": "LPN225-1UA-OB",
+      "url": "/mars-air-systems/lpn225-1ua-ob/parts",
+      "code": "lpn225-1ua-ob"
+    },
+    {
+      "name": "LPV225-1UA-OB",
+      "url": "/mars-air-systems/lpv225-1ua-ob/parts",
+      "code": "lpv225-1ua-ob"
+    },
+    {
+      "name": "LPV236-1UA-OB-CS",
+      "url": "/mars-air-systems/lpv236-1ua-ob-cs/parts",
+      "code": "lpv236-1ua-ob-cs"
+    },
+    {
+      "name": "LPV236-1UA-OB-UVP",
+      "url": "/mars-air-systems/lpv236-1ua-ob-uvp/parts",
+      "code": "lpv236-1ua-ob-uvp"
+    },
+    {
+      "name": "N236-1UA-OB",
+      "url": "/mars-air-systems/n236-1ua-ob/parts",
+      "code": "n236-1ua-ob"
+    },
+    {
+      "name": "NH236-1UA-TS",
+      "url": "/mars-air-systems/nh236-1ua-ts/parts",
+      "code": "nh236-1ua-ts"
+    },
+    {
+      "name": "PH1036-1UA-PW",
+      "url": "/mars-air-systems/ph1036-1ua-pw/parts",
+      "code": "ph1036-1ua-pw"
+    },
+    {
+      "name": "PH1242-1UA-PW",
+      "url": "/mars-air-systems/ph1242-1ua-pw/parts",
+      "code": "ph1242-1ua-pw"
+    },
+    {
+      "name": "QP1036-1UA-AL",
+      "url": "/mars-air-systems/qp1036-1ua-al/parts",
+      "code": "qp1036-1ua-al"
+    },
+    {
+      "name": "QP836-1UA-AL",
+      "url": "/mars-air-systems/qp836-1ua-al/parts",
+      "code": "qp836-1ua-al"
+    },
+    {
+      "name": "STD236-1UA-OB",
+      "url": "/mars-air-systems/std236-1ua-ob/parts",
+      "code": "std236-1ua-ob"
+    },
+    {
+      "name": "STD236-1UA-OB-HCP",
+      "url": "/mars-air-systems/std236-1ua-ob-hcp/parts",
+      "code": "std236-1ua-ob-hcp"
+    },
+    {
+      "name": "STD236-1UA-OB-UVP",
+      "url": "/mars-air-systems/std236-1ua-ob-uvp/parts",
+      "code": "std236-1ua-ob-uvp"
+    },
+    {
+      "name": "STD236-1UA-OB-VHP",
+      "url": "/mars-air-systems/std236-1ua-ob-vhp/parts",
+      "code": "std236-1ua-ob-vhp"
+    },
+    {
+      "name": "STD236-1UA-WW",
+      "url": "/mars-air-systems/std236-1ua-ww/parts",
+      "code": "std236-1ua-ww"
+    },
+    {
+      "name": "WMH96-2UE-TS",
+      "url": "/mars-air-systems/wmh96-2ue-ts/parts",
+      "code": "wmh96-2ue-ts"
+    },
+    {
+      "name": "WMI96-2EH-TS",
+      "url": "/mars-air-systems/wmi96-2eh-ts/parts",
+      "code": "wmi96-2eh-ts"
+    }
+  ],
+  "total_models": 25,
+  "cached_at": "2025-08-14T19:27:00.323494"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Intermatic",
+    "code": "PT_CATINTERMATIC",
+    "uri": "intermatic"
+  },
+  "models": [
+    {
+      "name": "AG2083C3",
+      "url": "/intermatic/ag2083c3/parts",
+      "code": "ag2083c3"
+    },
+    {
+      "name": "AG2401C3",
+      "url": "/intermatic/ag2401c3/parts",
+      "code": "ag2401c3"
+    },
+    {
+      "name": "AG2403C3",
+      "url": "/intermatic/ag2403c3/parts",
+      "code": "ag2403c3"
+    },
+    {
+      "name": "AG3000",
+      "url": "/intermatic/ag3000/parts",
+      "code": "ag3000"
+    },
+    {
+      "name": "AG48013",
+      "url": "/intermatic/ag48013/parts",
+      "code": "ag48013"
+    },
+    {
+      "name": "AG4803C3",
+      "url": "/intermatic/ag4803c3/parts",
+      "code": "ag4803c3"
+    },
+    {
+      "name": "AG65033",
+      "url": "/intermatic/ag65033/parts",
+      "code": "ag65033"
+    },
+    {
+      "name": "AG6503C3",
+      "url": "/intermatic/ag6503c3/parts",
+      "code": "ag6503c3"
+    },
+    {
+      "name": "AG6503L3",
+      "url": "/intermatic/ag6503l3/parts",
+      "code": "ag6503l3"
+    },
+    {
+      "name": "CT2000",
+      "url": "/intermatic/ct2000/parts",
+      "code": "ct2000"
+    },
+    {
+      "name": "DDFM",
+      "url": "/intermatic/ddfm/parts",
+      "code": "ddfm"
+    },
+    {
+      "name": "DDT40",
+      "url": "/intermatic/ddt40/parts",
+      "code": "ddt40"
+    },
+    {
+      "name": "DT-B",
+      "url": "/intermatic/dt-b/parts",
+      "code": "dt-b"
+    },
+    {
+      "name": "DTAV40",
+      "url": "/intermatic/dtav40/parts",
+      "code": "dtav40"
+    },
+    {
+      "name": "DTAV40E2",
+      "url": "/intermatic/dtav40e2/parts",
+      "code": "dtav40e2"
+    },
+    {
+      "name": "DTAV40M",
+      "url": "/intermatic/dtav40m/parts",
+      "code": "dtav40m"
+    },
+    {
+      "name": "DTAV40Q",
+      "url": "/intermatic/dtav40q/parts",
+      "code": "dtav40q"
+    },
+    {
+      "name": "E1010",
+      "url": "/intermatic/e1010/parts",
+      "code": "e1010"
+    },
+    {
+      "name": "E1020",
+      "url": "/intermatic/e1020/parts",
+      "code": "e1020"
+    },
+    {
+      "name": "E200",
+      "url": "/intermatic/e200/parts",
+      "code": "e200"
+    },
+    {
+      "name": "EH10",
+      "url": "/intermatic/eh10/parts",
+      "code": "eh10"
+    },
+    {
+      "name": "EH40",
+      "url": "/intermatic/eh40/parts",
+      "code": "eh40"
+    },
+    {
+      "name": "EI600WC",
+      "url": "/intermatic/ei600wc/parts",
+      "code": "ei600wc"
+    },
+    {
+      "name": "EK4027S",
+      "url": "/intermatic/ek4027s/parts",
+      "code": "ek4027s"
+    },
+    {
+      "name": "EK4035S",
+      "url": "/intermatic/ek4035s/parts",
+      "code": "ek4035s"
+    },
+    {
+      "name": "EK4036S",
+      "url": "/intermatic/ek4036s/parts",
+      "code": "ek4036s"
+    },
+    {
+      "name": "EK4036SD89",
+      "url": "/intermatic/ek4036sd89/parts",
+      "code": "ek4036sd89"
+    },
+    {
+      "name": "EK4136S",
+      "url": "/intermatic/ek4136s/parts",
+      "code": "ek4136s"
+    },
+    {
+      "name": "EK4136SD89",
+      "url": "/intermatic/ek4136sd89/parts",
+      "code": "ek4136sd89"
+    },
+    {
+      "name": "EK4236S",
+      "url": "/intermatic/ek4236s/parts",
+      "code": "ek4236s"
+    },
+    {
+      "name": "EK4236SD89",
+      "url": "/intermatic/ek4236sd89/parts",
+      "code": "ek4236sd89"
+    },
+    {
+      "name": "EK4336S",
+      "url": "/intermatic/ek4336s/parts",
+      "code": "ek4336s"
+    },
+    {
+      "name": "EK4336SD89",
+      "url": "/intermatic/ek4336sd89/parts",
+      "code": "ek4336sd89"
+    },
+    {
+      "name": "EK4436SM",
+      "url": "/intermatic/ek4436sm/parts",
+      "code": "ek4436sm"
+    },
+    {
+      "name": "EK4536",
+      "url": "/intermatic/ek4536/parts",
+      "code": "ek4536"
+    },
+    {
+      "name": "EK4537",
+      "url": "/intermatic/ek4537/parts",
+      "code": "ek4537"
+    },
+    {
+      "name": "EK4736S",
+      "url": "/intermatic/ek4736s/parts",
+      "code": "ek4736s"
+    },
+    {
+      "name": "ELC4536",
+      "url": "/intermatic/elc4536/parts",
+      "code": "elc4536"
+    },
+    {
+      "name": "ELC4536D89",
+      "url": "/intermatic/elc4536d89/parts",
+      "code": "elc4536d89"
+    },
+    {
+      "name": "ET1105C",
+      "url": "/intermatic/et1105c/parts",
+      "code": "et1105c"
+    },
+    {
+      "name": "ET1125C",
+      "url": "/intermatic/et1125c/parts",
+      "code": "et1125c"
+    },
+    {
+      "name": "ET1705C",
+      "url": "/intermatic/et1705c/parts",
+      "code": "et1705c"
+    },
+    {
+      "name": "ET1725C",
+      "url": "/intermatic/et1725c/parts",
+      "code": "et1725c"
+    },
+    {
+      "name": "ET2145C",
+      "url": "/intermatic/et2145c/parts",
+      "code": "et2145c"
+    },
+    {
+      "name": "ET2705C",
+      "url": "/intermatic/et2705c/parts",
+      "code": "et2705c"
+    },
+    {
+      "name": "ET2715C",
+      "url": "/intermatic/et2715c/parts",
+      "code": "et2715c"
+    },
+    {
+      "name": "ET2745C",
+      "url": "/intermatic/et2745c/parts",
+      "code": "et2745c"
+    },
+    {
+      "name": "ET2815C",
+      "url": "/intermatic/et2815c/parts",
+      "code": "et2815c"
+    },
+    {
+      "name": "ET8015C",
+      "url": "/intermatic/et8015c/parts",
+      "code": "et8015c"
+    },
+    {
+      "name": "ET8215C",
+      "url": "/intermatic/et8215c/parts",
+      "code": "et8215c"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:07:13.528987"
+}

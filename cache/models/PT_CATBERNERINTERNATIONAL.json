@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Berner International",
+    "code": "PT_CATBERNERINTERNATIONAL",
+    "uri": "berner-international"
+  },
+  "models": [
+    {
+      "name": "AI08-E-1036",
+      "url": "/berner-international/ai08-e-1036/parts",
+      "code": "ai08-e-1036"
+    },
+    {
+      "name": "ARD12 SERIES",
+      "url": "/berner-international/ard12-series/parts",
+      "code": "ard12-series"
+    },
+    {
+      "name": "ARD12-1036",
+      "url": "/berner-international/ard12-1036/parts",
+      "code": "ard12-1036"
+    },
+    {
+      "name": "ARD12-1042 1",
+      "url": "/berner-international/ard12-1042-1/parts",
+      "code": "ard12-1042-1"
+    },
+    {
+      "name": "ARD12-1048",
+      "url": "/berner-international/ard12-1048/parts",
+      "code": "ard12-1048"
+    },
+    {
+      "name": "ARD12-1060",
+      "url": "/berner-international/ard12-1060/parts",
+      "code": "ard12-1060"
+    },
+    {
+      "name": "ARD12-2060",
+      "url": "/berner-international/ard12-2060/parts",
+      "code": "ard12-2060"
+    },
+    {
+      "name": "ARD12-2072",
+      "url": "/berner-international/ard12-2072/parts",
+      "code": "ard12-2072"
+    },
+    {
+      "name": "ARD12-2084",
+      "url": "/berner-international/ard12-2084/parts",
+      "code": "ard12-2084"
+    },
+    {
+      "name": "ARD12-2096",
+      "url": "/berner-international/ard12-2096/parts",
+      "code": "ard12-2096"
+    },
+    {
+      "name": "ARD12-2108",
+      "url": "/berner-international/ard12-2108/parts",
+      "code": "ard12-2108"
+    },
+    {
+      "name": "ARD12-2120",
+      "url": "/berner-international/ard12-2120/parts",
+      "code": "ard12-2120"
+    },
+    {
+      "name": "ARD12-3096",
+      "url": "/berner-international/ard12-3096/parts",
+      "code": "ard12-3096"
+    },
+    {
+      "name": "ARD12-3108",
+      "url": "/berner-international/ard12-3108/parts",
+      "code": "ard12-3108"
+    },
+    {
+      "name": "ARD12-3120",
+      "url": "/berner-international/ard12-3120/parts",
+      "code": "ard12-3120"
+    },
+    {
+      "name": "ARD12-3132",
+      "url": "/berner-international/ard12-3132/parts",
+      "code": "ard12-3132"
+    },
+    {
+      "name": "ARD12-3144",
+      "url": "/berner-international/ard12-3144/parts",
+      "code": "ard12-3144"
+    },
+    {
+      "name": "ARD12-4144",
+      "url": "/berner-international/ard12-4144/parts",
+      "code": "ard12-4144"
+    },
+    {
+      "name": "CHD10 SERIES",
+      "url": "/berner-international/chd10-series/parts",
+      "code": "chd10-series"
+    },
+    {
+      "name": "CHD10-1036",
+      "url": "/berner-international/chd10-1036/parts",
+      "code": "chd10-1036"
+    },
+    {
+      "name": "CHD10-1042",
+      "url": "/berner-international/chd10-1042/parts",
+      "code": "chd10-1042"
+    },
+    {
+      "name": "CHD10-1048",
+      "url": "/berner-international/chd10-1048/parts",
+      "code": "chd10-1048"
+    },
+    {
+      "name": "CHD10-1060",
+      "url": "/berner-international/chd10-1060/parts",
+      "code": "chd10-1060"
+    },
+    {
+      "name": "CHD10-2060",
+      "url": "/berner-international/chd10-2060/parts",
+      "code": "chd10-2060"
+    },
+    {
+      "name": "CHD10-2072",
+      "url": "/berner-international/chd10-2072/parts",
+      "code": "chd10-2072"
+    },
+    {
+      "name": "CHD10-2084",
+      "url": "/berner-international/chd10-2084/parts",
+      "code": "chd10-2084"
+    },
+    {
+      "name": "CHD10-2096",
+      "url": "/berner-international/chd10-2096/parts",
+      "code": "chd10-2096"
+    },
+    {
+      "name": "CHD10-2108",
+      "url": "/berner-international/chd10-2108/parts",
+      "code": "chd10-2108"
+    },
+    {
+      "name": "CHD10-2120",
+      "url": "/berner-international/chd10-2120/parts",
+      "code": "chd10-2120"
+    },
+    {
+      "name": "CHD10-3096",
+      "url": "/berner-international/chd10-3096/parts",
+      "code": "chd10-3096"
+    },
+    {
+      "name": "CHD10-3108",
+      "url": "/berner-international/chd10-3108/parts",
+      "code": "chd10-3108"
+    },
+    {
+      "name": "CHD10-3120",
+      "url": "/berner-international/chd10-3120/parts",
+      "code": "chd10-3120"
+    },
+    {
+      "name": "CLC08 Series",
+      "url": "/berner-international/clc08-series/parts",
+      "code": "clc08-series"
+    },
+    {
+      "name": "CLC08-1036",
+      "url": "/berner-international/clc08-1036/parts",
+      "code": "clc08-1036"
+    },
+    {
+      "name": "CLC08-1042",
+      "url": "/berner-international/clc08-1042/parts",
+      "code": "clc08-1042"
+    },
+    {
+      "name": "CLC08-1048",
+      "url": "/berner-international/clc08-1048/parts",
+      "code": "clc08-1048"
+    },
+    {
+      "name": "CLC08-1060",
+      "url": "/berner-international/clc08-1060/parts",
+      "code": "clc08-1060"
+    },
+    {
+      "name": "CLC08-1072",
+      "url": "/berner-international/clc08-1072/parts",
+      "code": "clc08-1072"
+    },
+    {
+      "name": "CLC08-2084",
+      "url": "/berner-international/clc08-2084/parts",
+      "code": "clc08-2084"
+    },
+    {
+      "name": "CLC08-2096",
+      "url": "/berner-international/clc08-2096/parts",
+      "code": "clc08-2096"
+    },
+    {
+      "name": "CLC08-2108",
+      "url": "/berner-international/clc08-2108/parts",
+      "code": "clc08-2108"
+    },
+    {
+      "name": "CLC08-2120",
+      "url": "/berner-international/clc08-2120/parts",
+      "code": "clc08-2120"
+    },
+    {
+      "name": "DTU03 SERIES",
+      "url": "/berner-international/dtu03-series/parts",
+      "code": "dtu03-series"
+    },
+    {
+      "name": "DTU03-1018",
+      "url": "/berner-international/dtu03-1018/parts",
+      "code": "dtu03-1018"
+    },
+    {
+      "name": "DTU03-1026",
+      "url": "/berner-international/dtu03-1026/parts",
+      "code": "dtu03-1026"
+    },
+    {
+      "name": "IDC12 SERIES",
+      "url": "/berner-international/idc12-series/parts",
+      "code": "idc12-series"
+    },
+    {
+      "name": "IDC12-1036",
+      "url": "/berner-international/idc12-1036/parts",
+      "code": "idc12-1036"
+    },
+    {
+      "name": "IDC12-1042",
+      "url": "/berner-international/idc12-1042/parts",
+      "code": "idc12-1042"
+    },
+    {
+      "name": "IDC12-1048",
+      "url": "/berner-international/idc12-1048/parts",
+      "code": "idc12-1048"
+    },
+    {
+      "name": "IDC12-1060",
+      "url": "/berner-international/idc12-1060/parts",
+      "code": "idc12-1060"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:53:36.049421"
+}

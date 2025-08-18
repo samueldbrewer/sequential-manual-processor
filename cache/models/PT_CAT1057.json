@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Dormont",
+    "code": "PT_CAT1057",
+    "uri": "dormont"
+  },
+  "models": [
+    {
+      "name": "050FV",
+      "url": "/dormont/050fv/parts",
+      "code": "050fv"
+    },
+    {
+      "name": "050SE",
+      "url": "/dormont/050se/parts",
+      "code": "050se"
+    },
+    {
+      "name": "075FV",
+      "url": "/dormont/075fv/parts",
+      "code": "075fv"
+    },
+    {
+      "name": "075SE",
+      "url": "/dormont/075se/parts",
+      "code": "075se"
+    },
+    {
+      "name": "100FV",
+      "url": "/dormont/100fv/parts",
+      "code": "100fv"
+    },
+    {
+      "name": "100SE",
+      "url": "/dormont/100se/parts",
+      "code": "100se"
+    },
+    {
+      "name": "16100BP24",
+      "url": "/dormont/16100bp24/parts",
+      "code": "16100bp24"
+    },
+    {
+      "name": "16100BP36",
+      "url": "/dormont/16100bp36/parts",
+      "code": "16100bp36"
+    },
+    {
+      "name": "16100BP48",
+      "url": "/dormont/16100bp48/parts",
+      "code": "16100bp48"
+    },
+    {
+      "name": "16100BP60",
+      "url": "/dormont/16100bp60/parts",
+      "code": "16100bp60"
+    },
+    {
+      "name": "16100BP72",
+      "url": "/dormont/16100bp72/parts",
+      "code": "16100bp72"
+    },
+    {
+      "name": "16100BPCF24",
+      "url": "/dormont/16100bpcf24/parts",
+      "code": "16100bpcf24"
+    },
+    {
+      "name": "16100BPCF2S36",
+      "url": "/dormont/16100bpcf2s36/parts",
+      "code": "16100bpcf2s36"
+    },
+    {
+      "name": "16100BPCF2S48",
+      "url": "/dormont/16100bpcf2s48/parts",
+      "code": "16100bpcf2s48"
+    },
+    {
+      "name": "16100BPCF36",
+      "url": "/dormont/16100bpcf36/parts",
+      "code": "16100bpcf36"
+    },
+    {
+      "name": "16100BPCF48",
+      "url": "/dormont/16100bpcf48/parts",
+      "code": "16100bpcf48"
+    },
+    {
+      "name": "16100BPCFS36",
+      "url": "/dormont/16100bpcfs36/parts",
+      "code": "16100bpcfs36"
+    },
+    {
+      "name": "16100BPQ24",
+      "url": "/dormont/16100bpq24/parts",
+      "code": "16100bpq24"
+    },
+    {
+      "name": "16100BPQ2S36",
+      "url": "/dormont/16100bpq2s36/parts",
+      "code": "16100bpq2s36"
+    },
+    {
+      "name": "16100BPQ2S48",
+      "url": "/dormont/16100bpq2s48/parts",
+      "code": "16100bpq2s48"
+    },
+    {
+      "name": "16100BPQ2S72",
+      "url": "/dormont/16100bpq2s72/parts",
+      "code": "16100bpq2s72"
+    },
+    {
+      "name": "16100BPQ2SR24",
+      "url": "/dormont/16100bpq2sr24/parts",
+      "code": "16100bpq2sr24"
+    },
+    {
+      "name": "16100BPQ2SR36",
+      "url": "/dormont/16100bpq2sr36/parts",
+      "code": "16100bpq2sr36"
+    },
+    {
+      "name": "16100BPQ2SR48",
+      "url": "/dormont/16100bpq2sr48/parts",
+      "code": "16100bpq2sr48"
+    },
+    {
+      "name": "16100BPQ36",
+      "url": "/dormont/16100bpq36/parts",
+      "code": "16100bpq36"
+    },
+    {
+      "name": "16100BPQ48",
+      "url": "/dormont/16100bpq48/parts",
+      "code": "16100bpq48"
+    },
+    {
+      "name": "16100BPQ60",
+      "url": "/dormont/16100bpq60/parts",
+      "code": "16100bpq60"
+    },
+    {
+      "name": "16100BPQ72",
+      "url": "/dormont/16100bpq72/parts",
+      "code": "16100bpq72"
+    },
+    {
+      "name": "16100BPQR24",
+      "url": "/dormont/16100bpqr24/parts",
+      "code": "16100bpqr24"
+    },
+    {
+      "name": "16100BPQR36",
+      "url": "/dormont/16100bpqr36/parts",
+      "code": "16100bpqr36"
+    },
+    {
+      "name": "16100BPQR48",
+      "url": "/dormont/16100bpqr48/parts",
+      "code": "16100bpqr48"
+    },
+    {
+      "name": "16100BPQR60",
+      "url": "/dormont/16100bpqr60/parts",
+      "code": "16100bpqr60"
+    },
+    {
+      "name": "16100BPQR72",
+      "url": "/dormont/16100bpqr72/parts",
+      "code": "16100bpqr72"
+    },
+    {
+      "name": "16100BPQS24",
+      "url": "/dormont/16100bpqs24/parts",
+      "code": "16100bpqs24"
+    },
+    {
+      "name": "16100BPQS36",
+      "url": "/dormont/16100bpqs36/parts",
+      "code": "16100bpqs36"
+    },
+    {
+      "name": "16100BPQS48",
+      "url": "/dormont/16100bpqs48/parts",
+      "code": "16100bpqs48"
+    },
+    {
+      "name": "16100BPQSR24",
+      "url": "/dormont/16100bpqsr24/parts",
+      "code": "16100bpqsr24"
+    },
+    {
+      "name": "16100BPQSR36",
+      "url": "/dormont/16100bpqsr36/parts",
+      "code": "16100bpqsr36"
+    },
+    {
+      "name": "16100BPQSR48",
+      "url": "/dormont/16100bpqsr48/parts",
+      "code": "16100bpqsr48"
+    },
+    {
+      "name": "16100BPQSR60",
+      "url": "/dormont/16100bpqsr60/parts",
+      "code": "16100bpqsr60"
+    },
+    {
+      "name": "16100BPQSR72",
+      "url": "/dormont/16100bpqsr72/parts",
+      "code": "16100bpqsr72"
+    },
+    {
+      "name": "16100KIT24",
+      "url": "/dormont/16100kit24/parts",
+      "code": "16100kit24"
+    },
+    {
+      "name": "16100KIT2S36",
+      "url": "/dormont/16100kit2s36/parts",
+      "code": "16100kit2s36"
+    },
+    {
+      "name": "16100KIT2S48",
+      "url": "/dormont/16100kit2s48/parts",
+      "code": "16100kit2s48"
+    },
+    {
+      "name": "16100KIT2S60",
+      "url": "/dormont/16100kit2s60/parts",
+      "code": "16100kit2s60"
+    },
+    {
+      "name": "16100KIT48",
+      "url": "/dormont/16100kit48/parts",
+      "code": "16100kit48"
+    },
+    {
+      "name": "16100KIT60",
+      "url": "/dormont/16100kit60/parts",
+      "code": "16100kit60"
+    },
+    {
+      "name": "16100KIT72",
+      "url": "/dormont/16100kit72/parts",
+      "code": "16100kit72"
+    },
+    {
+      "name": "16100KITCF2S36",
+      "url": "/dormont/16100kitcf2s36/parts",
+      "code": "16100kitcf2s36"
+    },
+    {
+      "name": "16100KITCF2S48",
+      "url": "/dormont/16100kitcf2s48/parts",
+      "code": "16100kitcf2s48"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:22:46.036237"
+}

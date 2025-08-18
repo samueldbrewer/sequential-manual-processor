@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Lamber-Eurodib",
+    "code": "PT_CAT14879",
+    "uri": "lamber-eurodib"
+  },
+  "models": [
+    {
+      "name": "050F",
+      "url": "/lamber-eurodib/050f/parts",
+      "code": "050f"
+    },
+    {
+      "name": "DSP3",
+      "url": "/lamber-eurodib/dsp3/parts",
+      "code": "dsp3"
+    },
+    {
+      "name": "DSP4",
+      "url": "/lamber-eurodib/dsp4/parts",
+      "code": "dsp4"
+    },
+    {
+      "name": "F92-EK",
+      "url": "/lamber-eurodib/f92-ek/parts",
+      "code": "f92-ek"
+    },
+    {
+      "name": "L21EK",
+      "url": "/lamber-eurodib/l21ek/parts",
+      "code": "l21ek"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T19:18:39.231401"
+}

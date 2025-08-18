@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Dacor",
+    "code": "PT_CAT235506",
+    "uri": "dacor"
+  },
+  "models": [
+    {
+      "name": "CER304",
+      "url": "/dacor/cer304/parts",
+      "code": "cer304"
+    },
+    {
+      "name": "CER365",
+      "url": "/dacor/cer365/parts",
+      "code": "cer365"
+    },
+    {
+      "name": "DCT305",
+      "url": "/dacor/dct305/parts",
+      "code": "dct305"
+    },
+    {
+      "name": "DR30D",
+      "url": "/dacor/dr30d/parts",
+      "code": "dr30d"
+    },
+    {
+      "name": "DR30DH",
+      "url": "/dacor/dr30dh/parts",
+      "code": "dr30dh"
+    },
+    {
+      "name": "DR30DI",
+      "url": "/dacor/dr30di/parts",
+      "code": "dr30di"
+    },
+    {
+      "name": "DR30EFS",
+      "url": "/dacor/dr30efs/parts",
+      "code": "dr30efs"
+    },
+    {
+      "name": "DR30EIFS",
+      "url": "/dacor/dr30eifs/parts",
+      "code": "dr30eifs"
+    },
+    {
+      "name": "DR30EIS",
+      "url": "/dacor/dr30eis/parts",
+      "code": "dr30eis"
+    },
+    {
+      "name": "DR30ES",
+      "url": "/dacor/dr30es/parts",
+      "code": "dr30es"
+    },
+    {
+      "name": "DR30IH",
+      "url": "/dacor/dr30ih/parts",
+      "code": "dr30ih"
+    },
+    {
+      "name": "DRT304",
+      "url": "/dacor/drt304/parts",
+      "code": "drt304"
+    },
+    {
+      "name": "DRT366",
+      "url": "/dacor/drt366/parts",
+      "code": "drt366"
+    },
+    {
+      "name": "EGR30",
+      "url": "/dacor/egr30/parts",
+      "code": "egr30"
+    },
+    {
+      "name": "EMMODULES",
+      "url": "/dacor/emmodules/parts",
+      "code": "emmodules"
+    },
+    {
+      "name": "ER30D",
+      "url": "/dacor/er30d/parts",
+      "code": "er30d"
+    },
+    {
+      "name": "ER30DSR",
+      "url": "/dacor/er30dsr/parts",
+      "code": "er30dsr"
+    },
+    {
+      "name": "ER30G",
+      "url": "/dacor/er30g/parts",
+      "code": "er30g"
+    },
+    {
+      "name": "ER30GI",
+      "url": "/dacor/er30gi/parts",
+      "code": "er30gi"
+    },
+    {
+      "name": "ER36G",
+      "url": "/dacor/er36g/parts",
+      "code": "er36g"
+    },
+    {
+      "name": "ER36GI",
+      "url": "/dacor/er36gi/parts",
+      "code": "er36gi"
+    },
+    {
+      "name": "ERD30S06",
+      "url": "/dacor/erd30s06/parts",
+      "code": "erd30s06"
+    },
+    {
+      "name": "ERD36",
+      "url": "/dacor/erd36/parts",
+      "code": "erd36"
+    },
+    {
+      "name": "ERD48",
+      "url": "/dacor/erd48/parts",
+      "code": "erd48"
+    },
+    {
+      "name": "ERD60",
+      "url": "/dacor/erd60/parts",
+      "code": "erd60"
+    },
+    {
+      "name": "ERDE36",
+      "url": "/dacor/erde36/parts",
+      "code": "erde36"
+    },
+    {
+      "name": "ERDE48",
+      "url": "/dacor/erde48/parts",
+      "code": "erde48"
+    },
+    {
+      "name": "ERG36",
+      "url": "/dacor/erg36/parts",
+      "code": "erg36"
+    },
+    {
+      "name": "ERSD30",
+      "url": "/dacor/ersd30/parts",
+      "code": "ersd30"
+    },
+    {
+      "name": "ERSD36",
+      "url": "/dacor/ersd36/parts",
+      "code": "ersd36"
+    },
+    {
+      "name": "ERSD48",
+      "url": "/dacor/ersd48/parts",
+      "code": "ersd48"
+    },
+    {
+      "name": "ERV30",
+      "url": "/dacor/erv30/parts",
+      "code": "erv30"
+    },
+    {
+      "name": "ERV3015",
+      "url": "/dacor/erv3015/parts",
+      "code": "erv3015"
+    },
+    {
+      "name": "ERV36",
+      "url": "/dacor/erv36/parts",
+      "code": "erv36"
+    },
+    {
+      "name": "ERV3615",
+      "url": "/dacor/erv3615/parts",
+      "code": "erv3615"
+    },
+    {
+      "name": "ERV36ER",
+      "url": "/dacor/erv36er/parts",
+      "code": "erv36er"
+    },
+    {
+      "name": "ERV48",
+      "url": "/dacor/erv48/parts",
+      "code": "erv48"
+    },
+    {
+      "name": "ERV48ER",
+      "url": "/dacor/erv48er/parts",
+      "code": "erv48er"
+    },
+    {
+      "name": "ESG366",
+      "url": "/dacor/esg366/parts",
+      "code": "esg366"
+    },
+    {
+      "name": "ESG486",
+      "url": "/dacor/esg486/parts",
+      "code": "esg486"
+    },
+    {
+      "name": "ETT3041",
+      "url": "/dacor/ett3041/parts",
+      "code": "ett3041"
+    },
+    {
+      "name": "ETT365",
+      "url": "/dacor/ett365/parts",
+      "code": "ett365"
+    },
+    {
+      "name": "ETT3651",
+      "url": "/dacor/ett3651/parts",
+      "code": "ett3651"
+    },
+    {
+      "name": "ETT3652",
+      "url": "/dacor/ett3652/parts",
+      "code": "ett3652"
+    },
+    {
+      "name": "MET304",
+      "url": "/dacor/met304/parts",
+      "code": "met304"
+    },
+    {
+      "name": "MHD3009S",
+      "url": "/dacor/mhd3009s/parts",
+      "code": "mhd3009s"
+    },
+    {
+      "name": "MHD3018S",
+      "url": "/dacor/mhd3018s/parts",
+      "code": "mhd3018s"
+    },
+    {
+      "name": "MHD3609S",
+      "url": "/dacor/mhd3609s/parts",
+      "code": "mhd3609s"
+    },
+    {
+      "name": "MHD3618S",
+      "url": "/dacor/mhd3618s/parts",
+      "code": "mhd3618s"
+    },
+    {
+      "name": "MHD4809S",
+      "url": "/dacor/mhd4809s/parts",
+      "code": "mhd4809s"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:16:33.758190"
+}

@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Middleby Water Filtration",
+    "code": "PT_CAT223842",
+    "uri": "middleby-water-filtration"
+  },
+  "models": [
+    {
+      "name": "TruH2O 200MS2",
+      "url": "/middleby-water-filtration/truh2o-200ms2/parts",
+      "code": "truh2o-200ms2"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:31:27.290494"
+}

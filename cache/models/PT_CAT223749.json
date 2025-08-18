@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Oasis",
+    "code": "PT_CAT223749",
+    "uri": "oasis"
+  },
+  "models": [
+    {
+      "name": "ADAAC",
+      "url": "/oasis/adaac/parts",
+      "code": "adaac"
+    },
+    {
+      "name": "ADAACB",
+      "url": "/oasis/adaacb/parts",
+      "code": "adaacb"
+    },
+    {
+      "name": "ADAACR",
+      "url": "/oasis/adaacr/parts",
+      "code": "adaacr"
+    },
+    {
+      "name": "ADAFAC",
+      "url": "/oasis/adafac/parts",
+      "code": "adafac"
+    },
+    {
+      "name": "ADAFACB",
+      "url": "/oasis/adafacb/parts",
+      "code": "adafacb"
+    },
+    {
+      "name": "ADAFACR",
+      "url": "/oasis/adafacr/parts",
+      "code": "adafacr"
+    },
+    {
+      "name": "CSFD10",
+      "url": "/oasis/csfd10/parts",
+      "code": "csfd10"
+    },
+    {
+      "name": "CSFD3",
+      "url": "/oasis/csfd3/parts",
+      "code": "csfd3"
+    },
+    {
+      "name": "CSFD3H",
+      "url": "/oasis/csfd3h/parts",
+      "code": "csfd3h"
+    },
+    {
+      "name": "CSFD5",
+      "url": "/oasis/csfd5/parts",
+      "code": "csfd5"
+    },
+    {
+      "name": "CSWD3",
+      "url": "/oasis/cswd3/parts",
+      "code": "cswd3"
+    },
+    {
+      "name": "CSWD4",
+      "url": "/oasis/cswd4/parts",
+      "code": "cswd4"
+    },
+    {
+      "name": "CSWD5",
+      "url": "/oasis/cswd5/parts",
+      "code": "cswd5"
+    },
+    {
+      "name": "CSWDRB",
+      "url": "/oasis/cswdrb/parts",
+      "code": "cswdrb"
+    },
+    {
+      "name": "D300",
+      "url": "/oasis/d300/parts",
+      "code": "d300"
+    },
+    {
+      "name": "DF-2001",
+      "url": "/oasis/df-2001/parts",
+      "code": "df-2001"
+    },
+    {
+      "name": "DF-2011FR",
+      "url": "/oasis/df-2011fr/parts",
+      "code": "df-2011fr"
+    },
+    {
+      "name": "DF-2601",
+      "url": "/oasis/df-2601/parts",
+      "code": "df-2601"
+    },
+    {
+      "name": "DF-2611FR",
+      "url": "/oasis/df-2611fr/parts",
+      "code": "df-2611fr"
+    },
+    {
+      "name": "DF-7001",
+      "url": "/oasis/df-7001/parts",
+      "code": "df-7001"
+    },
+    {
+      "name": "DF-7241",
+      "url": "/oasis/df-7241/parts",
+      "code": "df-7241"
+    },
+    {
+      "name": "DF-7301",
+      "url": "/oasis/df-7301/parts",
+      "code": "df-7301"
+    },
+    {
+      "name": "DF-7501",
+      "url": "/oasis/df-7501/parts",
+      "code": "df-7501"
+    },
+    {
+      "name": "F100",
+      "url": "/oasis/f100/parts",
+      "code": "f100"
+    },
+    {
+      "name": "F110PM",
+      "url": "/oasis/f110pm/parts",
+      "code": "f110pm"
+    },
+    {
+      "name": "F110R",
+      "url": "/oasis/f110r/parts",
+      "code": "f110r"
+    },
+    {
+      "name": "F120",
+      "url": "/oasis/f120/parts",
+      "code": "f120"
+    },
+    {
+      "name": "F130PM",
+      "url": "/oasis/f130pm/parts",
+      "code": "f130pm"
+    },
+    {
+      "name": "F140PM",
+      "url": "/oasis/f140pm/parts",
+      "code": "f140pm"
+    },
+    {
+      "name": "F140PM14G",
+      "url": "/oasis/f140pm14g/parts",
+      "code": "f140pm14g"
+    },
+    {
+      "name": "F140R",
+      "url": "/oasis/f140r/parts",
+      "code": "f140r"
+    },
+    {
+      "name": "F140REE",
+      "url": "/oasis/f140ree/parts",
+      "code": "f140ree"
+    },
+    {
+      "name": "F200PM",
+      "url": "/oasis/f200pm/parts",
+      "code": "f200pm"
+    },
+    {
+      "name": "F240PM",
+      "url": "/oasis/f240pm/parts",
+      "code": "f240pm"
+    },
+    {
+      "name": "F300R",
+      "url": "/oasis/f300r/parts",
+      "code": "f300r"
+    },
+    {
+      "name": "F702PM",
+      "url": "/oasis/f702pm/parts",
+      "code": "f702pm"
+    },
+    {
+      "name": "F703PM",
+      "url": "/oasis/f703pm/parts",
+      "code": "f703pm"
+    },
+    {
+      "name": "H300",
+      "url": "/oasis/h300/parts",
+      "code": "h300"
+    },
+    {
+      "name": "M110PM",
+      "url": "/oasis/m110pm/parts",
+      "code": "m110pm"
+    },
+    {
+      "name": "M110RFZ",
+      "url": "/oasis/m110rfz/parts",
+      "code": "m110rfz"
+    },
+    {
+      "name": "M140PM",
+      "url": "/oasis/m140pm/parts",
+      "code": "m140pm"
+    },
+    {
+      "name": "M140R",
+      "url": "/oasis/m140r/parts",
+      "code": "m140r"
+    },
+    {
+      "name": "M140RFZ",
+      "url": "/oasis/m140rfz/parts",
+      "code": "m140rfz"
+    },
+    {
+      "name": "M8CR",
+      "url": "/oasis/m8cr/parts",
+      "code": "m8cr"
+    },
+    {
+      "name": "M8SBPM",
+      "url": "/oasis/m8sbpm/parts",
+      "code": "m8sbpm"
+    },
+    {
+      "name": "M8SCPM",
+      "url": "/oasis/m8scpm/parts",
+      "code": "m8scpm"
+    },
+    {
+      "name": "M8WR",
+      "url": "/oasis/m8wr/parts",
+      "code": "m8wr"
+    },
+    {
+      "name": "ML110R",
+      "url": "/oasis/ml110r/parts",
+      "code": "ml110r"
+    },
+    {
+      "name": "ML110RFZ",
+      "url": "/oasis/ml110rfz/parts",
+      "code": "ml110rfz"
+    },
+    {
+      "name": "MMRSL",
+      "url": "/oasis/mmrsl/parts",
+      "code": "mmrsl"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:44:24.001043"
+}

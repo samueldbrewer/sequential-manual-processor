@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Rosito Bisani",
+    "code": "PT_CAT223794",
+    "uri": "rosito-bisani"
+  },
+  "models": [
+    {
+      "name": "CPG91MU0",
+      "url": "/rosito-bisani/cpg91mu0/parts",
+      "code": "cpg91mu0"
+    },
+    {
+      "name": "CPG92MU0",
+      "url": "/rosito-bisani/cpg92mu0/parts",
+      "code": "cpg92mu0"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T20:04:29.399833"
+}

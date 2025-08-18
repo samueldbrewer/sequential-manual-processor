@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Chowbotics",
+    "code": "PT_CAT235533",
+    "uri": "chowbotics"
+  },
+  "models": [
+    {
+      "name": "Sally 2.0",
+      "url": "/chowbotics/sally-2-0/parts",
+      "code": "sally-2-0"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T18:08:41.893278"
+}

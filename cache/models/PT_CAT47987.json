@@ -1,0 +1,226 @@
+{
+  "manufacturer": {
+    "name": "Evo",
+    "code": "PT_CAT47987",
+    "uri": "evo"
+  },
+  "models": [
+    {
+      "name": "10-0002",
+      "url": "/evo/10-0002/parts",
+      "code": "10-0002"
+    },
+    {
+      "name": "10-0002-LP",
+      "url": "/evo/10-0002-lp/parts",
+      "code": "10-0002-lp"
+    },
+    {
+      "name": "10-0002-NG",
+      "url": "/evo/10-0002-ng/parts",
+      "code": "10-0002-ng"
+    },
+    {
+      "name": "10-0020",
+      "url": "/evo/10-0020/parts",
+      "code": "10-0020"
+    },
+    {
+      "name": "10-0020-LP",
+      "url": "/evo/10-0020-lp/parts",
+      "code": "10-0020-lp"
+    },
+    {
+      "name": "10-0020-NG",
+      "url": "/evo/10-0020-ng/parts",
+      "code": "10-0020-ng"
+    },
+    {
+      "name": "10-0021",
+      "url": "/evo/10-0021/parts",
+      "code": "10-0021"
+    },
+    {
+      "name": "10-0021-LP",
+      "url": "/evo/10-0021-lp/parts",
+      "code": "10-0021-lp"
+    },
+    {
+      "name": "10-0021-NG",
+      "url": "/evo/10-0021-ng/parts",
+      "code": "10-0021-ng"
+    },
+    {
+      "name": "10-0050",
+      "url": "/evo/10-0050/parts",
+      "code": "10-0050"
+    },
+    {
+      "name": "10-0050-LP",
+      "url": "/evo/10-0050-lp/parts",
+      "code": "10-0050-lp"
+    },
+    {
+      "name": "10-0050-NG",
+      "url": "/evo/10-0050-ng/parts",
+      "code": "10-0050-ng"
+    },
+    {
+      "name": "10-0051",
+      "url": "/evo/10-0051/parts",
+      "code": "10-0051"
+    },
+    {
+      "name": "10-0051-LP",
+      "url": "/evo/10-0051-lp/parts",
+      "code": "10-0051-lp"
+    },
+    {
+      "name": "10-0051-NG",
+      "url": "/evo/10-0051-ng/parts",
+      "code": "10-0051-ng"
+    },
+    {
+      "name": "10-0054",
+      "url": "/evo/10-0054/parts",
+      "code": "10-0054"
+    },
+    {
+      "name": "10-0054-LP",
+      "url": "/evo/10-0054-lp/parts",
+      "code": "10-0054-lp"
+    },
+    {
+      "name": "10-0054-NG",
+      "url": "/evo/10-0054-ng/parts",
+      "code": "10-0054-ng"
+    },
+    {
+      "name": "10-0055",
+      "url": "/evo/10-0055/parts",
+      "code": "10-0055"
+    },
+    {
+      "name": "10-0055-LP",
+      "url": "/evo/10-0055-lp/parts",
+      "code": "10-0055-lp"
+    },
+    {
+      "name": "10-0055-NG",
+      "url": "/evo/10-0055-ng/parts",
+      "code": "10-0055-ng"
+    },
+    {
+      "name": "10-0060-EL",
+      "url": "/evo/10-0060-el/parts",
+      "code": "10-0060-el"
+    },
+    {
+      "name": "10-0061-EL",
+      "url": "/evo/10-0061-el/parts",
+      "code": "10-0061-el"
+    },
+    {
+      "name": "10-0062-EL",
+      "url": "/evo/10-0062-el/parts",
+      "code": "10-0062-el"
+    },
+    {
+      "name": "10-0081",
+      "url": "/evo/10-0081/parts",
+      "code": "10-0081"
+    },
+    {
+      "name": "10-0081-LP",
+      "url": "/evo/10-0081-lp/parts",
+      "code": "10-0081-lp"
+    },
+    {
+      "name": "10-0081-NG",
+      "url": "/evo/10-0081-ng/parts",
+      "code": "10-0081-ng"
+    },
+    {
+      "name": "10-0135-EVT",
+      "url": "/evo/10-0135-evt/parts",
+      "code": "10-0135-evt"
+    },
+    {
+      "name": "10-0148-EVT",
+      "url": "/evo/10-0148-evt/parts",
+      "code": "10-0148-evt"
+    },
+    {
+      "name": "40E",
+      "url": "/evo/40e/parts",
+      "code": "40e"
+    },
+    {
+      "name": "Affinity 25E",
+      "url": "/evo/affinity-25e/parts",
+      "code": "affinity-25e"
+    },
+    {
+      "name": "Affinity 25E Elite",
+      "url": "/evo/affinity-25e-elite/parts",
+      "code": "affinity-25e-elite"
+    },
+    {
+      "name": "Affinity 30G",
+      "url": "/evo/affinity-30g/parts",
+      "code": "affinity-30g"
+    },
+    {
+      "name": "Affinity 30G Classic",
+      "url": "/evo/affinity-30g-classic/parts",
+      "code": "affinity-30g-classic"
+    },
+    {
+      "name": "Affinity 30Ge",
+      "url": "/evo/affinity-30ge/parts",
+      "code": "affinity-30ge"
+    },
+    {
+      "name": "Affinity 30Ge Elite",
+      "url": "/evo/affinity-30ge-elite/parts",
+      "code": "affinity-30ge-elite"
+    },
+    {
+      "name": "EVENT 35E",
+      "url": "/evo/event-35e/parts",
+      "code": "event-35e"
+    },
+    {
+      "name": "EVENT 48E",
+      "url": "/evo/event-48e/parts",
+      "code": "event-48e"
+    },
+    {
+      "name": "EVENT SERIES",
+      "url": "/evo/event-series/parts",
+      "code": "event-series"
+    },
+    {
+      "name": "Professional Classic Tabletop",
+      "url": "/evo/professional-classic-tabletop/parts",
+      "code": "professional-classic-tabletop"
+    },
+    {
+      "name": "Professional Classic Wheeled Cart",
+      "url": "/evo/professional-classic-wheeled-cart/parts",
+      "code": "professional-classic-wheeled-cart"
+    },
+    {
+      "name": "Professional Commercial Tabletop",
+      "url": "/evo/professional-commercial-tabletop/parts",
+      "code": "professional-commercial-tabletop"
+    },
+    {
+      "name": "Professional Commercial Wheeled Cart",
+      "url": "/evo/professional-commercial-wheeled-cart/parts",
+      "code": "professional-commercial-wheeled-cart"
+    }
+  ],
+  "total_models": 43,
+  "cached_at": "2025-08-14T18:30:28.168836"
+}

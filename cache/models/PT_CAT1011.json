@@ -1,0 +1,161 @@
+{
+  "manufacturer": {
+    "name": "Anets",
+    "code": "PT_CAT1011",
+    "uri": "anets"
+  },
+  "models": [
+    {
+      "name": "14-EL14",
+      "url": "/anets/14-el14/parts",
+      "code": "14-el14"
+    },
+    {
+      "name": "14-EL17",
+      "url": "/anets/14-el17/parts",
+      "code": "14-el17"
+    },
+    {
+      "name": "14EL14-AA",
+      "url": "/anets/14el14-aa/parts",
+      "code": "14el14-aa"
+    },
+    {
+      "name": "14EL17-AA",
+      "url": "/anets/14el17-aa/parts",
+      "code": "14el17-aa"
+    },
+    {
+      "name": "14ELU14",
+      "url": "/anets/14elu14/parts",
+      "code": "14elu14"
+    },
+    {
+      "name": "14ELU17",
+      "url": "/anets/14elu17/parts",
+      "code": "14elu17"
+    },
+    {
+      "name": "14GS",
+      "url": "/anets/14gs/parts",
+      "code": "14gs"
+    },
+    {
+      "name": "14GSU",
+      "url": "/anets/14gsu/parts",
+      "code": "14gsu"
+    },
+    {
+      "name": "14VF",
+      "url": "/anets/14vf/parts",
+      "code": "14vf"
+    },
+    {
+      "name": "14VFS",
+      "url": "/anets/14vfs/parts",
+      "code": "14vfs"
+    },
+    {
+      "name": "18E",
+      "url": "/anets/18e/parts",
+      "code": "18e"
+    },
+    {
+      "name": "A24X24G/GC",
+      "url": "/anets/a24x24g-gc/parts",
+      "code": "a24x24g-gc"
+    },
+    {
+      "name": "A24X72G/GC",
+      "url": "/anets/a24x72g-gc/parts",
+      "code": "a24x72g-gc"
+    },
+    {
+      "name": "A30X24G/GC",
+      "url": "/anets/a30x24g-gc/parts",
+      "code": "a30x24g-gc"
+    },
+    {
+      "name": "A30X72G/GC",
+      "url": "/anets/a30x72g-gc/parts",
+      "code": "a30x72g-gc"
+    },
+    {
+      "name": "E-18X26",
+      "url": "/anets/e-18x26/parts",
+      "code": "e-18x26"
+    },
+    {
+      "name": "FILT II-14",
+      "url": "/anets/filt-ii-14/parts",
+      "code": "filt-ii-14"
+    },
+    {
+      "name": "FILT II-14/14W",
+      "url": "/anets/filt-ii-14-14w/parts",
+      "code": "filt-ii-14-14w"
+    },
+    {
+      "name": "FILT II-14W",
+      "url": "/anets/filt-ii-14w/parts",
+      "code": "filt-ii-14w"
+    },
+    {
+      "name": "FILT II-18/18W",
+      "url": "/anets/filt-ii-18-18w/parts",
+      "code": "filt-ii-18-18w"
+    },
+    {
+      "name": "FILT II-18W",
+      "url": "/anets/filt-ii-18w/parts",
+      "code": "filt-ii-18w"
+    },
+    {
+      "name": "GPC14",
+      "url": "/anets/gpc14/parts",
+      "code": "gpc14"
+    },
+    {
+      "name": "GPC18",
+      "url": "/anets/gpc18/parts",
+      "code": "gpc18"
+    },
+    {
+      "name": "MX-14E",
+      "url": "/anets/mx-14e/parts",
+      "code": "mx-14e"
+    },
+    {
+      "name": "MX14",
+      "url": "/anets/mx14/parts",
+      "code": "mx14"
+    },
+    {
+      "name": "SG2460",
+      "url": "/anets/sg2460/parts",
+      "code": "sg2460"
+    },
+    {
+      "name": "SGC",
+      "url": "/anets/sgc/parts",
+      "code": "sgc"
+    },
+    {
+      "name": "SLE-40",
+      "url": "/anets/sle-40/parts",
+      "code": "sle-40"
+    },
+    {
+      "name": "SLG100",
+      "url": "/anets/slg100/parts",
+      "code": "slg100"
+    },
+    {
+      "name": "SLG40",
+      "url": "/anets/slg40/parts",
+      "code": "slg40"
+    }
+  ],
+  "total_models": 30,
+  "cached_at": "2025-08-14T17:44:57.193491"
+}

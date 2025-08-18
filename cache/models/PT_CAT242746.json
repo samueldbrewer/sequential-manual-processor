@@ -1,0 +1,101 @@
+{
+  "manufacturer": {
+    "name": "Royalton",
+    "code": "PT_CAT242746",
+    "uri": "royalton"
+  },
+  "models": [
+    {
+      "name": "R32BHHW",
+      "url": "/royalton/r32bhhw/parts",
+      "code": "r32bhhw"
+    },
+    {
+      "name": "R32BRTO",
+      "url": "/royalton/r32brto/parts",
+      "code": "r32brto"
+    },
+    {
+      "name": "RHHC-C1 SERIES",
+      "url": "/royalton/rhhc-c1-series/parts",
+      "code": "rhhc-c1-series"
+    },
+    {
+      "name": "RHHC-C2 SERIES",
+      "url": "/royalton/rhhc-c2-series/parts",
+      "code": "rhhc-c2-series"
+    },
+    {
+      "name": "RHHC-C3 SERIES",
+      "url": "/royalton/rhhc-c3-series/parts",
+      "code": "rhhc-c3-series"
+    },
+    {
+      "name": "RHHC-C4 SERIES",
+      "url": "/royalton/rhhc-c4-series/parts",
+      "code": "rhhc-c4-series"
+    },
+    {
+      "name": "RHHP-VT SERIES",
+      "url": "/royalton/rhhp-vt-series/parts",
+      "code": "rhhp-vt-series"
+    },
+    {
+      "name": "RPC-US SERIES",
+      "url": "/royalton/rpc-us-series/parts",
+      "code": "rpc-us-series"
+    },
+    {
+      "name": "RRH-C1 SERIES",
+      "url": "/royalton/rrh-c1-series/parts",
+      "code": "rrh-c1-series"
+    },
+    {
+      "name": "RRH-C1R SERIES",
+      "url": "/royalton/rrh-c1r-series/parts",
+      "code": "rrh-c1r-series"
+    },
+    {
+      "name": "RRH-C2 SERIES",
+      "url": "/royalton/rrh-c2-series/parts",
+      "code": "rrh-c2-series"
+    },
+    {
+      "name": "RRH-C2R SERIES",
+      "url": "/royalton/rrh-c2r-series/parts",
+      "code": "rrh-c2r-series"
+    },
+    {
+      "name": "RRH-C3 SERIES",
+      "url": "/royalton/rrh-c3-series/parts",
+      "code": "rrh-c3-series"
+    },
+    {
+      "name": "RRH-C3R SERIES",
+      "url": "/royalton/rrh-c3r-series/parts",
+      "code": "rrh-c3r-series"
+    },
+    {
+      "name": "RRH-C4 SERIES",
+      "url": "/royalton/rrh-c4-series/parts",
+      "code": "rrh-c4-series"
+    },
+    {
+      "name": "RRH-C4R SERIES",
+      "url": "/royalton/rrh-c4r-series/parts",
+      "code": "rrh-c4r-series"
+    },
+    {
+      "name": "SS1RRH",
+      "url": "/royalton/ss1rrh/parts",
+      "code": "ss1rrh"
+    },
+    {
+      "name": "SS2RRH",
+      "url": "/royalton/ss2rrh/parts",
+      "code": "ss2rrh"
+    }
+  ],
+  "total_models": 18,
+  "cached_at": "2025-08-14T20:17:24.927369"
+}

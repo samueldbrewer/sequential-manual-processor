@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Rankin Delux",
+    "code": "PT_CAT1167",
+    "uri": "rankin-delux"
+  },
+  "models": [
+    {
+      "name": "2300",
+      "url": "/rankin-delux/2300/parts",
+      "code": "2300"
+    },
+    {
+      "name": "DRB",
+      "url": "/rankin-delux/drb/parts",
+      "code": "drb"
+    },
+    {
+      "name": "GT",
+      "url": "/rankin-delux/gt/parts",
+      "code": "gt"
+    },
+    {
+      "name": "GT-12-C",
+      "url": "/rankin-delux/gt-12-c/parts",
+      "code": "gt-12-c"
+    },
+    {
+      "name": "GT-18-C",
+      "url": "/rankin-delux/gt-18-c/parts",
+      "code": "gt-18-c"
+    },
+    {
+      "name": "GT-24-C",
+      "url": "/rankin-delux/gt-24-c/parts",
+      "code": "gt-24-c"
+    },
+    {
+      "name": "GT-30-C",
+      "url": "/rankin-delux/gt-30-c/parts",
+      "code": "gt-30-c"
+    },
+    {
+      "name": "GT-36-C",
+      "url": "/rankin-delux/gt-36-c/parts",
+      "code": "gt-36-c"
+    },
+    {
+      "name": "GT-48-C",
+      "url": "/rankin-delux/gt-48-c/parts",
+      "code": "gt-48-c"
+    },
+    {
+      "name": "GT-60-C",
+      "url": "/rankin-delux/gt-60-c/parts",
+      "code": "gt-60-c"
+    },
+    {
+      "name": "GT-72-C",
+      "url": "/rankin-delux/gt-72-c/parts",
+      "code": "gt-72-c"
+    },
+    {
+      "name": "OR",
+      "url": "/rankin-delux/or/parts",
+      "code": "or"
+    },
+    {
+      "name": "OR-18-W",
+      "url": "/rankin-delux/or-18-w/parts",
+      "code": "or-18-w"
+    },
+    {
+      "name": "ORHP-112-C",
+      "url": "/rankin-delux/orhp-112-c/parts",
+      "code": "orhp-112-c"
+    },
+    {
+      "name": "ORHP-224-C",
+      "url": "/rankin-delux/orhp-224-c/parts",
+      "code": "orhp-224-c"
+    },
+    {
+      "name": "ORHP-336-C",
+      "url": "/rankin-delux/orhp-336-c/parts",
+      "code": "orhp-336-c"
+    },
+    {
+      "name": "ORHP-448-C",
+      "url": "/rankin-delux/orhp-448-c/parts",
+      "code": "orhp-448-c"
+    },
+    {
+      "name": "ORSU",
+      "url": "/rankin-delux/orsu/parts",
+      "code": "orsu"
+    },
+    {
+      "name": "ORSU-212-C",
+      "url": "/rankin-delux/orsu-212-c/parts",
+      "code": "orsu-212-c"
+    },
+    {
+      "name": "ORSU-424-C",
+      "url": "/rankin-delux/orsu-424-c/parts",
+      "code": "orsu-424-c"
+    },
+    {
+      "name": "ORSU-636-C",
+      "url": "/rankin-delux/orsu-636-c/parts",
+      "code": "orsu-636-c"
+    },
+    {
+      "name": "RB8",
+      "url": "/rankin-delux/rb8/parts",
+      "code": "rb8"
+    },
+    {
+      "name": "RD100",
+      "url": "/rankin-delux/rd100/parts",
+      "code": "rd100"
+    },
+    {
+      "name": "RD100-24-C",
+      "url": "/rankin-delux/rd100-24-c/parts",
+      "code": "rd100-24-c"
+    },
+    {
+      "name": "RD100-36-C",
+      "url": "/rankin-delux/rd100-36-c/parts",
+      "code": "rd100-36-c"
+    },
+    {
+      "name": "RD100-48-C",
+      "url": "/rankin-delux/rd100-48-c/parts",
+      "code": "rd100-48-c"
+    },
+    {
+      "name": "RD100-60-C",
+      "url": "/rankin-delux/rd100-60-c/parts",
+      "code": "rd100-60-c"
+    },
+    {
+      "name": "RD100-72-C",
+      "url": "/rankin-delux/rd100-72-c/parts",
+      "code": "rd100-72-c"
+    },
+    {
+      "name": "RD100-84-C",
+      "url": "/rankin-delux/rd100-84-c/parts",
+      "code": "rd100-84-c"
+    },
+    {
+      "name": "RD80",
+      "url": "/rankin-delux/rd80/parts",
+      "code": "rd80"
+    },
+    {
+      "name": "RD80-24-C",
+      "url": "/rankin-delux/rd80-24-c/parts",
+      "code": "rd80-24-c"
+    },
+    {
+      "name": "RD80-36-C",
+      "url": "/rankin-delux/rd80-36-c/parts",
+      "code": "rd80-36-c"
+    },
+    {
+      "name": "RD80-48-C",
+      "url": "/rankin-delux/rd80-48-c/parts",
+      "code": "rd80-48-c"
+    },
+    {
+      "name": "RD80-60-C",
+      "url": "/rankin-delux/rd80-60-c/parts",
+      "code": "rd80-60-c"
+    },
+    {
+      "name": "RD80-72-C",
+      "url": "/rankin-delux/rd80-72-c/parts",
+      "code": "rd80-72-c"
+    },
+    {
+      "name": "RD85",
+      "url": "/rankin-delux/rd85/parts",
+      "code": "rd85"
+    },
+    {
+      "name": "RD85-24-C",
+      "url": "/rankin-delux/rd85-24-c/parts",
+      "code": "rd85-24-c"
+    },
+    {
+      "name": "RD85-36-C",
+      "url": "/rankin-delux/rd85-36-c/parts",
+      "code": "rd85-36-c"
+    },
+    {
+      "name": "RD85-48-C",
+      "url": "/rankin-delux/rd85-48-c/parts",
+      "code": "rd85-48-c"
+    },
+    {
+      "name": "RD85-60-C",
+      "url": "/rankin-delux/rd85-60-c/parts",
+      "code": "rd85-60-c"
+    },
+    {
+      "name": "RD85-72-C",
+      "url": "/rankin-delux/rd85-72-c/parts",
+      "code": "rd85-72-c"
+    },
+    {
+      "name": "RD90",
+      "url": "/rankin-delux/rd90/parts",
+      "code": "rd90"
+    },
+    {
+      "name": "RD90-24-C",
+      "url": "/rankin-delux/rd90-24-c/parts",
+      "code": "rd90-24-c"
+    },
+    {
+      "name": "RD90-36-C",
+      "url": "/rankin-delux/rd90-36-c/parts",
+      "code": "rd90-36-c"
+    },
+    {
+      "name": "RD90-48-C",
+      "url": "/rankin-delux/rd90-48-c/parts",
+      "code": "rd90-48-c"
+    },
+    {
+      "name": "RD90-60-C",
+      "url": "/rankin-delux/rd90-60-c/parts",
+      "code": "rd90-60-c"
+    },
+    {
+      "name": "RD90-72-C",
+      "url": "/rankin-delux/rd90-72-c/parts",
+      "code": "rd90-72-c"
+    },
+    {
+      "name": "RDCM",
+      "url": "/rankin-delux/rdcm/parts",
+      "code": "rdcm"
+    },
+    {
+      "name": "RDCM-36-C",
+      "url": "/rankin-delux/rdcm-36-c/parts",
+      "code": "rdcm-36-c"
+    },
+    {
+      "name": "RDCM-48-C",
+      "url": "/rankin-delux/rdcm-48-c/parts",
+      "code": "rdcm-48-c"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:56:01.506937"
+}

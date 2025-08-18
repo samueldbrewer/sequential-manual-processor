@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "GE Appliance",
+    "code": "PT_CAT288796",
+    "uri": "ge-appliance"
+  },
+  "models": [
+    {
+      "name": "1U09EH2VHE",
+      "url": "/ge-appliance/1u09eh2vhe/parts",
+      "code": "1u09eh2vhe"
+    },
+    {
+      "name": "1U09EH2VHE1",
+      "url": "/ge-appliance/1u09eh2vhe1/parts",
+      "code": "1u09eh2vhe1"
+    },
+    {
+      "name": "1U09EH2VHE1",
+      "url": "/ge-appliance/1u09eh2vhe1/parts",
+      "code": "1u09eh2vhe1"
+    },
+    {
+      "name": "1U09TE2HDA",
+      "url": "/ge-appliance/1u09te2hda/parts",
+      "code": "1u09te2hda"
+    },
+    {
+      "name": "1U09TE2HDA1",
+      "url": "/ge-appliance/1u09te2hda1/parts",
+      "code": "1u09te2hda1"
+    },
+    {
+      "name": "1U12EH2VHD1",
+      "url": "/ge-appliance/1u12eh2vhd1/parts",
+      "code": "1u12eh2vhd1"
+    },
+    {
+      "name": "1U12EH2VHE",
+      "url": "/ge-appliance/1u12eh2vhe/parts",
+      "code": "1u12eh2vhe"
+    },
+    {
+      "name": "1U12EH2VHE1",
+      "url": "/ge-appliance/1u12eh2vhe1/parts",
+      "code": "1u12eh2vhe1"
+    },
+    {
+      "name": "1U12TE2HDA",
+      "url": "/ge-appliance/1u12te2hda/parts",
+      "code": "1u12te2hda"
+    },
+    {
+      "name": "1U12TE2HDA1",
+      "url": "/ge-appliance/1u12te2hda1/parts",
+      "code": "1u12te2hda1"
+    },
+    {
+      "name": "1U12TE2VHA",
+      "url": "/ge-appliance/1u12te2vha/parts",
+      "code": "1u12te2vha"
+    },
+    {
+      "name": "1U12TE2VHA1",
+      "url": "/ge-appliance/1u12te2vha1/parts",
+      "code": "1u12te2vha1"
+    },
+    {
+      "name": "1U12TE2VHA1",
+      "url": "/ge-appliance/1u12te2vha1/parts",
+      "code": "1u12te2vha1"
+    },
+    {
+      "name": "1U18EH2VHD1",
+      "url": "/ge-appliance/1u18eh2vhd1/parts",
+      "code": "1u18eh2vhd1"
+    },
+    {
+      "name": "1U18EH2VHE1",
+      "url": "/ge-appliance/1u18eh2vhe1/parts",
+      "code": "1u18eh2vhe1"
+    },
+    {
+      "name": "1U18TE2HDA",
+      "url": "/ge-appliance/1u18te2hda/parts",
+      "code": "1u18te2hda"
+    },
+    {
+      "name": "1U18TE2HDA1",
+      "url": "/ge-appliance/1u18te2hda1/parts",
+      "code": "1u18te2hda1"
+    },
+    {
+      "name": "1U24TE2HDA",
+      "url": "/ge-appliance/1u24te2hda/parts",
+      "code": "1u24te2hda"
+    },
+    {
+      "name": "1U24TE2HDA1",
+      "url": "/ge-appliance/1u24te2hda1/parts",
+      "code": "1u24te2hda1"
+    },
+    {
+      "name": "1U24TL2HFA",
+      "url": "/ge-appliance/1u24tl2hfa/parts",
+      "code": "1u24tl2hfa"
+    },
+    {
+      "name": "1U24TL2HFA1",
+      "url": "/ge-appliance/1u24tl2hfa1/parts",
+      "code": "1u24tl2hfa1"
+    },
+    {
+      "name": "1U3036TL2HFA",
+      "url": "/ge-appliance/1u3036tl2hfa/parts",
+      "code": "1u3036tl2hfa"
+    },
+    {
+      "name": "1U3036TL2HFA1",
+      "url": "/ge-appliance/1u3036tl2hfa1/parts",
+      "code": "1u3036tl2hfa1"
+    },
+    {
+      "name": "2U18MS2HDA",
+      "url": "/ge-appliance/2u18ms2hda/parts",
+      "code": "2u18ms2hda"
+    },
+    {
+      "name": "2U18MS2HDA1",
+      "url": "/ge-appliance/2u18ms2hda1/parts",
+      "code": "2u18ms2hda1"
+    },
+    {
+      "name": "2U20EH2HDA",
+      "url": "/ge-appliance/2u20eh2hda/parts",
+      "code": "2u20eh2hda"
+    },
+    {
+      "name": "2U20EH2HDA1",
+      "url": "/ge-appliance/2u20eh2hda1/parts",
+      "code": "2u20eh2hda1"
+    },
+    {
+      "name": "37511KBSARWW",
+      "url": "/ge-appliance/37511kbsarww/parts",
+      "code": "37511kbsarww"
+    },
+    {
+      "name": "38489KBSMRSS",
+      "url": "/ge-appliance/38489kbsmrss/parts",
+      "code": "38489kbsmrss"
+    },
+    {
+      "name": "3U24EH2HDA",
+      "url": "/ge-appliance/3u24eh2hda/parts",
+      "code": "3u24eh2hda"
+    },
+    {
+      "name": "3U24EH2HDA1",
+      "url": "/ge-appliance/3u24eh2hda1/parts",
+      "code": "3u24eh2hda1"
+    },
+    {
+      "name": "3U24MS2HDA",
+      "url": "/ge-appliance/3u24ms2hda/parts",
+      "code": "3u24ms2hda"
+    },
+    {
+      "name": "3U24MS2HDA1",
+      "url": "/ge-appliance/3u24ms2hda1/parts",
+      "code": "3u24ms2hda1"
+    },
+    {
+      "name": "4U36EH2HDA",
+      "url": "/ge-appliance/4u36eh2hda/parts",
+      "code": "4u36eh2hda"
+    },
+    {
+      "name": "4U36EH2HDA1",
+      "url": "/ge-appliance/4u36eh2hda1/parts",
+      "code": "4u36eh2hda1"
+    },
+    {
+      "name": "4U36EH2VHA",
+      "url": "/ge-appliance/4u36eh2vha/parts",
+      "code": "4u36eh2vha"
+    },
+    {
+      "name": "4U36EH2VHA1",
+      "url": "/ge-appliance/4u36eh2vha1/parts",
+      "code": "4u36eh2vha1"
+    },
+    {
+      "name": "4U36MS2HDA",
+      "url": "/ge-appliance/4u36ms2hda/parts",
+      "code": "4u36ms2hda"
+    },
+    {
+      "name": "4U36MS2HDA1",
+      "url": "/ge-appliance/4u36ms2hda1/parts",
+      "code": "4u36ms2hda1"
+    },
+    {
+      "name": "57731H0WW",
+      "url": "/ge-appliance/57731h0ww/parts",
+      "code": "57731h0ww"
+    },
+    {
+      "name": "57731H2WW",
+      "url": "/ge-appliance/57731h2ww/parts",
+      "code": "57731h2ww"
+    },
+    {
+      "name": "57731H5WW",
+      "url": "/ge-appliance/57731h5ww/parts",
+      "code": "57731h5ww"
+    },
+    {
+      "name": "5U42MS2HDA",
+      "url": "/ge-appliance/5u42ms2hda/parts",
+      "code": "5u42ms2hda"
+    },
+    {
+      "name": "5U42MS2HDA1",
+      "url": "/ge-appliance/5u42ms2hda1/parts",
+      "code": "5u42ms2hda1"
+    },
+    {
+      "name": "@JNM1541DM6WW",
+      "url": "/ge-appliance/jnm1541dm6ww/parts",
+      "code": "jnm1541dm6ww"
+    },
+    {
+      "name": "@JVM1540DM6BB",
+      "url": "/ge-appliance/jvm1540dm6bb/parts",
+      "code": "jvm1540dm6bb"
+    },
+    {
+      "name": "@JVM1540DM6CC",
+      "url": "/ge-appliance/jvm1540dm6cc/parts",
+      "code": "jvm1540dm6cc"
+    },
+    {
+      "name": "@JVM1540SM6SS",
+      "url": "/ge-appliance/jvm1540sm6ss/parts",
+      "code": "jvm1540sm6ss"
+    },
+    {
+      "name": "A3315ABRERWW",
+      "url": "/ge-appliance/a3315abrerww/parts",
+      "code": "a3315abrerww"
+    },
+    {
+      "name": "A3315ABRFRWW",
+      "url": "/ge-appliance/a3315abrfrww/parts",
+      "code": "a3315abrfrww"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:42:21.417561"
+}

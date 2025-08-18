@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Blendtec",
+    "code": "PT_CAT1027",
+    "uri": "blendtec"
+  },
+  "models": [
+    {
+      "name": "CONNOISSEUR 825",
+      "url": "/blendtec/connoisseur-825/parts",
+      "code": "connoisseur-825"
+    },
+    {
+      "name": "Rapid Rinse Station",
+      "url": "/blendtec/rapid-rinse-station/parts",
+      "code": "rapid-rinse-station"
+    },
+    {
+      "name": "STEALTH 885",
+      "url": "/blendtec/stealth-885/parts",
+      "code": "stealth-885"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T17:55:34.311314"
+}

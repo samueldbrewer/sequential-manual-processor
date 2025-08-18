@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Electrolux Professional",
+    "code": "PT_CAT1065",
+    "uri": "electrolux-professional"
+  },
+  "models": [
+    {
+      "name": "1050MMPR700",
+      "url": "/electrolux-professional/1050mmpr700/parts",
+      "code": "1050mmpr700"
+    },
+    {
+      "name": "10GN1/1",
+      "url": "/electrolux-professional/10gn1-1/parts",
+      "code": "10gn1-1"
+    },
+    {
+      "name": "110115",
+      "url": "/electrolux-professional/110115/parts",
+      "code": "110115"
+    },
+    {
+      "name": "110116",
+      "url": "/electrolux-professional/110116/parts",
+      "code": "110116"
+    },
+    {
+      "name": "110117",
+      "url": "/electrolux-professional/110117/parts",
+      "code": "110117"
+    },
+    {
+      "name": "110118",
+      "url": "/electrolux-professional/110118/parts",
+      "code": "110118"
+    },
+    {
+      "name": "110119",
+      "url": "/electrolux-professional/110119/parts",
+      "code": "110119"
+    },
+    {
+      "name": "110121",
+      "url": "/electrolux-professional/110121/parts",
+      "code": "110121"
+    },
+    {
+      "name": "110122",
+      "url": "/electrolux-professional/110122/parts",
+      "code": "110122"
+    },
+    {
+      "name": "110123",
+      "url": "/electrolux-professional/110123/parts",
+      "code": "110123"
+    },
+    {
+      "name": "110124",
+      "url": "/electrolux-professional/110124/parts",
+      "code": "110124"
+    },
+    {
+      "name": "110131",
+      "url": "/electrolux-professional/110131/parts",
+      "code": "110131"
+    },
+    {
+      "name": "110135",
+      "url": "/electrolux-professional/110135/parts",
+      "code": "110135"
+    },
+    {
+      "name": "110136",
+      "url": "/electrolux-professional/110136/parts",
+      "code": "110136"
+    },
+    {
+      "name": "110137",
+      "url": "/electrolux-professional/110137/parts",
+      "code": "110137"
+    },
+    {
+      "name": "110138",
+      "url": "/electrolux-professional/110138/parts",
+      "code": "110138"
+    },
+    {
+      "name": "1300L",
+      "url": "/electrolux-professional/1300l/parts",
+      "code": "1300l"
+    },
+    {
+      "name": "1400LT",
+      "url": "/electrolux-professional/1400lt/parts",
+      "code": "1400lt"
+    },
+    {
+      "name": "1600LT",
+      "url": "/electrolux-professional/1600lt/parts",
+      "code": "1600lt"
+    },
+    {
+      "name": "206211",
+      "url": "/electrolux-professional/206211/parts",
+      "code": "206211"
+    },
+    {
+      "name": "206212",
+      "url": "/electrolux-professional/206212/parts",
+      "code": "206212"
+    },
+    {
+      "name": "206213",
+      "url": "/electrolux-professional/206213/parts",
+      "code": "206213"
+    },
+    {
+      "name": "206214",
+      "url": "/electrolux-professional/206214/parts",
+      "code": "206214"
+    },
+    {
+      "name": "206215",
+      "url": "/electrolux-professional/206215/parts",
+      "code": "206215"
+    },
+    {
+      "name": "206216",
+      "url": "/electrolux-professional/206216/parts",
+      "code": "206216"
+    },
+    {
+      "name": "206217",
+      "url": "/electrolux-professional/206217/parts",
+      "code": "206217"
+    },
+    {
+      "name": "206218",
+      "url": "/electrolux-professional/206218/parts",
+      "code": "206218"
+    },
+    {
+      "name": "206219",
+      "url": "/electrolux-professional/206219/parts",
+      "code": "206219"
+    },
+    {
+      "name": "206220",
+      "url": "/electrolux-professional/206220/parts",
+      "code": "206220"
+    },
+    {
+      "name": "206221",
+      "url": "/electrolux-professional/206221/parts",
+      "code": "206221"
+    },
+    {
+      "name": "206222",
+      "url": "/electrolux-professional/206222/parts",
+      "code": "206222"
+    },
+    {
+      "name": "206223",
+      "url": "/electrolux-professional/206223/parts",
+      "code": "206223"
+    },
+    {
+      "name": "206224",
+      "url": "/electrolux-professional/206224/parts",
+      "code": "206224"
+    },
+    {
+      "name": "206225",
+      "url": "/electrolux-professional/206225/parts",
+      "code": "206225"
+    },
+    {
+      "name": "206226",
+      "url": "/electrolux-professional/206226/parts",
+      "code": "206226"
+    },
+    {
+      "name": "206230",
+      "url": "/electrolux-professional/206230/parts",
+      "code": "206230"
+    },
+    {
+      "name": "206231",
+      "url": "/electrolux-professional/206231/parts",
+      "code": "206231"
+    },
+    {
+      "name": "206320",
+      "url": "/electrolux-professional/206320/parts",
+      "code": "206320"
+    },
+    {
+      "name": "206321",
+      "url": "/electrolux-professional/206321/parts",
+      "code": "206321"
+    },
+    {
+      "name": "206322",
+      "url": "/electrolux-professional/206322/parts",
+      "code": "206322"
+    },
+    {
+      "name": "206323",
+      "url": "/electrolux-professional/206323/parts",
+      "code": "206323"
+    },
+    {
+      "name": "206324",
+      "url": "/electrolux-professional/206324/parts",
+      "code": "206324"
+    },
+    {
+      "name": "206325",
+      "url": "/electrolux-professional/206325/parts",
+      "code": "206325"
+    },
+    {
+      "name": "206329",
+      "url": "/electrolux-professional/206329/parts",
+      "code": "206329"
+    },
+    {
+      "name": "206332",
+      "url": "/electrolux-professional/206332/parts",
+      "code": "206332"
+    },
+    {
+      "name": "206336",
+      "url": "/electrolux-professional/206336/parts",
+      "code": "206336"
+    },
+    {
+      "name": "2DRW700E",
+      "url": "/electrolux-professional/2drw700e/parts",
+      "code": "2drw700e"
+    },
+    {
+      "name": "2DRW900E",
+      "url": "/electrolux-professional/2drw900e/parts",
+      "code": "2drw900e"
+    },
+    {
+      "name": "400LALPEN",
+      "url": "/electrolux-professional/400lalpen/parts",
+      "code": "400lalpen"
+    },
+    {
+      "name": "4GN1/1",
+      "url": "/electrolux-professional/4gn1-1/parts",
+      "code": "4gn1-1"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:27:31.445559"
+}

@@ -1,0 +1,151 @@
+{
+  "manufacturer": {
+    "name": "Flexeserve",
+    "code": "PT_CAT235448",
+    "uri": "flexeserve"
+  },
+  "models": [
+    {
+      "name": "FH-10D-US",
+      "url": "/flexeserve/fh-10d-us/parts",
+      "code": "fh-10d-us"
+    },
+    {
+      "name": "FH-60L-US",
+      "url": "/flexeserve/fh-60l-us/parts",
+      "code": "fh-60l-us"
+    },
+    {
+      "name": "FH-60R-US",
+      "url": "/flexeserve/fh-60r-us/parts",
+      "code": "fh-60r-us"
+    },
+    {
+      "name": "FXZNA10N2S-SF61",
+      "url": "/flexeserve/fxzna10n2s-sf61/parts",
+      "code": "fxzna10n2s-sf61"
+    },
+    {
+      "name": "FXZNA10S3C-SF61",
+      "url": "/flexeserve/fxzna10s3c-sf61/parts",
+      "code": "fxzna10s3c-sf61"
+    },
+    {
+      "name": "FXZNA10S3S-SF61",
+      "url": "/flexeserve/fxzna10s3s-sf61/parts",
+      "code": "fxzna10s3s-sf61"
+    },
+    {
+      "name": "FXZNA10S4C-SF61",
+      "url": "/flexeserve/fxzna10s4c-sf61/parts",
+      "code": "fxzna10s4c-sf61"
+    },
+    {
+      "name": "FXZNA10S4S-SF61",
+      "url": "/flexeserve/fxzna10s4s-sf61/parts",
+      "code": "fxzna10s4s-sf61"
+    },
+    {
+      "name": "FXZNA10S5C-SF61",
+      "url": "/flexeserve/fxzna10s5c-sf61/parts",
+      "code": "fxzna10s5c-sf61"
+    },
+    {
+      "name": "FXZNA10S5S-PR61",
+      "url": "/flexeserve/fxzna10s5s-pr61/parts",
+      "code": "fxzna10s5s-pr61"
+    },
+    {
+      "name": "FXZNA10S5S-SF61",
+      "url": "/flexeserve/fxzna10s5s-sf61/parts",
+      "code": "fxzna10s5s-sf61"
+    },
+    {
+      "name": "FXZNA40N2S-SF61",
+      "url": "/flexeserve/fxzna40n2s-sf61/parts",
+      "code": "fxzna40n2s-sf61"
+    },
+    {
+      "name": "FXZNA40S3C-SF61",
+      "url": "/flexeserve/fxzna40s3c-sf61/parts",
+      "code": "fxzna40s3c-sf61"
+    },
+    {
+      "name": "FXZNA40S3S-SF61",
+      "url": "/flexeserve/fxzna40s3s-sf61/parts",
+      "code": "fxzna40s3s-sf61"
+    },
+    {
+      "name": "FXZNA40S4C-SF61",
+      "url": "/flexeserve/fxzna40s4c-sf61/parts",
+      "code": "fxzna40s4c-sf61"
+    },
+    {
+      "name": "FXZNA40S4S-SF61",
+      "url": "/flexeserve/fxzna40s4s-sf61/parts",
+      "code": "fxzna40s4s-sf61"
+    },
+    {
+      "name": "FXZNA60N2S-PF61",
+      "url": "/flexeserve/fxzna60n2s-pf61/parts",
+      "code": "fxzna60n2s-pf61"
+    },
+    {
+      "name": "FXZNA60N2S-SF61",
+      "url": "/flexeserve/fxzna60n2s-sf61/parts",
+      "code": "fxzna60n2s-sf61"
+    },
+    {
+      "name": "FXZNA60S3C-SF61",
+      "url": "/flexeserve/fxzna60s3c-sf61/parts",
+      "code": "fxzna60s3c-sf61"
+    },
+    {
+      "name": "FXZNA60S3S-SF61",
+      "url": "/flexeserve/fxzna60s3s-sf61/parts",
+      "code": "fxzna60s3s-sf61"
+    },
+    {
+      "name": "FXZNA60S4C-SF61",
+      "url": "/flexeserve/fxzna60s4c-sf61/parts",
+      "code": "fxzna60s4c-sf61"
+    },
+    {
+      "name": "FXZNA60S4S-SF61",
+      "url": "/flexeserve/fxzna60s4s-sf61/parts",
+      "code": "fxzna60s4s-sf61"
+    },
+    {
+      "name": "FXZNA60S5C-SF61",
+      "url": "/flexeserve/fxzna60s5c-sf61/parts",
+      "code": "fxzna60s5c-sf61"
+    },
+    {
+      "name": "FZ10D2S61",
+      "url": "/flexeserve/fz10d2s61/parts",
+      "code": "fz10d2s61"
+    },
+    {
+      "name": "FZ60L2S61",
+      "url": "/flexeserve/fz60l2s61/parts",
+      "code": "fz60l2s61"
+    },
+    {
+      "name": "FZ60L3S61",
+      "url": "/flexeserve/fz60l3s61/parts",
+      "code": "fz60l3s61"
+    },
+    {
+      "name": "FZ60R2S61",
+      "url": "/flexeserve/fz60r2s61/parts",
+      "code": "fz60r2s61"
+    },
+    {
+      "name": "FZ60R3S61",
+      "url": "/flexeserve/fz60r3s61/parts",
+      "code": "fz60r3s61"
+    }
+  ],
+  "total_models": 28,
+  "cached_at": "2025-08-14T18:34:45.892478"
+}

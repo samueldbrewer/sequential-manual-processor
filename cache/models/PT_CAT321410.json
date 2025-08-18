@@ -1,0 +1,116 @@
+{
+  "manufacturer": {
+    "name": "Bizerba",
+    "code": "PT_CAT321410",
+    "uri": "bizerba"
+  },
+  "models": [
+    {
+      "name": "A 400",
+      "url": "/bizerba/a-400/parts",
+      "code": "a-400"
+    },
+    {
+      "name": "A 400 FB",
+      "url": "/bizerba/a-400-fb/parts",
+      "code": "a-400-fb"
+    },
+    {
+      "name": "FK 32",
+      "url": "/bizerba/fk-32/parts",
+      "code": "fk-32"
+    },
+    {
+      "name": "GSPH33",
+      "url": "/bizerba/gsph33/parts",
+      "code": "gsph33"
+    },
+    {
+      "name": "GSPHD33",
+      "url": "/bizerba/gsphd33/parts",
+      "code": "gsphd33"
+    },
+    {
+      "name": "GSPHDC33",
+      "url": "/bizerba/gsphdc33/parts",
+      "code": "gsphdc33"
+    },
+    {
+      "name": "MC 500",
+      "url": "/bizerba/mc-500/parts",
+      "code": "mc-500"
+    },
+    {
+      "name": "P-23",
+      "url": "/bizerba/p-23/parts",
+      "code": "p-23"
+    },
+    {
+      "name": "S111",
+      "url": "/bizerba/s111/parts",
+      "code": "s111"
+    },
+    {
+      "name": "S111 Plus",
+      "url": "/bizerba/s111-plus/parts",
+      "code": "s111-plus"
+    },
+    {
+      "name": "SE 12",
+      "url": "/bizerba/se-12/parts",
+      "code": "se-12"
+    },
+    {
+      "name": "SE 8",
+      "url": "/bizerba/se-8/parts",
+      "code": "se-8"
+    },
+    {
+      "name": "SE12D",
+      "url": "/bizerba/se12d/parts",
+      "code": "se12d"
+    },
+    {
+      "name": "SG 8 D",
+      "url": "/bizerba/sg-8-d/parts",
+      "code": "sg-8-d"
+    },
+    {
+      "name": "VS 12F",
+      "url": "/bizerba/vs-12f/parts",
+      "code": "vs-12f"
+    },
+    {
+      "name": "VS 12F-P",
+      "url": "/bizerba/vs-12f-p/parts",
+      "code": "vs-12f-p"
+    },
+    {
+      "name": "VSI F",
+      "url": "/bizerba/vsi-f/parts",
+      "code": "vsi-f"
+    },
+    {
+      "name": "VSI F T",
+      "url": "/bizerba/vsi-f-t/parts",
+      "code": "vsi-f-t"
+    },
+    {
+      "name": "VSI TW",
+      "url": "/bizerba/vsi-tw/parts",
+      "code": "vsi-tw"
+    },
+    {
+      "name": "VSI W",
+      "url": "/bizerba/vsi-w/parts",
+      "code": "vsi-w"
+    },
+    {
+      "name": "XC 100",
+      "url": "/bizerba/xc-100/parts",
+      "code": "xc-100"
+    }
+  ],
+  "total_models": 21,
+  "cached_at": "2025-08-14T17:55:09.327408"
+}

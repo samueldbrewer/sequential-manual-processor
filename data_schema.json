@@ -1,0 +1,97 @@
+{
+  "data_schema": {
+    "manufacturers": {
+      "description": "List of all equipment manufacturers",
+      "source": "https://www.partstown.com/api/manufacturers/",
+      "cache_strategy": "Static - scraped once, cached long-term",
+      "structure": {
+        "code": "string - Unique manufacturer ID (e.g., 'PT_CAT1095')",
+        "name": "string - Display name (e.g., 'Henny Penny')",
+        "uri": "string - URL slug (e.g., 'henny-penny')",
+        "model_count": "number - Total models available (e.g., 291)"
+      },
+      "example": {
+        "code": "PT_CAT1095",
+        "name": "Henny Penny",
+        "uri": "henny-penny",
+        "model_count": 291
+      },
+      "count": "~489 manufacturers"
+    },
+
+    "models": {
+      "description": "Equipment models for each manufacturer",
+      "source": "https://www.partstown.com/{manufacturer_uri}/parts + pagination",
+      "cache_strategy": "Static - scraped once per manufacturer, cached long-term",
+      "structure": {
+        "name": "string - Model name/number (e.g., '500PVS')",
+        "code": "string - URL-safe model code (e.g., '500pvs')", 
+        "url": "string - Parts page URL (e.g., '/henny-penny/500pvs/parts')"
+      },
+      "example": {
+        "name": "500PVS",
+        "code": "500pvs", 
+        "url": "/henny-penny/500pvs/parts"
+      },
+      "count": "Varies by manufacturer (0-291+ models)"
+    },
+
+    "manuals": {
+      "description": "Manual download links for specific models",
+      "source": "https://www.partstown.com{model.url} -> scrape for /modelManual/ links",
+      "cache_strategy": "LIVE - fetched on-demand when user selects model",
+      "structure": {
+        "type": "string - Manual type code (spm, iom, pm, wd, sm)",
+        "title": "string - Human readable type (Service & Parts Manual, etc.)",
+        "url": "string - Download URL (/modelManual/FILENAME_TYPE.pdf)",
+        "full_url": "string - Complete URL (https://www.partstown.com/modelManual/...)"
+      },
+      "example": {
+        "type": "spm",
+        "title": "Service & Parts Manual",
+        "url": "/modelManual/HEN-PF500_spm.pdf?v=1655476514087",
+        "full_url": "https://www.partstown.com/modelManual/HEN-PF500_spm.pdf?v=1655476514087"
+      },
+      "manual_types": {
+        "spm": "Service & Parts Manual",
+        "iom": "Installation & Operation Manual", 
+        "pm": "Parts Manual",
+        "wd": "Wiring Diagrams",
+        "sm": "Service Manual"
+      },
+      "count": "0-5 manuals per model"
+    }
+  },
+
+  "api_endpoints": {
+    "cached_endpoints": {
+      "GET /api/manufacturers": "Returns all manufacturers from cache",
+      "GET /api/manufacturers/{id}/models": "Returns models for manufacturer from cache"
+    },
+    "live_endpoints": {
+      "GET /api/manufacturers/{id}/models/{model_id}/manuals": "Scrapes and returns manual links",
+      "GET /api/manual-metadata?url={pdf_url}": "Downloads PDF, generates preview, extracts metadata"
+    }
+  },
+
+  "cache_files": {
+    "manufacturers.json": "All manufacturer data",
+    "models/{manufacturer_code}.json": "Models for specific manufacturer",
+    "cache_timestamp.json": "When cache was last updated"
+  },
+
+  "scraping_approach": {
+    "phase_1_cache_build": {
+      "step_1": "Scrape all 489 manufacturers",
+      "step_2": "For each manufacturer, scrape all models via pagination",
+      "step_3": "Save to JSON cache files",
+      "estimated_time": "2-6 hours for complete scrape"
+    },
+    "phase_2_live_serving": {
+      "manufacturers": "Serve from cache instantly",
+      "models": "Serve from cache instantly", 
+      "manuals": "Scrape live when requested",
+      "pdfs": "Download and process live when requested"
+    }
+  }
+}

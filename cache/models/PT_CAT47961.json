@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Meiko",
+    "code": "PT_CAT47961",
+    "uri": "meiko"
+  },
+  "models": [
+    {
+      "name": "B-US 23X SERIES",
+      "url": "/meiko/b-us-23x-series/parts",
+      "code": "b-us-23x-series"
+    },
+    {
+      "name": "B-US 28X SERIES",
+      "url": "/meiko/b-us-28x-series/parts",
+      "code": "b-us-28x-series"
+    },
+    {
+      "name": "DV120-2",
+      "url": "/meiko/dv120-2/parts",
+      "code": "dv120-2"
+    },
+    {
+      "name": "DV120-2T",
+      "url": "/meiko/dv120-2t/parts",
+      "code": "dv120-2t"
+    },
+    {
+      "name": "DV200-2",
+      "url": "/meiko/dv200-2/parts",
+      "code": "dv200-2"
+    },
+    {
+      "name": "DV270-2",
+      "url": "/meiko/dv270-2/parts",
+      "code": "dv270-2"
+    },
+    {
+      "name": "DV80-2",
+      "url": "/meiko/dv80-2/parts",
+      "code": "dv80-2"
+    },
+    {
+      "name": "DV80-2T",
+      "url": "/meiko/dv80-2t/parts",
+      "code": "dv80-2t"
+    },
+    {
+      "name": "FV130-2",
+      "url": "/meiko/fv130-2/parts",
+      "code": "fv130-2"
+    },
+    {
+      "name": "FV250-2",
+      "url": "/meiko/fv250-2/parts",
+      "code": "fv250-2"
+    },
+    {
+      "name": "FV40-2",
+      "url": "/meiko/fv40-2/parts",
+      "code": "fv40-2"
+    },
+    {
+      "name": "FV40-2G",
+      "url": "/meiko/fv40-2g/parts",
+      "code": "fv40-2g"
+    },
+    {
+      "name": "K-100E",
+      "url": "/meiko/k-100e/parts",
+      "code": "k-100e"
+    },
+    {
+      "name": "K-100ET",
+      "url": "/meiko/k-100et/parts",
+      "code": "k-100et"
+    },
+    {
+      "name": "K-100S",
+      "url": "/meiko/k-100s/parts",
+      "code": "k-100s"
+    },
+    {
+      "name": "K-100ST",
+      "url": "/meiko/k-100st/parts",
+      "code": "k-100st"
+    },
+    {
+      "name": "K-200",
+      "url": "/meiko/k-200/parts",
+      "code": "k-200"
+    },
+    {
+      "name": "K-200 LPW",
+      "url": "/meiko/k-200-lpw/parts",
+      "code": "k-200-lpw"
+    },
+    {
+      "name": "K-200 PW",
+      "url": "/meiko/k-200-pw/parts",
+      "code": "k-200-pw"
+    },
+    {
+      "name": "K-400",
+      "url": "/meiko/k-400/parts",
+      "code": "k-400"
+    },
+    {
+      "name": "K-400 LPW",
+      "url": "/meiko/k-400-lpw/parts",
+      "code": "k-400-lpw"
+    },
+    {
+      "name": "K-400 PW",
+      "url": "/meiko/k-400-pw/parts",
+      "code": "k-400-pw"
+    },
+    {
+      "name": "K-44E",
+      "url": "/meiko/k-44e/parts",
+      "code": "k-44e"
+    },
+    {
+      "name": "K-44ET",
+      "url": "/meiko/k-44et/parts",
+      "code": "k-44et"
+    },
+    {
+      "name": "K-44S",
+      "url": "/meiko/k-44s/parts",
+      "code": "k-44s"
+    },
+    {
+      "name": "K-44ST",
+      "url": "/meiko/k-44st/parts",
+      "code": "k-44st"
+    },
+    {
+      "name": "K-54E",
+      "url": "/meiko/k-54e/parts",
+      "code": "k-54e"
+    },
+    {
+      "name": "K-54ET",
+      "url": "/meiko/k-54et/parts",
+      "code": "k-54et"
+    },
+    {
+      "name": "K-54S",
+      "url": "/meiko/k-54s/parts",
+      "code": "k-54s"
+    },
+    {
+      "name": "K-54ST",
+      "url": "/meiko/k-54st/parts",
+      "code": "k-54st"
+    },
+    {
+      "name": "K-64E",
+      "url": "/meiko/k-64e/parts",
+      "code": "k-64e"
+    },
+    {
+      "name": "K-64ET",
+      "url": "/meiko/k-64et/parts",
+      "code": "k-64et"
+    },
+    {
+      "name": "K-64S",
+      "url": "/meiko/k-64s/parts",
+      "code": "k-64s"
+    },
+    {
+      "name": "K-64ST",
+      "url": "/meiko/k-64st/parts",
+      "code": "k-64st"
+    },
+    {
+      "name": "K-66E",
+      "url": "/meiko/k-66e/parts",
+      "code": "k-66e"
+    },
+    {
+      "name": "K-66ET",
+      "url": "/meiko/k-66et/parts",
+      "code": "k-66et"
+    },
+    {
+      "name": "K-66S",
+      "url": "/meiko/k-66s/parts",
+      "code": "k-66s"
+    },
+    {
+      "name": "K-66ST",
+      "url": "/meiko/k-66st/parts",
+      "code": "k-66st"
+    },
+    {
+      "name": "K-76E",
+      "url": "/meiko/k-76e/parts",
+      "code": "k-76e"
+    },
+    {
+      "name": "K-76ET",
+      "url": "/meiko/k-76et/parts",
+      "code": "k-76et"
+    },
+    {
+      "name": "K-76S",
+      "url": "/meiko/k-76s/parts",
+      "code": "k-76s"
+    },
+    {
+      "name": "K-76ST",
+      "url": "/meiko/k-76st/parts",
+      "code": "k-76st"
+    },
+    {
+      "name": "K-80E",
+      "url": "/meiko/k-80e/parts",
+      "code": "k-80e"
+    },
+    {
+      "name": "K-80ET",
+      "url": "/meiko/k-80et/parts",
+      "code": "k-80et"
+    },
+    {
+      "name": "K-80S",
+      "url": "/meiko/k-80s/parts",
+      "code": "k-80s"
+    },
+    {
+      "name": "K-80ST",
+      "url": "/meiko/k-80st/parts",
+      "code": "k-80st"
+    },
+    {
+      "name": "K-86E",
+      "url": "/meiko/k-86e/parts",
+      "code": "k-86e"
+    },
+    {
+      "name": "K-86ET",
+      "url": "/meiko/k-86et/parts",
+      "code": "k-86et"
+    },
+    {
+      "name": "K-86S",
+      "url": "/meiko/k-86s/parts",
+      "code": "k-86s"
+    },
+    {
+      "name": "K-86ST",
+      "url": "/meiko/k-86st/parts",
+      "code": "k-86st"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:29:16.242926"
+}

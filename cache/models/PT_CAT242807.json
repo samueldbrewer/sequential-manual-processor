@@ -1,0 +1,46 @@
+{
+  "manufacturer": {
+    "name": "Concordia Beverage Systems",
+    "code": "PT_CAT242807",
+    "uri": "concordia-beverage-systems"
+  },
+  "models": [
+    {
+      "name": "Ascent",
+      "url": "/concordia-beverage-systems/ascent/parts",
+      "code": "ascent"
+    },
+    {
+      "name": "Ascent Touch",
+      "url": "/concordia-beverage-systems/ascent-touch/parts",
+      "code": "ascent-touch"
+    },
+    {
+      "name": "Integra 0",
+      "url": "/concordia-beverage-systems/integra-0/parts",
+      "code": "integra-0"
+    },
+    {
+      "name": "Integra 1",
+      "url": "/concordia-beverage-systems/integra-1/parts",
+      "code": "integra-1"
+    },
+    {
+      "name": "Integra 4",
+      "url": "/concordia-beverage-systems/integra-4/parts",
+      "code": "integra-4"
+    },
+    {
+      "name": "Xpress 0",
+      "url": "/concordia-beverage-systems/xpress-0/parts",
+      "code": "xpress-0"
+    },
+    {
+      "name": "Xpress 6",
+      "url": "/concordia-beverage-systems/xpress-6/parts",
+      "code": "xpress-6"
+    }
+  ],
+  "total_models": 7,
+  "cached_at": "2025-08-14T18:11:57.948406"
+}

@@ -1,0 +1,101 @@
+{
+  "manufacturer": {
+    "name": "Kintera",
+    "code": "PT_CAT349008",
+    "uri": "kintera"
+  },
+  "models": [
+    {
+      "name": "K2G24",
+      "url": "/kintera/k2g24/parts",
+      "code": "k2g24"
+    },
+    {
+      "name": "K6G24",
+      "url": "/kintera/k6g24/parts",
+      "code": "k6g24"
+    },
+    {
+      "name": "KCO-1",
+      "url": "/kintera/kco-1/parts",
+      "code": "kco-1"
+    },
+    {
+      "name": "KF3-N",
+      "url": "/kintera/kf3-n/parts",
+      "code": "kf3-n"
+    },
+    {
+      "name": "KF3-P",
+      "url": "/kintera/kf3-p/parts",
+      "code": "kf3-p"
+    },
+    {
+      "name": "KF4-N",
+      "url": "/kintera/kf4-n/parts",
+      "code": "kf4-n"
+    },
+    {
+      "name": "KF4-P",
+      "url": "/kintera/kf4-p/parts",
+      "code": "kf4-p"
+    },
+    {
+      "name": "KF5-N",
+      "url": "/kintera/kf5-n/parts",
+      "code": "kf5-n"
+    },
+    {
+      "name": "KF5-P",
+      "url": "/kintera/kf5-p/parts",
+      "code": "kf5-p"
+    },
+    {
+      "name": "KGR24M",
+      "url": "/kintera/kgr24m/parts",
+      "code": "kgr24m"
+    },
+    {
+      "name": "KGR24T",
+      "url": "/kintera/kgr24t/parts",
+      "code": "kgr24t"
+    },
+    {
+      "name": "KGR36M",
+      "url": "/kintera/kgr36m/parts",
+      "code": "kgr36m"
+    },
+    {
+      "name": "KGR36T",
+      "url": "/kintera/kgr36t/parts",
+      "code": "kgr36t"
+    },
+    {
+      "name": "KGR48M",
+      "url": "/kintera/kgr48m/parts",
+      "code": "kgr48m"
+    },
+    {
+      "name": "KGR48T",
+      "url": "/kintera/kgr48t/parts",
+      "code": "kgr48t"
+    },
+    {
+      "name": "KR10",
+      "url": "/kintera/kr10/parts",
+      "code": "kr10"
+    },
+    {
+      "name": "KR4",
+      "url": "/kintera/kr4/parts",
+      "code": "kr4"
+    },
+    {
+      "name": "KR6",
+      "url": "/kintera/kr6/parts",
+      "code": "kr6"
+    }
+  ],
+  "total_models": 18,
+  "cached_at": "2025-08-14T19:13:49.399953"
+}

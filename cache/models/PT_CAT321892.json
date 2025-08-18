@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Hardt",
+    "code": "PT_CAT321892",
+    "uri": "hardt"
+  },
+  "models": [
+    {
+      "name": "Blaze",
+      "url": "/hardt/blaze/parts",
+      "code": "blaze"
+    },
+    {
+      "name": "Inferno 3500",
+      "url": "/hardt/inferno-3500/parts",
+      "code": "inferno-3500"
+    },
+    {
+      "name": "Inferno 4500",
+      "url": "/hardt/inferno-4500/parts",
+      "code": "inferno-4500"
+    },
+    {
+      "name": "Inferno GC-4000",
+      "url": "/hardt/inferno-gc-4000/parts",
+      "code": "inferno-gc-4000"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T18:51:45.319740"
+}

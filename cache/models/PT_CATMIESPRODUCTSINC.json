@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Mies",
+    "code": "PT_CATMIESPRODUCTSINC",
+    "uri": "mies"
+  },
+  "models": [
+    {
+      "name": "G100",
+      "url": "/mies/g100/parts",
+      "code": "g100"
+    },
+    {
+      "name": "G50",
+      "url": "/mies/g50/parts",
+      "code": "g50"
+    },
+    {
+      "name": "G80",
+      "url": "/mies/g80/parts",
+      "code": "g80"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T19:32:50.009540"
+}

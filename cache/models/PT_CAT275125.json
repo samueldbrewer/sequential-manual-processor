@@ -1,0 +1,71 @@
+{
+  "manufacturer": {
+    "name": "Dexter",
+    "code": "PT_CAT275125",
+    "uri": "dexter"
+  },
+  "models": [
+    {
+      "name": "T-1200",
+      "url": "/dexter/t-1200/parts",
+      "code": "t-1200"
+    },
+    {
+      "name": "T-1450 Express",
+      "url": "/dexter/t-1450-express/parts",
+      "code": "t-1450-express"
+    },
+    {
+      "name": "T-300",
+      "url": "/dexter/t-300/parts",
+      "code": "t-300"
+    },
+    {
+      "name": "T-30x2 Express",
+      "url": "/dexter/t-30x2-express/parts",
+      "code": "t-30x2-express"
+    },
+    {
+      "name": "T-350 Express",
+      "url": "/dexter/t-350-express/parts",
+      "code": "t-350-express"
+    },
+    {
+      "name": "T-400",
+      "url": "/dexter/t-400/parts",
+      "code": "t-400"
+    },
+    {
+      "name": "T-450 Express",
+      "url": "/dexter/t-450-express/parts",
+      "code": "t-450-express"
+    },
+    {
+      "name": "T-50x2 Express",
+      "url": "/dexter/t-50x2-express/parts",
+      "code": "t-50x2-express"
+    },
+    {
+      "name": "T-600",
+      "url": "/dexter/t-600/parts",
+      "code": "t-600"
+    },
+    {
+      "name": "T-750 Express",
+      "url": "/dexter/t-750-express/parts",
+      "code": "t-750-express"
+    },
+    {
+      "name": "T-900",
+      "url": "/dexter/t-900/parts",
+      "code": "t-900"
+    },
+    {
+      "name": "T-950 Express",
+      "url": "/dexter/t-950-express/parts",
+      "code": "t-950-express"
+    }
+  ],
+  "total_models": 12,
+  "cached_at": "2025-08-14T18:21:43.282869"
+}

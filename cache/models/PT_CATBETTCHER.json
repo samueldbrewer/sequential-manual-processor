@@ -1,0 +1,41 @@
+{
+  "manufacturer": {
+    "name": "Bettcher",
+    "code": "PT_CATBETTCHER",
+    "uri": "bettcher"
+  },
+  "models": [
+    {
+      "name": "ACS",
+      "url": "/bettcher/acs/parts",
+      "code": "acs"
+    },
+    {
+      "name": "BB-2",
+      "url": "/bettcher/bb-2/parts",
+      "code": "bb-2"
+    },
+    {
+      "name": "BB1",
+      "url": "/bettcher/bb1/parts",
+      "code": "bb1"
+    },
+    {
+      "name": "C1",
+      "url": "/bettcher/c1/parts",
+      "code": "c1"
+    },
+    {
+      "name": "SBB (2008-2015)",
+      "url": "/bettcher/sbb-2008-2015/parts",
+      "code": "sbb-2008-2015"
+    },
+    {
+      "name": "Whizard Power Knife",
+      "url": "/bettcher/whizard-power-knife/parts",
+      "code": "whizard-power-knife"
+    }
+  ],
+  "total_models": 6,
+  "cached_at": "2025-08-14T17:53:47.121875"
+}

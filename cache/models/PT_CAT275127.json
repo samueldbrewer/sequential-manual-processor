@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Primus Laundry",
+    "code": "PT_CAT275127",
+    "uri": "primus-laundry"
+  },
+  "models": [
+    {
+      "name": "P6",
+      "url": "/primus-laundry/p6/parts",
+      "code": "p6"
+    },
+    {
+      "name": "P7",
+      "url": "/primus-laundry/p7/parts",
+      "code": "p7"
+    },
+    {
+      "name": "PA025E",
+      "url": "/primus-laundry/pa025e/parts",
+      "code": "pa025e"
+    },
+    {
+      "name": "PA025S",
+      "url": "/primus-laundry/pa025s/parts",
+      "code": "pa025s"
+    },
+    {
+      "name": "PA030E",
+      "url": "/primus-laundry/pa030e/parts",
+      "code": "pa030e"
+    },
+    {
+      "name": "PA030S",
+      "url": "/primus-laundry/pa030s/parts",
+      "code": "pa030s"
+    },
+    {
+      "name": "PA035E",
+      "url": "/primus-laundry/pa035e/parts",
+      "code": "pa035e"
+    },
+    {
+      "name": "PA035M",
+      "url": "/primus-laundry/pa035m/parts",
+      "code": "pa035m"
+    },
+    {
+      "name": "PA035S",
+      "url": "/primus-laundry/pa035s/parts",
+      "code": "pa035s"
+    },
+    {
+      "name": "PA050E",
+      "url": "/primus-laundry/pa050e/parts",
+      "code": "pa050e"
+    },
+    {
+      "name": "PA050S",
+      "url": "/primus-laundry/pa050s/parts",
+      "code": "pa050s"
+    },
+    {
+      "name": "PA055E",
+      "url": "/primus-laundry/pa055e/parts",
+      "code": "pa055e"
+    },
+    {
+      "name": "PA055L",
+      "url": "/primus-laundry/pa055l/parts",
+      "code": "pa055l"
+    },
+    {
+      "name": "PA055N",
+      "url": "/primus-laundry/pa055n/parts",
+      "code": "pa055n"
+    },
+    {
+      "name": "PA055S",
+      "url": "/primus-laundry/pa055s/parts",
+      "code": "pa055s"
+    },
+    {
+      "name": "PA075E",
+      "url": "/primus-laundry/pa075e/parts",
+      "code": "pa075e"
+    },
+    {
+      "name": "PA075M",
+      "url": "/primus-laundry/pa075m/parts",
+      "code": "pa075m"
+    },
+    {
+      "name": "PA075S",
+      "url": "/primus-laundry/pa075s/parts",
+      "code": "pa075s"
+    },
+    {
+      "name": "PA120E",
+      "url": "/primus-laundry/pa120e/parts",
+      "code": "pa120e"
+    },
+    {
+      "name": "PA120S",
+      "url": "/primus-laundry/pa120s/parts",
+      "code": "pa120s"
+    },
+    {
+      "name": "PA120_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa120-x-control-plus/parts",
+      "code": "pa120-x-control-plus"
+    },
+    {
+      "name": "PA170S",
+      "url": "/primus-laundry/pa170s/parts",
+      "code": "pa170s"
+    },
+    {
+      "name": "PA200L",
+      "url": "/primus-laundry/pa200l/parts",
+      "code": "pa200l"
+    },
+    {
+      "name": "PA200N",
+      "url": "/primus-laundry/pa200n/parts",
+      "code": "pa200n"
+    },
+    {
+      "name": "PA200S",
+      "url": "/primus-laundry/pa200s/parts",
+      "code": "pa200s"
+    },
+    {
+      "name": "PA20_X_CONTROL",
+      "url": "/primus-laundry/pa20-x-control/parts",
+      "code": "pa20-x-control"
+    },
+    {
+      "name": "PA20_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa20-x-control-plus/parts",
+      "code": "pa20-x-control-plus"
+    },
+    {
+      "name": "PA25_X_CONTROL",
+      "url": "/primus-laundry/pa25-x-control/parts",
+      "code": "pa25-x-control"
+    },
+    {
+      "name": "PA25_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa25-x-control-plus/parts",
+      "code": "pa25-x-control-plus"
+    },
+    {
+      "name": "PA30_X_CONTROL",
+      "url": "/primus-laundry/pa30-x-control/parts",
+      "code": "pa30-x-control"
+    },
+    {
+      "name": "PA30_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa30-x-control-plus/parts",
+      "code": "pa30-x-control-plus"
+    },
+    {
+      "name": "PA40_X_CONTROL",
+      "url": "/primus-laundry/pa40-x-control/parts",
+      "code": "pa40-x-control"
+    },
+    {
+      "name": "PA40_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa40-x-control-plus/parts",
+      "code": "pa40-x-control-plus"
+    },
+    {
+      "name": "PA55_X_CONTROL",
+      "url": "/primus-laundry/pa55-x-control/parts",
+      "code": "pa55-x-control"
+    },
+    {
+      "name": "PA55_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa55-x-control-plus/parts",
+      "code": "pa55-x-control-plus"
+    },
+    {
+      "name": "PA70_X_CONTROL",
+      "url": "/primus-laundry/pa70-x-control/parts",
+      "code": "pa70-x-control"
+    },
+    {
+      "name": "PA70_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa70-x-control-plus/parts",
+      "code": "pa70-x-control-plus"
+    },
+    {
+      "name": "PA80_X_CONTROL",
+      "url": "/primus-laundry/pa80-x-control/parts",
+      "code": "pa80-x-control"
+    },
+    {
+      "name": "PA80_X_CONTROL_PLUS",
+      "url": "/primus-laundry/pa80-x-control-plus/parts",
+      "code": "pa80-x-control-plus"
+    },
+    {
+      "name": "PAC080T",
+      "url": "/primus-laundry/pac080t/parts",
+      "code": "pac080t"
+    },
+    {
+      "name": "PAC080X",
+      "url": "/primus-laundry/pac080x/parts",
+      "code": "pac080x"
+    },
+    {
+      "name": "PAC105T",
+      "url": "/primus-laundry/pac105t/parts",
+      "code": "pac105t"
+    },
+    {
+      "name": "PAC105X",
+      "url": "/primus-laundry/pac105x/parts",
+      "code": "pac105x"
+    },
+    {
+      "name": "PAC135T",
+      "url": "/primus-laundry/pac135t/parts",
+      "code": "pac135t"
+    },
+    {
+      "name": "PAC135X",
+      "url": "/primus-laundry/pac135x/parts",
+      "code": "pac135x"
+    },
+    {
+      "name": "PAC180T",
+      "url": "/primus-laundry/pac180t/parts",
+      "code": "pac180t"
+    },
+    {
+      "name": "PAC180X",
+      "url": "/primus-laundry/pac180x/parts",
+      "code": "pac180x"
+    },
+    {
+      "name": "PAC240T",
+      "url": "/primus-laundry/pac240t/parts",
+      "code": "pac240t"
+    },
+    {
+      "name": "PAC240X",
+      "url": "/primus-laundry/pac240x/parts",
+      "code": "pac240x"
+    },
+    {
+      "name": "PAC280T",
+      "url": "/primus-laundry/pac280t/parts",
+      "code": "pac280t"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:52:25.499259"
+}

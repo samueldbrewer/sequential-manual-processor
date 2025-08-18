@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "LBC Bakery Equipment",
+    "code": "PT_CAT1128",
+    "uri": "lbc-bakery-equipment"
+  },
+  "models": [
+    {
+      "name": "LCR5",
+      "url": "/lbc-bakery-equipment/lcr5/parts",
+      "code": "lcr5"
+    },
+    {
+      "name": "LCR7",
+      "url": "/lbc-bakery-equipment/lcr7/parts",
+      "code": "lcr7"
+    },
+    {
+      "name": "LCR7W",
+      "url": "/lbc-bakery-equipment/lcr7w/parts",
+      "code": "lcr7w"
+    },
+    {
+      "name": "LMO Max-E",
+      "url": "/lbc-bakery-equipment/lmo-max-e/parts",
+      "code": "lmo-max-e"
+    },
+    {
+      "name": "LMO Max-G",
+      "url": "/lbc-bakery-equipment/lmo-max-g/parts",
+      "code": "lmo-max-g"
+    },
+    {
+      "name": "LMO-E10-208-P",
+      "url": "/lbc-bakery-equipment/lmo-e10-208-p/parts",
+      "code": "lmo-e10-208-p"
+    },
+    {
+      "name": "LMO-E10-208-S",
+      "url": "/lbc-bakery-equipment/lmo-e10-208-s/parts",
+      "code": "lmo-e10-208-s"
+    },
+    {
+      "name": "LMO-E10-240-P",
+      "url": "/lbc-bakery-equipment/lmo-e10-240-p/parts",
+      "code": "lmo-e10-240-p"
+    },
+    {
+      "name": "LMO-E10-240-S",
+      "url": "/lbc-bakery-equipment/lmo-e10-240-s/parts",
+      "code": "lmo-e10-240-s"
+    },
+    {
+      "name": "LMO-E10-480-P",
+      "url": "/lbc-bakery-equipment/lmo-e10-480-p/parts",
+      "code": "lmo-e10-480-p"
+    },
+    {
+      "name": "LMO-E10-480-S",
+      "url": "/lbc-bakery-equipment/lmo-e10-480-s/parts",
+      "code": "lmo-e10-480-s"
+    },
+    {
+      "name": "LMO-E6-208-P",
+      "url": "/lbc-bakery-equipment/lmo-e6-208-p/parts",
+      "code": "lmo-e6-208-p"
+    },
+    {
+      "name": "LMO-E6-208-S",
+      "url": "/lbc-bakery-equipment/lmo-e6-208-s/parts",
+      "code": "lmo-e6-208-s"
+    },
+    {
+      "name": "LMO-E6-240-P",
+      "url": "/lbc-bakery-equipment/lmo-e6-240-p/parts",
+      "code": "lmo-e6-240-p"
+    },
+    {
+      "name": "LMO-E6-240-S",
+      "url": "/lbc-bakery-equipment/lmo-e6-240-s/parts",
+      "code": "lmo-e6-240-s"
+    },
+    {
+      "name": "LMO-E6-480-P",
+      "url": "/lbc-bakery-equipment/lmo-e6-480-p/parts",
+      "code": "lmo-e6-480-p"
+    },
+    {
+      "name": "LMO-E6-480-S",
+      "url": "/lbc-bakery-equipment/lmo-e6-480-s/parts",
+      "code": "lmo-e6-480-s"
+    },
+    {
+      "name": "LMO-E8-208-P",
+      "url": "/lbc-bakery-equipment/lmo-e8-208-p/parts",
+      "code": "lmo-e8-208-p"
+    },
+    {
+      "name": "LMO-E8-208-S",
+      "url": "/lbc-bakery-equipment/lmo-e8-208-s/parts",
+      "code": "lmo-e8-208-s"
+    },
+    {
+      "name": "LMO-E8-240-P",
+      "url": "/lbc-bakery-equipment/lmo-e8-240-p/parts",
+      "code": "lmo-e8-240-p"
+    },
+    {
+      "name": "LMO-E8-240-S",
+      "url": "/lbc-bakery-equipment/lmo-e8-240-s/parts",
+      "code": "lmo-e8-240-s"
+    },
+    {
+      "name": "LMO-E8-480-P",
+      "url": "/lbc-bakery-equipment/lmo-e8-480-p/parts",
+      "code": "lmo-e8-480-p"
+    },
+    {
+      "name": "LMO-E8-480-S",
+      "url": "/lbc-bakery-equipment/lmo-e8-480-s/parts",
+      "code": "lmo-e8-480-s"
+    },
+    {
+      "name": "LMO-G10-208-P",
+      "url": "/lbc-bakery-equipment/lmo-g10-208-p/parts",
+      "code": "lmo-g10-208-p"
+    },
+    {
+      "name": "LMO-G10-208-S",
+      "url": "/lbc-bakery-equipment/lmo-g10-208-s/parts",
+      "code": "lmo-g10-208-s"
+    },
+    {
+      "name": "LMO-G10-480-P",
+      "url": "/lbc-bakery-equipment/lmo-g10-480-p/parts",
+      "code": "lmo-g10-480-p"
+    },
+    {
+      "name": "LMO-G10-480-S",
+      "url": "/lbc-bakery-equipment/lmo-g10-480-s/parts",
+      "code": "lmo-g10-480-s"
+    },
+    {
+      "name": "LMO-G6-208-P",
+      "url": "/lbc-bakery-equipment/lmo-g6-208-p/parts",
+      "code": "lmo-g6-208-p"
+    },
+    {
+      "name": "LMO-G6-208-S",
+      "url": "/lbc-bakery-equipment/lmo-g6-208-s/parts",
+      "code": "lmo-g6-208-s"
+    },
+    {
+      "name": "LMO-G6-240-P",
+      "url": "/lbc-bakery-equipment/lmo-g6-240-p/parts",
+      "code": "lmo-g6-240-p"
+    },
+    {
+      "name": "LMO-G6-240-S",
+      "url": "/lbc-bakery-equipment/lmo-g6-240-s/parts",
+      "code": "lmo-g6-240-s"
+    },
+    {
+      "name": "LMO-G6-480-P",
+      "url": "/lbc-bakery-equipment/lmo-g6-480-p/parts",
+      "code": "lmo-g6-480-p"
+    },
+    {
+      "name": "LMO-G6-480-S",
+      "url": "/lbc-bakery-equipment/lmo-g6-480-s/parts",
+      "code": "lmo-g6-480-s"
+    },
+    {
+      "name": "LMO-G8-208-P",
+      "url": "/lbc-bakery-equipment/lmo-g8-208-p/parts",
+      "code": "lmo-g8-208-p"
+    },
+    {
+      "name": "LMO-G8-208-S",
+      "url": "/lbc-bakery-equipment/lmo-g8-208-s/parts",
+      "code": "lmo-g8-208-s"
+    },
+    {
+      "name": "LMO-G8-240-P",
+      "url": "/lbc-bakery-equipment/lmo-g8-240-p/parts",
+      "code": "lmo-g8-240-p"
+    },
+    {
+      "name": "LMO-G8-240-S",
+      "url": "/lbc-bakery-equipment/lmo-g8-240-s/parts",
+      "code": "lmo-g8-240-s"
+    },
+    {
+      "name": "LMO-G8-480-P",
+      "url": "/lbc-bakery-equipment/lmo-g8-480-p/parts",
+      "code": "lmo-g8-480-p"
+    },
+    {
+      "name": "LMO-G8-480-S",
+      "url": "/lbc-bakery-equipment/lmo-g8-480-s/parts",
+      "code": "lmo-g8-480-s"
+    },
+    {
+      "name": "LMO-Max-E",
+      "url": "/lbc-bakery-equipment/lmo-max-e/parts",
+      "code": "lmo-max-e"
+    },
+    {
+      "name": "LMO-Max-G",
+      "url": "/lbc-bakery-equipment/lmo-max-g/parts",
+      "code": "lmo-max-g"
+    },
+    {
+      "name": "LMO-P",
+      "url": "/lbc-bakery-equipment/lmo-p/parts",
+      "code": "lmo-p"
+    },
+    {
+      "name": "LPC-19-E",
+      "url": "/lbc-bakery-equipment/lpc-19-e/parts",
+      "code": "lpc-19-e"
+    },
+    {
+      "name": "LPC-19-G",
+      "url": "/lbc-bakery-equipment/lpc-19-g/parts",
+      "code": "lpc-19-g"
+    },
+    {
+      "name": "LPC-31-E",
+      "url": "/lbc-bakery-equipment/lpc-31-e/parts",
+      "code": "lpc-31-e"
+    },
+    {
+      "name": "LPC-31-G",
+      "url": "/lbc-bakery-equipment/lpc-31-g/parts",
+      "code": "lpc-31-g"
+    },
+    {
+      "name": "LRC7",
+      "url": "/lbc-bakery-equipment/lrc7/parts",
+      "code": "lrc7"
+    },
+    {
+      "name": "LRO-1E5",
+      "url": "/lbc-bakery-equipment/lro-1e5/parts",
+      "code": "lro-1e5"
+    },
+    {
+      "name": "LRO-1G5",
+      "url": "/lbc-bakery-equipment/lro-1g5/parts",
+      "code": "lro-1g5"
+    },
+    {
+      "name": "LRO-2E5",
+      "url": "/lbc-bakery-equipment/lro-2e5/parts",
+      "code": "lro-2e5"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:16:47.644052"
+}

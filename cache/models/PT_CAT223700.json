@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Empire Bakery Equipment",
+    "code": "PT_CAT223700",
+    "uri": "empire-bakery-equipment"
+  },
+  "models": [
+    {
+      "name": "Master Mix 130",
+      "url": "/empire-bakery-equipment/master-mix-130/parts",
+      "code": "master-mix-130"
+    },
+    {
+      "name": "Master Mix 160",
+      "url": "/empire-bakery-equipment/master-mix-160/parts",
+      "code": "master-mix-160"
+    },
+    {
+      "name": "Master Mix 200",
+      "url": "/empire-bakery-equipment/master-mix-200/parts",
+      "code": "master-mix-200"
+    },
+    {
+      "name": "Master Mix 250",
+      "url": "/empire-bakery-equipment/master-mix-250/parts",
+      "code": "master-mix-250"
+    },
+    {
+      "name": "Master Mix 300",
+      "url": "/empire-bakery-equipment/master-mix-300/parts",
+      "code": "master-mix-300"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T18:28:26.268310"
+}

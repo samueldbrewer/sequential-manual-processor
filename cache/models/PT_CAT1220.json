@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT1220",
+    "name": "Whirlpool",
+    "uri": "whirlpool"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:57:35.938923",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

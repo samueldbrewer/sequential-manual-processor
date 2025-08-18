@@ -1,0 +1,146 @@
+{
+  "manufacturer": {
+    "name": "Hickory",
+    "code": "PT_CAT222957",
+    "uri": "hickory"
+  },
+  "models": [
+    {
+      "name": "CHURRASCO 2FT",
+      "url": "/hickory/churrasco-2ft/parts",
+      "code": "churrasco-2ft"
+    },
+    {
+      "name": "CHURRASCO 4FT",
+      "url": "/hickory/churrasco-4ft/parts",
+      "code": "churrasco-4ft"
+    },
+    {
+      "name": "CHURRASCO 6FT",
+      "url": "/hickory/churrasco-6ft/parts",
+      "code": "churrasco-6ft"
+    },
+    {
+      "name": "DW-40",
+      "url": "/hickory/dw-40/parts",
+      "code": "dw-40"
+    },
+    {
+      "name": "N/1.9E",
+      "url": "/hickory/n-1-9e/parts",
+      "code": "n-1-9e"
+    },
+    {
+      "name": "N/14.5E",
+      "url": "/hickory/n-14-5e/parts",
+      "code": "n-14-5e"
+    },
+    {
+      "name": "N/14G",
+      "url": "/hickory/n-14g/parts",
+      "code": "n-14g"
+    },
+    {
+      "name": "N/3E",
+      "url": "/hickory/n-3e/parts",
+      "code": "n-3e"
+    },
+    {
+      "name": "N/3ES",
+      "url": "/hickory/n-3es/parts",
+      "code": "n-3es"
+    },
+    {
+      "name": "N/3GS",
+      "url": "/hickory/n-3gs/parts",
+      "code": "n-3gs"
+    },
+    {
+      "name": "N/45WDG",
+      "url": "/hickory/n-45wdg/parts",
+      "code": "n-45wdg"
+    },
+    {
+      "name": "N/45WDG PLUS",
+      "url": "/hickory/n-45wdg-plus/parts",
+      "code": "n-45wdg-plus"
+    },
+    {
+      "name": "N/45WDG-Plus",
+      "url": "/hickory/n-45wdg-plus/parts",
+      "code": "n-45wdg-plus"
+    },
+    {
+      "name": "N/5.5E",
+      "url": "/hickory/n-5-5e/parts",
+      "code": "n-5-5e"
+    },
+    {
+      "name": "N/5.5G",
+      "url": "/hickory/n-5-5g/parts",
+      "code": "n-5-5g"
+    },
+    {
+      "name": "N/5.7G",
+      "url": "/hickory/n-5-7g/parts",
+      "code": "n-5-7g"
+    },
+    {
+      "name": "N/5E",
+      "url": "/hickory/n-5e/parts",
+      "code": "n-5e"
+    },
+    {
+      "name": "N/5G",
+      "url": "/hickory/n-5g/parts",
+      "code": "n-5g"
+    },
+    {
+      "name": "N/6.5G",
+      "url": "/hickory/n-6-5g/parts",
+      "code": "n-6-5g"
+    },
+    {
+      "name": "N/7.5G",
+      "url": "/hickory/n-7-5g/parts",
+      "code": "n-7-5g"
+    },
+    {
+      "name": "N/7.7G",
+      "url": "/hickory/n-7-7g/parts",
+      "code": "n-7-7g"
+    },
+    {
+      "name": "N/7E",
+      "url": "/hickory/n-7e/parts",
+      "code": "n-7e"
+    },
+    {
+      "name": "N/7G",
+      "url": "/hickory/n-7g/parts",
+      "code": "n-7g"
+    },
+    {
+      "name": "N/9E",
+      "url": "/hickory/n-9e/parts",
+      "code": "n-9e"
+    },
+    {
+      "name": "N/9G",
+      "url": "/hickory/n-9g/parts",
+      "code": "n-9g"
+    },
+    {
+      "name": "VPO-42",
+      "url": "/hickory/vpo-42/parts",
+      "code": "vpo-42"
+    },
+    {
+      "name": "VPO-54",
+      "url": "/hickory/vpo-54/parts",
+      "code": "vpo-54"
+    }
+  ],
+  "total_models": 27,
+  "cached_at": "2025-08-14T18:57:25.174378"
+}

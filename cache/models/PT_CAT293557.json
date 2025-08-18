@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Heatcraft",
+    "code": "PT_CAT293557",
+    "uri": "heatcraft"
+  },
+  "models": [
+    {
+      "name": "ACM052SE",
+      "url": "/heatcraft/acm052se/parts",
+      "code": "acm052se"
+    },
+    {
+      "name": "ACM076SE",
+      "url": "/heatcraft/acm076se/parts",
+      "code": "acm076se"
+    },
+    {
+      "name": "ACM090SE",
+      "url": "/heatcraft/acm090se/parts",
+      "code": "acm090se"
+    },
+    {
+      "name": "ACM102SE",
+      "url": "/heatcraft/acm102se/parts",
+      "code": "acm102se"
+    },
+    {
+      "name": "ACM108SE",
+      "url": "/heatcraft/acm108se/parts",
+      "code": "acm108se"
+    },
+    {
+      "name": "ACM134SE",
+      "url": "/heatcraft/acm134se/parts",
+      "code": "acm134se"
+    },
+    {
+      "name": "ACM156SE",
+      "url": "/heatcraft/acm156se/parts",
+      "code": "acm156se"
+    },
+    {
+      "name": "ACM179SE",
+      "url": "/heatcraft/acm179se/parts",
+      "code": "acm179se"
+    },
+    {
+      "name": "ACM208SE",
+      "url": "/heatcraft/acm208se/parts",
+      "code": "acm208se"
+    },
+    {
+      "name": "ACM249SE",
+      "url": "/heatcraft/acm249se/parts",
+      "code": "acm249se"
+    },
+    {
+      "name": "ADT040AK",
+      "url": "/heatcraft/adt040ak/parts",
+      "code": "adt040ak"
+    },
+    {
+      "name": "ADT040BK",
+      "url": "/heatcraft/adt040bk/parts",
+      "code": "adt040bk"
+    },
+    {
+      "name": "ADT052AK",
+      "url": "/heatcraft/adt052ak/parts",
+      "code": "adt052ak"
+    },
+    {
+      "name": "ADT052BK",
+      "url": "/heatcraft/adt052bk/parts",
+      "code": "adt052bk"
+    },
+    {
+      "name": "ADT065AK",
+      "url": "/heatcraft/adt065ak/parts",
+      "code": "adt065ak"
+    },
+    {
+      "name": "ADT065BK",
+      "url": "/heatcraft/adt065bk/parts",
+      "code": "adt065bk"
+    },
+    {
+      "name": "ADT070AK",
+      "url": "/heatcraft/adt070ak/parts",
+      "code": "adt070ak"
+    },
+    {
+      "name": "ADT070BK",
+      "url": "/heatcraft/adt070bk/parts",
+      "code": "adt070bk"
+    },
+    {
+      "name": "ADT090AEK",
+      "url": "/heatcraft/adt090aek/parts",
+      "code": "adt090aek"
+    },
+    {
+      "name": "ADT090AK",
+      "url": "/heatcraft/adt090ak/parts",
+      "code": "adt090ak"
+    },
+    {
+      "name": "ADT090BEK",
+      "url": "/heatcraft/adt090bek/parts",
+      "code": "adt090bek"
+    },
+    {
+      "name": "ADT090BK",
+      "url": "/heatcraft/adt090bk/parts",
+      "code": "adt090bk"
+    },
+    {
+      "name": "ADT104AEK",
+      "url": "/heatcraft/adt104aek/parts",
+      "code": "adt104aek"
+    },
+    {
+      "name": "ADT104AK",
+      "url": "/heatcraft/adt104ak/parts",
+      "code": "adt104ak"
+    },
+    {
+      "name": "ADT104BEK",
+      "url": "/heatcraft/adt104bek/parts",
+      "code": "adt104bek"
+    },
+    {
+      "name": "ADT104BK",
+      "url": "/heatcraft/adt104bk/parts",
+      "code": "adt104bk"
+    },
+    {
+      "name": "ADT120AK",
+      "url": "/heatcraft/adt120ak/parts",
+      "code": "adt120ak"
+    },
+    {
+      "name": "ADT120BK",
+      "url": "/heatcraft/adt120bk/parts",
+      "code": "adt120bk"
+    },
+    {
+      "name": "ADT130AK",
+      "url": "/heatcraft/adt130ak/parts",
+      "code": "adt130ak"
+    },
+    {
+      "name": "ADT130BK",
+      "url": "/heatcraft/adt130bk/parts",
+      "code": "adt130bk"
+    },
+    {
+      "name": "ADT140AK",
+      "url": "/heatcraft/adt140ak/parts",
+      "code": "adt140ak"
+    },
+    {
+      "name": "ADT140BK",
+      "url": "/heatcraft/adt140bk/parts",
+      "code": "adt140bk"
+    },
+    {
+      "name": "ADT156AK",
+      "url": "/heatcraft/adt156ak/parts",
+      "code": "adt156ak"
+    },
+    {
+      "name": "ADT156BK",
+      "url": "/heatcraft/adt156bk/parts",
+      "code": "adt156bk"
+    },
+    {
+      "name": "ADT180AK",
+      "url": "/heatcraft/adt180ak/parts",
+      "code": "adt180ak"
+    },
+    {
+      "name": "ADT180BK",
+      "url": "/heatcraft/adt180bk/parts",
+      "code": "adt180bk"
+    },
+    {
+      "name": "ADT208AK",
+      "url": "/heatcraft/adt208ak/parts",
+      "code": "adt208ak"
+    },
+    {
+      "name": "ADT208BK",
+      "url": "/heatcraft/adt208bk/parts",
+      "code": "adt208bk"
+    },
+    {
+      "name": "ADT260AK",
+      "url": "/heatcraft/adt260ak/parts",
+      "code": "adt260ak"
+    },
+    {
+      "name": "ADT260BK",
+      "url": "/heatcraft/adt260bk/parts",
+      "code": "adt260bk"
+    },
+    {
+      "name": "ADT312AK",
+      "url": "/heatcraft/adt312ak/parts",
+      "code": "adt312ak"
+    },
+    {
+      "name": "ADT312BK",
+      "url": "/heatcraft/adt312bk/parts",
+      "code": "adt312bk"
+    },
+    {
+      "name": "ADT370AK",
+      "url": "/heatcraft/adt370ak/parts",
+      "code": "adt370ak"
+    },
+    {
+      "name": "ADT370BK",
+      "url": "/heatcraft/adt370bk/parts",
+      "code": "adt370bk"
+    },
+    {
+      "name": "BBN0401L6C",
+      "url": "/heatcraft/bbn0401l6c/parts",
+      "code": "bbn0401l6c"
+    },
+    {
+      "name": "BBN0401L6D",
+      "url": "/heatcraft/bbn0401l6d/parts",
+      "code": "bbn0401l6d"
+    },
+    {
+      "name": "BBN0401L6E",
+      "url": "/heatcraft/bbn0401l6e/parts",
+      "code": "bbn0401l6e"
+    },
+    {
+      "name": "BBN0551L6C",
+      "url": "/heatcraft/bbn0551l6c/parts",
+      "code": "bbn0551l6c"
+    },
+    {
+      "name": "BBN0551L6D",
+      "url": "/heatcraft/bbn0551l6d/parts",
+      "code": "bbn0551l6d"
+    },
+    {
+      "name": "BBN0551L6E",
+      "url": "/heatcraft/bbn0551l6e/parts",
+      "code": "bbn0551l6e"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:54:33.134483"
+}

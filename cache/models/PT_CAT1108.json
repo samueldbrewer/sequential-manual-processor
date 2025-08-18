@@ -1,0 +1,156 @@
+{
+  "manufacturer": {
+    "name": "Insinkerator",
+    "code": "PT_CAT1108",
+    "uri": "insinkerator"
+  },
+  "models": [
+    {
+      "name": "AS-101K",
+      "url": "/insinkerator/as-101k/parts",
+      "code": "as-101k"
+    },
+    {
+      "name": "H778-21",
+      "url": "/insinkerator/h778-21/parts",
+      "code": "h778-21"
+    },
+    {
+      "name": "LC-50-11",
+      "url": "/insinkerator/lc-50-11/parts",
+      "code": "lc-50-11"
+    },
+    {
+      "name": "LC-50-12",
+      "url": "/insinkerator/lc-50-12/parts",
+      "code": "lc-50-12"
+    },
+    {
+      "name": "LC-50-13",
+      "url": "/insinkerator/lc-50-13/parts",
+      "code": "lc-50-13"
+    },
+    {
+      "name": "LC-50-14",
+      "url": "/insinkerator/lc-50-14/parts",
+      "code": "lc-50-14"
+    },
+    {
+      "name": "SS100",
+      "url": "/insinkerator/ss100/parts",
+      "code": "ss100"
+    },
+    {
+      "name": "SS100-28",
+      "url": "/insinkerator/ss100-28/parts",
+      "code": "ss100-28"
+    },
+    {
+      "name": "SS100-30",
+      "url": "/insinkerator/ss100-30/parts",
+      "code": "ss100-30"
+    },
+    {
+      "name": "SS1000",
+      "url": "/insinkerator/ss1000/parts",
+      "code": "ss1000"
+    },
+    {
+      "name": "SS125-25",
+      "url": "/insinkerator/ss125-25/parts",
+      "code": "ss125-25"
+    },
+    {
+      "name": "SS125-27",
+      "url": "/insinkerator/ss125-27/parts",
+      "code": "ss125-27"
+    },
+    {
+      "name": "SS150",
+      "url": "/insinkerator/ss150/parts",
+      "code": "ss150"
+    },
+    {
+      "name": "SS200",
+      "url": "/insinkerator/ss200/parts",
+      "code": "ss200"
+    },
+    {
+      "name": "SS300",
+      "url": "/insinkerator/ss300/parts",
+      "code": "ss300"
+    },
+    {
+      "name": "SS50-26",
+      "url": "/insinkerator/ss50-26/parts",
+      "code": "ss50-26"
+    },
+    {
+      "name": "SS50-28",
+      "url": "/insinkerator/ss50-28/parts",
+      "code": "ss50-28"
+    },
+    {
+      "name": "SS500",
+      "url": "/insinkerator/ss500/parts",
+      "code": "ss500"
+    },
+    {
+      "name": "SS75-27",
+      "url": "/insinkerator/ss75-27/parts",
+      "code": "ss75-27"
+    },
+    {
+      "name": "SS75-29",
+      "url": "/insinkerator/ss75-29/parts",
+      "code": "ss75-29"
+    },
+    {
+      "name": "SS750",
+      "url": "/insinkerator/ss750/parts",
+      "code": "ss750"
+    },
+    {
+      "name": "WX-1",
+      "url": "/insinkerator/wx-1/parts",
+      "code": "wx-1"
+    },
+    {
+      "name": "WX-101A",
+      "url": "/insinkerator/wx-101a/parts",
+      "code": "wx-101a"
+    },
+    {
+      "name": "WX-2",
+      "url": "/insinkerator/wx-2/parts",
+      "code": "wx-2"
+    },
+    {
+      "name": "WX-3",
+      "url": "/insinkerator/wx-3/parts",
+      "code": "wx-3"
+    },
+    {
+      "name": "WX-4",
+      "url": "/insinkerator/wx-4/parts",
+      "code": "wx-4"
+    },
+    {
+      "name": "WX-5",
+      "url": "/insinkerator/wx-5/parts",
+      "code": "wx-5"
+    },
+    {
+      "name": "WX-8",
+      "url": "/insinkerator/wx-8/parts",
+      "code": "wx-8"
+    },
+    {
+      "name": "WX-9",
+      "url": "/insinkerator/wx-9/parts",
+      "code": "wx-9"
+    }
+  ],
+  "total_models": 29,
+  "cached_at": "2025-08-14T19:06:47.007559"
+}

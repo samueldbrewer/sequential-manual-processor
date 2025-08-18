@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "CookRite",
+    "code": "PT_CAT25499950",
+    "uri": "cookrite"
+  },
+  "models": [
+    {
+      "name": "ACHP-2",
+      "url": "/cookrite/achp-2/parts",
+      "code": "achp-2"
+    },
+    {
+      "name": "ACHP-4",
+      "url": "/cookrite/achp-4/parts",
+      "code": "achp-4"
+    },
+    {
+      "name": "ACHP-6",
+      "url": "/cookrite/achp-6/parts",
+      "code": "achp-6"
+    },
+    {
+      "name": "AGR-10B",
+      "url": "/cookrite/agr-10b/parts",
+      "code": "agr-10b"
+    },
+    {
+      "name": "AGR-24G",
+      "url": "/cookrite/agr-24g/parts",
+      "code": "agr-24g"
+    },
+    {
+      "name": "AGR-2B24GL",
+      "url": "/cookrite/agr-2b24gl/parts",
+      "code": "agr-2b24gl"
+    },
+    {
+      "name": "AGR-2B24GR",
+      "url": "/cookrite/agr-2b24gr/parts",
+      "code": "agr-2b24gr"
+    },
+    {
+      "name": "AGR-2B36GL",
+      "url": "/cookrite/agr-2b36gl/parts",
+      "code": "agr-2b36gl"
+    },
+    {
+      "name": "AGR-2B36GR",
+      "url": "/cookrite/agr-2b36gr/parts",
+      "code": "agr-2b36gr"
+    },
+    {
+      "name": "AGR-2B48GL",
+      "url": "/cookrite/agr-2b48gl/parts",
+      "code": "agr-2b48gl"
+    },
+    {
+      "name": "AGR-2B48GR",
+      "url": "/cookrite/agr-2b48gr/parts",
+      "code": "agr-2b48gr"
+    },
+    {
+      "name": "AGR-36G",
+      "url": "/cookrite/agr-36g/parts",
+      "code": "agr-36g"
+    },
+    {
+      "name": "AGR-4B",
+      "url": "/cookrite/agr-4b/parts",
+      "code": "agr-4b"
+    },
+    {
+      "name": "AGR-4B12GL",
+      "url": "/cookrite/agr-4b12gl/parts",
+      "code": "agr-4b12gl"
+    },
+    {
+      "name": "AGR-4B12GR",
+      "url": "/cookrite/agr-4b12gr/parts",
+      "code": "agr-4b12gr"
+    },
+    {
+      "name": "AGR-4B24GL",
+      "url": "/cookrite/agr-4b24gl/parts",
+      "code": "agr-4b24gl"
+    },
+    {
+      "name": "AGR-4B24GR",
+      "url": "/cookrite/agr-4b24gr/parts",
+      "code": "agr-4b24gr"
+    },
+    {
+      "name": "AGR-4B36GL",
+      "url": "/cookrite/agr-4b36gl/parts",
+      "code": "agr-4b36gl"
+    },
+    {
+      "name": "AGR-4B36GR",
+      "url": "/cookrite/agr-4b36gr/parts",
+      "code": "agr-4b36gr"
+    },
+    {
+      "name": "AGR-6B",
+      "url": "/cookrite/agr-6b/parts",
+      "code": "agr-6b"
+    },
+    {
+      "name": "AGR-6B12GL",
+      "url": "/cookrite/agr-6b12gl/parts",
+      "code": "agr-6b12gl"
+    },
+    {
+      "name": "AGR-6B12GR",
+      "url": "/cookrite/agr-6b12gr/parts",
+      "code": "agr-6b12gr"
+    },
+    {
+      "name": "AGR-6B24-RGB",
+      "url": "/cookrite/agr-6b24-rgb/parts",
+      "code": "agr-6b24-rgb"
+    },
+    {
+      "name": "AGR-6B24GL",
+      "url": "/cookrite/agr-6b24gl/parts",
+      "code": "agr-6b24gl"
+    },
+    {
+      "name": "AGR-6B24GR",
+      "url": "/cookrite/agr-6b24gr/parts",
+      "code": "agr-6b24gr"
+    },
+    {
+      "name": "AGR-8B",
+      "url": "/cookrite/agr-8b/parts",
+      "code": "agr-8b"
+    },
+    {
+      "name": "AGR-8B12GL",
+      "url": "/cookrite/agr-8b12gl/parts",
+      "code": "agr-8b12gl"
+    },
+    {
+      "name": "AGR-8B12GR",
+      "url": "/cookrite/agr-8b12gr/parts",
+      "code": "agr-8b12gr"
+    },
+    {
+      "name": "ATCB-24",
+      "url": "/cookrite/atcb-24/parts",
+      "code": "atcb-24"
+    },
+    {
+      "name": "ATCB-36",
+      "url": "/cookrite/atcb-36/parts",
+      "code": "atcb-36"
+    },
+    {
+      "name": "ATCB-48",
+      "url": "/cookrite/atcb-48/parts",
+      "code": "atcb-48"
+    },
+    {
+      "name": "ATCM-36",
+      "url": "/cookrite/atcm-36/parts",
+      "code": "atcm-36"
+    },
+    {
+      "name": "ATCO-513B-1",
+      "url": "/cookrite/atco-513b-1/parts",
+      "code": "atco-513b-1"
+    },
+    {
+      "name": "ATCO-513B-2",
+      "url": "/cookrite/atco-513b-2/parts",
+      "code": "atco-513b-2"
+    },
+    {
+      "name": "ATCO-513NB-1",
+      "url": "/cookrite/atco-513nb-1/parts",
+      "code": "atco-513nb-1"
+    },
+    {
+      "name": "ATCO-513NB-2",
+      "url": "/cookrite/atco-513nb-2/parts",
+      "code": "atco-513nb-2"
+    },
+    {
+      "name": "ATFS-35ES",
+      "url": "/cookrite/atfs-35es/parts",
+      "code": "atfs-35es"
+    },
+    {
+      "name": "ATFS-40",
+      "url": "/cookrite/atfs-40/parts",
+      "code": "atfs-40"
+    },
+    {
+      "name": "ATFS-50",
+      "url": "/cookrite/atfs-50/parts",
+      "code": "atfs-50"
+    },
+    {
+      "name": "ATFS-75",
+      "url": "/cookrite/atfs-75/parts",
+      "code": "atfs-75"
+    },
+    {
+      "name": "ATHC-18-P",
+      "url": "/cookrite/athc-18-p/parts",
+      "code": "athc-18-p"
+    },
+    {
+      "name": "ATHC-9-P",
+      "url": "/cookrite/athc-9-p/parts",
+      "code": "athc-9-p"
+    },
+    {
+      "name": "ATHP-12-2",
+      "url": "/cookrite/athp-12-2/parts",
+      "code": "athp-12-2"
+    },
+    {
+      "name": "ATHP-24-4",
+      "url": "/cookrite/athp-24-4/parts",
+      "code": "athp-24-4"
+    },
+    {
+      "name": "ATHP-36-6",
+      "url": "/cookrite/athp-36-6/parts",
+      "code": "athp-36-6"
+    },
+    {
+      "name": "ATMG-24",
+      "url": "/cookrite/atmg-24/parts",
+      "code": "atmg-24"
+    },
+    {
+      "name": "ATMG-24T",
+      "url": "/cookrite/atmg-24t/parts",
+      "code": "atmg-24t"
+    },
+    {
+      "name": "ATMG-36",
+      "url": "/cookrite/atmg-36/parts",
+      "code": "atmg-36"
+    },
+    {
+      "name": "ATMG-36T",
+      "url": "/cookrite/atmg-36t/parts",
+      "code": "atmg-36t"
+    },
+    {
+      "name": "ATMG-48",
+      "url": "/cookrite/atmg-48/parts",
+      "code": "atmg-48"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:12:53.268136"
+}

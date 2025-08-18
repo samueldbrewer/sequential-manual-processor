@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT37262",
+    "name": "Thunderbird",
+    "uri": "thunderbird"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:56:42.875659",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

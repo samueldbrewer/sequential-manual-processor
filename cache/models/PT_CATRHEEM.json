@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Rheem",
+    "code": "PT_CATRHEEM",
+    "uri": "rheem"
+  },
+  "models": [
+    {
+      "name": "13ACA48A01757",
+      "url": "/rheem/13aca48a01757/parts",
+      "code": "13aca48a01757"
+    },
+    {
+      "name": "13ACA48C01757",
+      "url": "/rheem/13aca48c01757/parts",
+      "code": "13aca48c01757"
+    },
+    {
+      "name": "13ACA60A01757",
+      "url": "/rheem/13aca60a01757/parts",
+      "code": "13aca60a01757"
+    },
+    {
+      "name": "13ACA60C01757",
+      "url": "/rheem/13aca60c01757/parts",
+      "code": "13aca60c01757"
+    },
+    {
+      "name": "13ACN36A01",
+      "url": "/rheem/13acn36a01/parts",
+      "code": "13acn36a01"
+    },
+    {
+      "name": "13ACN42A01",
+      "url": "/rheem/13acn42a01/parts",
+      "code": "13acn42a01"
+    },
+    {
+      "name": "13ACN48A01",
+      "url": "/rheem/13acn48a01/parts",
+      "code": "13acn48a01"
+    },
+    {
+      "name": "13ACN60A01",
+      "url": "/rheem/13acn60a01/parts",
+      "code": "13acn60a01"
+    },
+    {
+      "name": "13ADA36A01757",
+      "url": "/rheem/13ada36a01757/parts",
+      "code": "13ada36a01757"
+    },
+    {
+      "name": "13ADA48A01757",
+      "url": "/rheem/13ada48a01757/parts",
+      "code": "13ada48a01757"
+    },
+    {
+      "name": "13ADA48C01757",
+      "url": "/rheem/13ada48c01757/parts",
+      "code": "13ada48c01757"
+    },
+    {
+      "name": "13ADA60A01757",
+      "url": "/rheem/13ada60a01757/parts",
+      "code": "13ada60a01757"
+    },
+    {
+      "name": "13ADA60C01757",
+      "url": "/rheem/13ada60c01757/parts",
+      "code": "13ada60c01757"
+    },
+    {
+      "name": "13ADN36A01",
+      "url": "/rheem/13adn36a01/parts",
+      "code": "13adn36a01"
+    },
+    {
+      "name": "13ADN42A01",
+      "url": "/rheem/13adn42a01/parts",
+      "code": "13adn42a01"
+    },
+    {
+      "name": "13ADN48A01",
+      "url": "/rheem/13adn48a01/parts",
+      "code": "13adn48a01"
+    },
+    {
+      "name": "13ADN60A01",
+      "url": "/rheem/13adn60a01/parts",
+      "code": "13adn60a01"
+    },
+    {
+      "name": "13AJA18A01757",
+      "url": "/rheem/13aja18a01757/parts",
+      "code": "13aja18a01757"
+    },
+    {
+      "name": "13AJA18C01757",
+      "url": "/rheem/13aja18c01757/parts",
+      "code": "13aja18c01757"
+    },
+    {
+      "name": "13AJA24A01",
+      "url": "/rheem/13aja24a01/parts",
+      "code": "13aja24a01"
+    },
+    {
+      "name": "13AJA24A01757",
+      "url": "/rheem/13aja24a01757/parts",
+      "code": "13aja24a01757"
+    },
+    {
+      "name": "13AJA24C01757",
+      "url": "/rheem/13aja24c01757/parts",
+      "code": "13aja24c01757"
+    },
+    {
+      "name": "13AJA30A01",
+      "url": "/rheem/13aja30a01/parts",
+      "code": "13aja30a01"
+    },
+    {
+      "name": "13AJA30A01757",
+      "url": "/rheem/13aja30a01757/parts",
+      "code": "13aja30a01757"
+    },
+    {
+      "name": "13AJA30C01757",
+      "url": "/rheem/13aja30c01757/parts",
+      "code": "13aja30c01757"
+    },
+    {
+      "name": "13AJA36A01",
+      "url": "/rheem/13aja36a01/parts",
+      "code": "13aja36a01"
+    },
+    {
+      "name": "13AJA36A01757",
+      "url": "/rheem/13aja36a01757/parts",
+      "code": "13aja36a01757"
+    },
+    {
+      "name": "13AJA36C01757",
+      "url": "/rheem/13aja36c01757/parts",
+      "code": "13aja36c01757"
+    },
+    {
+      "name": "13AJA42A01",
+      "url": "/rheem/13aja42a01/parts",
+      "code": "13aja42a01"
+    },
+    {
+      "name": "13AJA42A01757",
+      "url": "/rheem/13aja42a01757/parts",
+      "code": "13aja42a01757"
+    },
+    {
+      "name": "13AJA42C01757",
+      "url": "/rheem/13aja42c01757/parts",
+      "code": "13aja42c01757"
+    },
+    {
+      "name": "13AJA48A01757",
+      "url": "/rheem/13aja48a01757/parts",
+      "code": "13aja48a01757"
+    },
+    {
+      "name": "13AJA48C01757",
+      "url": "/rheem/13aja48c01757/parts",
+      "code": "13aja48c01757"
+    },
+    {
+      "name": "13AJA60A01",
+      "url": "/rheem/13aja60a01/parts",
+      "code": "13aja60a01"
+    },
+    {
+      "name": "13AJA60A01757",
+      "url": "/rheem/13aja60a01757/parts",
+      "code": "13aja60a01757"
+    },
+    {
+      "name": "13AJA60C01757",
+      "url": "/rheem/13aja60c01757/parts",
+      "code": "13aja60c01757"
+    },
+    {
+      "name": "13AJL18A01",
+      "url": "/rheem/13ajl18a01/parts",
+      "code": "13ajl18a01"
+    },
+    {
+      "name": "13AJL24A01",
+      "url": "/rheem/13ajl24a01/parts",
+      "code": "13ajl24a01"
+    },
+    {
+      "name": "13AJL30A01",
+      "url": "/rheem/13ajl30a01/parts",
+      "code": "13ajl30a01"
+    },
+    {
+      "name": "13AJL36A01",
+      "url": "/rheem/13ajl36a01/parts",
+      "code": "13ajl36a01"
+    },
+    {
+      "name": "13AJL42A01",
+      "url": "/rheem/13ajl42a01/parts",
+      "code": "13ajl42a01"
+    },
+    {
+      "name": "13AJL48A01",
+      "url": "/rheem/13ajl48a01/parts",
+      "code": "13ajl48a01"
+    },
+    {
+      "name": "13AJL60A01",
+      "url": "/rheem/13ajl60a01/parts",
+      "code": "13ajl60a01"
+    },
+    {
+      "name": "13AJM18A01",
+      "url": "/rheem/13ajm18a01/parts",
+      "code": "13ajm18a01"
+    },
+    {
+      "name": "13AJM24A01",
+      "url": "/rheem/13ajm24a01/parts",
+      "code": "13ajm24a01"
+    },
+    {
+      "name": "13AJM30A01",
+      "url": "/rheem/13ajm30a01/parts",
+      "code": "13ajm30a01"
+    },
+    {
+      "name": "13AJM36A01",
+      "url": "/rheem/13ajm36a01/parts",
+      "code": "13ajm36a01"
+    },
+    {
+      "name": "13AJM42A01",
+      "url": "/rheem/13ajm42a01/parts",
+      "code": "13ajm42a01"
+    },
+    {
+      "name": "13AJM48A01",
+      "url": "/rheem/13ajm48a01/parts",
+      "code": "13ajm48a01"
+    },
+    {
+      "name": "13AJM60A01",
+      "url": "/rheem/13ajm60a01/parts",
+      "code": "13ajm60a01"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:59:52.535651"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Fisher",
+    "code": "PT_CAT1076",
+    "uri": "fisher"
+  },
+  "models": [
+    {
+      "name": "10073",
+      "url": "/fisher/10073/parts",
+      "code": "10073"
+    },
+    {
+      "name": "10197",
+      "url": "/fisher/10197/parts",
+      "code": "10197"
+    },
+    {
+      "name": "10375",
+      "url": "/fisher/10375/parts",
+      "code": "10375"
+    },
+    {
+      "name": "10383",
+      "url": "/fisher/10383/parts",
+      "code": "10383"
+    },
+    {
+      "name": "10405",
+      "url": "/fisher/10405/parts",
+      "code": "10405"
+    },
+    {
+      "name": "10413",
+      "url": "/fisher/10413/parts",
+      "code": "10413"
+    },
+    {
+      "name": "10421",
+      "url": "/fisher/10421/parts",
+      "code": "10421"
+    },
+    {
+      "name": "10510",
+      "url": "/fisher/10510/parts",
+      "code": "10510"
+    },
+    {
+      "name": "10529",
+      "url": "/fisher/10529/parts",
+      "code": "10529"
+    },
+    {
+      "name": "10537",
+      "url": "/fisher/10537/parts",
+      "code": "10537"
+    },
+    {
+      "name": "10545",
+      "url": "/fisher/10545/parts",
+      "code": "10545"
+    },
+    {
+      "name": "10553",
+      "url": "/fisher/10553/parts",
+      "code": "10553"
+    },
+    {
+      "name": "10561",
+      "url": "/fisher/10561/parts",
+      "code": "10561"
+    },
+    {
+      "name": "10588",
+      "url": "/fisher/10588/parts",
+      "code": "10588"
+    },
+    {
+      "name": "10596",
+      "url": "/fisher/10596/parts",
+      "code": "10596"
+    },
+    {
+      "name": "10693",
+      "url": "/fisher/10693/parts",
+      "code": "10693"
+    },
+    {
+      "name": "10707",
+      "url": "/fisher/10707/parts",
+      "code": "10707"
+    },
+    {
+      "name": "10723",
+      "url": "/fisher/10723/parts",
+      "code": "10723"
+    },
+    {
+      "name": "10812",
+      "url": "/fisher/10812/parts",
+      "code": "10812"
+    },
+    {
+      "name": "10820",
+      "url": "/fisher/10820/parts",
+      "code": "10820"
+    },
+    {
+      "name": "10855",
+      "url": "/fisher/10855/parts",
+      "code": "10855"
+    },
+    {
+      "name": "10863",
+      "url": "/fisher/10863/parts",
+      "code": "10863"
+    },
+    {
+      "name": "10871",
+      "url": "/fisher/10871/parts",
+      "code": "10871"
+    },
+    {
+      "name": "11061",
+      "url": "/fisher/11061/parts",
+      "code": "11061"
+    },
+    {
+      "name": "1117",
+      "url": "/fisher/1117/parts",
+      "code": "1117"
+    },
+    {
+      "name": "1117-WB",
+      "url": "/fisher/1117-wb/parts",
+      "code": "1117-wb"
+    },
+    {
+      "name": "11363",
+      "url": "/fisher/11363/parts",
+      "code": "11363"
+    },
+    {
+      "name": "11398",
+      "url": "/fisher/11398/parts",
+      "code": "11398"
+    },
+    {
+      "name": "11452",
+      "url": "/fisher/11452/parts",
+      "code": "11452"
+    },
+    {
+      "name": "11479",
+      "url": "/fisher/11479/parts",
+      "code": "11479"
+    },
+    {
+      "name": "11622",
+      "url": "/fisher/11622/parts",
+      "code": "11622"
+    },
+    {
+      "name": "11630",
+      "url": "/fisher/11630/parts",
+      "code": "11630"
+    },
+    {
+      "name": "11657",
+      "url": "/fisher/11657/parts",
+      "code": "11657"
+    },
+    {
+      "name": "11775",
+      "url": "/fisher/11775/parts",
+      "code": "11775"
+    },
+    {
+      "name": "12815",
+      "url": "/fisher/12815/parts",
+      "code": "12815"
+    },
+    {
+      "name": "12858",
+      "url": "/fisher/12858/parts",
+      "code": "12858"
+    },
+    {
+      "name": "12882",
+      "url": "/fisher/12882/parts",
+      "code": "12882"
+    },
+    {
+      "name": "12890",
+      "url": "/fisher/12890/parts",
+      "code": "12890"
+    },
+    {
+      "name": "12998",
+      "url": "/fisher/12998/parts",
+      "code": "12998"
+    },
+    {
+      "name": "13064",
+      "url": "/fisher/13064/parts",
+      "code": "13064"
+    },
+    {
+      "name": "13072",
+      "url": "/fisher/13072/parts",
+      "code": "13072"
+    },
+    {
+      "name": "13080",
+      "url": "/fisher/13080/parts",
+      "code": "13080"
+    },
+    {
+      "name": "13145",
+      "url": "/fisher/13145/parts",
+      "code": "13145"
+    },
+    {
+      "name": "13153",
+      "url": "/fisher/13153/parts",
+      "code": "13153"
+    },
+    {
+      "name": "13161",
+      "url": "/fisher/13161/parts",
+      "code": "13161"
+    },
+    {
+      "name": "13188",
+      "url": "/fisher/13188/parts",
+      "code": "13188"
+    },
+    {
+      "name": "13196",
+      "url": "/fisher/13196/parts",
+      "code": "13196"
+    },
+    {
+      "name": "13218",
+      "url": "/fisher/13218/parts",
+      "code": "13218"
+    },
+    {
+      "name": "13226",
+      "url": "/fisher/13226/parts",
+      "code": "13226"
+    },
+    {
+      "name": "13234",
+      "url": "/fisher/13234/parts",
+      "code": "13234"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:34:33.825814"
+}

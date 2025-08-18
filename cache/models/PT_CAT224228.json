@@ -1,0 +1,181 @@
+{
+  "manufacturer": {
+    "name": "Hydra Rinse",
+    "code": "PT_CAT224228",
+    "uri": "hydra-rinse"
+  },
+  "models": [
+    {
+      "name": "HRF1",
+      "url": "/hydra-rinse/hrf1/parts",
+      "code": "hrf1"
+    },
+    {
+      "name": "HRF1-336",
+      "url": "/hydra-rinse/hrf1-336/parts",
+      "code": "hrf1-336"
+    },
+    {
+      "name": "HRF1-358",
+      "url": "/hydra-rinse/hrf1-358/parts",
+      "code": "hrf1-358"
+    },
+    {
+      "name": "HRF1-359",
+      "url": "/hydra-rinse/hrf1-359/parts",
+      "code": "hrf1-359"
+    },
+    {
+      "name": "HRF1-441",
+      "url": "/hydra-rinse/hrf1-441/parts",
+      "code": "hrf1-441"
+    },
+    {
+      "name": "HRF1-444",
+      "url": "/hydra-rinse/hrf1-444/parts",
+      "code": "hrf1-444"
+    },
+    {
+      "name": "HRF1-632",
+      "url": "/hydra-rinse/hrf1-632/parts",
+      "code": "hrf1-632"
+    },
+    {
+      "name": "HRF1-794",
+      "url": "/hydra-rinse/hrf1-794/parts",
+      "code": "hrf1-794"
+    },
+    {
+      "name": "HRF1-794/791",
+      "url": "/hydra-rinse/hrf1-794-791/parts",
+      "code": "hrf1-794-791"
+    },
+    {
+      "name": "HRF1-c706",
+      "url": "/hydra-rinse/hrf1-c706/parts",
+      "code": "hrf1-c706"
+    },
+    {
+      "name": "HRF1-c707",
+      "url": "/hydra-rinse/hrf1-c707/parts",
+      "code": "hrf1-c707"
+    },
+    {
+      "name": "HRF1-c712",
+      "url": "/hydra-rinse/hrf1-c712/parts",
+      "code": "hrf1-c712"
+    },
+    {
+      "name": "HRF1-c713",
+      "url": "/hydra-rinse/hrf1-c713/parts",
+      "code": "hrf1-c713"
+    },
+    {
+      "name": "HRF1-c722",
+      "url": "/hydra-rinse/hrf1-c722/parts",
+      "code": "hrf1-c722"
+    },
+    {
+      "name": "HRF1-c723",
+      "url": "/hydra-rinse/hrf1-c723/parts",
+      "code": "hrf1-c723"
+    },
+    {
+      "name": "HRF2",
+      "url": "/hydra-rinse/hrf2/parts",
+      "code": "hrf2"
+    },
+    {
+      "name": "HRF2-8752DQ",
+      "url": "/hydra-rinse/hrf2-8752dq/parts",
+      "code": "hrf2-8752dq"
+    },
+    {
+      "name": "HRF2-8756",
+      "url": "/hydra-rinse/hrf2-8756/parts",
+      "code": "hrf2-8756"
+    },
+    {
+      "name": "HRF2-8756DQ",
+      "url": "/hydra-rinse/hrf2-8756dq/parts",
+      "code": "hrf2-8756dq"
+    },
+    {
+      "name": "HRF3",
+      "url": "/hydra-rinse/hrf3/parts",
+      "code": "hrf3"
+    },
+    {
+      "name": "HRF3-O431",
+      "url": "/hydra-rinse/hrf3-o431/parts",
+      "code": "hrf3-o431"
+    },
+    {
+      "name": "HRF3-U411",
+      "url": "/hydra-rinse/hrf3-u411/parts",
+      "code": "hrf3-u411"
+    },
+    {
+      "name": "HRF3-U421",
+      "url": "/hydra-rinse/hrf3-u421/parts",
+      "code": "hrf3-u421"
+    },
+    {
+      "name": "HRF3-U421Challenger",
+      "url": "/hydra-rinse/hrf3-u421challenger/parts",
+      "code": "hrf3-u421challenger"
+    },
+    {
+      "name": "HRF3-U431",
+      "url": "/hydra-rinse/hrf3-u431/parts",
+      "code": "hrf3-u431"
+    },
+    {
+      "name": "HRF4",
+      "url": "/hydra-rinse/hrf4/parts",
+      "code": "hrf4"
+    },
+    {
+      "name": "HRF4-F231",
+      "url": "/hydra-rinse/hrf4-f231/parts",
+      "code": "hrf4-f231"
+    },
+    {
+      "name": "HRF5",
+      "url": "/hydra-rinse/hrf5/parts",
+      "code": "hrf5"
+    },
+    {
+      "name": "HRF5-GES102DQ",
+      "url": "/hydra-rinse/hrf5-ges102dq/parts",
+      "code": "hrf5-ges102dq"
+    },
+    {
+      "name": "HRF5-GES103DQ",
+      "url": "/hydra-rinse/hrf5-ges103dq/parts",
+      "code": "hrf5-ges103dq"
+    },
+    {
+      "name": "LBF128-169",
+      "url": "/hydra-rinse/lbf128-169/parts",
+      "code": "lbf128-169"
+    },
+    {
+      "name": "Little Buddy Jr",
+      "url": "/hydra-rinse/little-buddy-jr/parts",
+      "code": "little-buddy-jr"
+    },
+    {
+      "name": "Little Buddy Sr",
+      "url": "/hydra-rinse/little-buddy-sr/parts",
+      "code": "little-buddy-sr"
+    },
+    {
+      "name": "Wandstation",
+      "url": "/hydra-rinse/wandstation/parts",
+      "code": "wandstation"
+    }
+  ],
+  "total_models": 34,
+  "cached_at": "2025-08-14T19:04:41.556821"
+}

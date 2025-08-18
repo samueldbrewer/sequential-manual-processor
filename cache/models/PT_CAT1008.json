@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "American Panel",
+    "code": "PT_CAT1008",
+    "uri": "american-panel"
+  },
+  "models": [
+    {
+      "name": "AP12BCF110-3",
+      "url": "/american-panel/ap12bcf110-3/parts",
+      "code": "ap12bcf110-3"
+    },
+    {
+      "name": "AP20BCF200",
+      "url": "/american-panel/ap20bcf200/parts",
+      "code": "ap20bcf200"
+    },
+    {
+      "name": "Walk-In",
+      "url": "/american-panel/walk-in/parts",
+      "code": "walk-in"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T17:43:17.541558"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Doyon",
+    "code": "PT_CAT48068",
+    "uri": "doyon"
+  },
+  "models": [
+    {
+      "name": "BTF010",
+      "url": "/doyon/btf010/parts",
+      "code": "btf010"
+    },
+    {
+      "name": "BTF020",
+      "url": "/doyon/btf020/parts",
+      "code": "btf020"
+    },
+    {
+      "name": "BTF020I",
+      "url": "/doyon/btf020i/parts",
+      "code": "btf020i"
+    },
+    {
+      "name": "BTF040H",
+      "url": "/doyon/btf040h/parts",
+      "code": "btf040h"
+    },
+    {
+      "name": "BTF040I",
+      "url": "/doyon/btf040i/parts",
+      "code": "btf040i"
+    },
+    {
+      "name": "BTF060",
+      "url": "/doyon/btf060/parts",
+      "code": "btf060"
+    },
+    {
+      "name": "BTF060H",
+      "url": "/doyon/btf060h/parts",
+      "code": "btf060h"
+    },
+    {
+      "name": "BTF060I",
+      "url": "/doyon/btf060i/parts",
+      "code": "btf060i"
+    },
+    {
+      "name": "BTF10I",
+      "url": "/doyon/btf10i/parts",
+      "code": "btf10i"
+    },
+    {
+      "name": "BTFP060",
+      "url": "/doyon/btfp060/parts",
+      "code": "btfp060"
+    },
+    {
+      "name": "BTFP060I",
+      "url": "/doyon/btfp060i/parts",
+      "code": "btfp060i"
+    },
+    {
+      "name": "BTL020",
+      "url": "/doyon/btl020/parts",
+      "code": "btl020"
+    },
+    {
+      "name": "BTL20I",
+      "url": "/doyon/btl20i/parts",
+      "code": "btl20i"
+    },
+    {
+      "name": "CA12",
+      "url": "/doyon/ca12/parts",
+      "code": "ca12"
+    },
+    {
+      "name": "CA6",
+      "url": "/doyon/ca6/parts",
+      "code": "ca6"
+    },
+    {
+      "name": "CAOP12",
+      "url": "/doyon/caop12/parts",
+      "code": "caop12"
+    },
+    {
+      "name": "CAOP6",
+      "url": "/doyon/caop6/parts",
+      "code": "caop6"
+    },
+    {
+      "name": "DBBQ",
+      "url": "/doyon/dbbq/parts",
+      "code": "dbbq"
+    },
+    {
+      "name": "DBBQ12",
+      "url": "/doyon/dbbq12/parts",
+      "code": "dbbq12"
+    },
+    {
+      "name": "DD10",
+      "url": "/doyon/dd10/parts",
+      "code": "dd10"
+    },
+    {
+      "name": "DL12DP",
+      "url": "/doyon/dl12dp/parts",
+      "code": "dl12dp"
+    },
+    {
+      "name": "DL12SP",
+      "url": "/doyon/dl12sp/parts",
+      "code": "dl12sp"
+    },
+    {
+      "name": "DL18DP",
+      "url": "/doyon/dl18dp/parts",
+      "code": "dl18dp"
+    },
+    {
+      "name": "DL18P",
+      "url": "/doyon/dl18p/parts",
+      "code": "dl18p"
+    },
+    {
+      "name": "DL18SP",
+      "url": "/doyon/dl18sp/parts",
+      "code": "dl18sp"
+    },
+    {
+      "name": "DP14",
+      "url": "/doyon/dp14/parts",
+      "code": "dp14"
+    },
+    {
+      "name": "DP14A",
+      "url": "/doyon/dp14a/parts",
+      "code": "dp14a"
+    },
+    {
+      "name": "DP18",
+      "url": "/doyon/dp18/parts",
+      "code": "dp18"
+    },
+    {
+      "name": "DP18D",
+      "url": "/doyon/dp18d/parts",
+      "code": "dp18d"
+    },
+    {
+      "name": "DP7",
+      "url": "/doyon/dp7/parts",
+      "code": "dp7"
+    },
+    {
+      "name": "DP7D",
+      "url": "/doyon/dp7d/parts",
+      "code": "dp7d"
+    },
+    {
+      "name": "DP9",
+      "url": "/doyon/dp9/parts",
+      "code": "dp9"
+    },
+    {
+      "name": "DPW10",
+      "url": "/doyon/dpw10/parts",
+      "code": "dpw10"
+    },
+    {
+      "name": "DPW10S",
+      "url": "/doyon/dpw10s/parts",
+      "code": "dpw10s"
+    },
+    {
+      "name": "DPWHP10",
+      "url": "/doyon/dpwhp10/parts",
+      "code": "dpwhp10"
+    },
+    {
+      "name": "DPWHP10S",
+      "url": "/doyon/dpwhp10s/parts",
+      "code": "dpwhp10s"
+    },
+    {
+      "name": "DPWI7",
+      "url": "/doyon/dpwi7/parts",
+      "code": "dpwi7"
+    },
+    {
+      "name": "DR45",
+      "url": "/doyon/dr45/parts",
+      "code": "dr45"
+    },
+    {
+      "name": "DRIP1",
+      "url": "/doyon/drip1/parts",
+      "code": "drip1"
+    },
+    {
+      "name": "DRIP1TLO",
+      "url": "/doyon/drip1tlo/parts",
+      "code": "drip1tlo"
+    },
+    {
+      "name": "DRP3",
+      "url": "/doyon/drp3/parts",
+      "code": "drp3"
+    },
+    {
+      "name": "DRP4",
+      "url": "/doyon/drp4/parts",
+      "code": "drp4"
+    },
+    {
+      "name": "DRP4S",
+      "url": "/doyon/drp4s/parts",
+      "code": "drp4s"
+    },
+    {
+      "name": "DRPR3",
+      "url": "/doyon/drpr3/parts",
+      "code": "drpr3"
+    },
+    {
+      "name": "DRPR4",
+      "url": "/doyon/drpr4/parts",
+      "code": "drpr4"
+    },
+    {
+      "name": "DRPR4S",
+      "url": "/doyon/drpr4s/parts",
+      "code": "drpr4s"
+    },
+    {
+      "name": "DWI18",
+      "url": "/doyon/dwi18/parts",
+      "code": "dwi18"
+    },
+    {
+      "name": "DWI7",
+      "url": "/doyon/dwi7/parts",
+      "code": "dwi7"
+    },
+    {
+      "name": "E1420",
+      "url": "/doyon/e1420/parts",
+      "code": "e1420"
+    },
+    {
+      "name": "E2330PA",
+      "url": "/doyon/e2330pa/parts",
+      "code": "e2330pa"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:23:45.245366"
+}

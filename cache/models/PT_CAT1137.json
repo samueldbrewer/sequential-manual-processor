@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Market Forge",
+    "code": "PT_CAT1137",
+    "uri": "market-forge"
+  },
+  "models": [
+    {
+      "name": "1200",
+      "url": "/market-forge/1200/parts",
+      "code": "1200"
+    },
+    {
+      "name": "1600",
+      "url": "/market-forge/1600/parts",
+      "code": "1600"
+    },
+    {
+      "name": "2 Burner Electric Hot Plate",
+      "url": "/market-forge/2-burner-electric-hot-plate/parts",
+      "code": "2-burner-electric-hot-plate"
+    },
+    {
+      "name": "2-A-PLUS2D",
+      "url": "/market-forge/2-a-plus2d/parts",
+      "code": "2-a-plus2d"
+    },
+    {
+      "name": "2-A-PLUS2M36E42/48A",
+      "url": "/market-forge/2-a-plus2m36e42-48a/parts",
+      "code": "2-a-plus2m36e42-48a"
+    },
+    {
+      "name": "2-A-PLUS2M36G300A",
+      "url": "/market-forge/2-a-plus2m36g300a/parts",
+      "code": "2-a-plus2m36g300a"
+    },
+    {
+      "name": "2-A-PLUS2SC",
+      "url": "/market-forge/2-a-plus2sc/parts",
+      "code": "2-a-plus2sc"
+    },
+    {
+      "name": "2-A-PLUSD",
+      "url": "/market-forge/2-a-plusd/parts",
+      "code": "2-a-plusd"
+    },
+    {
+      "name": "2-A-PLUSM36E42/48A",
+      "url": "/market-forge/2-a-plusm36e42-48a/parts",
+      "code": "2-a-plusm36e42-48a"
+    },
+    {
+      "name": "2-A-PLUSM36G300A",
+      "url": "/market-forge/2-a-plusm36g300a/parts",
+      "code": "2-a-plusm36g300a"
+    },
+    {
+      "name": "2-A-PLUSSC",
+      "url": "/market-forge/2-a-plussc/parts",
+      "code": "2-a-plussc"
+    },
+    {
+      "name": "2-HPG",
+      "url": "/market-forge/2-hpg/parts",
+      "code": "2-hpg"
+    },
+    {
+      "name": "2600 HE",
+      "url": "/market-forge/2600-he/parts",
+      "code": "2600-he"
+    },
+    {
+      "name": "2600PHE",
+      "url": "/market-forge/2600phe/parts",
+      "code": "2600phe"
+    },
+    {
+      "name": "2692 HE",
+      "url": "/market-forge/2692-he/parts",
+      "code": "2692-he"
+    },
+    {
+      "name": "2692PHE",
+      "url": "/market-forge/2692phe/parts",
+      "code": "2692phe"
+    },
+    {
+      "name": "2800 HE",
+      "url": "/market-forge/2800-he/parts",
+      "code": "2800-he"
+    },
+    {
+      "name": "2892 HE",
+      "url": "/market-forge/2892-he/parts",
+      "code": "2892-he"
+    },
+    {
+      "name": "2900",
+      "url": "/market-forge/2900/parts",
+      "code": "2900"
+    },
+    {
+      "name": "2992",
+      "url": "/market-forge/2992/parts",
+      "code": "2992"
+    },
+    {
+      "name": "2A",
+      "url": "/market-forge/2a/parts",
+      "code": "2a"
+    },
+    {
+      "name": "2AM36D",
+      "url": "/market-forge/2am36d/parts",
+      "code": "2am36d"
+    },
+    {
+      "name": "2AM36E",
+      "url": "/market-forge/2am36e/parts",
+      "code": "2am36e"
+    },
+    {
+      "name": "2AM36E24A",
+      "url": "/market-forge/2am36e24a/parts",
+      "code": "2am36e24a"
+    },
+    {
+      "name": "2AM36E36A",
+      "url": "/market-forge/2am36e36a/parts",
+      "code": "2am36e36a"
+    },
+    {
+      "name": "2AM36E42/48A",
+      "url": "/market-forge/2am36e42-48a/parts",
+      "code": "2am36e42-48a"
+    },
+    {
+      "name": "2AM36G",
+      "url": "/market-forge/2am36g/parts",
+      "code": "2am36g"
+    },
+    {
+      "name": "2AM36G100A",
+      "url": "/market-forge/2am36g100a/parts",
+      "code": "2am36g100a"
+    },
+    {
+      "name": "2AM36G200A",
+      "url": "/market-forge/2am36g200a/parts",
+      "code": "2am36g200a"
+    },
+    {
+      "name": "2AM36G300A",
+      "url": "/market-forge/2am36g300a/parts",
+      "code": "2am36g300a"
+    },
+    {
+      "name": "2AM36SC",
+      "url": "/market-forge/2am36sc/parts",
+      "code": "2am36sc"
+    },
+    {
+      "name": "2AP",
+      "url": "/market-forge/2ap/parts",
+      "code": "2ap"
+    },
+    {
+      "name": "3-A-PLUSD",
+      "url": "/market-forge/3-a-plusd/parts",
+      "code": "3-a-plusd"
+    },
+    {
+      "name": "3-A-PLUSM36E42/48A",
+      "url": "/market-forge/3-a-plusm36e42-48a/parts",
+      "code": "3-a-plusm36e42-48a"
+    },
+    {
+      "name": "3-A-PLUSM36G300A",
+      "url": "/market-forge/3-a-plusm36g300a/parts",
+      "code": "3-a-plusm36g300a"
+    },
+    {
+      "name": "3-A-PLUSSC",
+      "url": "/market-forge/3-a-plussc/parts",
+      "code": "3-a-plussc"
+    },
+    {
+      "name": "30-STEL",
+      "url": "/market-forge/30-stel/parts",
+      "code": "30-stel"
+    },
+    {
+      "name": "30-STEL-LX",
+      "url": "/market-forge/30-stel-lx/parts",
+      "code": "30-stel-lx"
+    },
+    {
+      "name": "30-STEM",
+      "url": "/market-forge/30-stem/parts",
+      "code": "30-stem"
+    },
+    {
+      "name": "30-STEM-LX",
+      "url": "/market-forge/30-stem-lx/parts",
+      "code": "30-stem-lx"
+    },
+    {
+      "name": "3000",
+      "url": "/market-forge/3000/parts",
+      "code": "3000"
+    },
+    {
+      "name": "3092",
+      "url": "/market-forge/3092/parts",
+      "code": "3092"
+    },
+    {
+      "name": "30P-STEL",
+      "url": "/market-forge/30p-stel/parts",
+      "code": "30p-stel"
+    },
+    {
+      "name": "30P-STEM",
+      "url": "/market-forge/30p-stem/parts",
+      "code": "30p-stem"
+    },
+    {
+      "name": "30P-STGL",
+      "url": "/market-forge/30p-stgl/parts",
+      "code": "30p-stgl"
+    },
+    {
+      "name": "30P-STGM",
+      "url": "/market-forge/30p-stgm/parts",
+      "code": "30p-stgm"
+    },
+    {
+      "name": "3500",
+      "url": "/market-forge/3500/parts",
+      "code": "3500"
+    },
+    {
+      "name": "3500M24D",
+      "url": "/market-forge/3500m24d/parts",
+      "code": "3500m24d"
+    },
+    {
+      "name": "3500M24E",
+      "url": "/market-forge/3500m24e/parts",
+      "code": "3500m24e"
+    },
+    {
+      "name": "3500M24E24A",
+      "url": "/market-forge/3500m24e24a/parts",
+      "code": "3500m24e24a"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:26:48.061633"
+}

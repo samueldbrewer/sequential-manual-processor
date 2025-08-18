@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Hollymatic",
+    "code": "PT_CAT223852",
+    "uri": "hollymatic"
+  },
+  "models": [
+    {
+      "name": "120",
+      "url": "/hollymatic/120/parts",
+      "code": "120"
+    },
+    {
+      "name": "25",
+      "url": "/hollymatic/25/parts",
+      "code": "25"
+    },
+    {
+      "name": "55",
+      "url": "/hollymatic/55/parts",
+      "code": "55"
+    },
+    {
+      "name": "55S",
+      "url": "/hollymatic/55s/parts",
+      "code": "55s"
+    },
+    {
+      "name": "88",
+      "url": "/hollymatic/88/parts",
+      "code": "88"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T18:59:20.506335"
+}

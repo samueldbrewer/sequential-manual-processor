@@ -1,0 +1,81 @@
+{
+  "manufacturer": {
+    "name": "Aeonair",
+    "code": "PT_CAT235509",
+    "uri": "aeonair"
+  },
+  "models": [
+    {
+      "name": "RDH30EB",
+      "url": "/aeonair/rdh30eb/parts",
+      "code": "rdh30eb"
+    },
+    {
+      "name": "RDH30EB-1",
+      "url": "/aeonair/rdh30eb-1/parts",
+      "code": "rdh30eb-1"
+    },
+    {
+      "name": "RDH45EB",
+      "url": "/aeonair/rdh45eb/parts",
+      "code": "rdh45eb"
+    },
+    {
+      "name": "RDH45EB-1",
+      "url": "/aeonair/rdh45eb-1/parts",
+      "code": "rdh45eb-1"
+    },
+    {
+      "name": "RDH60EAW",
+      "url": "/aeonair/rdh60eaw/parts",
+      "code": "rdh60eaw"
+    },
+    {
+      "name": "RDH60EB",
+      "url": "/aeonair/rdh60eb/parts",
+      "code": "rdh60eb"
+    },
+    {
+      "name": "RDH70EA",
+      "url": "/aeonair/rdh70ea/parts",
+      "code": "rdh70ea"
+    },
+    {
+      "name": "RDH70EAPB",
+      "url": "/aeonair/rdh70eapb/parts",
+      "code": "rdh70eapb"
+    },
+    {
+      "name": "RDH70EB",
+      "url": "/aeonair/rdh70eb/parts",
+      "code": "rdh70eb"
+    },
+    {
+      "name": "RDH70EB-1",
+      "url": "/aeonair/rdh70eb-1/parts",
+      "code": "rdh70eb-1"
+    },
+    {
+      "name": "RDH70EDP",
+      "url": "/aeonair/rdh70edp/parts",
+      "code": "rdh70edp"
+    },
+    {
+      "name": "WDH-945EL",
+      "url": "/aeonair/wdh-945el/parts",
+      "code": "wdh-945el"
+    },
+    {
+      "name": "WDH-945EL-1",
+      "url": "/aeonair/wdh-945el-1/parts",
+      "code": "wdh-945el-1"
+    },
+    {
+      "name": "WDH70EAPW",
+      "url": "/aeonair/wdh70eapw/parts",
+      "code": "wdh70eapw"
+    }
+  ],
+  "total_models": 14,
+  "cached_at": "2025-08-14T17:35:46.782384"
+}

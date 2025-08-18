@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Ojeda",
+    "code": "PT_CAT48077",
+    "uri": "ojeda"
+  },
+  "models": [
+    {
+      "name": "ALPA-120",
+      "url": "/ojeda/alpa-120/parts",
+      "code": "alpa-120"
+    },
+    {
+      "name": "ALPA-48",
+      "url": "/ojeda/alpa-48/parts",
+      "code": "alpa-48"
+    },
+    {
+      "name": "ALPA-55",
+      "url": "/ojeda/alpa-55/parts",
+      "code": "alpa-55"
+    },
+    {
+      "name": "ALPA-77",
+      "url": "/ojeda/alpa-77/parts",
+      "code": "alpa-77"
+    },
+    {
+      "name": "ALPA-99",
+      "url": "/ojeda/alpa-99/parts",
+      "code": "alpa-99"
+    },
+    {
+      "name": "Alpa 120 Slim",
+      "url": "/ojeda/alpa-120-slim/parts",
+      "code": "alpa-120-slim"
+    },
+    {
+      "name": "Alpa 120H",
+      "url": "/ojeda/alpa-120h/parts",
+      "code": "alpa-120h"
+    },
+    {
+      "name": "Alpa 55H",
+      "url": "/ojeda/alpa-55h/parts",
+      "code": "alpa-55h"
+    },
+    {
+      "name": "Alpa 77H",
+      "url": "/ojeda/alpa-77h/parts",
+      "code": "alpa-77h"
+    },
+    {
+      "name": "Alpa 99H",
+      "url": "/ojeda/alpa-99h/parts",
+      "code": "alpa-99h"
+    },
+    {
+      "name": "Alpa-36H SS",
+      "url": "/ojeda/alpa-36h-ss/parts",
+      "code": "alpa-36h-ss"
+    },
+    {
+      "name": "CT90",
+      "url": "/ojeda/ct90/parts",
+      "code": "ct90"
+    },
+    {
+      "name": "CT90S",
+      "url": "/ojeda/ct90s/parts",
+      "code": "ct90s"
+    },
+    {
+      "name": "CTFH-3",
+      "url": "/ojeda/ctfh-3/parts",
+      "code": "ctfh-3"
+    },
+    {
+      "name": "CTRH-4",
+      "url": "/ojeda/ctrh-4/parts",
+      "code": "ctrh-4"
+    },
+    {
+      "name": "FMH-12",
+      "url": "/ojeda/fmh-12/parts",
+      "code": "fmh-12"
+    },
+    {
+      "name": "FMH-27",
+      "url": "/ojeda/fmh-27/parts",
+      "code": "fmh-27"
+    },
+    {
+      "name": "FMH-49",
+      "url": "/ojeda/fmh-49/parts",
+      "code": "fmh-49"
+    },
+    {
+      "name": "NB28",
+      "url": "/ojeda/nb28/parts",
+      "code": "nb28"
+    },
+    {
+      "name": "NB34",
+      "url": "/ojeda/nb34/parts",
+      "code": "nb34"
+    },
+    {
+      "name": "NB34-S",
+      "url": "/ojeda/nb34-s/parts",
+      "code": "nb34-s"
+    },
+    {
+      "name": "NB43",
+      "url": "/ojeda/nb43/parts",
+      "code": "nb43"
+    },
+    {
+      "name": "NB51",
+      "url": "/ojeda/nb51/parts",
+      "code": "nb51"
+    },
+    {
+      "name": "NB60",
+      "url": "/ojeda/nb60/parts",
+      "code": "nb60"
+    },
+    {
+      "name": "NB68",
+      "url": "/ojeda/nb68/parts",
+      "code": "nb68"
+    },
+    {
+      "name": "NBH-28",
+      "url": "/ojeda/nbh-28/parts",
+      "code": "nbh-28"
+    },
+    {
+      "name": "NBH-34",
+      "url": "/ojeda/nbh-34/parts",
+      "code": "nbh-34"
+    },
+    {
+      "name": "NBH-43",
+      "url": "/ojeda/nbh-43/parts",
+      "code": "nbh-43"
+    },
+    {
+      "name": "NBH-51",
+      "url": "/ojeda/nbh-51/parts",
+      "code": "nbh-51"
+    },
+    {
+      "name": "NBH-60",
+      "url": "/ojeda/nbh-60/parts",
+      "code": "nbh-60"
+    },
+    {
+      "name": "NBH-68",
+      "url": "/ojeda/nbh-68/parts",
+      "code": "nbh-68"
+    },
+    {
+      "name": "NCF28",
+      "url": "/ojeda/ncf28/parts",
+      "code": "ncf28"
+    },
+    {
+      "name": "NCF34",
+      "url": "/ojeda/ncf34/parts",
+      "code": "ncf34"
+    },
+    {
+      "name": "NCF51",
+      "url": "/ojeda/ncf51/parts",
+      "code": "ncf51"
+    },
+    {
+      "name": "NCF68",
+      "url": "/ojeda/ncf68/parts",
+      "code": "ncf68"
+    },
+    {
+      "name": "RDCH-3",
+      "url": "/ojeda/rdch-3/parts",
+      "code": "rdch-3"
+    },
+    {
+      "name": "RDCH-4",
+      "url": "/ojeda/rdch-4/parts",
+      "code": "rdch-4"
+    },
+    {
+      "name": "RDCH-5",
+      "url": "/ojeda/rdch-5/parts",
+      "code": "rdch-5"
+    },
+    {
+      "name": "RDCH-6",
+      "url": "/ojeda/rdch-6/parts",
+      "code": "rdch-6"
+    },
+    {
+      "name": "RMH-10SL",
+      "url": "/ojeda/rmh-10sl/parts",
+      "code": "rmh-10sl"
+    },
+    {
+      "name": "RMH-27",
+      "url": "/ojeda/rmh-27/parts",
+      "code": "rmh-27"
+    },
+    {
+      "name": "RMH-33PT",
+      "url": "/ojeda/rmh-33pt/parts",
+      "code": "rmh-33pt"
+    },
+    {
+      "name": "RMH-40",
+      "url": "/ojeda/rmh-40/parts",
+      "code": "rmh-40"
+    },
+    {
+      "name": "RMH-8",
+      "url": "/ojeda/rmh-8/parts",
+      "code": "rmh-8"
+    },
+    {
+      "name": "RV2P36",
+      "url": "/ojeda/rv2p36/parts",
+      "code": "rv2p36"
+    },
+    {
+      "name": "RVP145",
+      "url": "/ojeda/rvp145/parts",
+      "code": "rvp145"
+    },
+    {
+      "name": "RVP245",
+      "url": "/ojeda/rvp245/parts",
+      "code": "rvp245"
+    },
+    {
+      "name": "RVP500",
+      "url": "/ojeda/rvp500/parts",
+      "code": "rvp500"
+    },
+    {
+      "name": "VENUS 3",
+      "url": "/ojeda/venus-3/parts",
+      "code": "venus-3"
+    },
+    {
+      "name": "VENUS 4",
+      "url": "/ojeda/venus-4/parts",
+      "code": "venus-4"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:44:48.448157"
+}

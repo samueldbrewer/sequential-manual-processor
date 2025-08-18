@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "Perfection",
+    "code": "PT_CAT219704",
+    "uri": "perfection"
+  },
+  "models": [
+    {
+      "name": "MCD-1",
+      "url": "/perfection/mcd-1/parts",
+      "code": "mcd-1"
+    },
+    {
+      "name": "MCD-1FF",
+      "url": "/perfection/mcd-1ff/parts",
+      "code": "mcd-1ff"
+    },
+    {
+      "name": "MCD-1FFDS",
+      "url": "/perfection/mcd-1ffds/parts",
+      "code": "mcd-1ffds"
+    },
+    {
+      "name": "MCD-2",
+      "url": "/perfection/mcd-2/parts",
+      "code": "mcd-2"
+    },
+    {
+      "name": "PE-BOH",
+      "url": "/perfection/pe-boh/parts",
+      "code": "pe-boh"
+    },
+    {
+      "name": "PP1000-1",
+      "url": "/perfection/pp1000-1/parts",
+      "code": "pp1000-1"
+    },
+    {
+      "name": "PP1000-2",
+      "url": "/perfection/pp1000-2/parts",
+      "code": "pp1000-2"
+    },
+    {
+      "name": "PP1000-3",
+      "url": "/perfection/pp1000-3/parts",
+      "code": "pp1000-3"
+    },
+    {
+      "name": "UC1P1PT",
+      "url": "/perfection/uc1p1pt/parts",
+      "code": "uc1p1pt"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T19:48:39.089207"
+}

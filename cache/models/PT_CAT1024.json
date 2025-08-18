@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Bakers Pride",
+    "code": "PT_CAT1024",
+    "uri": "bakers-pride"
+  },
+  "models": [
+    {
+      "name": "101",
+      "url": "/bakers-pride/101/parts",
+      "code": "101"
+    },
+    {
+      "name": "151",
+      "url": "/bakers-pride/151/parts",
+      "code": "151"
+    },
+    {
+      "name": "201",
+      "url": "/bakers-pride/201/parts",
+      "code": "201"
+    },
+    {
+      "name": "251",
+      "url": "/bakers-pride/251/parts",
+      "code": "251"
+    },
+    {
+      "name": "301",
+      "url": "/bakers-pride/301/parts",
+      "code": "301"
+    },
+    {
+      "name": "307",
+      "url": "/bakers-pride/307/parts",
+      "code": "307"
+    },
+    {
+      "name": "3151",
+      "url": "/bakers-pride/3151/parts",
+      "code": "3151"
+    },
+    {
+      "name": "351",
+      "url": "/bakers-pride/351/parts",
+      "code": "351"
+    },
+    {
+      "name": "401",
+      "url": "/bakers-pride/401/parts",
+      "code": "401"
+    },
+    {
+      "name": "4151",
+      "url": "/bakers-pride/4151/parts",
+      "code": "4151"
+    },
+    {
+      "name": "451",
+      "url": "/bakers-pride/451/parts",
+      "code": "451"
+    },
+    {
+      "name": "922",
+      "url": "/bakers-pride/922/parts",
+      "code": "922"
+    },
+    {
+      "name": "932",
+      "url": "/bakers-pride/932/parts",
+      "code": "932"
+    },
+    {
+      "name": "APC-18",
+      "url": "/bakers-pride/apc-18/parts",
+      "code": "apc-18"
+    },
+    {
+      "name": "AT EXPRESS",
+      "url": "/bakers-pride/at-express/parts",
+      "code": "at-express"
+    },
+    {
+      "name": "BCO-E1",
+      "url": "/bakers-pride/bco-e1/parts",
+      "code": "bco-e1"
+    },
+    {
+      "name": "BCO-E2",
+      "url": "/bakers-pride/bco-e2/parts",
+      "code": "bco-e2"
+    },
+    {
+      "name": "BCO-G1",
+      "url": "/bakers-pride/bco-g1/parts",
+      "code": "bco-g1"
+    },
+    {
+      "name": "BCO-G2",
+      "url": "/bakers-pride/bco-g2/parts",
+      "code": "bco-g2"
+    },
+    {
+      "name": "BK-18",
+      "url": "/bakers-pride/bk-18/parts",
+      "code": "bk-18"
+    },
+    {
+      "name": "BP Series",
+      "url": "/bakers-pride/bp-series/parts",
+      "code": "bp-series"
+    },
+    {
+      "name": "BPCV-1",
+      "url": "/bakers-pride/bpcv-1/parts",
+      "code": "bpcv-1"
+    },
+    {
+      "name": "BPCV-1-1W",
+      "url": "/bakers-pride/bpcv-1-1w/parts",
+      "code": "bpcv-1-1w"
+    },
+    {
+      "name": "BPCV-1-2W",
+      "url": "/bakers-pride/bpcv-1-2w/parts",
+      "code": "bpcv-1-2w"
+    },
+    {
+      "name": "BPCV-2",
+      "url": "/bakers-pride/bpcv-2/parts",
+      "code": "bpcv-2"
+    },
+    {
+      "name": "BPCV-2-1W",
+      "url": "/bakers-pride/bpcv-2-1w/parts",
+      "code": "bpcv-2-1w"
+    },
+    {
+      "name": "BPCV-2-2W",
+      "url": "/bakers-pride/bpcv-2-2w/parts",
+      "code": "bpcv-2-2w"
+    },
+    {
+      "name": "BPCV-G",
+      "url": "/bakers-pride/bpcv-g/parts",
+      "code": "bpcv-g"
+    },
+    {
+      "name": "BPF-3540",
+      "url": "/bakers-pride/bpf-3540/parts",
+      "code": "bpf-3540"
+    },
+    {
+      "name": "BPF-4050",
+      "url": "/bakers-pride/bpf-4050/parts",
+      "code": "bpf-4050"
+    },
+    {
+      "name": "BPF-6575",
+      "url": "/bakers-pride/bpf-6575/parts",
+      "code": "bpf-6575"
+    },
+    {
+      "name": "BPHDCB-2424i",
+      "url": "/bakers-pride/bphdcb-2424i/parts",
+      "code": "bphdcb-2424i"
+    },
+    {
+      "name": "BPHDCB-2436i",
+      "url": "/bakers-pride/bphdcb-2436i/parts",
+      "code": "bphdcb-2436i"
+    },
+    {
+      "name": "BPHDCB-2460i",
+      "url": "/bakers-pride/bphdcb-2460i/parts",
+      "code": "bphdcb-2460i"
+    },
+    {
+      "name": "BPHDCB-2472i",
+      "url": "/bakers-pride/bphdcb-2472i/parts",
+      "code": "bphdcb-2472i"
+    },
+    {
+      "name": "BPHDCRB-2424i",
+      "url": "/bakers-pride/bphdcrb-2424i/parts",
+      "code": "bphdcrb-2424i"
+    },
+    {
+      "name": "BPHDCRB-2436i",
+      "url": "/bakers-pride/bphdcrb-2436i/parts",
+      "code": "bphdcrb-2436i"
+    },
+    {
+      "name": "BPHDCRB-2448i",
+      "url": "/bakers-pride/bphdcrb-2448i/parts",
+      "code": "bphdcrb-2448i"
+    },
+    {
+      "name": "BPHDCRB-2460i",
+      "url": "/bakers-pride/bphdcrb-2460i/parts",
+      "code": "bphdcrb-2460i"
+    },
+    {
+      "name": "BPHDCRB-2472i",
+      "url": "/bakers-pride/bphdcrb-2472i/parts",
+      "code": "bphdcrb-2472i"
+    },
+    {
+      "name": "BPHEF-15Si",
+      "url": "/bakers-pride/bphef-15si/parts",
+      "code": "bphef-15si"
+    },
+    {
+      "name": "BPHHP-212i",
+      "url": "/bakers-pride/bphhp-212i/parts",
+      "code": "bphhp-212i"
+    },
+    {
+      "name": "BPHHP-424i",
+      "url": "/bakers-pride/bphhp-424i/parts",
+      "code": "bphhp-424i"
+    },
+    {
+      "name": "BPHHP-636i",
+      "url": "/bakers-pride/bphhp-636i/parts",
+      "code": "bphhp-636i"
+    },
+    {
+      "name": "BPHHP-848i",
+      "url": "/bakers-pride/bphhp-848i/parts",
+      "code": "bphhp-848i"
+    },
+    {
+      "name": "BPHHPS-212i",
+      "url": "/bakers-pride/bphhps-212i/parts",
+      "code": "bphhps-212i"
+    },
+    {
+      "name": "BPHHPS-424i",
+      "url": "/bakers-pride/bphhps-424i/parts",
+      "code": "bphhps-424i"
+    },
+    {
+      "name": "BPHHPS-636i",
+      "url": "/bakers-pride/bphhps-636i/parts",
+      "code": "bphhps-636i"
+    },
+    {
+      "name": "BPHHPS-848i",
+      "url": "/bakers-pride/bphhps-848i/parts",
+      "code": "bphhps-848i"
+    },
+    {
+      "name": "BPHMG-2424i",
+      "url": "/bakers-pride/bphmg-2424i/parts",
+      "code": "bphmg-2424i"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:51:23.269919"
+}

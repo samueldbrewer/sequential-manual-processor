@@ -1,0 +1,116 @@
+{
+  "manufacturer": {
+    "name": "Lockwood",
+    "code": "PT_CAT47963",
+    "uri": "lockwood"
+  },
+  "models": [
+    {
+      "name": "CA33-RR12",
+      "url": "/lockwood/ca33-rr12/parts",
+      "code": "ca33-rr12"
+    },
+    {
+      "name": "CA36-RR5-PT-6PS",
+      "url": "/lockwood/ca36-rr5-pt-6ps/parts",
+      "code": "ca36-rr5-pt-6ps"
+    },
+    {
+      "name": "CA57-RR15-CD-L",
+      "url": "/lockwood/ca57-rr15-cd-l/parts",
+      "code": "ca57-rr15-cd-l"
+    },
+    {
+      "name": "CA57-RR15-CD-R",
+      "url": "/lockwood/ca57-rr15-cd-r/parts",
+      "code": "ca57-rr15-cd-r"
+    },
+    {
+      "name": "CA57-RR15-CD-R-L",
+      "url": "/lockwood/ca57-rr15-cd-r-l/parts",
+      "code": "ca57-rr15-cd-r-l"
+    },
+    {
+      "name": "CA57-RR15-CD-S-R-L",
+      "url": "/lockwood/ca57-rr15-cd-s-r-l/parts",
+      "code": "ca57-rr15-cd-s-r-l"
+    },
+    {
+      "name": "CA57\u2010RR15\u2010CD\u2010S\u2010L",
+      "url": "/lockwood/ca57-rr15-cd-s-l/parts",
+      "code": "ca57-rr15-cd-s-l"
+    },
+    {
+      "name": "CA57\u2010RR15\u2010CD\u2010S\u2010R",
+      "url": "/lockwood/ca57-rr15-cd-s-r/parts",
+      "code": "ca57-rr15-cd-s-r"
+    },
+    {
+      "name": "CA60-RR25",
+      "url": "/lockwood/ca60-rr25/parts",
+      "code": "ca60-rr25"
+    },
+    {
+      "name": "CA60-RR25-C",
+      "url": "/lockwood/ca60-rr25-c/parts",
+      "code": "ca60-rr25-c"
+    },
+    {
+      "name": "CA72-RR12-6-L",
+      "url": "/lockwood/ca72-rr12-6-l/parts",
+      "code": "ca72-rr12-6-l"
+    },
+    {
+      "name": "CA72-RR12-6-R-L",
+      "url": "/lockwood/ca72-rr12-6-r-l/parts",
+      "code": "ca72-rr12-6-r-l"
+    },
+    {
+      "name": "CA72-RR18-R-L",
+      "url": "/lockwood/ca72-rr18-r-l/parts",
+      "code": "ca72-rr18-r-l"
+    },
+    {
+      "name": "CA72-RR18-S-R-L",
+      "url": "/lockwood/ca72-rr18-s-r-l/parts",
+      "code": "ca72-rr18-s-r-l"
+    },
+    {
+      "name": "CA72\u2010RR18\u2010S\u2010L",
+      "url": "/lockwood/ca72-rr18-s-l/parts",
+      "code": "ca72-rr18-s-l"
+    },
+    {
+      "name": "CA72\u2010RR18\u2010S\u2010R",
+      "url": "/lockwood/ca72-rr18-s-r/parts",
+      "code": "ca72-rr18-s-r"
+    },
+    {
+      "name": "H-HEAT",
+      "url": "/lockwood/h-heat/parts",
+      "code": "h-heat"
+    },
+    {
+      "name": "H-HEAT UNIT-74",
+      "url": "/lockwood/h-heat-unit-74/parts",
+      "code": "h-heat-unit-74"
+    },
+    {
+      "name": "H-HEAT UNIT-EXT",
+      "url": "/lockwood/h-heat-unit-ext/parts",
+      "code": "h-heat-unit-ext"
+    },
+    {
+      "name": "H-HEAT UNIT-EXT-6",
+      "url": "/lockwood/h-heat-unit-ext-6/parts",
+      "code": "h-heat-unit-ext-6"
+    },
+    {
+      "name": "H-HEAT UNIT-INT",
+      "url": "/lockwood/h-heat-unit-int/parts",
+      "code": "h-heat-unit-int"
+    }
+  ],
+  "total_models": 21,
+  "cached_at": "2025-08-14T19:22:48.789286"
+}

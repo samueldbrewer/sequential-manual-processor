@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Mallet",
+    "code": "PT_CAT235449",
+    "uri": "mallet"
+  },
+  "models": [
+    {
+      "name": "PPO 500",
+      "url": "/mallet/ppo-500/parts",
+      "code": "ppo-500"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:24:37.383429"
+}

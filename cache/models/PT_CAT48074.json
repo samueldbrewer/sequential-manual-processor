@@ -1,0 +1,226 @@
+{
+  "manufacturer": {
+    "name": "Rotisol",
+    "code": "PT_CAT48074",
+    "uri": "rotisol"
+  },
+  "models": [
+    {
+      "name": "1350NGF6",
+      "url": "/rotisol/1350ngf6/parts",
+      "code": "1350ngf6"
+    },
+    {
+      "name": "FB1160-4G",
+      "url": "/rotisol/fb1160-4g/parts",
+      "code": "fb1160-4g"
+    },
+    {
+      "name": "FB1160-6G",
+      "url": "/rotisol/fb1160-6g/parts",
+      "code": "fb1160-6g"
+    },
+    {
+      "name": "FB1160-8G",
+      "url": "/rotisol/fb1160-8g/parts",
+      "code": "fb1160-8g"
+    },
+    {
+      "name": "FB1400-4G",
+      "url": "/rotisol/fb1400-4g/parts",
+      "code": "fb1400-4g"
+    },
+    {
+      "name": "FB1400-6G",
+      "url": "/rotisol/fb1400-6g/parts",
+      "code": "fb1400-6g"
+    },
+    {
+      "name": "FB1400-8G",
+      "url": "/rotisol/fb1400-8g/parts",
+      "code": "fb1400-8g"
+    },
+    {
+      "name": "FBP5.320",
+      "url": "/rotisol/fbp5-320/parts",
+      "code": "fbp5-320"
+    },
+    {
+      "name": "FBP5.520",
+      "url": "/rotisol/fbp5-520/parts",
+      "code": "fbp5-520"
+    },
+    {
+      "name": "FBP8.520",
+      "url": "/rotisol/fbp8-520/parts",
+      "code": "fbp8-520"
+    },
+    {
+      "name": "FBP8.720",
+      "url": "/rotisol/fbp8-720/parts",
+      "code": "fbp8-720"
+    },
+    {
+      "name": "FFS1140-4G",
+      "url": "/rotisol/ffs1140-4g/parts",
+      "code": "ffs1140-4g"
+    },
+    {
+      "name": "GF1375-12G",
+      "url": "/rotisol/gf1375-12g/parts",
+      "code": "gf1375-12g"
+    },
+    {
+      "name": "GF1375-2E",
+      "url": "/rotisol/gf1375-2e/parts",
+      "code": "gf1375-2e"
+    },
+    {
+      "name": "GF1375-2G",
+      "url": "/rotisol/gf1375-2g/parts",
+      "code": "gf1375-2g"
+    },
+    {
+      "name": "GF1375-4G",
+      "url": "/rotisol/gf1375-4g/parts",
+      "code": "gf1375-4g"
+    },
+    {
+      "name": "GF1375-5E",
+      "url": "/rotisol/gf1375-5e/parts",
+      "code": "gf1375-5e"
+    },
+    {
+      "name": "GF1375-5G",
+      "url": "/rotisol/gf1375-5g/parts",
+      "code": "gf1375-5g"
+    },
+    {
+      "name": "GF1375-6G",
+      "url": "/rotisol/gf1375-6g/parts",
+      "code": "gf1375-6g"
+    },
+    {
+      "name": "GF1375-8E",
+      "url": "/rotisol/gf1375-8e/parts",
+      "code": "gf1375-8e"
+    },
+    {
+      "name": "GF1375-8G",
+      "url": "/rotisol/gf1375-8g/parts",
+      "code": "gf1375-8g"
+    },
+    {
+      "name": "GF1675-8G",
+      "url": "/rotisol/gf1675-8g/parts",
+      "code": "gf1675-8g"
+    },
+    {
+      "name": "GF975-2E",
+      "url": "/rotisol/gf975-2e/parts",
+      "code": "gf975-2e"
+    },
+    {
+      "name": "GF975-2G",
+      "url": "/rotisol/gf975-2g/parts",
+      "code": "gf975-2g"
+    },
+    {
+      "name": "GF975-4G",
+      "url": "/rotisol/gf975-4g/parts",
+      "code": "gf975-4g"
+    },
+    {
+      "name": "GF975-5E",
+      "url": "/rotisol/gf975-5e/parts",
+      "code": "gf975-5e"
+    },
+    {
+      "name": "GF975-5G",
+      "url": "/rotisol/gf975-5g/parts",
+      "code": "gf975-5g"
+    },
+    {
+      "name": "GF975-6G",
+      "url": "/rotisol/gf975-6g/parts",
+      "code": "gf975-6g"
+    },
+    {
+      "name": "GF975-8E",
+      "url": "/rotisol/gf975-8e/parts",
+      "code": "gf975-8e"
+    },
+    {
+      "name": "GF975-8G",
+      "url": "/rotisol/gf975-8g/parts",
+      "code": "gf975-8g"
+    },
+    {
+      "name": "MF1375-4E",
+      "url": "/rotisol/mf1375-4e/parts",
+      "code": "mf1375-4e"
+    },
+    {
+      "name": "MF1375-4G",
+      "url": "/rotisol/mf1375-4g/parts",
+      "code": "mf1375-4g"
+    },
+    {
+      "name": "MF1375-6E",
+      "url": "/rotisol/mf1375-6e/parts",
+      "code": "mf1375-6e"
+    },
+    {
+      "name": "MF1375-6G",
+      "url": "/rotisol/mf1375-6g/parts",
+      "code": "mf1375-6g"
+    },
+    {
+      "name": "MF975-2E",
+      "url": "/rotisol/mf975-2e/parts",
+      "code": "mf975-2e"
+    },
+    {
+      "name": "MF975-2G",
+      "url": "/rotisol/mf975-2g/parts",
+      "code": "mf975-2g"
+    },
+    {
+      "name": "MF975-4E",
+      "url": "/rotisol/mf975-4e/parts",
+      "code": "mf975-4e"
+    },
+    {
+      "name": "MF975-4G",
+      "url": "/rotisol/mf975-4g/parts",
+      "code": "mf975-4g"
+    },
+    {
+      "name": "MF975-6E",
+      "url": "/rotisol/mf975-6e/parts",
+      "code": "mf975-6e"
+    },
+    {
+      "name": "MF975-6G",
+      "url": "/rotisol/mf975-6g/parts",
+      "code": "mf975-6g"
+    },
+    {
+      "name": "MOGC 1500",
+      "url": "/rotisol/mogc-1500/parts",
+      "code": "mogc-1500"
+    },
+    {
+      "name": "SK1375-6E",
+      "url": "/rotisol/sk1375-6e/parts",
+      "code": "sk1375-6e"
+    },
+    {
+      "name": "SK1375-6G",
+      "url": "/rotisol/sk1375-6g/parts",
+      "code": "sk1375-6g"
+    }
+  ],
+  "total_models": 43,
+  "cached_at": "2025-08-14T20:04:46.841081"
+}

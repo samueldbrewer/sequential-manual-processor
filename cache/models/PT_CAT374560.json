@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Modine",
+    "code": "PT_CAT374560",
+    "uri": "modine"
+  },
+  "models": [
+    {
+      "name": "BA105",
+      "url": "/modine/ba105/parts",
+      "code": "ba105"
+    },
+    {
+      "name": "BA130",
+      "url": "/modine/ba130/parts",
+      "code": "ba130"
+    },
+    {
+      "name": "BA145",
+      "url": "/modine/ba145/parts",
+      "code": "ba145"
+    },
+    {
+      "name": "BA150",
+      "url": "/modine/ba150/parts",
+      "code": "ba150"
+    },
+    {
+      "name": "BA165",
+      "url": "/modine/ba165/parts",
+      "code": "ba165"
+    },
+    {
+      "name": "BA175",
+      "url": "/modine/ba175/parts",
+      "code": "ba175"
+    },
+    {
+      "name": "BA200",
+      "url": "/modine/ba200/parts",
+      "code": "ba200"
+    },
+    {
+      "name": "BA225",
+      "url": "/modine/ba225/parts",
+      "code": "ba225"
+    },
+    {
+      "name": "BA250",
+      "url": "/modine/ba250/parts",
+      "code": "ba250"
+    },
+    {
+      "name": "BA30",
+      "url": "/modine/ba30/parts",
+      "code": "ba30"
+    },
+    {
+      "name": "BA300",
+      "url": "/modine/ba300/parts",
+      "code": "ba300"
+    },
+    {
+      "name": "BA350",
+      "url": "/modine/ba350/parts",
+      "code": "ba350"
+    },
+    {
+      "name": "BA400",
+      "url": "/modine/ba400/parts",
+      "code": "ba400"
+    },
+    {
+      "name": "BA50",
+      "url": "/modine/ba50/parts",
+      "code": "ba50"
+    },
+    {
+      "name": "BA75",
+      "url": "/modine/ba75/parts",
+      "code": "ba75"
+    },
+    {
+      "name": "BAE100",
+      "url": "/modine/bae100/parts",
+      "code": "bae100"
+    },
+    {
+      "name": "BAE125",
+      "url": "/modine/bae125/parts",
+      "code": "bae125"
+    },
+    {
+      "name": "BAE145",
+      "url": "/modine/bae145/parts",
+      "code": "bae145"
+    },
+    {
+      "name": "BAE175",
+      "url": "/modine/bae175/parts",
+      "code": "bae175"
+    },
+    {
+      "name": "BAE200",
+      "url": "/modine/bae200/parts",
+      "code": "bae200"
+    },
+    {
+      "name": "BAE225",
+      "url": "/modine/bae225/parts",
+      "code": "bae225"
+    },
+    {
+      "name": "BAE250",
+      "url": "/modine/bae250/parts",
+      "code": "bae250"
+    },
+    {
+      "name": "BAE350",
+      "url": "/modine/bae350/parts",
+      "code": "bae350"
+    },
+    {
+      "name": "BAE50",
+      "url": "/modine/bae50/parts",
+      "code": "bae50"
+    },
+    {
+      "name": "BAE75",
+      "url": "/modine/bae75/parts",
+      "code": "bae75"
+    },
+    {
+      "name": "BD100",
+      "url": "/modine/bd100/parts",
+      "code": "bd100"
+    },
+    {
+      "name": "BD125",
+      "url": "/modine/bd125/parts",
+      "code": "bd125"
+    },
+    {
+      "name": "BD150",
+      "url": "/modine/bd150/parts",
+      "code": "bd150"
+    },
+    {
+      "name": "BD175",
+      "url": "/modine/bd175/parts",
+      "code": "bd175"
+    },
+    {
+      "name": "BD200",
+      "url": "/modine/bd200/parts",
+      "code": "bd200"
+    },
+    {
+      "name": "BD250",
+      "url": "/modine/bd250/parts",
+      "code": "bd250"
+    },
+    {
+      "name": "BD300",
+      "url": "/modine/bd300/parts",
+      "code": "bd300"
+    },
+    {
+      "name": "BD350",
+      "url": "/modine/bd350/parts",
+      "code": "bd350"
+    },
+    {
+      "name": "BD400",
+      "url": "/modine/bd400/parts",
+      "code": "bd400"
+    },
+    {
+      "name": "BD50",
+      "url": "/modine/bd50/parts",
+      "code": "bd50"
+    },
+    {
+      "name": "BD75",
+      "url": "/modine/bd75/parts",
+      "code": "bd75"
+    },
+    {
+      "name": "BDP100",
+      "url": "/modine/bdp100/parts",
+      "code": "bdp100"
+    },
+    {
+      "name": "BDP125",
+      "url": "/modine/bdp125/parts",
+      "code": "bdp125"
+    },
+    {
+      "name": "BDP150",
+      "url": "/modine/bdp150/parts",
+      "code": "bdp150"
+    },
+    {
+      "name": "BDP175",
+      "url": "/modine/bdp175/parts",
+      "code": "bdp175"
+    },
+    {
+      "name": "BDP200",
+      "url": "/modine/bdp200/parts",
+      "code": "bdp200"
+    },
+    {
+      "name": "BDP250",
+      "url": "/modine/bdp250/parts",
+      "code": "bdp250"
+    },
+    {
+      "name": "BDP300",
+      "url": "/modine/bdp300/parts",
+      "code": "bdp300"
+    },
+    {
+      "name": "BDP350",
+      "url": "/modine/bdp350/parts",
+      "code": "bdp350"
+    },
+    {
+      "name": "BDP400",
+      "url": "/modine/bdp400/parts",
+      "code": "bdp400"
+    },
+    {
+      "name": "BDP50",
+      "url": "/modine/bdp50/parts",
+      "code": "bdp50"
+    },
+    {
+      "name": "BDP75",
+      "url": "/modine/bdp75/parts",
+      "code": "bdp75"
+    },
+    {
+      "name": "BTS150",
+      "url": "/modine/bts150/parts",
+      "code": "bts150"
+    },
+    {
+      "name": "BTS175",
+      "url": "/modine/bts175/parts",
+      "code": "bts175"
+    },
+    {
+      "name": "BTS200",
+      "url": "/modine/bts200/parts",
+      "code": "bts200"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:34:55.335104"
+}

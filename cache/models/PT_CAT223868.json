@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "Elmeco",
+    "code": "PT_CAT223868",
+    "uri": "elmeco"
+  },
+  "models": [
+    {
+      "name": "BB1",
+      "url": "/elmeco/bb1/parts",
+      "code": "bb1"
+    },
+    {
+      "name": "BB2",
+      "url": "/elmeco/bb2/parts",
+      "code": "bb2"
+    },
+    {
+      "name": "BL1",
+      "url": "/elmeco/bl1/parts",
+      "code": "bl1"
+    },
+    {
+      "name": "BL2",
+      "url": "/elmeco/bl2/parts",
+      "code": "bl2"
+    },
+    {
+      "name": "BL2 Plus",
+      "url": "/elmeco/bl2-plus/parts",
+      "code": "bl2-plus"
+    },
+    {
+      "name": "BS1",
+      "url": "/elmeco/bs1/parts",
+      "code": "bs1"
+    },
+    {
+      "name": "FC1",
+      "url": "/elmeco/fc1/parts",
+      "code": "fc1"
+    },
+    {
+      "name": "FC2",
+      "url": "/elmeco/fc2/parts",
+      "code": "fc2"
+    },
+    {
+      "name": "FC3",
+      "url": "/elmeco/fc3/parts",
+      "code": "fc3"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T18:27:52.353633"
+}

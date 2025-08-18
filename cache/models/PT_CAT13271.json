@@ -1,0 +1,121 @@
+{
+  "manufacturer": {
+    "name": "Avtec",
+    "code": "PT_CAT13271",
+    "uri": "avtec"
+  },
+  "models": [
+    {
+      "name": "BT",
+      "url": "/avtec/bt/parts",
+      "code": "bt"
+    },
+    {
+      "name": "CB",
+      "url": "/avtec/cb/parts",
+      "code": "cb"
+    },
+    {
+      "name": "CBSW",
+      "url": "/avtec/cbsw/parts",
+      "code": "cbsw"
+    },
+    {
+      "name": "CC",
+      "url": "/avtec/cc/parts",
+      "code": "cc"
+    },
+    {
+      "name": "CF",
+      "url": "/avtec/cf/parts",
+      "code": "cf"
+    },
+    {
+      "name": "CI",
+      "url": "/avtec/ci/parts",
+      "code": "ci"
+    },
+    {
+      "name": "CP",
+      "url": "/avtec/cp/parts",
+      "code": "cp"
+    },
+    {
+      "name": "CR",
+      "url": "/avtec/cr/parts",
+      "code": "cr"
+    },
+    {
+      "name": "CS",
+      "url": "/avtec/cs/parts",
+      "code": "cs"
+    },
+    {
+      "name": "EA EA2000",
+      "url": "/avtec/ea-ea2000/parts",
+      "code": "ea-ea2000"
+    },
+    {
+      "name": "EA EA2000P",
+      "url": "/avtec/ea-ea2000p/parts",
+      "code": "ea-ea2000p"
+    },
+    {
+      "name": "EA EA4000",
+      "url": "/avtec/ea-ea4000/parts",
+      "code": "ea-ea4000"
+    },
+    {
+      "name": "EA EA4000P",
+      "url": "/avtec/ea-ea4000p/parts",
+      "code": "ea-ea4000p"
+    },
+    {
+      "name": "EA UV",
+      "url": "/avtec/ea-uv/parts",
+      "code": "ea-uv"
+    },
+    {
+      "name": "EA2",
+      "url": "/avtec/ea2/parts",
+      "code": "ea2"
+    },
+    {
+      "name": "EA2 UV",
+      "url": "/avtec/ea2-uv/parts",
+      "code": "ea2-uv"
+    },
+    {
+      "name": "EA4",
+      "url": "/avtec/ea4/parts",
+      "code": "ea4"
+    },
+    {
+      "name": "ECOARCH",
+      "url": "/avtec/ecoarch/parts",
+      "code": "ecoarch"
+    },
+    {
+      "name": "MIST-A-FIRE",
+      "url": "/avtec/mist-a-fire/parts",
+      "code": "mist-a-fire"
+    },
+    {
+      "name": "RACEWAY",
+      "url": "/avtec/raceway/parts",
+      "code": "raceway"
+    },
+    {
+      "name": "TRAY-TRAC",
+      "url": "/avtec/tray-trac/parts",
+      "code": "tray-trac"
+    },
+    {
+      "name": "Ventilation System",
+      "url": "/avtec/ventilation-system/parts",
+      "code": "ventilation-system"
+    }
+  ],
+  "total_models": 22,
+  "cached_at": "2025-08-14T17:50:12.355943"
+}

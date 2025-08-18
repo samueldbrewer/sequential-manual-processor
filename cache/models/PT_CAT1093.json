@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hamilton Beach Commercial",
+    "code": "PT_CAT1093",
+    "uri": "hamilton-beach-commercial"
+  },
+  "models": [
+    {
+      "name": "1132466",
+      "url": "/hamilton-beach-commercial/1132466/parts",
+      "code": "1132466"
+    },
+    {
+      "name": "1132466-C",
+      "url": "/hamilton-beach-commercial/1132466-c/parts",
+      "code": "1132466-c"
+    },
+    {
+      "name": "1G908",
+      "url": "/hamilton-beach-commercial/1g908/parts",
+      "code": "1g908"
+    },
+    {
+      "name": "1G908-B",
+      "url": "/hamilton-beach-commercial/1g908-b/parts",
+      "code": "1g908-b"
+    },
+    {
+      "name": "1G908-C",
+      "url": "/hamilton-beach-commercial/1g908-c/parts",
+      "code": "1g908-c"
+    },
+    {
+      "name": "1G908-CCC-G",
+      "url": "/hamilton-beach-commercial/1g908-ccc-g/parts",
+      "code": "1g908-ccc-g"
+    },
+    {
+      "name": "1G908-D",
+      "url": "/hamilton-beach-commercial/1g908-d/parts",
+      "code": "1g908-d"
+    },
+    {
+      "name": "1G908-E",
+      "url": "/hamilton-beach-commercial/1g908-e/parts",
+      "code": "1g908-e"
+    },
+    {
+      "name": "1G908-F",
+      "url": "/hamilton-beach-commercial/1g908-f/parts",
+      "code": "1g908-f"
+    },
+    {
+      "name": "1G908-G",
+      "url": "/hamilton-beach-commercial/1g908-g/parts",
+      "code": "1g908-g"
+    },
+    {
+      "name": "1G908-UK",
+      "url": "/hamilton-beach-commercial/1g908-uk/parts",
+      "code": "1g908-uk"
+    },
+    {
+      "name": "1G908-UK-A",
+      "url": "/hamilton-beach-commercial/1g908-uk-a/parts",
+      "code": "1g908-uk-a"
+    },
+    {
+      "name": "1G908-UK-G",
+      "url": "/hamilton-beach-commercial/1g908-uk-g/parts",
+      "code": "1g908-uk-g"
+    },
+    {
+      "name": "1G908CCC",
+      "url": "/hamilton-beach-commercial/1g908ccc/parts",
+      "code": "1g908ccc"
+    },
+    {
+      "name": "1G909",
+      "url": "/hamilton-beach-commercial/1g909/parts",
+      "code": "1g909"
+    },
+    {
+      "name": "1G909-B",
+      "url": "/hamilton-beach-commercial/1g909-b/parts",
+      "code": "1g909-b"
+    },
+    {
+      "name": "1G909-C",
+      "url": "/hamilton-beach-commercial/1g909-c/parts",
+      "code": "1g909-c"
+    },
+    {
+      "name": "1G909-CCC-G",
+      "url": "/hamilton-beach-commercial/1g909-ccc-g/parts",
+      "code": "1g909-ccc-g"
+    },
+    {
+      "name": "1G909-D",
+      "url": "/hamilton-beach-commercial/1g909-d/parts",
+      "code": "1g909-d"
+    },
+    {
+      "name": "1G909-E",
+      "url": "/hamilton-beach-commercial/1g909-e/parts",
+      "code": "1g909-e"
+    },
+    {
+      "name": "1G909-F",
+      "url": "/hamilton-beach-commercial/1g909-f/parts",
+      "code": "1g909-f"
+    },
+    {
+      "name": "1G909-G",
+      "url": "/hamilton-beach-commercial/1g909-g/parts",
+      "code": "1g909-g"
+    },
+    {
+      "name": "1G909-UK",
+      "url": "/hamilton-beach-commercial/1g909-uk/parts",
+      "code": "1g909-uk"
+    },
+    {
+      "name": "1G909-UK-A",
+      "url": "/hamilton-beach-commercial/1g909-uk-a/parts",
+      "code": "1g909-uk-a"
+    },
+    {
+      "name": "1G909-UK-G",
+      "url": "/hamilton-beach-commercial/1g909-uk-g/parts",
+      "code": "1g909-uk-g"
+    },
+    {
+      "name": "1G909CCC",
+      "url": "/hamilton-beach-commercial/1g909ccc/parts",
+      "code": "1g909ccc"
+    },
+    {
+      "name": "1G911",
+      "url": "/hamilton-beach-commercial/1g911/parts",
+      "code": "1g911"
+    },
+    {
+      "name": "1G911-B",
+      "url": "/hamilton-beach-commercial/1g911-b/parts",
+      "code": "1g911-b"
+    },
+    {
+      "name": "1G911-C",
+      "url": "/hamilton-beach-commercial/1g911-c/parts",
+      "code": "1g911-c"
+    },
+    {
+      "name": "1G911-D",
+      "url": "/hamilton-beach-commercial/1g911-d/parts",
+      "code": "1g911-d"
+    },
+    {
+      "name": "1G911-E",
+      "url": "/hamilton-beach-commercial/1g911-e/parts",
+      "code": "1g911-e"
+    },
+    {
+      "name": "1G911-F",
+      "url": "/hamilton-beach-commercial/1g911-f/parts",
+      "code": "1g911-f"
+    },
+    {
+      "name": "1G911-G",
+      "url": "/hamilton-beach-commercial/1g911-g/parts",
+      "code": "1g911-g"
+    },
+    {
+      "name": "1G911-UK",
+      "url": "/hamilton-beach-commercial/1g911-uk/parts",
+      "code": "1g911-uk"
+    },
+    {
+      "name": "1G911-UK-A",
+      "url": "/hamilton-beach-commercial/1g911-uk-a/parts",
+      "code": "1g911-uk-a"
+    },
+    {
+      "name": "1G911-UK-B",
+      "url": "/hamilton-beach-commercial/1g911-uk-b/parts",
+      "code": "1g911-uk-b"
+    },
+    {
+      "name": "1G911-UK-C",
+      "url": "/hamilton-beach-commercial/1g911-uk-c/parts",
+      "code": "1g911-uk-c"
+    },
+    {
+      "name": "1G911-UK-D",
+      "url": "/hamilton-beach-commercial/1g911-uk-d/parts",
+      "code": "1g911-uk-d"
+    },
+    {
+      "name": "1G911-UK-E",
+      "url": "/hamilton-beach-commercial/1g911-uk-e/parts",
+      "code": "1g911-uk-e"
+    },
+    {
+      "name": "1G911-UK-G",
+      "url": "/hamilton-beach-commercial/1g911-uk-g/parts",
+      "code": "1g911-uk-g"
+    },
+    {
+      "name": "1G912",
+      "url": "/hamilton-beach-commercial/1g912/parts",
+      "code": "1g912"
+    },
+    {
+      "name": "1G912-A",
+      "url": "/hamilton-beach-commercial/1g912-a/parts",
+      "code": "1g912-a"
+    },
+    {
+      "name": "1G912-B",
+      "url": "/hamilton-beach-commercial/1g912-b/parts",
+      "code": "1g912-b"
+    },
+    {
+      "name": "1G912-C",
+      "url": "/hamilton-beach-commercial/1g912-c/parts",
+      "code": "1g912-c"
+    },
+    {
+      "name": "1G912-D",
+      "url": "/hamilton-beach-commercial/1g912-d/parts",
+      "code": "1g912-d"
+    },
+    {
+      "name": "1G912-E",
+      "url": "/hamilton-beach-commercial/1g912-e/parts",
+      "code": "1g912-e"
+    },
+    {
+      "name": "1G912-F",
+      "url": "/hamilton-beach-commercial/1g912-f/parts",
+      "code": "1g912-f"
+    },
+    {
+      "name": "1G912-G",
+      "url": "/hamilton-beach-commercial/1g912-g/parts",
+      "code": "1g912-g"
+    },
+    {
+      "name": "1G912-UK",
+      "url": "/hamilton-beach-commercial/1g912-uk/parts",
+      "code": "1g912-uk"
+    },
+    {
+      "name": "1G912-UK-A",
+      "url": "/hamilton-beach-commercial/1g912-uk-a/parts",
+      "code": "1g912-uk-a"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:51:34.611108"
+}

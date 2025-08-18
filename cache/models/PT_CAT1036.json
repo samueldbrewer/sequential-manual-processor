@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Cecilware",
+    "code": "PT_CAT1036",
+    "uri": "cecilware"
+  },
+  "models": [
+    {
+      "name": "12-20 UL",
+      "url": "/cecilware/12-20-ul/parts",
+      "code": "12-20-ul"
+    },
+    {
+      "name": "20/1PD",
+      "url": "/cecilware/20-1pd/parts",
+      "code": "20-1pd"
+    },
+    {
+      "name": "20/1PE",
+      "url": "/cecilware/20-1pe/parts",
+      "code": "20-1pe"
+    },
+    {
+      "name": "20/2PD",
+      "url": "/cecilware/20-2pd/parts",
+      "code": "20-2pd"
+    },
+    {
+      "name": "20/2PE",
+      "url": "/cecilware/20-2pe/parts",
+      "code": "20-2pe"
+    },
+    {
+      "name": "20/3PD",
+      "url": "/cecilware/20-3pd/parts",
+      "code": "20-3pd"
+    },
+    {
+      "name": "20/3PE",
+      "url": "/cecilware/20-3pe/parts",
+      "code": "20-3pe"
+    },
+    {
+      "name": "20/4PD",
+      "url": "/cecilware/20-4pd/parts",
+      "code": "20-4pd"
+    },
+    {
+      "name": "20/4PE",
+      "url": "/cecilware/20-4pe/parts",
+      "code": "20-4pe"
+    },
+    {
+      "name": "2K-GB-LD",
+      "url": "/cecilware/2k-gb-ld/parts",
+      "code": "2k-gb-ld"
+    },
+    {
+      "name": "3K-GB-LD",
+      "url": "/cecilware/3k-gb-ld/parts",
+      "code": "3k-gb-ld"
+    },
+    {
+      "name": "4K-GB-LD",
+      "url": "/cecilware/4k-gb-ld/parts",
+      "code": "4k-gb-ld"
+    },
+    {
+      "name": "5K-10-GB-LD",
+      "url": "/cecilware/5k-10-gb-ld/parts",
+      "code": "5k-10-gb-ld"
+    },
+    {
+      "name": "5K-GB-LD",
+      "url": "/cecilware/5k-gb-ld/parts",
+      "code": "5k-gb-ld"
+    },
+    {
+      "name": "8/1",
+      "url": "/cecilware/8-1/parts",
+      "code": "8-1"
+    },
+    {
+      "name": "8/2",
+      "url": "/cecilware/8-2/parts",
+      "code": "8-2"
+    },
+    {
+      "name": "8/3",
+      "url": "/cecilware/8-3/parts",
+      "code": "8-3"
+    },
+    {
+      "name": "8/4",
+      "url": "/cecilware/8-4/parts",
+      "code": "8-4"
+    },
+    {
+      "name": "AG 120",
+      "url": "/cecilware/ag-120/parts",
+      "code": "ag-120"
+    },
+    {
+      "name": "AG 120B",
+      "url": "/cecilware/ag-120b/parts",
+      "code": "ag-120b"
+    },
+    {
+      "name": "APT100G",
+      "url": "/cecilware/apt100g/parts",
+      "code": "apt100g"
+    },
+    {
+      "name": "APT18G",
+      "url": "/cecilware/apt18g/parts",
+      "code": "apt18g"
+    },
+    {
+      "name": "APT35G",
+      "url": "/cecilware/apt35g/parts",
+      "code": "apt35g"
+    },
+    {
+      "name": "APT35GX",
+      "url": "/cecilware/apt35gx/parts",
+      "code": "apt35gx"
+    },
+    {
+      "name": "ARCTIC DELUXE UL",
+      "url": "/cecilware/arctic-deluxe-ul/parts",
+      "code": "arctic-deluxe-ul"
+    },
+    {
+      "name": "B1-3",
+      "url": "/cecilware/b1-3/parts",
+      "code": "b1-3"
+    },
+    {
+      "name": "B1/3T",
+      "url": "/cecilware/b1-3t/parts",
+      "code": "b1-3t"
+    },
+    {
+      "name": "BC 1812",
+      "url": "/cecilware/bc-1812/parts",
+      "code": "bc-1812"
+    },
+    {
+      "name": "BC 1824",
+      "url": "/cecilware/bc-1824/parts",
+      "code": "bc-1824"
+    },
+    {
+      "name": "BC 1836",
+      "url": "/cecilware/bc-1836/parts",
+      "code": "bc-1836"
+    },
+    {
+      "name": "BC1",
+      "url": "/cecilware/bc1/parts",
+      "code": "bc1"
+    },
+    {
+      "name": "BC120",
+      "url": "/cecilware/bc120/parts",
+      "code": "bc120"
+    },
+    {
+      "name": "BC2",
+      "url": "/cecilware/bc2/parts",
+      "code": "bc2"
+    },
+    {
+      "name": "BC2-IT",
+      "url": "/cecilware/bc2-it/parts",
+      "code": "bc2-it"
+    },
+    {
+      "name": "BC240",
+      "url": "/cecilware/bc240/parts",
+      "code": "bc240"
+    },
+    {
+      "name": "BC301",
+      "url": "/cecilware/bc301/parts",
+      "code": "bc301"
+    },
+    {
+      "name": "BC301-IT",
+      "url": "/cecilware/bc301-it/parts",
+      "code": "bc301-it"
+    },
+    {
+      "name": "BC302",
+      "url": "/cecilware/bc302/parts",
+      "code": "bc302"
+    },
+    {
+      "name": "BC302-IT",
+      "url": "/cecilware/bc302-it/parts",
+      "code": "bc302-it"
+    },
+    {
+      "name": "BG 12",
+      "url": "/cecilware/bg-12/parts",
+      "code": "bg-12"
+    },
+    {
+      "name": "BG 24",
+      "url": "/cecilware/bg-24/parts",
+      "code": "bg-24"
+    },
+    {
+      "name": "BG 36",
+      "url": "/cecilware/bg-36/parts",
+      "code": "bg-36"
+    },
+    {
+      "name": "BG 48",
+      "url": "/cecilware/bg-48/parts",
+      "code": "bg-48"
+    },
+    {
+      "name": "BK-18",
+      "url": "/cecilware/bk-18/parts",
+      "code": "bk-18"
+    },
+    {
+      "name": "BK-22",
+      "url": "/cecilware/bk-22/parts",
+      "code": "bk-22"
+    },
+    {
+      "name": "BK18-220",
+      "url": "/cecilware/bk18-220/parts",
+      "code": "bk18-220"
+    },
+    {
+      "name": "BSS-1",
+      "url": "/cecilware/bss-1/parts",
+      "code": "bss-1"
+    },
+    {
+      "name": "C-2001",
+      "url": "/cecilware/c-2001/parts",
+      "code": "c-2001"
+    },
+    {
+      "name": "C-2002",
+      "url": "/cecilware/c-2002/parts",
+      "code": "c-2002"
+    },
+    {
+      "name": "C-2003",
+      "url": "/cecilware/c-2003/parts",
+      "code": "c-2003"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:06:47.373377"
+}

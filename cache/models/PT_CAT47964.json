@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Douglas Machines",
+    "code": "PT_CAT47964",
+    "uri": "douglas-machines"
+  },
+  "models": [
+    {
+      "name": "1536-B",
+      "url": "/douglas-machines/1536-b/parts",
+      "code": "1536-b"
+    },
+    {
+      "name": "2554-B",
+      "url": "/douglas-machines/2554-b/parts",
+      "code": "2554-b"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T18:23:26.500045"
+}

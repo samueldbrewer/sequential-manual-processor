@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Doughpro Proluxe",
+    "code": "PT_CAT1056",
+    "uri": "doughpro-proluxe"
+  },
+  "models": [
+    {
+      "name": "BC1520",
+      "url": "/doughpro-proluxe/bc1520/parts",
+      "code": "bc1520"
+    },
+    {
+      "name": "BC1520A",
+      "url": "/doughpro-proluxe/bc1520a/parts",
+      "code": "bc1520a"
+    },
+    {
+      "name": "BC2325",
+      "url": "/doughpro-proluxe/bc2325/parts",
+      "code": "bc2325"
+    },
+    {
+      "name": "BC2325MV",
+      "url": "/doughpro-proluxe/bc2325mv/parts",
+      "code": "bc2325mv"
+    },
+    {
+      "name": "BC2325MVE",
+      "url": "/doughpro-proluxe/bc2325mve/parts",
+      "code": "bc2325mve"
+    },
+    {
+      "name": "BC2325R",
+      "url": "/doughpro-proluxe/bc2325r/parts",
+      "code": "bc2325r"
+    },
+    {
+      "name": "BC2325RL",
+      "url": "/doughpro-proluxe/bc2325rl/parts",
+      "code": "bc2325rl"
+    },
+    {
+      "name": "CS1500 Series",
+      "url": "/doughpro-proluxe/cs1500-series/parts",
+      "code": "cs1500-series"
+    },
+    {
+      "name": "CS1500A",
+      "url": "/doughpro-proluxe/cs1500a/parts",
+      "code": "cs1500a"
+    },
+    {
+      "name": "CS1500B",
+      "url": "/doughpro-proluxe/cs1500b/parts",
+      "code": "cs1500b"
+    },
+    {
+      "name": "CS1500C",
+      "url": "/doughpro-proluxe/cs1500c/parts",
+      "code": "cs1500c"
+    },
+    {
+      "name": "CS1500CE",
+      "url": "/doughpro-proluxe/cs1500ce/parts",
+      "code": "cs1500ce"
+    },
+    {
+      "name": "CS1500E",
+      "url": "/doughpro-proluxe/cs1500e/parts",
+      "code": "cs1500e"
+    },
+    {
+      "name": "CS1500PA",
+      "url": "/doughpro-proluxe/cs1500pa/parts",
+      "code": "cs1500pa"
+    },
+    {
+      "name": "CS1500PB",
+      "url": "/doughpro-proluxe/cs1500pb/parts",
+      "code": "cs1500pb"
+    },
+    {
+      "name": "CS1500PC",
+      "url": "/doughpro-proluxe/cs1500pc/parts",
+      "code": "cs1500pc"
+    },
+    {
+      "name": "CS1500PCE",
+      "url": "/doughpro-proluxe/cs1500pce/parts",
+      "code": "cs1500pce"
+    },
+    {
+      "name": "CS1500PE",
+      "url": "/doughpro-proluxe/cs1500pe/parts",
+      "code": "cs1500pe"
+    },
+    {
+      "name": "CS1500PTA",
+      "url": "/doughpro-proluxe/cs1500pta/parts",
+      "code": "cs1500pta"
+    },
+    {
+      "name": "CS1500PTB",
+      "url": "/doughpro-proluxe/cs1500ptb/parts",
+      "code": "cs1500ptb"
+    },
+    {
+      "name": "CS1500PTC",
+      "url": "/doughpro-proluxe/cs1500ptc/parts",
+      "code": "cs1500ptc"
+    },
+    {
+      "name": "CS1500PTCE",
+      "url": "/doughpro-proluxe/cs1500ptce/parts",
+      "code": "cs1500ptce"
+    },
+    {
+      "name": "CS1500PTE",
+      "url": "/doughpro-proluxe/cs1500pte/parts",
+      "code": "cs1500pte"
+    },
+    {
+      "name": "CS157",
+      "url": "/doughpro-proluxe/cs157/parts",
+      "code": "cs157"
+    },
+    {
+      "name": "CS157A",
+      "url": "/doughpro-proluxe/cs157a/parts",
+      "code": "cs157a"
+    },
+    {
+      "name": "CS157CEC",
+      "url": "/doughpro-proluxe/cs157cec/parts",
+      "code": "cs157cec"
+    },
+    {
+      "name": "CS157PA",
+      "url": "/doughpro-proluxe/cs157pa/parts",
+      "code": "cs157pa"
+    },
+    {
+      "name": "CS157PHNA",
+      "url": "/doughpro-proluxe/cs157phna/parts",
+      "code": "cs157phna"
+    },
+    {
+      "name": "CS157TBA",
+      "url": "/doughpro-proluxe/cs157tba/parts",
+      "code": "cs157tba"
+    },
+    {
+      "name": "CSD1212",
+      "url": "/doughpro-proluxe/csd1212/parts",
+      "code": "csd1212"
+    },
+    {
+      "name": "CSD1212DTA",
+      "url": "/doughpro-proluxe/csd1212dta/parts",
+      "code": "csd1212dta"
+    },
+    {
+      "name": "CSD1515",
+      "url": "/doughpro-proluxe/csd1515/parts",
+      "code": "csd1515"
+    },
+    {
+      "name": "CSD1515A",
+      "url": "/doughpro-proluxe/csd1515a/parts",
+      "code": "csd1515a"
+    },
+    {
+      "name": "CSD1515C",
+      "url": "/doughpro-proluxe/csd1515c/parts",
+      "code": "csd1515c"
+    },
+    {
+      "name": "CSD1515CEC",
+      "url": "/doughpro-proluxe/csd1515cec/parts",
+      "code": "csd1515cec"
+    },
+    {
+      "name": "CSD1515E",
+      "url": "/doughpro-proluxe/csd1515e/parts",
+      "code": "csd1515e"
+    },
+    {
+      "name": "CSD1515IA",
+      "url": "/doughpro-proluxe/csd1515ia/parts",
+      "code": "csd1515ia"
+    },
+    {
+      "name": "CSD1515PA",
+      "url": "/doughpro-proluxe/csd1515pa/parts",
+      "code": "csd1515pa"
+    },
+    {
+      "name": "CSD1515PCEC",
+      "url": "/doughpro-proluxe/csd1515pcec/parts",
+      "code": "csd1515pcec"
+    },
+    {
+      "name": "CSD1515PE",
+      "url": "/doughpro-proluxe/csd1515pe/parts",
+      "code": "csd1515pe"
+    },
+    {
+      "name": "CSD1577A",
+      "url": "/doughpro-proluxe/csd1577a/parts",
+      "code": "csd1577a"
+    },
+    {
+      "name": "DP1100A",
+      "url": "/doughpro-proluxe/dp1100a/parts",
+      "code": "dp1100a"
+    },
+    {
+      "name": "DP1100AU",
+      "url": "/doughpro-proluxe/dp1100au/parts",
+      "code": "dp1100au"
+    },
+    {
+      "name": "DP1100AUB",
+      "url": "/doughpro-proluxe/dp1100aub/parts",
+      "code": "dp1100aub"
+    },
+    {
+      "name": "DP1100B",
+      "url": "/doughpro-proluxe/dp1100b/parts",
+      "code": "dp1100b"
+    },
+    {
+      "name": "DP1100BZ",
+      "url": "/doughpro-proluxe/dp1100bz/parts",
+      "code": "dp1100bz"
+    },
+    {
+      "name": "DP1100C",
+      "url": "/doughpro-proluxe/dp1100c/parts",
+      "code": "dp1100c"
+    },
+    {
+      "name": "DP1100COA",
+      "url": "/doughpro-proluxe/dp1100coa/parts",
+      "code": "dp1100coa"
+    },
+    {
+      "name": "DP1100G",
+      "url": "/doughpro-proluxe/dp1100g/parts",
+      "code": "dp1100g"
+    },
+    {
+      "name": "DP1100GB",
+      "url": "/doughpro-proluxe/dp1100gb/parts",
+      "code": "dp1100gb"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:23:15.738787"
+}

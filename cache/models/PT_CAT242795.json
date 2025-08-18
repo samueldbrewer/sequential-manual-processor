@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Captive-Aire",
+    "code": "PT_CAT242795",
+    "uri": "captive-aire"
+  },
+  "models": [
+    {
+      "name": "A1-15D",
+      "url": "/captive-aire/a1-15d/parts",
+      "code": "a1-15d"
+    },
+    {
+      "name": "A1-16Z",
+      "url": "/captive-aire/a1-16z/parts",
+      "code": "a1-16z"
+    },
+    {
+      "name": "A1-18Z",
+      "url": "/captive-aire/a1-18z/parts",
+      "code": "a1-18z"
+    },
+    {
+      "name": "A1-D.250-15D",
+      "url": "/captive-aire/a1-d-250-15d/parts",
+      "code": "a1-d-250-15d"
+    },
+    {
+      "name": "A1-D.250-16Z",
+      "url": "/captive-aire/a1-d-250-16z/parts",
+      "code": "a1-d-250-16z"
+    },
+    {
+      "name": "A1-D.250-18Z",
+      "url": "/captive-aire/a1-d-250-18z/parts",
+      "code": "a1-d-250-18z"
+    },
+    {
+      "name": "A1-D.250-G10",
+      "url": "/captive-aire/a1-d-250-g10/parts",
+      "code": "a1-d-250-g10"
+    },
+    {
+      "name": "A1-D.250-G10D",
+      "url": "/captive-aire/a1-d-250-g10d/parts",
+      "code": "a1-d-250-g10d"
+    },
+    {
+      "name": "A1-D.500-15D",
+      "url": "/captive-aire/a1-d-500-15d/parts",
+      "code": "a1-d-500-15d"
+    },
+    {
+      "name": "A1-D.500-16Z",
+      "url": "/captive-aire/a1-d-500-16z/parts",
+      "code": "a1-d-500-16z"
+    },
+    {
+      "name": "A1-D.500-18Z",
+      "url": "/captive-aire/a1-d-500-18z/parts",
+      "code": "a1-d-500-18z"
+    },
+    {
+      "name": "A1-D.500-G10",
+      "url": "/captive-aire/a1-d-500-g10/parts",
+      "code": "a1-d-500-g10"
+    },
+    {
+      "name": "A1-D.500-G10D",
+      "url": "/captive-aire/a1-d-500-g10d/parts",
+      "code": "a1-d-500-g10d"
+    },
+    {
+      "name": "A1-E.10-G10",
+      "url": "/captive-aire/a1-e-10-g10/parts",
+      "code": "a1-e-10-g10"
+    },
+    {
+      "name": "A1-E.101-15D",
+      "url": "/captive-aire/a1-e-101-15d/parts",
+      "code": "a1-e-101-15d"
+    },
+    {
+      "name": "A1-E.101-16Z",
+      "url": "/captive-aire/a1-e-101-16z/parts",
+      "code": "a1-e-101-16z"
+    },
+    {
+      "name": "A1-E.101-18Z",
+      "url": "/captive-aire/a1-e-101-18z/parts",
+      "code": "a1-e-101-18z"
+    },
+    {
+      "name": "A1-E.101-G10",
+      "url": "/captive-aire/a1-e-101-g10/parts",
+      "code": "a1-e-101-g10"
+    },
+    {
+      "name": "A1-E.101-G10D",
+      "url": "/captive-aire/a1-e-101-g10d/parts",
+      "code": "a1-e-101-g10d"
+    },
+    {
+      "name": "A1-E.20-G10",
+      "url": "/captive-aire/a1-e-20-g10/parts",
+      "code": "a1-e-20-g10"
+    },
+    {
+      "name": "A1-E.201-15D",
+      "url": "/captive-aire/a1-e-201-15d/parts",
+      "code": "a1-e-201-15d"
+    },
+    {
+      "name": "A1-E.201-16Z",
+      "url": "/captive-aire/a1-e-201-16z/parts",
+      "code": "a1-e-201-16z"
+    },
+    {
+      "name": "A1-E.201-18Z",
+      "url": "/captive-aire/a1-e-201-18z/parts",
+      "code": "a1-e-201-18z"
+    },
+    {
+      "name": "A1-E.201-G10",
+      "url": "/captive-aire/a1-e-201-g10/parts",
+      "code": "a1-e-201-g10"
+    },
+    {
+      "name": "A1-E.201-G10D",
+      "url": "/captive-aire/a1-e-201-g10d/parts",
+      "code": "a1-e-201-g10d"
+    },
+    {
+      "name": "A1-E.202-15D",
+      "url": "/captive-aire/a1-e-202-15d/parts",
+      "code": "a1-e-202-15d"
+    },
+    {
+      "name": "A1-E.202-16Z",
+      "url": "/captive-aire/a1-e-202-16z/parts",
+      "code": "a1-e-202-16z"
+    },
+    {
+      "name": "A1-E.202-18Z",
+      "url": "/captive-aire/a1-e-202-18z/parts",
+      "code": "a1-e-202-18z"
+    },
+    {
+      "name": "A1-E.202-G10",
+      "url": "/captive-aire/a1-e-202-g10/parts",
+      "code": "a1-e-202-g10"
+    },
+    {
+      "name": "A1-E.202-G10D",
+      "url": "/captive-aire/a1-e-202-g10d/parts",
+      "code": "a1-e-202-g10d"
+    },
+    {
+      "name": "A1-E.204-15D",
+      "url": "/captive-aire/a1-e-204-15d/parts",
+      "code": "a1-e-204-15d"
+    },
+    {
+      "name": "A1-E.204-16Z",
+      "url": "/captive-aire/a1-e-204-16z/parts",
+      "code": "a1-e-204-16z"
+    },
+    {
+      "name": "A1-E.204-18Z",
+      "url": "/captive-aire/a1-e-204-18z/parts",
+      "code": "a1-e-204-18z"
+    },
+    {
+      "name": "A1-E.204-G10",
+      "url": "/captive-aire/a1-e-204-g10/parts",
+      "code": "a1-e-204-g10"
+    },
+    {
+      "name": "A1-E.204-G10D",
+      "url": "/captive-aire/a1-e-204-g10d/parts",
+      "code": "a1-e-204-g10d"
+    },
+    {
+      "name": "A1-E.351-15D",
+      "url": "/captive-aire/a1-e-351-15d/parts",
+      "code": "a1-e-351-15d"
+    },
+    {
+      "name": "A1-E.351-16Z",
+      "url": "/captive-aire/a1-e-351-16z/parts",
+      "code": "a1-e-351-16z"
+    },
+    {
+      "name": "A1-E.351-18Z",
+      "url": "/captive-aire/a1-e-351-18z/parts",
+      "code": "a1-e-351-18z"
+    },
+    {
+      "name": "A1-E.351-G10",
+      "url": "/captive-aire/a1-e-351-g10/parts",
+      "code": "a1-e-351-g10"
+    },
+    {
+      "name": "A1-E.351-G10D",
+      "url": "/captive-aire/a1-e-351-g10d/parts",
+      "code": "a1-e-351-g10d"
+    },
+    {
+      "name": "A1-E.352-50hz-G10",
+      "url": "/captive-aire/a1-e-352-50hz-g10/parts",
+      "code": "a1-e-352-50hz-g10"
+    },
+    {
+      "name": "A1-E.352-G10",
+      "url": "/captive-aire/a1-e-352-g10/parts",
+      "code": "a1-e-352-g10"
+    },
+    {
+      "name": "A1-E.352-G10D",
+      "url": "/captive-aire/a1-e-352-g10d/parts",
+      "code": "a1-e-352-g10d"
+    },
+    {
+      "name": "A1-E.354-15D",
+      "url": "/captive-aire/a1-e-354-15d/parts",
+      "code": "a1-e-354-15d"
+    },
+    {
+      "name": "A1-E.354-16Z",
+      "url": "/captive-aire/a1-e-354-16z/parts",
+      "code": "a1-e-354-16z"
+    },
+    {
+      "name": "A1-E.354-18Z",
+      "url": "/captive-aire/a1-e-354-18z/parts",
+      "code": "a1-e-354-18z"
+    },
+    {
+      "name": "A1-E.354-G10",
+      "url": "/captive-aire/a1-e-354-g10/parts",
+      "code": "a1-e-354-g10"
+    },
+    {
+      "name": "A1-E.354-G10D",
+      "url": "/captive-aire/a1-e-354-g10d/parts",
+      "code": "a1-e-354-g10d"
+    },
+    {
+      "name": "A1-E.355-15D",
+      "url": "/captive-aire/a1-e-355-15d/parts",
+      "code": "a1-e-355-15d"
+    },
+    {
+      "name": "A1-E.355-16Z",
+      "url": "/captive-aire/a1-e-355-16z/parts",
+      "code": "a1-e-355-16z"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:04:17.041175"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Aladdin Temp-Rite",
+    "code": "PT_CAT1004",
+    "uri": "aladdin-temp-rite"
+  },
+  "models": [
+    {
+      "name": "AC10",
+      "url": "/aladdin-temp-rite/ac10/parts",
+      "code": "ac10"
+    },
+    {
+      "name": "ADL21",
+      "url": "/aladdin-temp-rite/adl21/parts",
+      "code": "adl21"
+    },
+    {
+      "name": "ADL24",
+      "url": "/aladdin-temp-rite/adl24/parts",
+      "code": "adl24"
+    },
+    {
+      "name": "ADL26",
+      "url": "/aladdin-temp-rite/adl26/parts",
+      "code": "adl26"
+    },
+    {
+      "name": "ADL28",
+      "url": "/aladdin-temp-rite/adl28/parts",
+      "code": "adl28"
+    },
+    {
+      "name": "ADL95",
+      "url": "/aladdin-temp-rite/adl95/parts",
+      "code": "adl95"
+    },
+    {
+      "name": "ADV650",
+      "url": "/aladdin-temp-rite/adv650/parts",
+      "code": "adv650"
+    },
+    {
+      "name": "ADV650+",
+      "url": "/aladdin-temp-rite/adv650/parts",
+      "code": "adv650"
+    },
+    {
+      "name": "ADV700",
+      "url": "/aladdin-temp-rite/adv700/parts",
+      "code": "adv700"
+    },
+    {
+      "name": "C400",
+      "url": "/aladdin-temp-rite/c400/parts",
+      "code": "c400"
+    },
+    {
+      "name": "C416DTK",
+      "url": "/aladdin-temp-rite/c416dtk/parts",
+      "code": "c416dtk"
+    },
+    {
+      "name": "C420DTK",
+      "url": "/aladdin-temp-rite/c420dtk/parts",
+      "code": "c420dtk"
+    },
+    {
+      "name": "C424DTK",
+      "url": "/aladdin-temp-rite/c424dtk/parts",
+      "code": "c424dtk"
+    },
+    {
+      "name": "C424IVB",
+      "url": "/aladdin-temp-rite/c424ivb/parts",
+      "code": "c424ivb"
+    },
+    {
+      "name": "C600 CV",
+      "url": "/aladdin-temp-rite/c600-cv/parts",
+      "code": "c600-cv"
+    },
+    {
+      "name": "C600 IVORY",
+      "url": "/aladdin-temp-rite/c600-ivory/parts",
+      "code": "c600-ivory"
+    },
+    {
+      "name": "C600 SS",
+      "url": "/aladdin-temp-rite/c600-ss/parts",
+      "code": "c600-ss"
+    },
+    {
+      "name": "C616DSM",
+      "url": "/aladdin-temp-rite/c616dsm/parts",
+      "code": "c616dsm"
+    },
+    {
+      "name": "C616DTK",
+      "url": "/aladdin-temp-rite/c616dtk/parts",
+      "code": "c616dtk"
+    },
+    {
+      "name": "C616S",
+      "url": "/aladdin-temp-rite/c616s/parts",
+      "code": "c616s"
+    },
+    {
+      "name": "C616V",
+      "url": "/aladdin-temp-rite/c616v/parts",
+      "code": "c616v"
+    },
+    {
+      "name": "C620DSM",
+      "url": "/aladdin-temp-rite/c620dsm/parts",
+      "code": "c620dsm"
+    },
+    {
+      "name": "C620DTK",
+      "url": "/aladdin-temp-rite/c620dtk/parts",
+      "code": "c620dtk"
+    },
+    {
+      "name": "C620S",
+      "url": "/aladdin-temp-rite/c620s/parts",
+      "code": "c620s"
+    },
+    {
+      "name": "C620V",
+      "url": "/aladdin-temp-rite/c620v/parts",
+      "code": "c620v"
+    },
+    {
+      "name": "C624DSM",
+      "url": "/aladdin-temp-rite/c624dsm/parts",
+      "code": "c624dsm"
+    },
+    {
+      "name": "C624V",
+      "url": "/aladdin-temp-rite/c624v/parts",
+      "code": "c624v"
+    },
+    {
+      "name": "C716",
+      "url": "/aladdin-temp-rite/c716/parts",
+      "code": "c716"
+    },
+    {
+      "name": "C716TKD",
+      "url": "/aladdin-temp-rite/c716tkd/parts",
+      "code": "c716tkd"
+    },
+    {
+      "name": "C720",
+      "url": "/aladdin-temp-rite/c720/parts",
+      "code": "c720"
+    },
+    {
+      "name": "C720TKD",
+      "url": "/aladdin-temp-rite/c720tkd/parts",
+      "code": "c720tkd"
+    },
+    {
+      "name": "C724",
+      "url": "/aladdin-temp-rite/c724/parts",
+      "code": "c724"
+    },
+    {
+      "name": "C724TKD",
+      "url": "/aladdin-temp-rite/c724tkd/parts",
+      "code": "c724tkd"
+    },
+    {
+      "name": "CHEL",
+      "url": "/aladdin-temp-rite/chel/parts",
+      "code": "chel"
+    },
+    {
+      "name": "CHSL",
+      "url": "/aladdin-temp-rite/chsl/parts",
+      "code": "chsl"
+    },
+    {
+      "name": "CR24",
+      "url": "/aladdin-temp-rite/cr24/parts",
+      "code": "cr24"
+    },
+    {
+      "name": "CR3",
+      "url": "/aladdin-temp-rite/cr3/parts",
+      "code": "cr3"
+    },
+    {
+      "name": "CR3 Insight",
+      "url": "/aladdin-temp-rite/cr3-insight/parts",
+      "code": "cr3-insight"
+    },
+    {
+      "name": "CR3 Tow Hitch",
+      "url": "/aladdin-temp-rite/cr3-tow-hitch/parts",
+      "code": "cr3-tow-hitch"
+    },
+    {
+      "name": "CR30",
+      "url": "/aladdin-temp-rite/cr30/parts",
+      "code": "cr30"
+    },
+    {
+      "name": "CR3C20002000",
+      "url": "/aladdin-temp-rite/cr3c20002000/parts",
+      "code": "cr3c20002000"
+    },
+    {
+      "name": "CR3C20002010",
+      "url": "/aladdin-temp-rite/cr3c20002010/parts",
+      "code": "cr3c20002010"
+    },
+    {
+      "name": "CR3C20012000",
+      "url": "/aladdin-temp-rite/cr3c20012000/parts",
+      "code": "cr3c20012000"
+    },
+    {
+      "name": "CR3C20112000",
+      "url": "/aladdin-temp-rite/cr3c20112000/parts",
+      "code": "cr3c20112000"
+    },
+    {
+      "name": "CR3C24002010",
+      "url": "/aladdin-temp-rite/cr3c24002010/parts",
+      "code": "cr3c24002010"
+    },
+    {
+      "name": "CR3C24012000",
+      "url": "/aladdin-temp-rite/cr3c24012000/parts",
+      "code": "cr3c24012000"
+    },
+    {
+      "name": "CR3C24102000",
+      "url": "/aladdin-temp-rite/cr3c24102000/parts",
+      "code": "cr3c24102000"
+    },
+    {
+      "name": "CR3C24112000",
+      "url": "/aladdin-temp-rite/cr3c24112000/parts",
+      "code": "cr3c24112000"
+    },
+    {
+      "name": "CR3C26010000",
+      "url": "/aladdin-temp-rite/cr3c26010000/parts",
+      "code": "cr3c26010000"
+    },
+    {
+      "name": "CR3C26110000",
+      "url": "/aladdin-temp-rite/cr3c26110000/parts",
+      "code": "cr3c26110000"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:38:20.720232"
+}

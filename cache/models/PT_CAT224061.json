@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Bosch",
+    "code": "PT_CAT224061",
+    "uri": "bosch"
+  },
+  "models": [
+    {
+      "name": "B11CB50SSS/01",
+      "url": "/bosch/b11cb50sss-01/parts",
+      "code": "b11cb50sss-01"
+    },
+    {
+      "name": "B11CB50SSS/04",
+      "url": "/bosch/b11cb50sss-04/parts",
+      "code": "b11cb50sss-04"
+    },
+    {
+      "name": "B11CB50SSS/06",
+      "url": "/bosch/b11cb50sss-06/parts",
+      "code": "b11cb50sss-06"
+    },
+    {
+      "name": "B11CB81SSS/01",
+      "url": "/bosch/b11cb81sss-01/parts",
+      "code": "b11cb81sss-01"
+    },
+    {
+      "name": "B11CB81SSS/03",
+      "url": "/bosch/b11cb81sss-03/parts",
+      "code": "b11cb81sss-03"
+    },
+    {
+      "name": "B11CB81SSS/05",
+      "url": "/bosch/b11cb81sss-05/parts",
+      "code": "b11cb81sss-05"
+    },
+    {
+      "name": "B11CB81SSS/13",
+      "url": "/bosch/b11cb81sss-13/parts",
+      "code": "b11cb81sss-13"
+    },
+    {
+      "name": "B18IF800SP/01",
+      "url": "/bosch/b18if800sp-01/parts",
+      "code": "b18if800sp-01"
+    },
+    {
+      "name": "B18IF800SP/02",
+      "url": "/bosch/b18if800sp-02/parts",
+      "code": "b18if800sp-02"
+    },
+    {
+      "name": "B18IF800SP/03",
+      "url": "/bosch/b18if800sp-03/parts",
+      "code": "b18if800sp-03"
+    },
+    {
+      "name": "B18IF800SP/08",
+      "url": "/bosch/b18if800sp-08/parts",
+      "code": "b18if800sp-08"
+    },
+    {
+      "name": "B18IF900SP/05",
+      "url": "/bosch/b18if900sp-05/parts",
+      "code": "b18if900sp-05"
+    },
+    {
+      "name": "B18IF900SP/06",
+      "url": "/bosch/b18if900sp-06/parts",
+      "code": "b18if900sp-06"
+    },
+    {
+      "name": "B18IF900SP/07",
+      "url": "/bosch/b18if900sp-07/parts",
+      "code": "b18if900sp-07"
+    },
+    {
+      "name": "B18IF905SP/01",
+      "url": "/bosch/b18if905sp-01/parts",
+      "code": "b18if905sp-01"
+    },
+    {
+      "name": "B18IF905SP/02",
+      "url": "/bosch/b18if905sp-02/parts",
+      "code": "b18if905sp-02"
+    },
+    {
+      "name": "B18IF905SP/03",
+      "url": "/bosch/b18if905sp-03/parts",
+      "code": "b18if905sp-03"
+    },
+    {
+      "name": "B18IF905SP/04",
+      "url": "/bosch/b18if905sp-04/parts",
+      "code": "b18if905sp-04"
+    },
+    {
+      "name": "B18IF905SP/05",
+      "url": "/bosch/b18if905sp-05/parts",
+      "code": "b18if905sp-05"
+    },
+    {
+      "name": "B20CS30SNS/01",
+      "url": "/bosch/b20cs30sns-01/parts",
+      "code": "b20cs30sns-01"
+    },
+    {
+      "name": "B20CS30SNS/02",
+      "url": "/bosch/b20cs30sns-02/parts",
+      "code": "b20cs30sns-02"
+    },
+    {
+      "name": "B20CS30SNS/03",
+      "url": "/bosch/b20cs30sns-03/parts",
+      "code": "b20cs30sns-03"
+    },
+    {
+      "name": "B20CS30SNS/04",
+      "url": "/bosch/b20cs30sns-04/parts",
+      "code": "b20cs30sns-04"
+    },
+    {
+      "name": "B26FT50SNS/01",
+      "url": "/bosch/b26ft50sns-01/parts",
+      "code": "b26ft50sns-01"
+    },
+    {
+      "name": "B26FT50SNS/02",
+      "url": "/bosch/b26ft50sns-02/parts",
+      "code": "b26ft50sns-02"
+    },
+    {
+      "name": "B26FT50SNS/03",
+      "url": "/bosch/b26ft50sns-03/parts",
+      "code": "b26ft50sns-03"
+    },
+    {
+      "name": "B30BB935SS/03",
+      "url": "/bosch/b30bb935ss-03/parts",
+      "code": "b30bb935ss-03"
+    },
+    {
+      "name": "B30BB935SS/04",
+      "url": "/bosch/b30bb935ss-04/parts",
+      "code": "b30bb935ss-04"
+    },
+    {
+      "name": "B30BB935SS/05",
+      "url": "/bosch/b30bb935ss-05/parts",
+      "code": "b30bb935ss-05"
+    },
+    {
+      "name": "B30IB905SP/01",
+      "url": "/bosch/b30ib905sp-01/parts",
+      "code": "b30ib905sp-01"
+    },
+    {
+      "name": "B30IB905SP/03",
+      "url": "/bosch/b30ib905sp-03/parts",
+      "code": "b30ib905sp-03"
+    },
+    {
+      "name": "B30IB905SP/04",
+      "url": "/bosch/b30ib905sp-04/parts",
+      "code": "b30ib905sp-04"
+    },
+    {
+      "name": "B30IR905SP/02",
+      "url": "/bosch/b30ir905sp-02/parts",
+      "code": "b30ir905sp-02"
+    },
+    {
+      "name": "B30IR905SP/04",
+      "url": "/bosch/b30ir905sp-04/parts",
+      "code": "b30ir905sp-04"
+    },
+    {
+      "name": "B36CD50SNB/01",
+      "url": "/bosch/b36cd50snb-01/parts",
+      "code": "b36cd50snb-01"
+    },
+    {
+      "name": "B36CD50SNB/02",
+      "url": "/bosch/b36cd50snb-02/parts",
+      "code": "b36cd50snb-02"
+    },
+    {
+      "name": "B36CD50SNB/03",
+      "url": "/bosch/b36cd50snb-03/parts",
+      "code": "b36cd50snb-03"
+    },
+    {
+      "name": "B36CD50SNB/04",
+      "url": "/bosch/b36cd50snb-04/parts",
+      "code": "b36cd50snb-04"
+    },
+    {
+      "name": "B36CL80ENS/01",
+      "url": "/bosch/b36cl80ens-01/parts",
+      "code": "b36cl80ens-01"
+    },
+    {
+      "name": "B36CL80ENS/07",
+      "url": "/bosch/b36cl80ens-07/parts",
+      "code": "b36cl80ens-07"
+    },
+    {
+      "name": "B36CL81ENG/01",
+      "url": "/bosch/b36cl81eng-01/parts",
+      "code": "b36cl81eng-01"
+    },
+    {
+      "name": "B36CL81ENG/02",
+      "url": "/bosch/b36cl81eng-02/parts",
+      "code": "b36cl81eng-02"
+    },
+    {
+      "name": "B36CL81ENG/03",
+      "url": "/bosch/b36cl81eng-03/parts",
+      "code": "b36cl81eng-03"
+    },
+    {
+      "name": "B36CL81ENG/04",
+      "url": "/bosch/b36cl81eng-04/parts",
+      "code": "b36cl81eng-04"
+    },
+    {
+      "name": "B36CL81ENG/05",
+      "url": "/bosch/b36cl81eng-05/parts",
+      "code": "b36cl81eng-05"
+    },
+    {
+      "name": "B36CT80SNB/01",
+      "url": "/bosch/b36ct80snb-01/parts",
+      "code": "b36ct80snb-01"
+    },
+    {
+      "name": "B36CT80SNB/02",
+      "url": "/bosch/b36ct80snb-02/parts",
+      "code": "b36ct80snb-02"
+    },
+    {
+      "name": "B36CT80SNB/03",
+      "url": "/bosch/b36ct80snb-03/parts",
+      "code": "b36ct80snb-03"
+    },
+    {
+      "name": "B36CT80SNB/04",
+      "url": "/bosch/b36ct80snb-04/parts",
+      "code": "b36ct80snb-04"
+    },
+    {
+      "name": "B36CT80SNB/05",
+      "url": "/bosch/b36ct80snb-05/parts",
+      "code": "b36ct80snb-05"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:58:45.480705"
+}

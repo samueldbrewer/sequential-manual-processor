@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Filtrox",
+    "code": "PT_CATFILTERCORP",
+    "uri": "filtrox"
+  },
+  "models": [
+    {
+      "name": "LS-1",
+      "url": "/filtrox/ls-1/parts",
+      "code": "ls-1"
+    },
+    {
+      "name": "LS-1-60",
+      "url": "/filtrox/ls-1-60/parts",
+      "code": "ls-1-60"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T18:31:51.883847"
+}

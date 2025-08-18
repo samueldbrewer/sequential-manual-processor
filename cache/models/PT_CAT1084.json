@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "General",
+    "code": "PT_CAT1084",
+    "uri": "general"
+  },
+  "models": [
+    {
+      "name": "GEM-110",
+      "url": "/general/gem-110/parts",
+      "code": "gem-110"
+    },
+    {
+      "name": "GEM-120",
+      "url": "/general/gem-120/parts",
+      "code": "gem-120"
+    },
+    {
+      "name": "GEM-130",
+      "url": "/general/gem-130/parts",
+      "code": "gem-130"
+    },
+    {
+      "name": "GSE-109",
+      "url": "/general/gse-109/parts",
+      "code": "gse-109"
+    },
+    {
+      "name": "GSE-110",
+      "url": "/general/gse-110/parts",
+      "code": "gse-110"
+    },
+    {
+      "name": "GSE-112",
+      "url": "/general/gse-112/parts",
+      "code": "gse-112"
+    },
+    {
+      "name": "GSM-100",
+      "url": "/general/gsm-100/parts",
+      "code": "gsm-100"
+    },
+    {
+      "name": "GSM-50",
+      "url": "/general/gsm-50/parts",
+      "code": "gsm-50"
+    },
+    {
+      "name": "GSV-112",
+      "url": "/general/gsv-112/parts",
+      "code": "gsv-112"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T18:44:06.130364"
+}

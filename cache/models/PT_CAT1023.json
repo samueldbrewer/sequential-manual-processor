@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "BKI",
+    "code": "PT_CAT1023",
+    "uri": "bki"
+  },
+  "models": [
+    {
+      "name": "2TSM-2624",
+      "url": "/bki/2tsm-2624/parts",
+      "code": "2tsm-2624"
+    },
+    {
+      "name": "2TSM-3824",
+      "url": "/bki/2tsm-3824/parts",
+      "code": "2tsm-3824"
+    },
+    {
+      "name": "2TSM-5024",
+      "url": "/bki/2tsm-5024/parts",
+      "code": "2tsm-5024"
+    },
+    {
+      "name": "2TSM-6224",
+      "url": "/bki/2tsm-6224/parts",
+      "code": "2tsm-6224"
+    },
+    {
+      "name": "ALF-F",
+      "url": "/bki/alf-f/parts",
+      "code": "alf-f"
+    },
+    {
+      "name": "ALF-FC",
+      "url": "/bki/alf-fc/parts",
+      "code": "alf-fc"
+    },
+    {
+      "name": "BHI",
+      "url": "/bki/bhi/parts",
+      "code": "bhi"
+    },
+    {
+      "name": "BHI-4",
+      "url": "/bki/bhi-4/parts",
+      "code": "bhi-4"
+    },
+    {
+      "name": "BHI-4T",
+      "url": "/bki/bhi-4t/parts",
+      "code": "bhi-4t"
+    },
+    {
+      "name": "BHI-5",
+      "url": "/bki/bhi-5/parts",
+      "code": "bhi-5"
+    },
+    {
+      "name": "BHI-5T",
+      "url": "/bki/bhi-5t/parts",
+      "code": "bhi-5t"
+    },
+    {
+      "name": "BHI-T",
+      "url": "/bki/bhi-t/parts",
+      "code": "bhi-t"
+    },
+    {
+      "name": "BLF-F",
+      "url": "/bki/blf-f/parts",
+      "code": "blf-f"
+    },
+    {
+      "name": "BLF-FC",
+      "url": "/bki/blf-fc/parts",
+      "code": "blf-fc"
+    },
+    {
+      "name": "BLF-TC",
+      "url": "/bki/blf-tc/parts",
+      "code": "blf-tc"
+    },
+    {
+      "name": "BLG",
+      "url": "/bki/blg/parts",
+      "code": "blg"
+    },
+    {
+      "name": "BLG-F",
+      "url": "/bki/blg-f/parts",
+      "code": "blg-f"
+    },
+    {
+      "name": "BLG-FC",
+      "url": "/bki/blg-fc/parts",
+      "code": "blg-fc"
+    },
+    {
+      "name": "BLG-TC",
+      "url": "/bki/blg-tc/parts",
+      "code": "blg-tc"
+    },
+    {
+      "name": "CO",
+      "url": "/bki/co/parts",
+      "code": "co"
+    },
+    {
+      "name": "CO1-E",
+      "url": "/bki/co1-e/parts",
+      "code": "co1-e"
+    },
+    {
+      "name": "CO1-G",
+      "url": "/bki/co1-g/parts",
+      "code": "co1-g"
+    },
+    {
+      "name": "COB-E",
+      "url": "/bki/cob-e/parts",
+      "code": "cob-e"
+    },
+    {
+      "name": "COH-E",
+      "url": "/bki/coh-e/parts",
+      "code": "coh-e"
+    },
+    {
+      "name": "COM-E",
+      "url": "/bki/com-e/parts",
+      "code": "com-e"
+    },
+    {
+      "name": "COq",
+      "url": "/bki/coq/parts",
+      "code": "coq"
+    },
+    {
+      "name": "CSW",
+      "url": "/bki/csw/parts",
+      "code": "csw"
+    },
+    {
+      "name": "CSWG",
+      "url": "/bki/cswg/parts",
+      "code": "cswg"
+    },
+    {
+      "name": "CSWHI",
+      "url": "/bki/cswhi/parts",
+      "code": "cswhi"
+    },
+    {
+      "name": "CVC 1.06",
+      "url": "/bki/cvc-1-06/parts",
+      "code": "cvc-1-06"
+    },
+    {
+      "name": "CVC 1.10",
+      "url": "/bki/cvc-1-10/parts",
+      "code": "cvc-1-10"
+    },
+    {
+      "name": "CVC 2.10",
+      "url": "/bki/cvc-2-10/parts",
+      "code": "cvc-2-10"
+    },
+    {
+      "name": "DNF",
+      "url": "/bki/dnf/parts",
+      "code": "dnf"
+    },
+    {
+      "name": "DNF-F",
+      "url": "/bki/dnf-f/parts",
+      "code": "dnf-f"
+    },
+    {
+      "name": "DR-34",
+      "url": "/bki/dr-34/parts",
+      "code": "dr-34"
+    },
+    {
+      "name": "DRG-40",
+      "url": "/bki/drg-40/parts",
+      "code": "drg-40"
+    },
+    {
+      "name": "DRGV",
+      "url": "/bki/drgv/parts",
+      "code": "drgv"
+    },
+    {
+      "name": "DRGV-14",
+      "url": "/bki/drgv-14/parts",
+      "code": "drgv-14"
+    },
+    {
+      "name": "DRGV-7",
+      "url": "/bki/drgv-7/parts",
+      "code": "drgv-7"
+    },
+    {
+      "name": "DRPN1",
+      "url": "/bki/drpn1/parts",
+      "code": "drpn1"
+    },
+    {
+      "name": "DRPN3",
+      "url": "/bki/drpn3/parts",
+      "code": "drpn3"
+    },
+    {
+      "name": "DRPN5",
+      "url": "/bki/drpn5/parts",
+      "code": "drpn5"
+    },
+    {
+      "name": "DRPN7",
+      "url": "/bki/drpn7/parts",
+      "code": "drpn7"
+    },
+    {
+      "name": "FH-22",
+      "url": "/bki/fh-22/parts",
+      "code": "fh-22"
+    },
+    {
+      "name": "FH-28",
+      "url": "/bki/fh-28/parts",
+      "code": "fh-28"
+    },
+    {
+      "name": "FH-28CT",
+      "url": "/bki/fh-28ct/parts",
+      "code": "fh-28ct"
+    },
+    {
+      "name": "FH-28WM",
+      "url": "/bki/fh-28wm/parts",
+      "code": "fh-28wm"
+    },
+    {
+      "name": "FKF",
+      "url": "/bki/fkf/parts",
+      "code": "fkf"
+    },
+    {
+      "name": "FKF-H",
+      "url": "/bki/fkf-h/parts",
+      "code": "fkf-h"
+    },
+    {
+      "name": "FKG",
+      "url": "/bki/fkg/parts",
+      "code": "fkg"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:50:55.028892"
+}

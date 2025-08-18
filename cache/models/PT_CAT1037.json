@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Champion",
+    "code": "PT_CAT1037",
+    "uri": "champion"
+  },
+  "models": [
+    {
+      "name": "1 KAB",
+      "url": "/champion/1-kab/parts",
+      "code": "1-kab"
+    },
+    {
+      "name": "1 KACB",
+      "url": "/champion/1-kacb/parts",
+      "code": "1-kacb"
+    },
+    {
+      "name": "100 PRO",
+      "url": "/champion/100-pro/parts",
+      "code": "100-pro"
+    },
+    {
+      "name": "100 PRO-HR",
+      "url": "/champion/100-pro-hr/parts",
+      "code": "100-pro-hr"
+    },
+    {
+      "name": "100 PRO-VHR",
+      "url": "/champion/100-pro-vhr/parts",
+      "code": "100-pro-vhr"
+    },
+    {
+      "name": "1000 Series HT",
+      "url": "/champion/1000-series-ht/parts",
+      "code": "1000-series-ht"
+    },
+    {
+      "name": "1000 Series LT",
+      "url": "/champion/1000-series-lt/parts",
+      "code": "1000-series-lt"
+    },
+    {
+      "name": "100HDPW",
+      "url": "/champion/100hdpw/parts",
+      "code": "100hdpw"
+    },
+    {
+      "name": "106PW",
+      "url": "/champion/106pw/parts",
+      "code": "106pw"
+    },
+    {
+      "name": "108HDPW",
+      "url": "/champion/108hdpw/parts",
+      "code": "108hdpw"
+    },
+    {
+      "name": "110FFPW",
+      "url": "/champion/110ffpw/parts",
+      "code": "110ffpw"
+    },
+    {
+      "name": "120HDPW",
+      "url": "/champion/120hdpw/parts",
+      "code": "120hdpw"
+    },
+    {
+      "name": "40KB",
+      "url": "/champion/40kb/parts",
+      "code": "40kb"
+    },
+    {
+      "name": "40KPRB",
+      "url": "/champion/40kprb/parts",
+      "code": "40kprb"
+    },
+    {
+      "name": "44",
+      "url": "/champion/44/parts",
+      "code": "44"
+    },
+    {
+      "name": "44 Modular",
+      "url": "/champion/44-modular/parts",
+      "code": "44-modular"
+    },
+    {
+      "name": "44 PRO",
+      "url": "/champion/44-pro/parts",
+      "code": "44-pro"
+    },
+    {
+      "name": "44 PRO-HR",
+      "url": "/champion/44-pro-hr/parts",
+      "code": "44-pro-hr"
+    },
+    {
+      "name": "44 PRO-VHR",
+      "url": "/champion/44-pro-vhr/parts",
+      "code": "44-pro-vhr"
+    },
+    {
+      "name": "44-PRO",
+      "url": "/champion/44-pro/parts",
+      "code": "44-pro"
+    },
+    {
+      "name": "44-PRO VHR",
+      "url": "/champion/44-pro-vhr/parts",
+      "code": "44-pro-vhr"
+    },
+    {
+      "name": "44DR",
+      "url": "/champion/44dr/parts",
+      "code": "44dr"
+    },
+    {
+      "name": "44DR SINGLE SOURCE GAS",
+      "url": "/champion/44dr-single-source-gas/parts",
+      "code": "44dr-single-source-gas"
+    },
+    {
+      "name": "44DRWS",
+      "url": "/champion/44drws/parts",
+      "code": "44drws"
+    },
+    {
+      "name": "44KB",
+      "url": "/champion/44kb/parts",
+      "code": "44kb"
+    },
+    {
+      "name": "44KPRB",
+      "url": "/champion/44kprb/parts",
+      "code": "44kprb"
+    },
+    {
+      "name": "44LT",
+      "url": "/champion/44lt/parts",
+      "code": "44lt"
+    },
+    {
+      "name": "44WS",
+      "url": "/champion/44ws/parts",
+      "code": "44ws"
+    },
+    {
+      "name": "54",
+      "url": "/champion/54/parts",
+      "code": "54"
+    },
+    {
+      "name": "54 PRO",
+      "url": "/champion/54-pro/parts",
+      "code": "54-pro"
+    },
+    {
+      "name": "54 PRO-HR",
+      "url": "/champion/54-pro-hr/parts",
+      "code": "54-pro-hr"
+    },
+    {
+      "name": "54 PRO-VHR",
+      "url": "/champion/54-pro-vhr/parts",
+      "code": "54-pro-vhr"
+    },
+    {
+      "name": "54DR",
+      "url": "/champion/54dr/parts",
+      "code": "54dr"
+    },
+    {
+      "name": "54DR SINGLE SOURCE GAS",
+      "url": "/champion/54dr-single-source-gas/parts",
+      "code": "54dr-single-source-gas"
+    },
+    {
+      "name": "54KB",
+      "url": "/champion/54kb/parts",
+      "code": "54kb"
+    },
+    {
+      "name": "54KPRB",
+      "url": "/champion/54kprb/parts",
+      "code": "54kprb"
+    },
+    {
+      "name": "60KB",
+      "url": "/champion/60kb/parts",
+      "code": "60kb"
+    },
+    {
+      "name": "60KPRB",
+      "url": "/champion/60kprb/parts",
+      "code": "60kprb"
+    },
+    {
+      "name": "64",
+      "url": "/champion/64/parts",
+      "code": "64"
+    },
+    {
+      "name": "64 Modular",
+      "url": "/champion/64-modular/parts",
+      "code": "64-modular"
+    },
+    {
+      "name": "64 PRO",
+      "url": "/champion/64-pro/parts",
+      "code": "64-pro"
+    },
+    {
+      "name": "64 PRO-HR",
+      "url": "/champion/64-pro-hr/parts",
+      "code": "64-pro-hr"
+    },
+    {
+      "name": "64 PRO-VHR",
+      "url": "/champion/64-pro-vhr/parts",
+      "code": "64-pro-vhr"
+    },
+    {
+      "name": "64KB",
+      "url": "/champion/64kb/parts",
+      "code": "64kb"
+    },
+    {
+      "name": "64KPRB",
+      "url": "/champion/64kprb/parts",
+      "code": "64kprb"
+    },
+    {
+      "name": "66 PRO",
+      "url": "/champion/66-pro/parts",
+      "code": "66-pro"
+    },
+    {
+      "name": "66 PRO-FF",
+      "url": "/champion/66-pro-ff/parts",
+      "code": "66-pro-ff"
+    },
+    {
+      "name": "66 PRO-FF-HR",
+      "url": "/champion/66-pro-ff-hr/parts",
+      "code": "66-pro-ff-hr"
+    },
+    {
+      "name": "66 PRO-FF-VHR",
+      "url": "/champion/66-pro-ff-vhr/parts",
+      "code": "66-pro-ff-vhr"
+    },
+    {
+      "name": "66 PRO-HR",
+      "url": "/champion/66-pro-hr/parts",
+      "code": "66-pro-hr"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:07:12.452655"
+}

@@ -1,0 +1,181 @@
+{
+  "manufacturer": {
+    "name": "Keating",
+    "code": "PT_CAT1119",
+    "uri": "keating"
+  },
+  "models": [
+    {
+      "name": "14IFM",
+      "url": "/keating/14ifm/parts",
+      "code": "14ifm"
+    },
+    {
+      "name": "18 & 20 IFM",
+      "url": "/keating/18-20-ifm/parts",
+      "code": "18-20-ifm"
+    },
+    {
+      "name": "2000",
+      "url": "/keating/2000/parts",
+      "code": "2000"
+    },
+    {
+      "name": "2000 Series Electric Pasta Cooker",
+      "url": "/keating/2000-series-electric-pasta-cooker/parts",
+      "code": "2000-series-electric-pasta-cooker"
+    },
+    {
+      "name": "2000 Series Gas Pasta Cooker",
+      "url": "/keating/2000-series-gas-pasta-cooker/parts",
+      "code": "2000-series-gas-pasta-cooker"
+    },
+    {
+      "name": "2006",
+      "url": "/keating/2006/parts",
+      "code": "2006"
+    },
+    {
+      "name": "2007",
+      "url": "/keating/2007/parts",
+      "code": "2007"
+    },
+    {
+      "name": "48X30FT-E",
+      "url": "/keating/48x30ft-e/parts",
+      "code": "48x30ft-e"
+    },
+    {
+      "name": "CF14",
+      "url": "/keating/cf14/parts",
+      "code": "cf14"
+    },
+    {
+      "name": "CF18",
+      "url": "/keating/cf18/parts",
+      "code": "cf18"
+    },
+    {
+      "name": "CF20",
+      "url": "/keating/cf20/parts",
+      "code": "cf20"
+    },
+    {
+      "name": "CF24",
+      "url": "/keating/cf24/parts",
+      "code": "cf24"
+    },
+    {
+      "name": "Instant Recovery 2000 Series",
+      "url": "/keating/instant-recovery-2000-series/parts",
+      "code": "instant-recovery-2000-series"
+    },
+    {
+      "name": "Instant Recovery 2009 Series",
+      "url": "/keating/instant-recovery-2009-series/parts",
+      "code": "instant-recovery-2009-series"
+    },
+    {
+      "name": "Instant Recovery Electric Fryer 2006",
+      "url": "/keating/instant-recovery-electric-fryer-2006/parts",
+      "code": "instant-recovery-electric-fryer-2006"
+    },
+    {
+      "name": "Instant Recovery Electric Fryer Pre-2000",
+      "url": "/keating/instant-recovery-electric-fryer-pre-2000/parts",
+      "code": "instant-recovery-electric-fryer-pre-2000"
+    },
+    {
+      "name": "Instant Recovery Pre-2000 Series",
+      "url": "/keating/instant-recovery-pre-2000-series/parts",
+      "code": "instant-recovery-pre-2000-series"
+    },
+    {
+      "name": "LB100",
+      "url": "/keating/lb100/parts",
+      "code": "lb100"
+    },
+    {
+      "name": "LB165",
+      "url": "/keating/lb165/parts",
+      "code": "lb165"
+    },
+    {
+      "name": "LB200",
+      "url": "/keating/lb200/parts",
+      "code": "lb200"
+    },
+    {
+      "name": "MG-2 (Electric)",
+      "url": "/keating/mg-2-electric/parts",
+      "code": "mg-2-electric"
+    },
+    {
+      "name": "MG-2 (Gas)",
+      "url": "/keating/mg-2-gas/parts",
+      "code": "mg-2-gas"
+    },
+    {
+      "name": "MG-4 (Electric)",
+      "url": "/keating/mg-4-electric/parts",
+      "code": "mg-4-electric"
+    },
+    {
+      "name": "MG-4 (Gas)",
+      "url": "/keating/mg-4-gas/parts",
+      "code": "mg-4-gas"
+    },
+    {
+      "name": "Miraclean Electric Griddle Pre-2000 Series",
+      "url": "/keating/miraclean-electric-griddle-pre-2000-series/parts",
+      "code": "miraclean-electric-griddle-pre-2000-series"
+    },
+    {
+      "name": "Miraclean Electric Griddle Series 2000",
+      "url": "/keating/miraclean-electric-griddle-series-2000/parts",
+      "code": "miraclean-electric-griddle-series-2000"
+    },
+    {
+      "name": "Miraclean Gas Griddle 2000",
+      "url": "/keating/miraclean-gas-griddle-2000/parts",
+      "code": "miraclean-gas-griddle-2000"
+    },
+    {
+      "name": "Miraclean Gas Griddle Pre-2000 Series",
+      "url": "/keating/miraclean-gas-griddle-pre-2000-series/parts",
+      "code": "miraclean-gas-griddle-pre-2000-series"
+    },
+    {
+      "name": "PC14",
+      "url": "/keating/pc14/parts",
+      "code": "pc14"
+    },
+    {
+      "name": "Safe&Easy",
+      "url": "/keating/safe-easy/parts",
+      "code": "safe-easy"
+    },
+    {
+      "name": "Safe&Easy 34 24",
+      "url": "/keating/safe-easy-34-24/parts",
+      "code": "safe-easy-34-24"
+    },
+    {
+      "name": "Teppanyaki",
+      "url": "/keating/teppanyaki/parts",
+      "code": "teppanyaki"
+    },
+    {
+      "name": "Top-Side",
+      "url": "/keating/top-side/parts",
+      "code": "top-side"
+    },
+    {
+      "name": "Top-Side Cooker Pre-2005",
+      "url": "/keating/top-side-cooker-pre-2005/parts",
+      "code": "top-side-cooker-pre-2005"
+    }
+  ],
+  "total_models": 34,
+  "cached_at": "2025-08-14T19:10:50.656600"
+}

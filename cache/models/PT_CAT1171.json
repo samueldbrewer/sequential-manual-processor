@@ -1,0 +1,86 @@
+{
+  "manufacturer": {
+    "name": "Rondo",
+    "code": "PT_CAT1171",
+    "uri": "rondo"
+  },
+  "models": [
+    {
+      "name": "FGDISA",
+      "url": "/rondo/fgdisa/parts",
+      "code": "fgdisa"
+    },
+    {
+      "name": "FGDISA-R",
+      "url": "/rondo/fgdisa-r/parts",
+      "code": "fgdisa-r"
+    },
+    {
+      "name": "FGDISA-R.DO",
+      "url": "/rondo/fgdisa-r-do/parts",
+      "code": "fgdisa-r-do"
+    },
+    {
+      "name": "PTT150",
+      "url": "/rondo/ptt150/parts",
+      "code": "ptt150"
+    },
+    {
+      "name": "Rondostar 3000",
+      "url": "/rondo/rondostar-3000/parts",
+      "code": "rondostar-3000"
+    },
+    {
+      "name": "SFS6117S",
+      "url": "/rondo/sfs6117s/parts",
+      "code": "sfs6117s"
+    },
+    {
+      "name": "SFT262DDV",
+      "url": "/rondo/sft262ddv/parts",
+      "code": "sft262ddv"
+    },
+    {
+      "name": "SSO675",
+      "url": "/rondo/sso675/parts",
+      "code": "sso675"
+    },
+    {
+      "name": "SSO675C",
+      "url": "/rondo/sso675c/parts",
+      "code": "sso675c"
+    },
+    {
+      "name": "SSO677",
+      "url": "/rondo/sso677/parts",
+      "code": "sso677"
+    },
+    {
+      "name": "SSO677C",
+      "url": "/rondo/sso677c/parts",
+      "code": "sso677c"
+    },
+    {
+      "name": "SSO685",
+      "url": "/rondo/sso685/parts",
+      "code": "sso685"
+    },
+    {
+      "name": "SSO685C",
+      "url": "/rondo/sso685c/parts",
+      "code": "sso685c"
+    },
+    {
+      "name": "SSO687",
+      "url": "/rondo/sso687/parts",
+      "code": "sso687"
+    },
+    {
+      "name": "SSO687C",
+      "url": "/rondo/sso687c/parts",
+      "code": "sso687c"
+    }
+  ],
+  "total_models": 15,
+  "cached_at": "2025-08-14T20:01:45.249925"
+}

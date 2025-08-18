@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "LG Appliances",
+    "code": "PT_CAT224036",
+    "uri": "lg-appliances"
+  },
+  "models": [
+    {
+      "name": "25832",
+      "url": "/lg-appliances/25832/parts",
+      "code": "25832"
+    },
+    {
+      "name": "25832AWYCSRC",
+      "url": "/lg-appliances/25832awycsrc/parts",
+      "code": "25832awycsrc"
+    },
+    {
+      "name": "25840",
+      "url": "/lg-appliances/25840/parts",
+      "code": "25840"
+    },
+    {
+      "name": "25840AWYCSCD",
+      "url": "/lg-appliances/25840awycscd/parts",
+      "code": "25840awycscd"
+    },
+    {
+      "name": "25850",
+      "url": "/lg-appliances/25850/parts",
+      "code": "25850"
+    },
+    {
+      "name": "25850AWYASRC",
+      "url": "/lg-appliances/25850awyasrc/parts",
+      "code": "25850awyasrc"
+    },
+    {
+      "name": "25870",
+      "url": "/lg-appliances/25870/parts",
+      "code": "25870"
+    },
+    {
+      "name": "25870AWYASRC",
+      "url": "/lg-appliances/25870awyasrc/parts",
+      "code": "25870awyasrc"
+    },
+    {
+      "name": "259286",
+      "url": "/lg-appliances/259286/parts",
+      "code": "259286"
+    },
+    {
+      "name": "2592860",
+      "url": "/lg-appliances/2592860/parts",
+      "code": "2592860"
+    },
+    {
+      "name": "35050",
+      "url": "/lg-appliances/35050/parts",
+      "code": "35050"
+    },
+    {
+      "name": "350500",
+      "url": "/lg-appliances/350500/parts",
+      "code": "350500"
+    },
+    {
+      "name": "35090",
+      "url": "/lg-appliances/35090/parts",
+      "code": "35090"
+    },
+    {
+      "name": "350900",
+      "url": "/lg-appliances/350900/parts",
+      "code": "350900"
+    },
+    {
+      "name": "35197",
+      "url": "/lg-appliances/35197/parts",
+      "code": "35197"
+    },
+    {
+      "name": "35197WYCSCD",
+      "url": "/lg-appliances/35197wycscd/parts",
+      "code": "35197wycscd"
+    },
+    {
+      "name": "35909",
+      "url": "/lg-appliances/35909/parts",
+      "code": "35909"
+    },
+    {
+      "name": "35909AWYASRC",
+      "url": "/lg-appliances/35909awyasrc/parts",
+      "code": "35909awyasrc"
+    },
+    {
+      "name": "51300",
+      "url": "/lg-appliances/51300/parts",
+      "code": "51300"
+    },
+    {
+      "name": "51300AWYCSRS",
+      "url": "/lg-appliances/51300awycsrs/parts",
+      "code": "51300awycsrs"
+    },
+    {
+      "name": "58842800",
+      "url": "/lg-appliances/58842800/parts",
+      "code": "58842800"
+    },
+    {
+      "name": "58842800ABWESEU",
+      "url": "/lg-appliances/58842800abweseu/parts",
+      "code": "58842800abweseu"
+    },
+    {
+      "name": "70122",
+      "url": "/lg-appliances/70122/parts",
+      "code": "70122"
+    },
+    {
+      "name": "701220",
+      "url": "/lg-appliances/701220/parts",
+      "code": "701220"
+    },
+    {
+      "name": "71122",
+      "url": "/lg-appliances/71122/parts",
+      "code": "71122"
+    },
+    {
+      "name": "71122WYCSRS",
+      "url": "/lg-appliances/71122wycsrs/parts",
+      "code": "71122wycsrs"
+    },
+    {
+      "name": "71184",
+      "url": "/lg-appliances/71184/parts",
+      "code": "71184"
+    },
+    {
+      "name": "71184AWY6SRS",
+      "url": "/lg-appliances/71184awy6srs/parts",
+      "code": "71184awy6srs"
+    },
+    {
+      "name": "71184WYCSRS",
+      "url": "/lg-appliances/71184wycsrs/parts",
+      "code": "71184wycsrs"
+    },
+    {
+      "name": "72077",
+      "url": "/lg-appliances/72077/parts",
+      "code": "72077"
+    },
+    {
+      "name": "72077AWYCSRU",
+      "url": "/lg-appliances/72077awycsru/parts",
+      "code": "72077awycsru"
+    },
+    {
+      "name": "72083",
+      "url": "/lg-appliances/72083/parts",
+      "code": "72083"
+    },
+    {
+      "name": "72083AWYCSRS",
+      "url": "/lg-appliances/72083awycsrs/parts",
+      "code": "72083awycsrs"
+    },
+    {
+      "name": "72089",
+      "url": "/lg-appliances/72089/parts",
+      "code": "72089"
+    },
+    {
+      "name": "720890",
+      "url": "/lg-appliances/720890/parts",
+      "code": "720890"
+    },
+    {
+      "name": "72144",
+      "url": "/lg-appliances/72144/parts",
+      "code": "72144"
+    },
+    {
+      "name": "72144AWY6SRU",
+      "url": "/lg-appliances/72144awy6sru/parts",
+      "code": "72144awy6sru"
+    },
+    {
+      "name": "73103",
+      "url": "/lg-appliances/73103/parts",
+      "code": "73103"
+    },
+    {
+      "name": "731030",
+      "url": "/lg-appliances/731030/parts",
+      "code": "731030"
+    },
+    {
+      "name": "74122400",
+      "url": "/lg-appliances/74122400/parts",
+      "code": "74122400"
+    },
+    {
+      "name": "74122400AWYASRU",
+      "url": "/lg-appliances/74122400awyasru/parts",
+      "code": "74122400awyasru"
+    },
+    {
+      "name": "74125400",
+      "url": "/lg-appliances/74125400/parts",
+      "code": "74125400"
+    },
+    {
+      "name": "74125400AWYASRU",
+      "url": "/lg-appliances/74125400awyasru/parts",
+      "code": "74125400awyasru"
+    },
+    {
+      "name": "74229",
+      "url": "/lg-appliances/74229/parts",
+      "code": "74229"
+    },
+    {
+      "name": "74229AWYBSRU",
+      "url": "/lg-appliances/74229awybsru/parts",
+      "code": "74229awybsru"
+    },
+    {
+      "name": "75063",
+      "url": "/lg-appliances/75063/parts",
+      "code": "75063"
+    },
+    {
+      "name": "75063AWYASRU",
+      "url": "/lg-appliances/75063awyasru/parts",
+      "code": "75063awyasru"
+    },
+    {
+      "name": "75081",
+      "url": "/lg-appliances/75081/parts",
+      "code": "75081"
+    },
+    {
+      "name": "75081AWYASRU",
+      "url": "/lg-appliances/75081awyasru/parts",
+      "code": "75081awyasru"
+    },
+    {
+      "name": "75100",
+      "url": "/lg-appliances/75100/parts",
+      "code": "75100"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:17:54.307880"
+}

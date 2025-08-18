@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Multiplex",
+    "code": "PT_CAT1136",
+    "uri": "multiplex"
+  },
+  "models": [
+    {
+      "name": "11-1000-xx",
+      "url": "/multiplex/11-1000-xx/parts",
+      "code": "11-1000-xx"
+    },
+    {
+      "name": "11-1001-xx",
+      "url": "/multiplex/11-1001-xx/parts",
+      "code": "11-1001-xx"
+    },
+    {
+      "name": "11M",
+      "url": "/multiplex/11m/parts",
+      "code": "11m"
+    },
+    {
+      "name": "11MA04",
+      "url": "/multiplex/11ma04/parts",
+      "code": "11ma04"
+    },
+    {
+      "name": "11MA04B",
+      "url": "/multiplex/11ma04b/parts",
+      "code": "11ma04b"
+    },
+    {
+      "name": "11MAX04",
+      "url": "/multiplex/11max04/parts",
+      "code": "11max04"
+    },
+    {
+      "name": "136EDA",
+      "url": "/multiplex/136eda/parts",
+      "code": "136eda"
+    },
+    {
+      "name": "136EDAX",
+      "url": "/multiplex/136edax/parts",
+      "code": "136edax"
+    },
+    {
+      "name": "136EDLX",
+      "url": "/multiplex/136edlx/parts",
+      "code": "136edlx"
+    },
+    {
+      "name": "136FDAX",
+      "url": "/multiplex/136fdax/parts",
+      "code": "136fdax"
+    },
+    {
+      "name": "136FDL",
+      "url": "/multiplex/136fdl/parts",
+      "code": "136fdl"
+    },
+    {
+      "name": "136FDLX",
+      "url": "/multiplex/136fdlx/parts",
+      "code": "136fdlx"
+    },
+    {
+      "name": "136FDP",
+      "url": "/multiplex/136fdp/parts",
+      "code": "136fdp"
+    },
+    {
+      "name": "136FDPX",
+      "url": "/multiplex/136fdpx/parts",
+      "code": "136fdpx"
+    },
+    {
+      "name": "136FDS",
+      "url": "/multiplex/136fds/parts",
+      "code": "136fds"
+    },
+    {
+      "name": "136FDSX",
+      "url": "/multiplex/136fdsx/parts",
+      "code": "136fdsx"
+    },
+    {
+      "name": "136LDA",
+      "url": "/multiplex/136lda/parts",
+      "code": "136lda"
+    },
+    {
+      "name": "136LDAL",
+      "url": "/multiplex/136ldal/parts",
+      "code": "136ldal"
+    },
+    {
+      "name": "136LDALX",
+      "url": "/multiplex/136ldalx/parts",
+      "code": "136ldalx"
+    },
+    {
+      "name": "136LDAX",
+      "url": "/multiplex/136ldax/parts",
+      "code": "136ldax"
+    },
+    {
+      "name": "136LDL",
+      "url": "/multiplex/136ldl/parts",
+      "code": "136ldl"
+    },
+    {
+      "name": "136LDLX",
+      "url": "/multiplex/136ldlx/parts",
+      "code": "136ldlx"
+    },
+    {
+      "name": "136LNS",
+      "url": "/multiplex/136lns/parts",
+      "code": "136lns"
+    },
+    {
+      "name": "136PDP",
+      "url": "/multiplex/136pdp/parts",
+      "code": "136pdp"
+    },
+    {
+      "name": "138EDA",
+      "url": "/multiplex/138eda/parts",
+      "code": "138eda"
+    },
+    {
+      "name": "138EDA2",
+      "url": "/multiplex/138eda2/parts",
+      "code": "138eda2"
+    },
+    {
+      "name": "138EDAX",
+      "url": "/multiplex/138edax/parts",
+      "code": "138edax"
+    },
+    {
+      "name": "138EDL",
+      "url": "/multiplex/138edl/parts",
+      "code": "138edl"
+    },
+    {
+      "name": "138EDLX",
+      "url": "/multiplex/138edlx/parts",
+      "code": "138edlx"
+    },
+    {
+      "name": "138EDS",
+      "url": "/multiplex/138eds/parts",
+      "code": "138eds"
+    },
+    {
+      "name": "138ENL",
+      "url": "/multiplex/138enl/parts",
+      "code": "138enl"
+    },
+    {
+      "name": "138ENLX",
+      "url": "/multiplex/138enlx/parts",
+      "code": "138enlx"
+    },
+    {
+      "name": "138FDAL",
+      "url": "/multiplex/138fdal/parts",
+      "code": "138fdal"
+    },
+    {
+      "name": "138FDAX",
+      "url": "/multiplex/138fdax/parts",
+      "code": "138fdax"
+    },
+    {
+      "name": "138FDL",
+      "url": "/multiplex/138fdl/parts",
+      "code": "138fdl"
+    },
+    {
+      "name": "138FDLX",
+      "url": "/multiplex/138fdlx/parts",
+      "code": "138fdlx"
+    },
+    {
+      "name": "138FDP",
+      "url": "/multiplex/138fdp/parts",
+      "code": "138fdp"
+    },
+    {
+      "name": "138FDPX",
+      "url": "/multiplex/138fdpx/parts",
+      "code": "138fdpx"
+    },
+    {
+      "name": "138FDS",
+      "url": "/multiplex/138fds/parts",
+      "code": "138fds"
+    },
+    {
+      "name": "138FDSX",
+      "url": "/multiplex/138fdsx/parts",
+      "code": "138fdsx"
+    },
+    {
+      "name": "138LDA",
+      "url": "/multiplex/138lda/parts",
+      "code": "138lda"
+    },
+    {
+      "name": "138LDAL",
+      "url": "/multiplex/138ldal/parts",
+      "code": "138ldal"
+    },
+    {
+      "name": "138LDALX",
+      "url": "/multiplex/138ldalx/parts",
+      "code": "138ldalx"
+    },
+    {
+      "name": "138LDAX",
+      "url": "/multiplex/138ldax/parts",
+      "code": "138ldax"
+    },
+    {
+      "name": "138LDL",
+      "url": "/multiplex/138ldl/parts",
+      "code": "138ldl"
+    },
+    {
+      "name": "138LDLX",
+      "url": "/multiplex/138ldlx/parts",
+      "code": "138ldlx"
+    },
+    {
+      "name": "138LNS",
+      "url": "/multiplex/138lns/parts",
+      "code": "138lns"
+    },
+    {
+      "name": "138PDP",
+      "url": "/multiplex/138pdp/parts",
+      "code": "138pdp"
+    },
+    {
+      "name": "150A04",
+      "url": "/multiplex/150a04/parts",
+      "code": "150a04"
+    },
+    {
+      "name": "1510",
+      "url": "/multiplex/1510/parts",
+      "code": "1510"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:37:31.706403"
+}

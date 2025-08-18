@@ -1,0 +1,181 @@
+{
+  "manufacturer": {
+    "name": "Salvajor",
+    "code": "PT_CAT1173",
+    "uri": "salvajor"
+  },
+  "models": [
+    {
+      "name": "100 - 1 Phase",
+      "url": "/salvajor/100-1-phase/parts",
+      "code": "100-1-phase"
+    },
+    {
+      "name": "100 - 3 Phase",
+      "url": "/salvajor/100-3-phase/parts",
+      "code": "100-3-phase"
+    },
+    {
+      "name": "125 - 1 Phase",
+      "url": "/salvajor/125-1-phase/parts",
+      "code": "125-1-phase"
+    },
+    {
+      "name": "125 - 3 Phase",
+      "url": "/salvajor/125-3-phase/parts",
+      "code": "125-3-phase"
+    },
+    {
+      "name": "150 - 1 Phase",
+      "url": "/salvajor/150-1-phase/parts",
+      "code": "150-1-phase"
+    },
+    {
+      "name": "150 - 3 Phase",
+      "url": "/salvajor/150-3-phase/parts",
+      "code": "150-3-phase"
+    },
+    {
+      "name": "200 - 1 Phase",
+      "url": "/salvajor/200-1-phase/parts",
+      "code": "200-1-phase"
+    },
+    {
+      "name": "200 - 3 Phase",
+      "url": "/salvajor/200-3-phase/parts",
+      "code": "200-3-phase"
+    },
+    {
+      "name": "300",
+      "url": "/salvajor/300/parts",
+      "code": "300"
+    },
+    {
+      "name": "300 - 3 Phase",
+      "url": "/salvajor/300-3-phase/parts",
+      "code": "300-3-phase"
+    },
+    {
+      "name": "500",
+      "url": "/salvajor/500/parts",
+      "code": "500"
+    },
+    {
+      "name": "500 - 3 Phase",
+      "url": "/salvajor/500-3-phase/parts",
+      "code": "500-3-phase"
+    },
+    {
+      "name": "75 - 1 Phase",
+      "url": "/salvajor/75-1-phase/parts",
+      "code": "75-1-phase"
+    },
+    {
+      "name": "75 - 3 Phase",
+      "url": "/salvajor/75-3-phase/parts",
+      "code": "75-3-phase"
+    },
+    {
+      "name": "750",
+      "url": "/salvajor/750/parts",
+      "code": "750"
+    },
+    {
+      "name": "750- 3Phase",
+      "url": "/salvajor/750-3phase/parts",
+      "code": "750-3phase"
+    },
+    {
+      "name": "ARSS",
+      "url": "/salvajor/arss/parts",
+      "code": "arss"
+    },
+    {
+      "name": "ARSS-2",
+      "url": "/salvajor/arss-2/parts",
+      "code": "arss-2"
+    },
+    {
+      "name": "ARSS-LD",
+      "url": "/salvajor/arss-ld/parts",
+      "code": "arss-ld"
+    },
+    {
+      "name": "MRSS",
+      "url": "/salvajor/mrss/parts",
+      "code": "mrss"
+    },
+    {
+      "name": "MRSS-LD",
+      "url": "/salvajor/mrss-ld/parts",
+      "code": "mrss-ld"
+    },
+    {
+      "name": "MSS",
+      "url": "/salvajor/mss/parts",
+      "code": "mss"
+    },
+    {
+      "name": "MSS-LD",
+      "url": "/salvajor/mss-ld/parts",
+      "code": "mss-ld"
+    },
+    {
+      "name": "P914",
+      "url": "/salvajor/p914/parts",
+      "code": "p914"
+    },
+    {
+      "name": "PSM",
+      "url": "/salvajor/psm/parts",
+      "code": "psm"
+    },
+    {
+      "name": "S419",
+      "url": "/salvajor/s419/parts",
+      "code": "s419"
+    },
+    {
+      "name": "S914",
+      "url": "/salvajor/s914/parts",
+      "code": "s914"
+    },
+    {
+      "name": "SM",
+      "url": "/salvajor/sm/parts",
+      "code": "sm"
+    },
+    {
+      "name": "SML",
+      "url": "/salvajor/sml/parts",
+      "code": "sml"
+    },
+    {
+      "name": "SMR",
+      "url": "/salvajor/smr/parts",
+      "code": "smr"
+    },
+    {
+      "name": "SS33",
+      "url": "/salvajor/ss33/parts",
+      "code": "ss33"
+    },
+    {
+      "name": "TV",
+      "url": "/salvajor/tv/parts",
+      "code": "tv"
+    },
+    {
+      "name": "TVL",
+      "url": "/salvajor/tvl/parts",
+      "code": "tvl"
+    },
+    {
+      "name": "TVR",
+      "url": "/salvajor/tvr/parts",
+      "code": "tvr"
+    }
+  ],
+  "total_models": 34,
+  "cached_at": "2025-08-14T20:59:55.017293"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Gold Medal Products",
+    "code": "PT_CAT48069",
+    "uri": "gold-medal-products"
+  },
+  "models": [
+    {
+      "name": "1002-01-100",
+      "url": "/gold-medal-products/1002-01-100/parts",
+      "code": "1002-01-100"
+    },
+    {
+      "name": "1002S",
+      "url": "/gold-medal-products/1002s/parts",
+      "code": "1002s"
+    },
+    {
+      "name": "1003S",
+      "url": "/gold-medal-products/1003s/parts",
+      "code": "1003s"
+    },
+    {
+      "name": "1003SX",
+      "url": "/gold-medal-products/1003sx/parts",
+      "code": "1003sx"
+    },
+    {
+      "name": "1006",
+      "url": "/gold-medal-products/1006/parts",
+      "code": "1006"
+    },
+    {
+      "name": "1006EX",
+      "url": "/gold-medal-products/1006ex/parts",
+      "code": "1006ex"
+    },
+    {
+      "name": "1009S",
+      "url": "/gold-medal-products/1009s/parts",
+      "code": "1009s"
+    },
+    {
+      "name": "1020",
+      "url": "/gold-medal-products/1020/parts",
+      "code": "1020"
+    },
+    {
+      "name": "1020-00-100",
+      "url": "/gold-medal-products/1020-00-100/parts",
+      "code": "1020-00-100"
+    },
+    {
+      "name": "1020-00-101",
+      "url": "/gold-medal-products/1020-00-101/parts",
+      "code": "1020-00-101"
+    },
+    {
+      "name": "1020-01-100",
+      "url": "/gold-medal-products/1020-01-100/parts",
+      "code": "1020-01-100"
+    },
+    {
+      "name": "1020-01-101",
+      "url": "/gold-medal-products/1020-01-101/parts",
+      "code": "1020-01-101"
+    },
+    {
+      "name": "1020EX",
+      "url": "/gold-medal-products/1020ex/parts",
+      "code": "1020ex"
+    },
+    {
+      "name": "1020T",
+      "url": "/gold-medal-products/1020t/parts",
+      "code": "1020t"
+    },
+    {
+      "name": "1020TEX",
+      "url": "/gold-medal-products/1020tex/parts",
+      "code": "1020tex"
+    },
+    {
+      "name": "1027",
+      "url": "/gold-medal-products/1027/parts",
+      "code": "1027"
+    },
+    {
+      "name": "1027HD",
+      "url": "/gold-medal-products/1027hd/parts",
+      "code": "1027hd"
+    },
+    {
+      "name": "1027HDX",
+      "url": "/gold-medal-products/1027hdx/parts",
+      "code": "1027hdx"
+    },
+    {
+      "name": "1073",
+      "url": "/gold-medal-products/1073/parts",
+      "code": "1073"
+    },
+    {
+      "name": "1087",
+      "url": "/gold-medal-products/1087/parts",
+      "code": "1087"
+    },
+    {
+      "name": "1087DC",
+      "url": "/gold-medal-products/1087dc/parts",
+      "code": "1087dc"
+    },
+    {
+      "name": "1162",
+      "url": "/gold-medal-products/1162/parts",
+      "code": "1162"
+    },
+    {
+      "name": "1203",
+      "url": "/gold-medal-products/1203/parts",
+      "code": "1203"
+    },
+    {
+      "name": "1203-00-000",
+      "url": "/gold-medal-products/1203-00-000/parts",
+      "code": "1203-00-000"
+    },
+    {
+      "name": "1333",
+      "url": "/gold-medal-products/1333/parts",
+      "code": "1333"
+    },
+    {
+      "name": "1803",
+      "url": "/gold-medal-products/1803/parts",
+      "code": "1803"
+    },
+    {
+      "name": "1803EX",
+      "url": "/gold-medal-products/1803ex/parts",
+      "code": "1803ex"
+    },
+    {
+      "name": "1866",
+      "url": "/gold-medal-products/1866/parts",
+      "code": "1866"
+    },
+    {
+      "name": "1866XJ",
+      "url": "/gold-medal-products/1866xj/parts",
+      "code": "1866xj"
+    },
+    {
+      "name": "1871",
+      "url": "/gold-medal-products/1871/parts",
+      "code": "1871"
+    },
+    {
+      "name": "1888",
+      "url": "/gold-medal-products/1888/parts",
+      "code": "1888"
+    },
+    {
+      "name": "1888-00-100",
+      "url": "/gold-medal-products/1888-00-100/parts",
+      "code": "1888-00-100"
+    },
+    {
+      "name": "1888EX",
+      "url": "/gold-medal-products/1888ex/parts",
+      "code": "1888ex"
+    },
+    {
+      "name": "1890",
+      "url": "/gold-medal-products/1890/parts",
+      "code": "1890"
+    },
+    {
+      "name": "1903",
+      "url": "/gold-medal-products/1903/parts",
+      "code": "1903"
+    },
+    {
+      "name": "1906",
+      "url": "/gold-medal-products/1906/parts",
+      "code": "1906"
+    },
+    {
+      "name": "2001",
+      "url": "/gold-medal-products/2001/parts",
+      "code": "2001"
+    },
+    {
+      "name": "2001ST",
+      "url": "/gold-medal-products/2001st/parts",
+      "code": "2001st"
+    },
+    {
+      "name": "2002",
+      "url": "/gold-medal-products/2002/parts",
+      "code": "2002"
+    },
+    {
+      "name": "2002EX",
+      "url": "/gold-medal-products/2002ex/parts",
+      "code": "2002ex"
+    },
+    {
+      "name": "2003",
+      "url": "/gold-medal-products/2003/parts",
+      "code": "2003"
+    },
+    {
+      "name": "2003ST",
+      "url": "/gold-medal-products/2003st/parts",
+      "code": "2003st"
+    },
+    {
+      "name": "2004",
+      "url": "/gold-medal-products/2004/parts",
+      "code": "2004"
+    },
+    {
+      "name": "2004SL",
+      "url": "/gold-medal-products/2004sl/parts",
+      "code": "2004sl"
+    },
+    {
+      "name": "2004SLD",
+      "url": "/gold-medal-products/2004sld/parts",
+      "code": "2004sld"
+    },
+    {
+      "name": "2004SLDD",
+      "url": "/gold-medal-products/2004sldd/parts",
+      "code": "2004sldd"
+    },
+    {
+      "name": "2004SLDDN",
+      "url": "/gold-medal-products/2004slddn/parts",
+      "code": "2004slddn"
+    },
+    {
+      "name": "2004SLDN",
+      "url": "/gold-medal-products/2004sldn/parts",
+      "code": "2004sldn"
+    },
+    {
+      "name": "2004SLN",
+      "url": "/gold-medal-products/2004sln/parts",
+      "code": "2004sln"
+    },
+    {
+      "name": "2005",
+      "url": "/gold-medal-products/2005/parts",
+      "code": "2005"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:46:07.505500"
+}

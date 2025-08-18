@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Raypak",
+    "code": "PT_CAT223886",
+    "uri": "raypak"
+  },
+  "models": [
+    {
+      "name": "1005A",
+      "url": "/raypak/1005a/parts",
+      "code": "1005a"
+    },
+    {
+      "name": "10353HC",
+      "url": "/raypak/10353hc/parts",
+      "code": "10353hc"
+    },
+    {
+      "name": "10354HC",
+      "url": "/raypak/10354hc/parts",
+      "code": "10354hc"
+    },
+    {
+      "name": "10355HC",
+      "url": "/raypak/10355hc/parts",
+      "code": "10355hc"
+    },
+    {
+      "name": "106",
+      "url": "/raypak/106/parts",
+      "code": "106"
+    },
+    {
+      "name": "1083",
+      "url": "/raypak/1083/parts",
+      "code": "1083"
+    },
+    {
+      "name": "1125",
+      "url": "/raypak/1125/parts",
+      "code": "1125"
+    },
+    {
+      "name": "1178",
+      "url": "/raypak/1178/parts",
+      "code": "1178"
+    },
+    {
+      "name": "1223",
+      "url": "/raypak/1223/parts",
+      "code": "1223"
+    },
+    {
+      "name": "1287",
+      "url": "/raypak/1287/parts",
+      "code": "1287"
+    },
+    {
+      "name": "1336",
+      "url": "/raypak/1336/parts",
+      "code": "1336"
+    },
+    {
+      "name": "1414",
+      "url": "/raypak/1414/parts",
+      "code": "1414"
+    },
+    {
+      "name": "1468",
+      "url": "/raypak/1468/parts",
+      "code": "1468"
+    },
+    {
+      "name": "1505A",
+      "url": "/raypak/1505a/parts",
+      "code": "1505a"
+    },
+    {
+      "name": "156",
+      "url": "/raypak/156/parts",
+      "code": "156"
+    },
+    {
+      "name": "1571",
+      "url": "/raypak/1571/parts",
+      "code": "1571"
+    },
+    {
+      "name": "1631",
+      "url": "/raypak/1631/parts",
+      "code": "1631"
+    },
+    {
+      "name": "1758",
+      "url": "/raypak/1758/parts",
+      "code": "1758"
+    },
+    {
+      "name": "1826",
+      "url": "/raypak/1826/parts",
+      "code": "1826"
+    },
+    {
+      "name": "198AR",
+      "url": "/raypak/198ar/parts",
+      "code": "198ar"
+    },
+    {
+      "name": "2005A",
+      "url": "/raypak/2005a/parts",
+      "code": "2005a"
+    },
+    {
+      "name": "207A",
+      "url": "/raypak/207a/parts",
+      "code": "207a"
+    },
+    {
+      "name": "2450",
+      "url": "/raypak/2450/parts",
+      "code": "2450"
+    },
+    {
+      "name": "264",
+      "url": "/raypak/264/parts",
+      "code": "264"
+    },
+    {
+      "name": "267A",
+      "url": "/raypak/267a/parts",
+      "code": "267a"
+    },
+    {
+      "name": "278AR",
+      "url": "/raypak/278ar/parts",
+      "code": "278ar"
+    },
+    {
+      "name": "3005",
+      "url": "/raypak/3005/parts",
+      "code": "3005"
+    },
+    {
+      "name": "337A",
+      "url": "/raypak/337a/parts",
+      "code": "337a"
+    },
+    {
+      "name": "3450",
+      "url": "/raypak/3450/parts",
+      "code": "3450"
+    },
+    {
+      "name": "3505",
+      "url": "/raypak/3505/parts",
+      "code": "3505"
+    },
+    {
+      "name": "398A",
+      "url": "/raypak/398a/parts",
+      "code": "398a"
+    },
+    {
+      "name": "4005",
+      "url": "/raypak/4005/parts",
+      "code": "4005"
+    },
+    {
+      "name": "404",
+      "url": "/raypak/404/parts",
+      "code": "404"
+    },
+    {
+      "name": "406L",
+      "url": "/raypak/406l/parts",
+      "code": "406l"
+    },
+    {
+      "name": "407A",
+      "url": "/raypak/407a/parts",
+      "code": "407a"
+    },
+    {
+      "name": "4450",
+      "url": "/raypak/4450/parts",
+      "code": "4450"
+    },
+    {
+      "name": "506L",
+      "url": "/raypak/506l/parts",
+      "code": "506l"
+    },
+    {
+      "name": "5450",
+      "url": "/raypak/5450/parts",
+      "code": "5450"
+    },
+    {
+      "name": "606L",
+      "url": "/raypak/606l/parts",
+      "code": "606l"
+    },
+    {
+      "name": "6450",
+      "url": "/raypak/6450/parts",
+      "code": "6450"
+    },
+    {
+      "name": "726L",
+      "url": "/raypak/726l/parts",
+      "code": "726l"
+    },
+    {
+      "name": "8450",
+      "url": "/raypak/8450/parts",
+      "code": "8450"
+    },
+    {
+      "name": "856L",
+      "url": "/raypak/856l/parts",
+      "code": "856l"
+    },
+    {
+      "name": "926",
+      "url": "/raypak/926/parts",
+      "code": "926"
+    },
+    {
+      "name": "9350HC",
+      "url": "/raypak/9350hc/parts",
+      "code": "9350hc"
+    },
+    {
+      "name": "9353HC",
+      "url": "/raypak/9353hc/parts",
+      "code": "9353hc"
+    },
+    {
+      "name": "962",
+      "url": "/raypak/962/parts",
+      "code": "962"
+    },
+    {
+      "name": "ELS-0005-1-TIB",
+      "url": "/raypak/els-0005-1-tib/parts",
+      "code": "els-0005-1-tib"
+    },
+    {
+      "name": "ELS-0011-1-TIB",
+      "url": "/raypak/els-0011-1-tib/parts",
+      "code": "els-0011-1-tib"
+    },
+    {
+      "name": "ELS0005",
+      "url": "/raypak/els0005/parts",
+      "code": "els0005"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:56:40.207278"
+}

@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "San Jamar",
+    "code": "PT_CAT1181",
+    "uri": "san-jamar"
+  },
+  "models": [
+    {
+      "name": "C2010C",
+      "url": "/san-jamar/c2010c/parts",
+      "code": "c2010c"
+    },
+    {
+      "name": "C2410C",
+      "url": "/san-jamar/c2410c/parts",
+      "code": "c2410c"
+    },
+    {
+      "name": "C241OC18",
+      "url": "/san-jamar/c241oc18/parts",
+      "code": "c241oc18"
+    },
+    {
+      "name": "C3400CH",
+      "url": "/san-jamar/c3400ch/parts",
+      "code": "c3400ch"
+    },
+    {
+      "name": "C9002",
+      "url": "/san-jamar/c9002/parts",
+      "code": "c9002"
+    },
+    {
+      "name": "FRONTLINE",
+      "url": "/san-jamar/frontline/parts",
+      "code": "frontline"
+    },
+    {
+      "name": "H2001XC",
+      "url": "/san-jamar/h2001xc/parts",
+      "code": "h2001xc"
+    },
+    {
+      "name": "L2200C",
+      "url": "/san-jamar/l2200c/parts",
+      "code": "l2200c"
+    },
+    {
+      "name": "L2400C",
+      "url": "/san-jamar/l2400c/parts",
+      "code": "l2400c"
+    },
+    {
+      "name": "STK1008",
+      "url": "/san-jamar/stk1008/parts",
+      "code": "stk1008"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-14T21:51:57.117138"
+}

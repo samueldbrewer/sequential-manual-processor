@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Henny Penny",
+    "code": "PT_CAT1095",
+    "uri": "henny-penny"
+  },
+  "models": [
+    {
+      "name": "290",
+      "url": "/henny-penny/290/parts",
+      "code": "290"
+    },
+    {
+      "name": "291",
+      "url": "/henny-penny/291/parts",
+      "code": "291"
+    },
+    {
+      "name": "320",
+      "url": "/henny-penny/320/parts",
+      "code": "320"
+    },
+    {
+      "name": "500",
+      "url": "/henny-penny/500/parts",
+      "code": "500"
+    },
+    {
+      "name": "500PVS",
+      "url": "/henny-penny/500pvs/parts",
+      "code": "500pvs"
+    },
+    {
+      "name": "590",
+      "url": "/henny-penny/590/parts",
+      "code": "590"
+    },
+    {
+      "name": "591",
+      "url": "/henny-penny/591/parts",
+      "code": "591"
+    },
+    {
+      "name": "592",
+      "url": "/henny-penny/592/parts",
+      "code": "592"
+    },
+    {
+      "name": "600",
+      "url": "/henny-penny/600/parts",
+      "code": "600"
+    },
+    {
+      "name": "690",
+      "url": "/henny-penny/690/parts",
+      "code": "690"
+    },
+    {
+      "name": "691",
+      "url": "/henny-penny/691/parts",
+      "code": "691"
+    },
+    {
+      "name": "AHC-99 Series",
+      "url": "/henny-penny/ahc-99-series/parts",
+      "code": "ahc-99-series"
+    },
+    {
+      "name": "AHC-990",
+      "url": "/henny-penny/ahc-990/parts",
+      "code": "ahc-990"
+    },
+    {
+      "name": "AHC-993",
+      "url": "/henny-penny/ahc-993/parts",
+      "code": "ahc-993"
+    },
+    {
+      "name": "BCC-140",
+      "url": "/henny-penny/bcc-140/parts",
+      "code": "bcc-140"
+    },
+    {
+      "name": "BCC-175",
+      "url": "/henny-penny/bcc-175/parts",
+      "code": "bcc-175"
+    },
+    {
+      "name": "BCF-110",
+      "url": "/henny-penny/bcf-110/parts",
+      "code": "bcf-110"
+    },
+    {
+      "name": "BCF-24",
+      "url": "/henny-penny/bcf-24/parts",
+      "code": "bcf-24"
+    },
+    {
+      "name": "BCF-65",
+      "url": "/henny-penny/bcf-65/parts",
+      "code": "bcf-65"
+    },
+    {
+      "name": "BCM-110",
+      "url": "/henny-penny/bcm-110/parts",
+      "code": "bcm-110"
+    },
+    {
+      "name": "BCR-140",
+      "url": "/henny-penny/bcr-140/parts",
+      "code": "bcr-140"
+    },
+    {
+      "name": "BCR-175",
+      "url": "/henny-penny/bcr-175/parts",
+      "code": "bcr-175"
+    },
+    {
+      "name": "BCR-350",
+      "url": "/henny-penny/bcr-350/parts",
+      "code": "bcr-350"
+    },
+    {
+      "name": "BFR-350",
+      "url": "/henny-penny/bfr-350/parts",
+      "code": "bfr-350"
+    },
+    {
+      "name": "BM-110",
+      "url": "/henny-penny/bm-110/parts",
+      "code": "bm-110"
+    },
+    {
+      "name": "BW-1",
+      "url": "/henny-penny/bw-1/parts",
+      "code": "bw-1"
+    },
+    {
+      "name": "BW-100",
+      "url": "/henny-penny/bw-100/parts",
+      "code": "bw-100"
+    },
+    {
+      "name": "BW-4",
+      "url": "/henny-penny/bw-4/parts",
+      "code": "bw-4"
+    },
+    {
+      "name": "BW-4/3",
+      "url": "/henny-penny/bw-4-3/parts",
+      "code": "bw-4-3"
+    },
+    {
+      "name": "BW-6",
+      "url": "/henny-penny/bw-6/parts",
+      "code": "bw-6"
+    },
+    {
+      "name": "BW-8",
+      "url": "/henny-penny/bw-8/parts",
+      "code": "bw-8"
+    },
+    {
+      "name": "CBC-104",
+      "url": "/henny-penny/cbc-104/parts",
+      "code": "cbc-104"
+    },
+    {
+      "name": "CBC-105",
+      "url": "/henny-penny/cbc-105/parts",
+      "code": "cbc-105"
+    },
+    {
+      "name": "CBC-106",
+      "url": "/henny-penny/cbc-106/parts",
+      "code": "cbc-106"
+    },
+    {
+      "name": "CBC-107",
+      "url": "/henny-penny/cbc-107/parts",
+      "code": "cbc-107"
+    },
+    {
+      "name": "CBR-104",
+      "url": "/henny-penny/cbr-104/parts",
+      "code": "cbr-104"
+    },
+    {
+      "name": "CBR-105",
+      "url": "/henny-penny/cbr-105/parts",
+      "code": "cbr-105"
+    },
+    {
+      "name": "CBR-106",
+      "url": "/henny-penny/cbr-106/parts",
+      "code": "cbr-106"
+    },
+    {
+      "name": "CBR-107",
+      "url": "/henny-penny/cbr-107/parts",
+      "code": "cbr-107"
+    },
+    {
+      "name": "CDT 6",
+      "url": "/henny-penny/cdt-6/parts",
+      "code": "cdt-6"
+    },
+    {
+      "name": "CF-941",
+      "url": "/henny-penny/cf-941/parts",
+      "code": "cf-941"
+    },
+    {
+      "name": "CFA-500",
+      "url": "/henny-penny/cfa-500/parts",
+      "code": "cfa-500"
+    },
+    {
+      "name": "CFA-600",
+      "url": "/henny-penny/cfa-600/parts",
+      "code": "cfa-600"
+    },
+    {
+      "name": "CFE-410",
+      "url": "/henny-penny/cfe-410/parts",
+      "code": "cfe-410"
+    },
+    {
+      "name": "CFE-415",
+      "url": "/henny-penny/cfe-415/parts",
+      "code": "cfe-415"
+    },
+    {
+      "name": "CFE-420",
+      "url": "/henny-penny/cfe-420/parts",
+      "code": "cfe-420"
+    },
+    {
+      "name": "CFE-427",
+      "url": "/henny-penny/cfe-427/parts",
+      "code": "cfe-427"
+    },
+    {
+      "name": "CH-108",
+      "url": "/henny-penny/ch-108/parts",
+      "code": "ch-108"
+    },
+    {
+      "name": "CM-5",
+      "url": "/henny-penny/cm-5/parts",
+      "code": "cm-5"
+    },
+    {
+      "name": "CM-7",
+      "url": "/henny-penny/cm-7/parts",
+      "code": "cm-7"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:56:46.183782"
+}

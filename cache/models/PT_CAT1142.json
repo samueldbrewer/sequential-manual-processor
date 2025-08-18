@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Merco",
+    "code": "PT_CAT1142",
+    "uri": "merco"
+  },
+  "models": [
+    {
+      "name": "(X)MHS22SAT1W",
+      "url": "/merco/x-mhs22sat1w/parts",
+      "code": "x-mhs22sat1w"
+    },
+    {
+      "name": "27000",
+      "url": "/merco/27000/parts",
+      "code": "27000"
+    },
+    {
+      "name": "27001",
+      "url": "/merco/27001/parts",
+      "code": "27001"
+    },
+    {
+      "name": "27002",
+      "url": "/merco/27002/parts",
+      "code": "27002"
+    },
+    {
+      "name": "27007",
+      "url": "/merco/27007/parts",
+      "code": "27007"
+    },
+    {
+      "name": "27008",
+      "url": "/merco/27008/parts",
+      "code": "27008"
+    },
+    {
+      "name": "27012",
+      "url": "/merco/27012/parts",
+      "code": "27012"
+    },
+    {
+      "name": "27016",
+      "url": "/merco/27016/parts",
+      "code": "27016"
+    },
+    {
+      "name": "27017",
+      "url": "/merco/27017/parts",
+      "code": "27017"
+    },
+    {
+      "name": "2TSW-2824",
+      "url": "/merco/2tsw-2824/parts",
+      "code": "2tsw-2824"
+    },
+    {
+      "name": "2TSW-3224",
+      "url": "/merco/2tsw-3224/parts",
+      "code": "2tsw-3224"
+    },
+    {
+      "name": "2TSW-3824",
+      "url": "/merco/2tsw-3824/parts",
+      "code": "2tsw-3824"
+    },
+    {
+      "name": "2TSW-4424",
+      "url": "/merco/2tsw-4424/parts",
+      "code": "2tsw-4424"
+    },
+    {
+      "name": "2TSW-5024",
+      "url": "/merco/2tsw-5024/parts",
+      "code": "2tsw-5024"
+    },
+    {
+      "name": "2TSW-6224",
+      "url": "/merco/2tsw-6224/parts",
+      "code": "2tsw-6224"
+    },
+    {
+      "name": "2TSW-7424",
+      "url": "/merco/2tsw-7424/parts",
+      "code": "2tsw-7424"
+    },
+    {
+      "name": "2TSW-8024",
+      "url": "/merco/2tsw-8024/parts",
+      "code": "2tsw-8024"
+    },
+    {
+      "name": "775-C",
+      "url": "/merco/775-c/parts",
+      "code": "775-c"
+    },
+    {
+      "name": "86002",
+      "url": "/merco/86002/parts",
+      "code": "86002"
+    },
+    {
+      "name": "86003",
+      "url": "/merco/86003/parts",
+      "code": "86003"
+    },
+    {
+      "name": "86007",
+      "url": "/merco/86007/parts",
+      "code": "86007"
+    },
+    {
+      "name": "86009",
+      "url": "/merco/86009/parts",
+      "code": "86009"
+    },
+    {
+      "name": "86009",
+      "url": "/merco/86009/parts",
+      "code": "86009"
+    },
+    {
+      "name": "B1",
+      "url": "/merco/b1/parts",
+      "code": "b1"
+    },
+    {
+      "name": "B1-2",
+      "url": "/merco/b1-2/parts",
+      "code": "b1-2"
+    },
+    {
+      "name": "B2",
+      "url": "/merco/b2/parts",
+      "code": "b2"
+    },
+    {
+      "name": "B3",
+      "url": "/merco/b3/parts",
+      "code": "b3"
+    },
+    {
+      "name": "BW-24",
+      "url": "/merco/bw-24/parts",
+      "code": "bw-24"
+    },
+    {
+      "name": "BW-36",
+      "url": "/merco/bw-36/parts",
+      "code": "bw-36"
+    },
+    {
+      "name": "BW-48",
+      "url": "/merco/bw-48/parts",
+      "code": "bw-48"
+    },
+    {
+      "name": "BW-60",
+      "url": "/merco/bw-60/parts",
+      "code": "bw-60"
+    },
+    {
+      "name": "BW-72",
+      "url": "/merco/bw-72/parts",
+      "code": "bw-72"
+    },
+    {
+      "name": "BWI-24",
+      "url": "/merco/bwi-24/parts",
+      "code": "bwi-24"
+    },
+    {
+      "name": "BWI-36",
+      "url": "/merco/bwi-36/parts",
+      "code": "bwi-36"
+    },
+    {
+      "name": "BWI-48",
+      "url": "/merco/bwi-48/parts",
+      "code": "bwi-48"
+    },
+    {
+      "name": "BWI-60",
+      "url": "/merco/bwi-60/parts",
+      "code": "bwi-60"
+    },
+    {
+      "name": "BWI-72",
+      "url": "/merco/bwi-72/parts",
+      "code": "bwi-72"
+    },
+    {
+      "name": "CONTEMPO   STYLE A",
+      "url": "/merco/contempo-style-a/parts",
+      "code": "contempo-style-a"
+    },
+    {
+      "name": "CONTEMPO   STYLE C",
+      "url": "/merco/contempo-style-c/parts",
+      "code": "contempo-style-c"
+    },
+    {
+      "name": "CONTEMPO   STYLE F",
+      "url": "/merco/contempo-style-f/parts",
+      "code": "contempo-style-f"
+    },
+    {
+      "name": "CONTEMPO   STYLE R",
+      "url": "/merco/contempo-style-r/parts",
+      "code": "contempo-style-r"
+    },
+    {
+      "name": "CONTEMPO   STYLE S",
+      "url": "/merco/contempo-style-s/parts",
+      "code": "contempo-style-s"
+    },
+    {
+      "name": "EZNW-60X",
+      "url": "/merco/eznw-60x/parts",
+      "code": "eznw-60x"
+    },
+    {
+      "name": "FFHS-10",
+      "url": "/merco/ffhs-10/parts",
+      "code": "ffhs-10"
+    },
+    {
+      "name": "FFHS-10 CE",
+      "url": "/merco/ffhs-10-ce/parts",
+      "code": "ffhs-10-ce"
+    },
+    {
+      "name": "FFHS-16",
+      "url": "/merco/ffhs-16/parts",
+      "code": "ffhs-16"
+    },
+    {
+      "name": "FFHS-16 CE",
+      "url": "/merco/ffhs-16-ce/parts",
+      "code": "ffhs-16-ce"
+    },
+    {
+      "name": "FFHS-27",
+      "url": "/merco/ffhs-27/parts",
+      "code": "ffhs-27"
+    },
+    {
+      "name": "FFHS-32",
+      "url": "/merco/ffhs-32/parts",
+      "code": "ffhs-32"
+    },
+    {
+      "name": "FFHS10A-C",
+      "url": "/merco/ffhs10a-c/parts",
+      "code": "ffhs10a-c"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:30:02.354814"
+}

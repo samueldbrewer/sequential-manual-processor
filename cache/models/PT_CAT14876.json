@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "Eurodib",
+    "code": "PT_CAT14876",
+    "uri": "eurodib"
+  },
+  "models": [
+    {
+      "name": "CEBIF4",
+      "url": "/eurodib/cebif4/parts",
+      "code": "cebif4"
+    },
+    {
+      "name": "CEBPB2",
+      "url": "/eurodib/cebpb2/parts",
+      "code": "cebpb2"
+    },
+    {
+      "name": "CECIF4",
+      "url": "/eurodib/cecif4/parts",
+      "code": "cecif4"
+    },
+    {
+      "name": "CECIJ4",
+      "url": "/eurodib/cecij4/parts",
+      "code": "cecij4"
+    },
+    {
+      "name": "CEFIA2",
+      "url": "/eurodib/cefia2/parts",
+      "code": "cefia2"
+    },
+    {
+      "name": "CGBIP4",
+      "url": "/eurodib/cgbip4/parts",
+      "code": "cgbip4"
+    },
+    {
+      "name": "CGCID4",
+      "url": "/eurodib/cgcid4/parts",
+      "code": "cgcid4"
+    },
+    {
+      "name": "CGCIM4",
+      "url": "/eurodib/cgcim4/parts",
+      "code": "cgcim4"
+    },
+    {
+      "name": "CGCIP4",
+      "url": "/eurodib/cgcip4/parts",
+      "code": "cgcip4"
+    },
+    {
+      "name": "CGCIW4",
+      "url": "/eurodib/cgciw4/parts",
+      "code": "cgciw4"
+    },
+    {
+      "name": "Mirra220AI",
+      "url": "/eurodib/mirra220ai/parts",
+      "code": "mirra220ai"
+    },
+    {
+      "name": "Mirra250",
+      "url": "/eurodib/mirra250/parts",
+      "code": "mirra250"
+    },
+    {
+      "name": "SP012",
+      "url": "/eurodib/sp012/parts",
+      "code": "sp012"
+    },
+    {
+      "name": "SP027",
+      "url": "/eurodib/sp027/parts",
+      "code": "sp027"
+    },
+    {
+      "name": "Topaz195",
+      "url": "/eurodib/topaz195/parts",
+      "code": "topaz195"
+    },
+    {
+      "name": "Topaz220AI",
+      "url": "/eurodib/topaz220ai/parts",
+      "code": "topaz220ai"
+    },
+    {
+      "name": "lHE3097-240",
+      "url": "/eurodib/lhe3097-240/parts",
+      "code": "lhe3097-240"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-14T18:29:45.663366"
+}

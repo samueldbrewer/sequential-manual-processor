@@ -1,0 +1,51 @@
+{
+  "manufacturer": {
+    "name": "A la Cart",
+    "code": "PT_CAT47992",
+    "uri": "a-la-cart"
+  },
+  "models": [
+    {
+      "name": "26000-1",
+      "url": "/a-la-cart/26000-1/parts",
+      "code": "26000-1"
+    },
+    {
+      "name": "26180-1",
+      "url": "/a-la-cart/26180-1/parts",
+      "code": "26180-1"
+    },
+    {
+      "name": "98000-1/5000",
+      "url": "/a-la-cart/98000-1-5000/parts",
+      "code": "98000-1-5000"
+    },
+    {
+      "name": "98003-1/5000T",
+      "url": "/a-la-cart/98003-1-5000t/parts",
+      "code": "98003-1-5000t"
+    },
+    {
+      "name": "98004-1/5000C",
+      "url": "/a-la-cart/98004-1-5000c/parts",
+      "code": "98004-1-5000c"
+    },
+    {
+      "name": "DUAL TEMP 120",
+      "url": "/a-la-cart/dual-temp-120/parts",
+      "code": "dual-temp-120"
+    },
+    {
+      "name": "G101099",
+      "url": "/a-la-cart/g101099/parts",
+      "code": "g101099"
+    },
+    {
+      "name": "SYSTEM II",
+      "url": "/a-la-cart/system-ii/parts",
+      "code": "system-ii"
+    }
+  ],
+  "total_models": 8,
+  "cached_at": "2025-08-15T11:45:05.791372"
+}

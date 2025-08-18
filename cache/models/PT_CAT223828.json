@@ -1,0 +1,31 @@
+{
+  "manufacturer": {
+    "name": "Islandaire",
+    "code": "PT_CAT223828",
+    "uri": "islandaire"
+  },
+  "models": [
+    {
+      "name": "EZ26",
+      "url": "/islandaire/ez26/parts",
+      "code": "ez26"
+    },
+    {
+      "name": "EZ42",
+      "url": "/islandaire/ez42/parts",
+      "code": "ez42"
+    },
+    {
+      "name": "EZ81",
+      "url": "/islandaire/ez81/parts",
+      "code": "ez81"
+    },
+    {
+      "name": "EZAD",
+      "url": "/islandaire/ezad/parts",
+      "code": "ezad"
+    }
+  ],
+  "total_models": 4,
+  "cached_at": "2025-08-14T19:08:14.811349"
+}

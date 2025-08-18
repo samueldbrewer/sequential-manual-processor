@@ -1,0 +1,196 @@
+{
+  "manufacturer": {
+    "name": "Merrychef",
+    "code": "PT_CAT12938",
+    "uri": "merrychef"
+  },
+  "models": [
+    {
+      "name": "402S",
+      "url": "/merrychef/402s/parts",
+      "code": "402s"
+    },
+    {
+      "name": "402S 2.0",
+      "url": "/merrychef/402s-2-0/parts",
+      "code": "402s-2-0"
+    },
+    {
+      "name": "402S 3.0",
+      "url": "/merrychef/402s-3-0/parts",
+      "code": "402s-3-0"
+    },
+    {
+      "name": "402S WAWA",
+      "url": "/merrychef/402s-wawa/parts",
+      "code": "402s-wawa"
+    },
+    {
+      "name": "603R",
+      "url": "/merrychef/603r/parts",
+      "code": "603r"
+    },
+    {
+      "name": "63R",
+      "url": "/merrychef/63r/parts",
+      "code": "63r"
+    },
+    {
+      "name": "CONNEX 12",
+      "url": "/merrychef/connex-12/parts",
+      "code": "connex-12"
+    },
+    {
+      "name": "CONNEX 16",
+      "url": "/merrychef/connex-16/parts",
+      "code": "connex-16"
+    },
+    {
+      "name": "CTM5MTV",
+      "url": "/merrychef/ctm5mtv/parts",
+      "code": "ctm5mtv"
+    },
+    {
+      "name": "EC402S 2.0",
+      "url": "/merrychef/ec402s-2-0/parts",
+      "code": "ec402s-2-0"
+    },
+    {
+      "name": "EC402S 3.0",
+      "url": "/merrychef/ec402s-3-0/parts",
+      "code": "ec402s-3-0"
+    },
+    {
+      "name": "EC402S WAWA",
+      "url": "/merrychef/ec402s-wawa/parts",
+      "code": "ec402s-wawa"
+    },
+    {
+      "name": "EC501",
+      "url": "/merrychef/ec501/parts",
+      "code": "ec501"
+    },
+    {
+      "name": "EC502",
+      "url": "/merrychef/ec502/parts",
+      "code": "ec502"
+    },
+    {
+      "name": "EC503",
+      "url": "/merrychef/ec503/parts",
+      "code": "ec503"
+    },
+    {
+      "name": "EIKON E2",
+      "url": "/merrychef/eikon-e2/parts",
+      "code": "eikon-e2"
+    },
+    {
+      "name": "EIKON E3",
+      "url": "/merrychef/eikon-e3/parts",
+      "code": "eikon-e3"
+    },
+    {
+      "name": "EIKON E4",
+      "url": "/merrychef/eikon-e4/parts",
+      "code": "eikon-e4"
+    },
+    {
+      "name": "EIKON E4S",
+      "url": "/merrychef/eikon-e4s/parts",
+      "code": "eikon-e4s"
+    },
+    {
+      "name": "EIKON E5",
+      "url": "/merrychef/eikon-e5/parts",
+      "code": "eikon-e5"
+    },
+    {
+      "name": "EIKON E6",
+      "url": "/merrychef/eikon-e6/parts",
+      "code": "eikon-e6"
+    },
+    {
+      "name": "Eikon e2s",
+      "url": "/merrychef/eikon-e2s/parts",
+      "code": "eikon-e2s"
+    },
+    {
+      "name": "HD1025",
+      "url": "/merrychef/hd1025/parts",
+      "code": "hd1025"
+    },
+    {
+      "name": "HD1425",
+      "url": "/merrychef/hd1425/parts",
+      "code": "hd1425"
+    },
+    {
+      "name": "HD1725",
+      "url": "/merrychef/hd1725/parts",
+      "code": "hd1725"
+    },
+    {
+      "name": "HD1925",
+      "url": "/merrychef/hd1925/parts",
+      "code": "hd1925"
+    },
+    {
+      "name": "HD2025",
+      "url": "/merrychef/hd2025/parts",
+      "code": "hd2025"
+    },
+    {
+      "name": "MD1000",
+      "url": "/merrychef/md1000/parts",
+      "code": "md1000"
+    },
+    {
+      "name": "MD1400",
+      "url": "/merrychef/md1400/parts",
+      "code": "md1400"
+    },
+    {
+      "name": "MD1800",
+      "url": "/merrychef/md1800/parts",
+      "code": "md1800"
+    },
+    {
+      "name": "MEALSTREAM 401 RMC1003",
+      "url": "/merrychef/mealstream-401-rmc1003/parts",
+      "code": "mealstream-401-rmc1003"
+    },
+    {
+      "name": "MEALSTREAM EC401/EC403 RMC1003",
+      "url": "/merrychef/mealstream-ec401-ec403-rmc1003/parts",
+      "code": "mealstream-ec401-ec403-rmc1003"
+    },
+    {
+      "name": "MICROAIRE",
+      "url": "/merrychef/microaire/parts",
+      "code": "microaire"
+    },
+    {
+      "name": "RD501",
+      "url": "/merrychef/rd501/parts",
+      "code": "rd501"
+    },
+    {
+      "name": "TA1725",
+      "url": "/merrychef/ta1725/parts",
+      "code": "ta1725"
+    },
+    {
+      "name": "TA1925",
+      "url": "/merrychef/ta1925/parts",
+      "code": "ta1925"
+    },
+    {
+      "name": "TIM HORTONS MEALSTREAM 501",
+      "url": "/merrychef/tim-hortons-mealstream-501/parts",
+      "code": "tim-hortons-mealstream-501"
+    }
+  ],
+  "total_models": 37,
+  "cached_at": "2025-08-14T19:30:14.647676"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hestan Commercial",
+    "code": "PT_CAT223915",
+    "uri": "hestan-commercial"
+  },
+  "models": [
+    {
+      "name": "HCB12",
+      "url": "/hestan-commercial/hcb12/parts",
+      "code": "hcb12"
+    },
+    {
+      "name": "HCB18",
+      "url": "/hestan-commercial/hcb18/parts",
+      "code": "hcb18"
+    },
+    {
+      "name": "HCB24",
+      "url": "/hestan-commercial/hcb24/parts",
+      "code": "hcb24"
+    },
+    {
+      "name": "HCB30",
+      "url": "/hestan-commercial/hcb30/parts",
+      "code": "hcb30"
+    },
+    {
+      "name": "HCB36",
+      "url": "/hestan-commercial/hcb36/parts",
+      "code": "hcb36"
+    },
+    {
+      "name": "HCB48",
+      "url": "/hestan-commercial/hcb48/parts",
+      "code": "hcb48"
+    },
+    {
+      "name": "HCD30",
+      "url": "/hestan-commercial/hcd30/parts",
+      "code": "hcd30"
+    },
+    {
+      "name": "HCD36",
+      "url": "/hestan-commercial/hcd36/parts",
+      "code": "hcd36"
+    },
+    {
+      "name": "HCD48",
+      "url": "/hestan-commercial/hcd48/parts",
+      "code": "hcd48"
+    },
+    {
+      "name": "HCDL12",
+      "url": "/hestan-commercial/hcdl12/parts",
+      "code": "hcdl12"
+    },
+    {
+      "name": "HCDL18",
+      "url": "/hestan-commercial/hcdl18/parts",
+      "code": "hcdl18"
+    },
+    {
+      "name": "HCDL24",
+      "url": "/hestan-commercial/hcdl24/parts",
+      "code": "hcdl24"
+    },
+    {
+      "name": "HCDR12",
+      "url": "/hestan-commercial/hcdr12/parts",
+      "code": "hcdr12"
+    },
+    {
+      "name": "HCDR18",
+      "url": "/hestan-commercial/hcdr18/parts",
+      "code": "hcdr18"
+    },
+    {
+      "name": "HCDR24",
+      "url": "/hestan-commercial/hcdr24/parts",
+      "code": "hcdr24"
+    },
+    {
+      "name": "HCH18",
+      "url": "/hestan-commercial/hch18/parts",
+      "code": "hch18"
+    },
+    {
+      "name": "HCH24",
+      "url": "/hestan-commercial/hch24/parts",
+      "code": "hch24"
+    },
+    {
+      "name": "HCH30",
+      "url": "/hestan-commercial/hch30/parts",
+      "code": "hch30"
+    },
+    {
+      "name": "HCH36",
+      "url": "/hestan-commercial/hch36/parts",
+      "code": "hch36"
+    },
+    {
+      "name": "HCH48",
+      "url": "/hestan-commercial/hch48/parts",
+      "code": "hch48"
+    },
+    {
+      "name": "HCH60",
+      "url": "/hestan-commercial/hch60/parts",
+      "code": "hch60"
+    },
+    {
+      "name": "HCH72",
+      "url": "/hestan-commercial/hch72/parts",
+      "code": "hch72"
+    },
+    {
+      "name": "HCMC24",
+      "url": "/hestan-commercial/hcmc24/parts",
+      "code": "hcmc24"
+    },
+    {
+      "name": "HCMC30",
+      "url": "/hestan-commercial/hcmc30/parts",
+      "code": "hcmc30"
+    },
+    {
+      "name": "HCMC36",
+      "url": "/hestan-commercial/hcmc36/parts",
+      "code": "hcmc36"
+    },
+    {
+      "name": "HCMC48",
+      "url": "/hestan-commercial/hcmc48/parts",
+      "code": "hcmc48"
+    },
+    {
+      "name": "HCMC54",
+      "url": "/hestan-commercial/hcmc54/parts",
+      "code": "hcmc54"
+    },
+    {
+      "name": "HCMC60",
+      "url": "/hestan-commercial/hcmc60/parts",
+      "code": "hcmc60"
+    },
+    {
+      "name": "HCMC72",
+      "url": "/hestan-commercial/hcmc72/parts",
+      "code": "hcmc72"
+    },
+    {
+      "name": "HCMD36",
+      "url": "/hestan-commercial/hcmd36/parts",
+      "code": "hcmd36"
+    },
+    {
+      "name": "HCMD48",
+      "url": "/hestan-commercial/hcmd48/parts",
+      "code": "hcmd48"
+    },
+    {
+      "name": "HCMD54",
+      "url": "/hestan-commercial/hcmd54/parts",
+      "code": "hcmd54"
+    },
+    {
+      "name": "HCMD60",
+      "url": "/hestan-commercial/hcmd60/parts",
+      "code": "hcmd60"
+    },
+    {
+      "name": "HCMD72",
+      "url": "/hestan-commercial/hcmd72/parts",
+      "code": "hcmd72"
+    },
+    {
+      "name": "HCMR24",
+      "url": "/hestan-commercial/hcmr24/parts",
+      "code": "hcmr24"
+    },
+    {
+      "name": "HCMR30",
+      "url": "/hestan-commercial/hcmr30/parts",
+      "code": "hcmr30"
+    },
+    {
+      "name": "HCMR36",
+      "url": "/hestan-commercial/hcmr36/parts",
+      "code": "hcmr36"
+    },
+    {
+      "name": "HCMR48",
+      "url": "/hestan-commercial/hcmr48/parts",
+      "code": "hcmr48"
+    },
+    {
+      "name": "HCMR54",
+      "url": "/hestan-commercial/hcmr54/parts",
+      "code": "hcmr54"
+    },
+    {
+      "name": "HCMR60",
+      "url": "/hestan-commercial/hcmr60/parts",
+      "code": "hcmr60"
+    },
+    {
+      "name": "HCMR72",
+      "url": "/hestan-commercial/hcmr72/parts",
+      "code": "hcmr72"
+    },
+    {
+      "name": "HCMS36",
+      "url": "/hestan-commercial/hcms36/parts",
+      "code": "hcms36"
+    },
+    {
+      "name": "HCMS48",
+      "url": "/hestan-commercial/hcms48/parts",
+      "code": "hcms48"
+    },
+    {
+      "name": "HCMS60",
+      "url": "/hestan-commercial/hcms60/parts",
+      "code": "hcms60"
+    },
+    {
+      "name": "HCMS72",
+      "url": "/hestan-commercial/hcms72/parts",
+      "code": "hcms72"
+    },
+    {
+      "name": "HCMW24",
+      "url": "/hestan-commercial/hcmw24/parts",
+      "code": "hcmw24"
+    },
+    {
+      "name": "HCMW30",
+      "url": "/hestan-commercial/hcmw30/parts",
+      "code": "hcmw30"
+    },
+    {
+      "name": "HCMW36",
+      "url": "/hestan-commercial/hcmw36/parts",
+      "code": "hcmw36"
+    },
+    {
+      "name": "HCMW48",
+      "url": "/hestan-commercial/hcmw48/parts",
+      "code": "hcmw48"
+    },
+    {
+      "name": "HCMW54",
+      "url": "/hestan-commercial/hcmw54/parts",
+      "code": "hcmw54"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:57:12.886716"
+}

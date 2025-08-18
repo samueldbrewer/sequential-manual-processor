@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Kanpak",
+    "code": "PT_CATKANPAK",
+    "uri": "kanpak"
+  },
+  "models": [
+    {
+      "name": "CDG-211 CFA",
+      "url": "/kanpak/cdg-211-cfa/parts",
+      "code": "cdg-211-cfa"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:10:16.348981"
+}

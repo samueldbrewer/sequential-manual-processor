@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Lochinvar",
+    "code": "PT_CAT223712",
+    "uri": "lochinvar"
+  },
+  "models": [
+    {
+      "name": "APN400-600",
+      "url": "/lochinvar/apn400-600/parts",
+      "code": "apn400-600"
+    },
+    {
+      "name": "APN725-850",
+      "url": "/lochinvar/apn725-850/parts",
+      "code": "apn725-850"
+    },
+    {
+      "name": "CB 315",
+      "url": "/lochinvar/cb-315/parts",
+      "code": "cb-315"
+    },
+    {
+      "name": "CB 360",
+      "url": "/lochinvar/cb-360/parts",
+      "code": "cb-360"
+    },
+    {
+      "name": "CB 399",
+      "url": "/lochinvar/cb-399/parts",
+      "code": "cb-399"
+    },
+    {
+      "name": "CB 500",
+      "url": "/lochinvar/cb-500/parts",
+      "code": "cb-500"
+    },
+    {
+      "name": "CB0497",
+      "url": "/lochinvar/cb0497/parts",
+      "code": "cb0497"
+    },
+    {
+      "name": "CB0647",
+      "url": "/lochinvar/cb0647/parts",
+      "code": "cb0647"
+    },
+    {
+      "name": "CB0747",
+      "url": "/lochinvar/cb0747/parts",
+      "code": "cb0747"
+    },
+    {
+      "name": "CB0987",
+      "url": "/lochinvar/cb0987/parts",
+      "code": "cb0987"
+    },
+    {
+      "name": "CB1257",
+      "url": "/lochinvar/cb1257/parts",
+      "code": "cb1257"
+    },
+    {
+      "name": "CB1437",
+      "url": "/lochinvar/cb1437/parts",
+      "code": "cb1437"
+    },
+    {
+      "name": "CB1797",
+      "url": "/lochinvar/cb1797/parts",
+      "code": "cb1797"
+    },
+    {
+      "name": "CB2067",
+      "url": "/lochinvar/cb2067/parts",
+      "code": "cb2067"
+    },
+    {
+      "name": "CBN045-260",
+      "url": "/lochinvar/cbn045-260/parts",
+      "code": "cbn045-260"
+    },
+    {
+      "name": "CBN120070-200100",
+      "url": "/lochinvar/cbn120070-200100/parts",
+      "code": "cbn120070-200100"
+    },
+    {
+      "name": "CGN199100A-400100A",
+      "url": "/lochinvar/cgn199100a-400100a/parts",
+      "code": "cgn199100a-400100a"
+    },
+    {
+      "name": "CGN500085A",
+      "url": "/lochinvar/cgn500085a/parts",
+      "code": "cgn500085a"
+    },
+    {
+      "name": "CH 1262",
+      "url": "/lochinvar/ch-1262/parts",
+      "code": "ch-1262"
+    },
+    {
+      "name": "CH 1442",
+      "url": "/lochinvar/ch-1442/parts",
+      "code": "ch-1442"
+    },
+    {
+      "name": "CH 1802",
+      "url": "/lochinvar/ch-1802/parts",
+      "code": "ch-1802"
+    },
+    {
+      "name": "CH 2072",
+      "url": "/lochinvar/ch-2072/parts",
+      "code": "ch-2072"
+    },
+    {
+      "name": "CH 402",
+      "url": "/lochinvar/ch-402/parts",
+      "code": "ch-402"
+    },
+    {
+      "name": "CH 502",
+      "url": "/lochinvar/ch-502/parts",
+      "code": "ch-502"
+    },
+    {
+      "name": "CH 652",
+      "url": "/lochinvar/ch-652/parts",
+      "code": "ch-652"
+    },
+    {
+      "name": "CH 752",
+      "url": "/lochinvar/ch-752/parts",
+      "code": "ch-752"
+    },
+    {
+      "name": "CH 992",
+      "url": "/lochinvar/ch-992/parts",
+      "code": "ch-992"
+    },
+    {
+      "name": "CPN1262",
+      "url": "/lochinvar/cpn1262/parts",
+      "code": "cpn1262"
+    },
+    {
+      "name": "CPN1442",
+      "url": "/lochinvar/cpn1442/parts",
+      "code": "cpn1442"
+    },
+    {
+      "name": "CPN1802",
+      "url": "/lochinvar/cpn1802/parts",
+      "code": "cpn1802"
+    },
+    {
+      "name": "CPN2072",
+      "url": "/lochinvar/cpn2072/parts",
+      "code": "cpn2072"
+    },
+    {
+      "name": "CPN502",
+      "url": "/lochinvar/cpn502/parts",
+      "code": "cpn502"
+    },
+    {
+      "name": "CPN652",
+      "url": "/lochinvar/cpn652/parts",
+      "code": "cpn652"
+    },
+    {
+      "name": "CPN752",
+      "url": "/lochinvar/cpn752/parts",
+      "code": "cpn752"
+    },
+    {
+      "name": "CPN752s",
+      "url": "/lochinvar/cpn752s/parts",
+      "code": "cpn752s"
+    },
+    {
+      "name": "CPN992",
+      "url": "/lochinvar/cpn992/parts",
+      "code": "cpn992"
+    },
+    {
+      "name": "EPC080N-150N",
+      "url": "/lochinvar/epc080n-150n/parts",
+      "code": "epc080n-150n"
+    },
+    {
+      "name": "EPC110N-199N",
+      "url": "/lochinvar/epc110n-199n/parts",
+      "code": "epc110n-199n"
+    },
+    {
+      "name": "FB2501",
+      "url": "/lochinvar/fb2501/parts",
+      "code": "fb2501"
+    },
+    {
+      "name": "FB3001",
+      "url": "/lochinvar/fb3001/parts",
+      "code": "fb3001"
+    },
+    {
+      "name": "FB3501",
+      "url": "/lochinvar/fb3501/parts",
+      "code": "fb3501"
+    },
+    {
+      "name": "FB4001",
+      "url": "/lochinvar/fb4001/parts",
+      "code": "fb4001"
+    },
+    {
+      "name": "FB5001",
+      "url": "/lochinvar/fb5001/parts",
+      "code": "fb5001"
+    },
+    {
+      "name": "FB6000",
+      "url": "/lochinvar/fb6000/parts",
+      "code": "fb6000"
+    },
+    {
+      "name": "FCB1000",
+      "url": "/lochinvar/fcb1000/parts",
+      "code": "fcb1000"
+    },
+    {
+      "name": "FCB1500",
+      "url": "/lochinvar/fcb1500/parts",
+      "code": "fcb1500"
+    },
+    {
+      "name": "FCB2000",
+      "url": "/lochinvar/fcb2000/parts",
+      "code": "fcb2000"
+    },
+    {
+      "name": "FCB2500-3000",
+      "url": "/lochinvar/fcb2500-3000/parts",
+      "code": "fcb2500-3000"
+    },
+    {
+      "name": "FCB4000",
+      "url": "/lochinvar/fcb4000/parts",
+      "code": "fcb4000"
+    },
+    {
+      "name": "FCB5000",
+      "url": "/lochinvar/fcb5000/parts",
+      "code": "fcb5000"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:22:38.284299"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Eureka Coffee Grinders",
+    "code": "PT_CAT441902",
+    "uri": "eureka-coffee-grinders"
+  },
+  "models": [
+    {
+      "name": "Atom",
+      "url": "/eureka-coffee-grinders/atom/parts",
+      "code": "atom"
+    },
+    {
+      "name": "Atom 60",
+      "url": "/eureka-coffee-grinders/atom-60/parts",
+      "code": "atom-60"
+    },
+    {
+      "name": "Atom Excellence 65",
+      "url": "/eureka-coffee-grinders/atom-excellence-65/parts",
+      "code": "atom-excellence-65"
+    },
+    {
+      "name": "Atom Excellence 75",
+      "url": "/eureka-coffee-grinders/atom-excellence-75/parts",
+      "code": "atom-excellence-75"
+    },
+    {
+      "name": "Atom Pro",
+      "url": "/eureka-coffee-grinders/atom-pro/parts",
+      "code": "atom-pro"
+    },
+    {
+      "name": "Atom Specialty 65",
+      "url": "/eureka-coffee-grinders/atom-specialty-65/parts",
+      "code": "atom-specialty-65"
+    },
+    {
+      "name": "Atom Specialty 75",
+      "url": "/eureka-coffee-grinders/atom-specialty-75/parts",
+      "code": "atom-specialty-75"
+    },
+    {
+      "name": "Atom Touch 65",
+      "url": "/eureka-coffee-grinders/atom-touch-65/parts",
+      "code": "atom-touch-65"
+    },
+    {
+      "name": "Atom W 65",
+      "url": "/eureka-coffee-grinders/atom-w-65/parts",
+      "code": "atom-w-65"
+    },
+    {
+      "name": "Atom W 75",
+      "url": "/eureka-coffee-grinders/atom-w-75/parts",
+      "code": "atom-w-75"
+    },
+    {
+      "name": "Baby Grinder",
+      "url": "/eureka-coffee-grinders/baby-grinder/parts",
+      "code": "baby-grinder"
+    },
+    {
+      "name": "Drogheria 65",
+      "url": "/eureka-coffee-grinders/drogheria-65/parts",
+      "code": "drogheria-65"
+    },
+    {
+      "name": "Drogheria 75",
+      "url": "/eureka-coffee-grinders/drogheria-75/parts",
+      "code": "drogheria-75"
+    },
+    {
+      "name": "Drogheria 85",
+      "url": "/eureka-coffee-grinders/drogheria-85/parts",
+      "code": "drogheria-85"
+    },
+    {
+      "name": "Helios 65",
+      "url": "/eureka-coffee-grinders/helios-65/parts",
+      "code": "helios-65"
+    },
+    {
+      "name": "Helios 75",
+      "url": "/eureka-coffee-grinders/helios-75/parts",
+      "code": "helios-75"
+    },
+    {
+      "name": "Helios 80",
+      "url": "/eureka-coffee-grinders/helios-80/parts",
+      "code": "helios-80"
+    },
+    {
+      "name": "MCF-220",
+      "url": "/eureka-coffee-grinders/mcf-220/parts",
+      "code": "mcf-220"
+    },
+    {
+      "name": "MCI-M220",
+      "url": "/eureka-coffee-grinders/mci-m220/parts",
+      "code": "mci-m220"
+    },
+    {
+      "name": "MCI-MT220C",
+      "url": "/eureka-coffee-grinders/mci-mt220c/parts",
+      "code": "mci-mt220c"
+    },
+    {
+      "name": "MCI-T220",
+      "url": "/eureka-coffee-grinders/mci-t220/parts",
+      "code": "mci-t220"
+    },
+    {
+      "name": "MCI-T220C",
+      "url": "/eureka-coffee-grinders/mci-t220c/parts",
+      "code": "mci-t220c"
+    },
+    {
+      "name": "MDMAE-MN",
+      "url": "/eureka-coffee-grinders/mdmae-mn/parts",
+      "code": "mdmae-mn"
+    },
+    {
+      "name": "MDME-MN",
+      "url": "/eureka-coffee-grinders/mdme-mn/parts",
+      "code": "mdme-mn"
+    },
+    {
+      "name": "MDMEA-220",
+      "url": "/eureka-coffee-grinders/mdmea-220/parts",
+      "code": "mdmea-220"
+    },
+    {
+      "name": "Mignon Bravo",
+      "url": "/eureka-coffee-grinders/mignon-bravo/parts",
+      "code": "mignon-bravo"
+    },
+    {
+      "name": "Mignon Brew Pro",
+      "url": "/eureka-coffee-grinders/mignon-brew-pro/parts",
+      "code": "mignon-brew-pro"
+    },
+    {
+      "name": "Mignon Classico",
+      "url": "/eureka-coffee-grinders/mignon-classico/parts",
+      "code": "mignon-classico"
+    },
+    {
+      "name": "Mignon Crono",
+      "url": "/eureka-coffee-grinders/mignon-crono/parts",
+      "code": "mignon-crono"
+    },
+    {
+      "name": "Mignon Design",
+      "url": "/eureka-coffee-grinders/mignon-design/parts",
+      "code": "mignon-design"
+    },
+    {
+      "name": "Mignon Dolce Vita",
+      "url": "/eureka-coffee-grinders/mignon-dolce-vita/parts",
+      "code": "mignon-dolce-vita"
+    },
+    {
+      "name": "Mignon Filtro",
+      "url": "/eureka-coffee-grinders/mignon-filtro/parts",
+      "code": "mignon-filtro"
+    },
+    {
+      "name": "Mignon Filtro Silent",
+      "url": "/eureka-coffee-grinders/mignon-filtro-silent/parts",
+      "code": "mignon-filtro-silent"
+    },
+    {
+      "name": "Mignon Libra",
+      "url": "/eureka-coffee-grinders/mignon-libra/parts",
+      "code": "mignon-libra"
+    },
+    {
+      "name": "Mignon Manuale",
+      "url": "/eureka-coffee-grinders/mignon-manuale/parts",
+      "code": "mignon-manuale"
+    },
+    {
+      "name": "Mignon Perfetto",
+      "url": "/eureka-coffee-grinders/mignon-perfetto/parts",
+      "code": "mignon-perfetto"
+    },
+    {
+      "name": "Mignon Silenzio",
+      "url": "/eureka-coffee-grinders/mignon-silenzio/parts",
+      "code": "mignon-silenzio"
+    },
+    {
+      "name": "Mignon Single Dose",
+      "url": "/eureka-coffee-grinders/mignon-single-dose/parts",
+      "code": "mignon-single-dose"
+    },
+    {
+      "name": "Mignon Single Dose Brew",
+      "url": "/eureka-coffee-grinders/mignon-single-dose-brew/parts",
+      "code": "mignon-single-dose-brew"
+    },
+    {
+      "name": "Mignon Specialita",
+      "url": "/eureka-coffee-grinders/mignon-specialita/parts",
+      "code": "mignon-specialita"
+    },
+    {
+      "name": "Mignon Stark",
+      "url": "/eureka-coffee-grinders/mignon-stark/parts",
+      "code": "mignon-stark"
+    },
+    {
+      "name": "Mignon Turbo",
+      "url": "/eureka-coffee-grinders/mignon-turbo/parts",
+      "code": "mignon-turbo"
+    },
+    {
+      "name": "Mignon XL",
+      "url": "/eureka-coffee-grinders/mignon-xl/parts",
+      "code": "mignon-xl"
+    },
+    {
+      "name": "Mignon Zero",
+      "url": "/eureka-coffee-grinders/mignon-zero/parts",
+      "code": "mignon-zero"
+    },
+    {
+      "name": "Mignon Zero Brew",
+      "url": "/eureka-coffee-grinders/mignon-zero-brew/parts",
+      "code": "mignon-zero-brew"
+    },
+    {
+      "name": "Mondial Club",
+      "url": "/eureka-coffee-grinders/mondial-club/parts",
+      "code": "mondial-club"
+    },
+    {
+      "name": "Mondial Club A c",
+      "url": "/eureka-coffee-grinders/mondial-club-a-c/parts",
+      "code": "mondial-club-a-c"
+    },
+    {
+      "name": "Mondial Club Automatico",
+      "url": "/eureka-coffee-grinders/mondial-club-automatico/parts",
+      "code": "mondial-club-automatico"
+    },
+    {
+      "name": "Mythos",
+      "url": "/eureka-coffee-grinders/mythos/parts",
+      "code": "mythos"
+    },
+    {
+      "name": "Mythos 220 Eureka",
+      "url": "/eureka-coffee-grinders/mythos-220-eureka/parts",
+      "code": "mythos-220-eureka"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:29:35.177522"
+}

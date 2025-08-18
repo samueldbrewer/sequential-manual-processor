@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Kelvinator",
+    "code": "PT_CAT1120",
+    "uri": "kelvinator"
+  },
+  "models": [
+    {
+      "name": "KCBB48GB",
+      "url": "/kelvinator/kcbb48gb/parts",
+      "code": "kcbb48gb"
+    },
+    {
+      "name": "KCBB48SB",
+      "url": "/kelvinator/kcbb48sb/parts",
+      "code": "kcbb48sb"
+    },
+    {
+      "name": "KCBB72GB",
+      "url": "/kelvinator/kcbb72gb/parts",
+      "code": "kcbb72gb"
+    },
+    {
+      "name": "KCBB72SB",
+      "url": "/kelvinator/kcbb72sb/parts",
+      "code": "kcbb72sb"
+    },
+    {
+      "name": "KCBC50",
+      "url": "/kelvinator/kcbc50/parts",
+      "code": "kcbc50"
+    },
+    {
+      "name": "KCBC65",
+      "url": "/kelvinator/kcbc65/parts",
+      "code": "kcbc65"
+    },
+    {
+      "name": "KCBM180FQY",
+      "url": "/kelvinator/kcbm180fqy/parts",
+      "code": "kcbm180fqy"
+    },
+    {
+      "name": "KCBM180RQY",
+      "url": "/kelvinator/kcbm180rqy/parts",
+      "code": "kcbm180rqy"
+    },
+    {
+      "name": "KCBM23F",
+      "url": "/kelvinator/kcbm23f/parts",
+      "code": "kcbm23f"
+    },
+    {
+      "name": "KCBM23R",
+      "url": "/kelvinator/kcbm23r/parts",
+      "code": "kcbm23r"
+    },
+    {
+      "name": "KCBM48F",
+      "url": "/kelvinator/kcbm48f/parts",
+      "code": "kcbm48f"
+    },
+    {
+      "name": "KCBM48R",
+      "url": "/kelvinator/kcbm48r/parts",
+      "code": "kcbm48r"
+    },
+    {
+      "name": "KCBM72F",
+      "url": "/kelvinator/kcbm72f/parts",
+      "code": "kcbm72f"
+    },
+    {
+      "name": "KCBM72R",
+      "url": "/kelvinator/kcbm72r/parts",
+      "code": "kcbm72r"
+    },
+    {
+      "name": "KCCF070QW",
+      "url": "/kelvinator/kccf070qw/parts",
+      "code": "kccf070qw"
+    },
+    {
+      "name": "KCCF073WS",
+      "url": "/kelvinator/kccf073ws/parts",
+      "code": "kccf073ws"
+    },
+    {
+      "name": "KCCF140WH",
+      "url": "/kelvinator/kccf140wh/parts",
+      "code": "kccf140wh"
+    },
+    {
+      "name": "KCCF160QW",
+      "url": "/kelvinator/kccf160qw/parts",
+      "code": "kccf160qw"
+    },
+    {
+      "name": "KCCF170WH",
+      "url": "/kelvinator/kccf170wh/parts",
+      "code": "kccf170wh"
+    },
+    {
+      "name": "KCCF180QW",
+      "url": "/kelvinator/kccf180qw/parts",
+      "code": "kccf180qw"
+    },
+    {
+      "name": "KCCF210WH",
+      "url": "/kelvinator/kccf210wh/parts",
+      "code": "kccf210wh"
+    },
+    {
+      "name": "KCCF220QW",
+      "url": "/kelvinator/kccf220qw/parts",
+      "code": "kccf220qw"
+    },
+    {
+      "name": "KCG050LW",
+      "url": "/kelvinator/kcg050lw/parts",
+      "code": "kcg050lw"
+    },
+    {
+      "name": "KCG070GW",
+      "url": "/kelvinator/kcg070gw/parts",
+      "code": "kcg070gw"
+    },
+    {
+      "name": "KCG090LW",
+      "url": "/kelvinator/kcg090lw/parts",
+      "code": "kcg090lw"
+    },
+    {
+      "name": "KCG130GW",
+      "url": "/kelvinator/kcg130gw/parts",
+      "code": "kcg130gw"
+    },
+    {
+      "name": "KCG150LW",
+      "url": "/kelvinator/kcg150lw/parts",
+      "code": "kcg150lw"
+    },
+    {
+      "name": "KCG200GW",
+      "url": "/kelvinator/kcg200gw/parts",
+      "code": "kcg200gw"
+    },
+    {
+      "name": "KCGM10R",
+      "url": "/kelvinator/kcgm10r/parts",
+      "code": "kcgm10r"
+    },
+    {
+      "name": "KCGM180RQY",
+      "url": "/kelvinator/kcgm180rqy/parts",
+      "code": "kcgm180rqy"
+    },
+    {
+      "name": "KCGM24FB",
+      "url": "/kelvinator/kcgm24fb/parts",
+      "code": "kcgm24fb"
+    },
+    {
+      "name": "KCGM24R",
+      "url": "/kelvinator/kcgm24r/parts",
+      "code": "kcgm24r"
+    },
+    {
+      "name": "KCGM47R",
+      "url": "/kelvinator/kcgm47r/parts",
+      "code": "kcgm47r"
+    },
+    {
+      "name": "KCGM9FW",
+      "url": "/kelvinator/kcgm9fw/parts",
+      "code": "kcgm9fw"
+    },
+    {
+      "name": "KCHBB48G",
+      "url": "/kelvinator/kchbb48g/parts",
+      "code": "kchbb48g"
+    },
+    {
+      "name": "KCHBB48S",
+      "url": "/kelvinator/kchbb48s/parts",
+      "code": "kchbb48s"
+    },
+    {
+      "name": "KCHBB48SS",
+      "url": "/kelvinator/kchbb48ss/parts",
+      "code": "kchbb48ss"
+    },
+    {
+      "name": "KCHBB60G",
+      "url": "/kelvinator/kchbb60g/parts",
+      "code": "kchbb60g"
+    },
+    {
+      "name": "KCHBB60S",
+      "url": "/kelvinator/kchbb60s/parts",
+      "code": "kchbb60s"
+    },
+    {
+      "name": "KCHBB60SS",
+      "url": "/kelvinator/kchbb60ss/parts",
+      "code": "kchbb60ss"
+    },
+    {
+      "name": "KCHBB72G",
+      "url": "/kelvinator/kchbb72g/parts",
+      "code": "kchbb72g"
+    },
+    {
+      "name": "KCHBB72S",
+      "url": "/kelvinator/kchbb72s/parts",
+      "code": "kchbb72s"
+    },
+    {
+      "name": "KCHBB72SS",
+      "url": "/kelvinator/kchbb72ss/parts",
+      "code": "kchbb72ss"
+    },
+    {
+      "name": "KCHBBD1D1T",
+      "url": "/kelvinator/kchbbd1d1t/parts",
+      "code": "kchbbd1d1t"
+    },
+    {
+      "name": "KCHBBD2D1T",
+      "url": "/kelvinator/kchbbd2d1t/parts",
+      "code": "kchbbd2d1t"
+    },
+    {
+      "name": "KCHBBD2D2T",
+      "url": "/kelvinator/kchbbd2d2t/parts",
+      "code": "kchbbd2d2t"
+    },
+    {
+      "name": "KCHBBD3D2T",
+      "url": "/kelvinator/kchbbd3d2t/parts",
+      "code": "kchbbd3d2t"
+    },
+    {
+      "name": "KCHBC36",
+      "url": "/kelvinator/kchbc36/parts",
+      "code": "kchbc36"
+    },
+    {
+      "name": "KCHBC50",
+      "url": "/kelvinator/kchbc50/parts",
+      "code": "kchbc50"
+    },
+    {
+      "name": "KCHBC65",
+      "url": "/kelvinator/kchbc65/parts",
+      "code": "kchbc65"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:12:43.346495"
+}

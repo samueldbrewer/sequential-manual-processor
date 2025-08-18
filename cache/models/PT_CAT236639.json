@@ -1,0 +1,46 @@
+{
+  "manufacturer": {
+    "name": "Magic Chef Commercial",
+    "code": "PT_CAT236639",
+    "uri": "magic-chef-commercial"
+  },
+  "models": [
+    {
+      "name": "M38COD",
+      "url": "/magic-chef-commercial/m38cod/parts",
+      "code": "m38cod"
+    },
+    {
+      "name": "NE12F",
+      "url": "/magic-chef-commercial/ne12f/parts",
+      "code": "ne12f"
+    },
+    {
+      "name": "NE12R",
+      "url": "/magic-chef-commercial/ne12r/parts",
+      "code": "ne12r"
+    },
+    {
+      "name": "NE19F",
+      "url": "/magic-chef-commercial/ne19f/parts",
+      "code": "ne19f"
+    },
+    {
+      "name": "NE19R",
+      "url": "/magic-chef-commercial/ne19r/parts",
+      "code": "ne19r"
+    },
+    {
+      "name": "NE35F",
+      "url": "/magic-chef-commercial/ne35f/parts",
+      "code": "ne35f"
+    },
+    {
+      "name": "NE35R",
+      "url": "/magic-chef-commercial/ne35r/parts",
+      "code": "ne35r"
+    }
+  ],
+  "total_models": 7,
+  "cached_at": "2025-08-14T19:24:01.640787"
+}

@@ -1,0 +1,106 @@
+{
+  "manufacturer": {
+    "name": "Mahlkonig",
+    "code": "PT_CAT375330",
+    "uri": "mahlkonig"
+  },
+  "models": [
+    {
+      "name": "DK15",
+      "url": "/mahlkonig/dk15/parts",
+      "code": "dk15"
+    },
+    {
+      "name": "DK27",
+      "url": "/mahlkonig/dk27/parts",
+      "code": "dk27"
+    },
+    {
+      "name": "E65S",
+      "url": "/mahlkonig/e65s/parts",
+      "code": "e65s"
+    },
+    {
+      "name": "E65S GBW",
+      "url": "/mahlkonig/e65s-gbw/parts",
+      "code": "e65s-gbw"
+    },
+    {
+      "name": "E80S",
+      "url": "/mahlkonig/e80s/parts",
+      "code": "e80s"
+    },
+    {
+      "name": "E80S GBW",
+      "url": "/mahlkonig/e80s-gbw/parts",
+      "code": "e80s-gbw"
+    },
+    {
+      "name": "EK43",
+      "url": "/mahlkonig/ek43/parts",
+      "code": "ek43"
+    },
+    {
+      "name": "EK43 S",
+      "url": "/mahlkonig/ek43-s/parts",
+      "code": "ek43-s"
+    },
+    {
+      "name": "EKK43",
+      "url": "/mahlkonig/ekk43/parts",
+      "code": "ekk43"
+    },
+    {
+      "name": "Guatemala",
+      "url": "/mahlkonig/guatemala/parts",
+      "code": "guatemala"
+    },
+    {
+      "name": "K30 2.0",
+      "url": "/mahlkonig/k30-2-0/parts",
+      "code": "k30-2-0"
+    },
+    {
+      "name": "K30 ES / VARIO",
+      "url": "/mahlkonig/k30-es-vario/parts",
+      "code": "k30-es-vario"
+    },
+    {
+      "name": "K30 Twin",
+      "url": "/mahlkonig/k30-twin/parts",
+      "code": "k30-twin"
+    },
+    {
+      "name": "K30 Twin 2.0",
+      "url": "/mahlkonig/k30-twin-2-0/parts",
+      "code": "k30-twin-2-0"
+    },
+    {
+      "name": "K30 Vario Air",
+      "url": "/mahlkonig/k30-vario-air/parts",
+      "code": "k30-vario-air"
+    },
+    {
+      "name": "PEAK",
+      "url": "/mahlkonig/peak/parts",
+      "code": "peak"
+    },
+    {
+      "name": "Tanzania",
+      "url": "/mahlkonig/tanzania/parts",
+      "code": "tanzania"
+    },
+    {
+      "name": "VTA 6S",
+      "url": "/mahlkonig/vta-6s/parts",
+      "code": "vta-6s"
+    },
+    {
+      "name": "X54",
+      "url": "/mahlkonig/x54/parts",
+      "code": "x54"
+    }
+  ],
+  "total_models": 19,
+  "cached_at": "2025-08-14T19:24:26.784197"
+}

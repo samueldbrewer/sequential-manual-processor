@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "AO Smith Water Heater",
+    "code": "PT_CATAOSMITH",
+    "uri": "ao-smith-water-heater"
+  },
+  "models": [
+    {
+      "name": "ATIO-910",
+      "url": "/ao-smith-water-heater/atio-910/parts",
+      "code": "atio-910"
+    },
+    {
+      "name": "BTR-500A",
+      "url": "/ao-smith-water-heater/btr-500a/parts",
+      "code": "btr-500a"
+    },
+    {
+      "name": "DHE1250A-390",
+      "url": "/ao-smith-water-heater/dhe1250a-390/parts",
+      "code": "dhe1250a-390"
+    },
+    {
+      "name": "DVE-52",
+      "url": "/ao-smith-water-heater/dve-52/parts",
+      "code": "dve-52"
+    },
+    {
+      "name": "DVE1250A-195",
+      "url": "/ao-smith-water-heater/dve1250a-195/parts",
+      "code": "dve1250a-195"
+    },
+    {
+      "name": "DVE250A-060",
+      "url": "/ao-smith-water-heater/dve250a-060/parts",
+      "code": "dve250a-060"
+    },
+    {
+      "name": "EJC-10",
+      "url": "/ao-smith-water-heater/ejc-10/parts",
+      "code": "ejc-10"
+    },
+    {
+      "name": "ENS-30",
+      "url": "/ao-smith-water-heater/ens-30/parts",
+      "code": "ens-30"
+    },
+    {
+      "name": "ENS-40",
+      "url": "/ao-smith-water-heater/ens-40/parts",
+      "code": "ens-40"
+    },
+    {
+      "name": "ENSB-30",
+      "url": "/ao-smith-water-heater/ensb-30/parts",
+      "code": "ensb-30"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-15T11:45:53.836226"
+}

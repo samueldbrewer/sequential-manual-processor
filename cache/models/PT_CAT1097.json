@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Holman",
+    "code": "PT_CAT1097",
+    "uri": "holman"
+  },
+  "models": [
+    {
+      "name": "210HX",
+      "url": "/holman/210hx/parts",
+      "code": "210hx"
+    },
+    {
+      "name": "214HX",
+      "url": "/holman/214hx/parts",
+      "code": "214hx"
+    },
+    {
+      "name": "314HX",
+      "url": "/holman/314hx/parts",
+      "code": "314hx"
+    },
+    {
+      "name": "314HXM",
+      "url": "/holman/314hxm/parts",
+      "code": "314hxm"
+    },
+    {
+      "name": "318HX",
+      "url": "/holman/318hx/parts",
+      "code": "318hx"
+    },
+    {
+      "name": "414HXM",
+      "url": "/holman/414hxm/parts",
+      "code": "414hxm"
+    },
+    {
+      "name": "B710H",
+      "url": "/holman/b710h/parts",
+      "code": "b710h"
+    },
+    {
+      "name": "B910",
+      "url": "/holman/b910/parts",
+      "code": "b910"
+    },
+    {
+      "name": "DB14",
+      "url": "/holman/db14/parts",
+      "code": "db14"
+    },
+    {
+      "name": "DT14",
+      "url": "/holman/dt14/parts",
+      "code": "dt14"
+    },
+    {
+      "name": "DT14-M",
+      "url": "/holman/dt14-m/parts",
+      "code": "dt14-m"
+    },
+    {
+      "name": "DT14-PS",
+      "url": "/holman/dt14-ps/parts",
+      "code": "dt14-ps"
+    },
+    {
+      "name": "DT14-TH",
+      "url": "/holman/dt14-th/parts",
+      "code": "dt14-th"
+    },
+    {
+      "name": "DT14SH",
+      "url": "/holman/dt14sh/parts",
+      "code": "dt14sh"
+    },
+    {
+      "name": "EZ10",
+      "url": "/holman/ez10/parts",
+      "code": "ez10"
+    },
+    {
+      "name": "F24",
+      "url": "/holman/f24/parts",
+      "code": "f24"
+    },
+    {
+      "name": "F24PS",
+      "url": "/holman/f24ps/parts",
+      "code": "f24ps"
+    },
+    {
+      "name": "F36",
+      "url": "/holman/f36/parts",
+      "code": "f36"
+    },
+    {
+      "name": "F36PS",
+      "url": "/holman/f36ps/parts",
+      "code": "f36ps"
+    },
+    {
+      "name": "IQ2-12BC",
+      "url": "/holman/iq2-12bc/parts",
+      "code": "iq2-12bc"
+    },
+    {
+      "name": "IQ3-16BC",
+      "url": "/holman/iq3-16bc/parts",
+      "code": "iq3-16bc"
+    },
+    {
+      "name": "IR2-12BC",
+      "url": "/holman/ir2-12bc/parts",
+      "code": "ir2-12bc"
+    },
+    {
+      "name": "IR3-16BC",
+      "url": "/holman/ir3-16bc/parts",
+      "code": "ir3-16bc"
+    },
+    {
+      "name": "IR3-16BCT",
+      "url": "/holman/ir3-16bct/parts",
+      "code": "ir3-16bct"
+    },
+    {
+      "name": "IRCS2-NW",
+      "url": "/holman/ircs2-nw/parts",
+      "code": "ircs2-nw"
+    },
+    {
+      "name": "IRCS2-SBD",
+      "url": "/holman/ircs2-sbd/parts",
+      "code": "ircs2-sbd"
+    },
+    {
+      "name": "IRCS2-SBK",
+      "url": "/holman/ircs2-sbk/parts",
+      "code": "ircs2-sbk"
+    },
+    {
+      "name": "IRCS2-SBW",
+      "url": "/holman/ircs2-sbw/parts",
+      "code": "ircs2-sbw"
+    },
+    {
+      "name": "MM14",
+      "url": "/holman/mm14/parts",
+      "code": "mm14"
+    },
+    {
+      "name": "MM14-3",
+      "url": "/holman/mm14-3/parts",
+      "code": "mm14-3"
+    },
+    {
+      "name": "PC18",
+      "url": "/holman/pc18/parts",
+      "code": "pc18"
+    },
+    {
+      "name": "Q1-350",
+      "url": "/holman/q1-350/parts",
+      "code": "q1-350"
+    },
+    {
+      "name": "Q1-35C",
+      "url": "/holman/q1-35c/parts",
+      "code": "q1-35c"
+    },
+    {
+      "name": "Q2-1200B",
+      "url": "/holman/q2-1200b/parts",
+      "code": "q2-1200b"
+    },
+    {
+      "name": "Q2-120BC",
+      "url": "/holman/q2-120bc/parts",
+      "code": "q2-120bc"
+    },
+    {
+      "name": "Q2-500",
+      "url": "/holman/q2-500/parts",
+      "code": "q2-500"
+    },
+    {
+      "name": "Q2-500-CUL20",
+      "url": "/holman/q2-500-cul20/parts",
+      "code": "q2-500-cul20"
+    },
+    {
+      "name": "Q2-50C",
+      "url": "/holman/q2-50c/parts",
+      "code": "q2-50c"
+    },
+    {
+      "name": "Q2-600H",
+      "url": "/holman/q2-600h/parts",
+      "code": "q2-600h"
+    },
+    {
+      "name": "Q2-600H-CE",
+      "url": "/holman/q2-600h-ce/parts",
+      "code": "q2-600h-ce"
+    },
+    {
+      "name": "Q2-600H-UK",
+      "url": "/holman/q2-600h-uk/parts",
+      "code": "q2-600h-uk"
+    },
+    {
+      "name": "Q2-600HF",
+      "url": "/holman/q2-600hf/parts",
+      "code": "q2-600hf"
+    },
+    {
+      "name": "Q2-600HS",
+      "url": "/holman/q2-600hs/parts",
+      "code": "q2-600hs"
+    },
+    {
+      "name": "Q2-60HC",
+      "url": "/holman/q2-60hc/parts",
+      "code": "q2-60hc"
+    },
+    {
+      "name": "Q2-800",
+      "url": "/holman/q2-800/parts",
+      "code": "q2-800"
+    },
+    {
+      "name": "Q2-800-230CE",
+      "url": "/holman/q2-800-230ce/parts",
+      "code": "q2-800-230ce"
+    },
+    {
+      "name": "Q2-800-240UK",
+      "url": "/holman/q2-800-240uk/parts",
+      "code": "q2-800-240uk"
+    },
+    {
+      "name": "Q2-80C",
+      "url": "/holman/q2-80c/parts",
+      "code": "q2-80c"
+    },
+    {
+      "name": "Q2E-500",
+      "url": "/holman/q2e-500/parts",
+      "code": "q2e-500"
+    },
+    {
+      "name": "Q2E-600H",
+      "url": "/holman/q2e-600h/parts",
+      "code": "q2e-600h"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:59:40.583994"
+}

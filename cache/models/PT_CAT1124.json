@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Karma",
+    "code": "PT_CAT1124",
+    "uri": "karma"
+  },
+  "models": [
+    {
+      "name": "752",
+      "url": "/karma/752/parts",
+      "code": "752"
+    },
+    {
+      "name": "820",
+      "url": "/karma/820/parts",
+      "code": "820"
+    },
+    {
+      "name": "830",
+      "url": "/karma/830/parts",
+      "code": "830"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T19:10:27.519597"
+}

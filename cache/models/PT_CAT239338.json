@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Nortek",
+    "code": "PT_CAT239338",
+    "uri": "nortek"
+  },
+  "models": [
+    {
+      "name": "B3BW-018K-05",
+      "url": "/nortek/b3bw-018k-05/parts",
+      "code": "b3bw-018k-05"
+    },
+    {
+      "name": "B3BW-018K-08",
+      "url": "/nortek/b3bw-018k-08/parts",
+      "code": "b3bw-018k-08"
+    },
+    {
+      "name": "B3BW-024K-05",
+      "url": "/nortek/b3bw-024k-05/parts",
+      "code": "b3bw-024k-05"
+    },
+    {
+      "name": "B3BW-024K-08",
+      "url": "/nortek/b3bw-024k-08/parts",
+      "code": "b3bw-024k-08"
+    },
+    {
+      "name": "B3BW-024K-10",
+      "url": "/nortek/b3bw-024k-10/parts",
+      "code": "b3bw-024k-10"
+    },
+    {
+      "name": "B3BW-030K-05",
+      "url": "/nortek/b3bw-030k-05/parts",
+      "code": "b3bw-030k-05"
+    },
+    {
+      "name": "B3BW-030K-08",
+      "url": "/nortek/b3bw-030k-08/parts",
+      "code": "b3bw-030k-08"
+    },
+    {
+      "name": "B3BW-030K-10",
+      "url": "/nortek/b3bw-030k-10/parts",
+      "code": "b3bw-030k-10"
+    },
+    {
+      "name": "B3BW-036K-08",
+      "url": "/nortek/b3bw-036k-08/parts",
+      "code": "b3bw-036k-08"
+    },
+    {
+      "name": "B3BW-036K-10",
+      "url": "/nortek/b3bw-036k-10/parts",
+      "code": "b3bw-036k-10"
+    },
+    {
+      "name": "B4SM-090",
+      "url": "/nortek/b4sm-090/parts",
+      "code": "b4sm-090"
+    },
+    {
+      "name": "B4SM-120",
+      "url": "/nortek/b4sm-120/parts",
+      "code": "b4sm-120"
+    },
+    {
+      "name": "B4VM-BX24K-BB",
+      "url": "/nortek/b4vm-bx24k-bb/parts",
+      "code": "b4vm-bx24k-bb"
+    },
+    {
+      "name": "B4VM-BX36K-CB",
+      "url": "/nortek/b4vm-bx36k-cb/parts",
+      "code": "b4vm-bx36k-cb"
+    },
+    {
+      "name": "B4VM-BX48K-CB",
+      "url": "/nortek/b4vm-bx48k-cb/parts",
+      "code": "b4vm-bx48k-cb"
+    },
+    {
+      "name": "B4VM-BX60K-CB",
+      "url": "/nortek/b4vm-bx60k-cb/parts",
+      "code": "b4vm-bx60k-cb"
+    },
+    {
+      "name": "B4VM036K-C",
+      "url": "/nortek/b4vm036k-c/parts",
+      "code": "b4vm036k-c"
+    },
+    {
+      "name": "B4VM048K-C",
+      "url": "/nortek/b4vm048k-c/parts",
+      "code": "b4vm048k-c"
+    },
+    {
+      "name": "B4VM060K-C",
+      "url": "/nortek/b4vm060k-c/parts",
+      "code": "b4vm060k-c"
+    },
+    {
+      "name": "B4VME24K-B",
+      "url": "/nortek/b4vme24k-b/parts",
+      "code": "b4vme24k-b"
+    },
+    {
+      "name": "B4VME36K-B",
+      "url": "/nortek/b4vme36k-b/parts",
+      "code": "b4vme36k-b"
+    },
+    {
+      "name": "B4VME48K-C",
+      "url": "/nortek/b4vme48k-c/parts",
+      "code": "b4vme48k-c"
+    },
+    {
+      "name": "B4VMX24K-B",
+      "url": "/nortek/b4vmx24k-b/parts",
+      "code": "b4vmx24k-b"
+    },
+    {
+      "name": "B4VMX24K-BB",
+      "url": "/nortek/b4vmx24k-bb/parts",
+      "code": "b4vmx24k-bb"
+    },
+    {
+      "name": "B4VMX36K-CB",
+      "url": "/nortek/b4vmx36k-cb/parts",
+      "code": "b4vmx36k-cb"
+    },
+    {
+      "name": "B4VMX48K-C",
+      "url": "/nortek/b4vmx48k-c/parts",
+      "code": "b4vmx48k-c"
+    },
+    {
+      "name": "B4VMX48K-CB",
+      "url": "/nortek/b4vmx48k-cb/parts",
+      "code": "b4vmx48k-cb"
+    },
+    {
+      "name": "B4VMX60K-C",
+      "url": "/nortek/b4vmx60k-c/parts",
+      "code": "b4vmx60k-c"
+    },
+    {
+      "name": "B4VMX60K-CB",
+      "url": "/nortek/b4vmx60k-cb/parts",
+      "code": "b4vmx60k-cb"
+    },
+    {
+      "name": "B5BM-024KA",
+      "url": "/nortek/b5bm-024ka/parts",
+      "code": "b5bm-024ka"
+    },
+    {
+      "name": "B5BM-024KB",
+      "url": "/nortek/b5bm-024kb/parts",
+      "code": "b5bm-024kb"
+    },
+    {
+      "name": "B5BM-025KA",
+      "url": "/nortek/b5bm-025ka/parts",
+      "code": "b5bm-025ka"
+    },
+    {
+      "name": "B5BM-025KB",
+      "url": "/nortek/b5bm-025kb/parts",
+      "code": "b5bm-025kb"
+    },
+    {
+      "name": "B5BM-030KA",
+      "url": "/nortek/b5bm-030ka/parts",
+      "code": "b5bm-030ka"
+    },
+    {
+      "name": "B5BM-030KB",
+      "url": "/nortek/b5bm-030kb/parts",
+      "code": "b5bm-030kb"
+    },
+    {
+      "name": "B5BM-036KB",
+      "url": "/nortek/b5bm-036kb/parts",
+      "code": "b5bm-036kb"
+    },
+    {
+      "name": "B5BM-037KB",
+      "url": "/nortek/b5bm-037kb/parts",
+      "code": "b5bm-037kb"
+    },
+    {
+      "name": "B5BM-042KB",
+      "url": "/nortek/b5bm-042kb/parts",
+      "code": "b5bm-042kb"
+    },
+    {
+      "name": "B5BM-048KC",
+      "url": "/nortek/b5bm-048kc/parts",
+      "code": "b5bm-048kc"
+    },
+    {
+      "name": "B5BM-049KC",
+      "url": "/nortek/b5bm-049kc/parts",
+      "code": "b5bm-049kc"
+    },
+    {
+      "name": "B5BM-060KC",
+      "url": "/nortek/b5bm-060kc/parts",
+      "code": "b5bm-060kc"
+    },
+    {
+      "name": "B5BM-T24KA",
+      "url": "/nortek/b5bm-t24ka/parts",
+      "code": "b5bm-t24ka"
+    },
+    {
+      "name": "B5BM-T24KB",
+      "url": "/nortek/b5bm-t24kb/parts",
+      "code": "b5bm-t24kb"
+    },
+    {
+      "name": "B5BM-T25KA",
+      "url": "/nortek/b5bm-t25ka/parts",
+      "code": "b5bm-t25ka"
+    },
+    {
+      "name": "B5BM-T25KB",
+      "url": "/nortek/b5bm-t25kb/parts",
+      "code": "b5bm-t25kb"
+    },
+    {
+      "name": "B5BM-T30KA",
+      "url": "/nortek/b5bm-t30ka/parts",
+      "code": "b5bm-t30ka"
+    },
+    {
+      "name": "B5BM-T30KB",
+      "url": "/nortek/b5bm-t30kb/parts",
+      "code": "b5bm-t30kb"
+    },
+    {
+      "name": "B5BM-T36KB",
+      "url": "/nortek/b5bm-t36kb/parts",
+      "code": "b5bm-t36kb"
+    },
+    {
+      "name": "B5BM-T37KB",
+      "url": "/nortek/b5bm-t37kb/parts",
+      "code": "b5bm-t37kb"
+    },
+    {
+      "name": "B5BM-T42KB",
+      "url": "/nortek/b5bm-t42kb/parts",
+      "code": "b5bm-t42kb"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:43:39.091869"
+}

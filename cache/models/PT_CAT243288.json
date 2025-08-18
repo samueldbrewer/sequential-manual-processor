@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Crown Steam",
+    "code": "PT_CAT243288",
+    "uri": "crown-steam"
+  },
+  "models": [
+    {
+      "name": "30P-STGL",
+      "url": "/crown-steam/30p-stgl/parts",
+      "code": "30p-stgl"
+    },
+    {
+      "name": "30P-STGM",
+      "url": "/crown-steam/30p-stgm/parts",
+      "code": "30p-stgm"
+    },
+    {
+      "name": "40P-STGL",
+      "url": "/crown-steam/40p-stgl/parts",
+      "code": "40p-stgl"
+    },
+    {
+      "name": "40P-STGM",
+      "url": "/crown-steam/40p-stgm/parts",
+      "code": "40p-stgm"
+    },
+    {
+      "name": "CG-220",
+      "url": "/crown-steam/cg-220/parts",
+      "code": "cg-220"
+    },
+    {
+      "name": "CG-325",
+      "url": "/crown-steam/cg-325/parts",
+      "code": "cg-325"
+    },
+    {
+      "name": "CG-330",
+      "url": "/crown-steam/cg-330/parts",
+      "code": "cg-330"
+    },
+    {
+      "name": "DC-10",
+      "url": "/crown-steam/dc-10/parts",
+      "code": "dc-10"
+    },
+    {
+      "name": "DC-12",
+      "url": "/crown-steam/dc-12/parts",
+      "code": "dc-12"
+    },
+    {
+      "name": "DC-2",
+      "url": "/crown-steam/dc-2/parts",
+      "code": "dc-2"
+    },
+    {
+      "name": "DC-20",
+      "url": "/crown-steam/dc-20/parts",
+      "code": "dc-20"
+    },
+    {
+      "name": "DC-3",
+      "url": "/crown-steam/dc-3/parts",
+      "code": "dc-3"
+    },
+    {
+      "name": "DC-6",
+      "url": "/crown-steam/dc-6/parts",
+      "code": "dc-6"
+    },
+    {
+      "name": "DCL-2",
+      "url": "/crown-steam/dcl-2/parts",
+      "code": "dcl-2"
+    },
+    {
+      "name": "DCL-3",
+      "url": "/crown-steam/dcl-3/parts",
+      "code": "dcl-3"
+    },
+    {
+      "name": "DCP-2",
+      "url": "/crown-steam/dcp-2/parts",
+      "code": "dcp-2"
+    },
+    {
+      "name": "DCP-3",
+      "url": "/crown-steam/dcp-3/parts",
+      "code": "dcp-3"
+    },
+    {
+      "name": "DCW-2",
+      "url": "/crown-steam/dcw-2/parts",
+      "code": "dcw-2"
+    },
+    {
+      "name": "DCW-3",
+      "url": "/crown-steam/dcw-3/parts",
+      "code": "dcw-3"
+    },
+    {
+      "name": "DCX-10",
+      "url": "/crown-steam/dcx-10/parts",
+      "code": "dcx-10"
+    },
+    {
+      "name": "DCX-10-10",
+      "url": "/crown-steam/dcx-10-10/parts",
+      "code": "dcx-10-10"
+    },
+    {
+      "name": "DCX-10-24",
+      "url": "/crown-steam/dcx-10-24/parts",
+      "code": "dcx-10-24"
+    },
+    {
+      "name": "DCX-10-36",
+      "url": "/crown-steam/dcx-10-36/parts",
+      "code": "dcx-10-36"
+    },
+    {
+      "name": "DCX-10-6",
+      "url": "/crown-steam/dcx-10-6/parts",
+      "code": "dcx-10-6"
+    },
+    {
+      "name": "DCX-10-6-10",
+      "url": "/crown-steam/dcx-10-6-10/parts",
+      "code": "dcx-10-6-10"
+    },
+    {
+      "name": "DCX-10-6-6",
+      "url": "/crown-steam/dcx-10-6-6/parts",
+      "code": "dcx-10-6-6"
+    },
+    {
+      "name": "DCX-16",
+      "url": "/crown-steam/dcx-16/parts",
+      "code": "dcx-16"
+    },
+    {
+      "name": "DCX-2",
+      "url": "/crown-steam/dcx-2/parts",
+      "code": "dcx-2"
+    },
+    {
+      "name": "DCX-2-10",
+      "url": "/crown-steam/dcx-2-10/parts",
+      "code": "dcx-2-10"
+    },
+    {
+      "name": "DCX-2-24",
+      "url": "/crown-steam/dcx-2-24/parts",
+      "code": "dcx-2-24"
+    },
+    {
+      "name": "DCX-2-36",
+      "url": "/crown-steam/dcx-2-36/parts",
+      "code": "dcx-2-36"
+    },
+    {
+      "name": "DCX-2-6",
+      "url": "/crown-steam/dcx-2-6/parts",
+      "code": "dcx-2-6"
+    },
+    {
+      "name": "DCX-2-6-6",
+      "url": "/crown-steam/dcx-2-6-6/parts",
+      "code": "dcx-2-6-6"
+    },
+    {
+      "name": "DDA-2",
+      "url": "/crown-steam/dda-2/parts",
+      "code": "dda-2"
+    },
+    {
+      "name": "DDA-3",
+      "url": "/crown-steam/dda-3/parts",
+      "code": "dda-3"
+    },
+    {
+      "name": "DL-100",
+      "url": "/crown-steam/dl-100/parts",
+      "code": "dl-100"
+    },
+    {
+      "name": "DL-125",
+      "url": "/crown-steam/dl-125/parts",
+      "code": "dl-125"
+    },
+    {
+      "name": "DL-150",
+      "url": "/crown-steam/dl-150/parts",
+      "code": "dl-150"
+    },
+    {
+      "name": "DL-20",
+      "url": "/crown-steam/dl-20/parts",
+      "code": "dl-20"
+    },
+    {
+      "name": "DL-20F",
+      "url": "/crown-steam/dl-20f/parts",
+      "code": "dl-20f"
+    },
+    {
+      "name": "DL-30",
+      "url": "/crown-steam/dl-30/parts",
+      "code": "dl-30"
+    },
+    {
+      "name": "DL-30F",
+      "url": "/crown-steam/dl-30f/parts",
+      "code": "dl-30f"
+    },
+    {
+      "name": "DL-40",
+      "url": "/crown-steam/dl-40/parts",
+      "code": "dl-40"
+    },
+    {
+      "name": "DL-40F",
+      "url": "/crown-steam/dl-40f/parts",
+      "code": "dl-40f"
+    },
+    {
+      "name": "DL-60",
+      "url": "/crown-steam/dl-60/parts",
+      "code": "dl-60"
+    },
+    {
+      "name": "DL-60F",
+      "url": "/crown-steam/dl-60f/parts",
+      "code": "dl-60f"
+    },
+    {
+      "name": "DL-80",
+      "url": "/crown-steam/dl-80/parts",
+      "code": "dl-80"
+    },
+    {
+      "name": "DL-80F",
+      "url": "/crown-steam/dl-80f/parts",
+      "code": "dl-80f"
+    },
+    {
+      "name": "DLT-100",
+      "url": "/crown-steam/dlt-100/parts",
+      "code": "dlt-100"
+    },
+    {
+      "name": "DLT-20",
+      "url": "/crown-steam/dlt-20/parts",
+      "code": "dlt-20"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:15:52.819701"
+}

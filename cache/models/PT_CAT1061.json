@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Eagle-Metal Masters",
+    "code": "PT_CAT1061",
+    "uri": "eagle-metal-masters"
+  },
+  "models": [
+    {
+      "name": "AGGH",
+      "url": "/eagle-metal-masters/aggh/parts",
+      "code": "aggh"
+    },
+    {
+      "name": "AGGHT",
+      "url": "/eagle-metal-masters/agght/parts",
+      "code": "agght"
+    },
+    {
+      "name": "AGGHTS",
+      "url": "/eagle-metal-masters/agghts/parts",
+      "code": "agghts"
+    },
+    {
+      "name": "C-208-2",
+      "url": "/eagle-metal-masters/c-208-2/parts",
+      "code": "c-208-2"
+    },
+    {
+      "name": "C-240-2",
+      "url": "/eagle-metal-masters/c-240-2/parts",
+      "code": "c-240-2"
+    },
+    {
+      "name": "CHRB-24",
+      "url": "/eagle-metal-masters/chrb-24/parts",
+      "code": "chrb-24"
+    },
+    {
+      "name": "CHRB-36",
+      "url": "/eagle-metal-masters/chrb-36/parts",
+      "code": "chrb-36"
+    },
+    {
+      "name": "CHRB-48",
+      "url": "/eagle-metal-masters/chrb-48/parts",
+      "code": "chrb-48"
+    },
+    {
+      "name": "CHRBC-24",
+      "url": "/eagle-metal-masters/chrbc-24/parts",
+      "code": "chrbc-24"
+    },
+    {
+      "name": "CHRBC-36",
+      "url": "/eagle-metal-masters/chrbc-36/parts",
+      "code": "chrbc-36"
+    },
+    {
+      "name": "CHRBC-48",
+      "url": "/eagle-metal-masters/chrbc-48/parts",
+      "code": "chrbc-48"
+    },
+    {
+      "name": "CHRBL-24",
+      "url": "/eagle-metal-masters/chrbl-24/parts",
+      "code": "chrbl-24"
+    },
+    {
+      "name": "CHRBL-36",
+      "url": "/eagle-metal-masters/chrbl-36/parts",
+      "code": "chrbl-36"
+    },
+    {
+      "name": "CHRBL-48",
+      "url": "/eagle-metal-masters/chrbl-48/parts",
+      "code": "chrbl-48"
+    },
+    {
+      "name": "CLAGGH",
+      "url": "/eagle-metal-masters/claggh/parts",
+      "code": "claggh"
+    },
+    {
+      "name": "CLAGGHT",
+      "url": "/eagle-metal-masters/clagght/parts",
+      "code": "clagght"
+    },
+    {
+      "name": "CLAGGHTS",
+      "url": "/eagle-metal-masters/clagghts/parts",
+      "code": "clagghts"
+    },
+    {
+      "name": "CLCHRB-24",
+      "url": "/eagle-metal-masters/clchrb-24/parts",
+      "code": "clchrb-24"
+    },
+    {
+      "name": "CLCHRB-36",
+      "url": "/eagle-metal-masters/clchrb-36/parts",
+      "code": "clchrb-36"
+    },
+    {
+      "name": "CLCHRB-48",
+      "url": "/eagle-metal-masters/clchrb-48/parts",
+      "code": "clchrb-48"
+    },
+    {
+      "name": "CLCHRBL-24",
+      "url": "/eagle-metal-masters/clchrbl-24/parts",
+      "code": "clchrbl-24"
+    },
+    {
+      "name": "CLCHRBL-36",
+      "url": "/eagle-metal-masters/clchrbl-36/parts",
+      "code": "clchrbl-36"
+    },
+    {
+      "name": "CLCHRBL-48",
+      "url": "/eagle-metal-masters/clchrbl-48/parts",
+      "code": "clchrbl-48"
+    },
+    {
+      "name": "CLEGH-24",
+      "url": "/eagle-metal-masters/clegh-24/parts",
+      "code": "clegh-24"
+    },
+    {
+      "name": "CLEGH-36",
+      "url": "/eagle-metal-masters/clegh-36/parts",
+      "code": "clegh-36"
+    },
+    {
+      "name": "CLEGH-48",
+      "url": "/eagle-metal-masters/clegh-48/parts",
+      "code": "clegh-48"
+    },
+    {
+      "name": "CLHP-2-LP",
+      "url": "/eagle-metal-masters/clhp-2-lp/parts",
+      "code": "clhp-2-lp"
+    },
+    {
+      "name": "CLHP-2-NG",
+      "url": "/eagle-metal-masters/clhp-2-ng/parts",
+      "code": "clhp-2-ng"
+    },
+    {
+      "name": "CLHP-4-LP",
+      "url": "/eagle-metal-masters/clhp-4-lp/parts",
+      "code": "clhp-4-lp"
+    },
+    {
+      "name": "CLHP-4-NG",
+      "url": "/eagle-metal-masters/clhp-4-ng/parts",
+      "code": "clhp-4-ng"
+    },
+    {
+      "name": "CLHP-6-LP",
+      "url": "/eagle-metal-masters/clhp-6-lp/parts",
+      "code": "clhp-6-lp"
+    },
+    {
+      "name": "CLHP-6-NG",
+      "url": "/eagle-metal-masters/clhp-6-ng/parts",
+      "code": "clhp-6-ng"
+    },
+    {
+      "name": "CLUHP-2-LP",
+      "url": "/eagle-metal-masters/cluhp-2-lp/parts",
+      "code": "cluhp-2-lp"
+    },
+    {
+      "name": "CLUHP-2-NG",
+      "url": "/eagle-metal-masters/cluhp-2-ng/parts",
+      "code": "cluhp-2-ng"
+    },
+    {
+      "name": "CLUHP-4-LP",
+      "url": "/eagle-metal-masters/cluhp-4-lp/parts",
+      "code": "cluhp-4-lp"
+    },
+    {
+      "name": "CLUHP-4-NG",
+      "url": "/eagle-metal-masters/cluhp-4-ng/parts",
+      "code": "cluhp-4-ng"
+    },
+    {
+      "name": "CLUHP-6-LP",
+      "url": "/eagle-metal-masters/cluhp-6-lp/parts",
+      "code": "cluhp-6-lp"
+    },
+    {
+      "name": "CLUHP-6-NG",
+      "url": "/eagle-metal-masters/cluhp-6-ng/parts",
+      "code": "cluhp-6-ng"
+    },
+    {
+      "name": "CW-120-2",
+      "url": "/eagle-metal-masters/cw-120-2/parts",
+      "code": "cw-120-2"
+    },
+    {
+      "name": "DWN",
+      "url": "/eagle-metal-masters/dwn/parts",
+      "code": "dwn"
+    },
+    {
+      "name": "DWN-BI",
+      "url": "/eagle-metal-masters/dwn-bi/parts",
+      "code": "dwn-bi"
+    },
+    {
+      "name": "DWP",
+      "url": "/eagle-metal-masters/dwp/parts",
+      "code": "dwp"
+    },
+    {
+      "name": "DWW",
+      "url": "/eagle-metal-masters/dww/parts",
+      "code": "dww"
+    },
+    {
+      "name": "DWW-BI",
+      "url": "/eagle-metal-masters/dww-bi/parts",
+      "code": "dww-bi"
+    },
+    {
+      "name": "EGH-24",
+      "url": "/eagle-metal-masters/egh-24/parts",
+      "code": "egh-24"
+    },
+    {
+      "name": "EGH-36",
+      "url": "/eagle-metal-masters/egh-36/parts",
+      "code": "egh-36"
+    },
+    {
+      "name": "EGH-48",
+      "url": "/eagle-metal-masters/egh-48/parts",
+      "code": "egh-48"
+    },
+    {
+      "name": "HEATING-PROOFING CABINET",
+      "url": "/eagle-metal-masters/heating-proofing-cabinet/parts",
+      "code": "heating-proofing-cabinet"
+    },
+    {
+      "name": "LC-120-1",
+      "url": "/eagle-metal-masters/lc-120-1/parts",
+      "code": "lc-120-1"
+    },
+    {
+      "name": "LCW-120-2",
+      "url": "/eagle-metal-masters/lcw-120-2/parts",
+      "code": "lcw-120-2"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:25:17.486573"
+}

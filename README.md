@@ -1,46 +1,111 @@
-# Getting Started with Create React App
+# Sequential Manual Processor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application for browsing and accessing equipment manuals from PartsTown, with local PDF caching and preview generation.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Browse equipment manufacturers and models
+- Fetch and display technical manuals
+- Download and cache PDFs locally
+- Generate PDF previews
+- Fast cached data for instant responses
+- Session-based PDF management
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Frontend**: React, TypeScript, Material-UI
+- **Backend**: Python Flask
+- **PDF Processing**: PyMuPDF
+- **Data**: Cached manufacturer/model data (344 manufacturers with models)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Installation
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js 14+
+- Python 3.8+
+- pip
 
-### `npm run build`
+### Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+```bash
+git clone https://github.com/samueldbrewer/sequential-manual-processor.git
+cd sequential-manual-processor
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install frontend dependencies:
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install backend dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-### `npm run eject`
+4. Install Playwright browsers (if needed):
+```bash
+playwright install chromium
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Running Locally
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Quick Start
+```bash
+./start.sh
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This will start both frontend (port 3000) and backend (port 8888).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Manual Start
 
-## Learn More
+Backend:
+```bash
+python server_cached.py
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Frontend:
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Access the application at http://localhost:3000
+
+## Project Structure
+
+```
+sequential-manual-app/
+├── src/                    # React frontend source
+├── public/                 # Static files and temp PDFs
+├── cache/                  # Cached manufacturer/model data
+│   ├── manufacturers.json  # 489 manufacturers
+│   └── models/            # Model data for each manufacturer
+├── server_cached.py       # Flask backend server
+├── fetch_manuals_curl.py  # Fast manual fetching
+├── download_pdf_curl.py   # Fast PDF downloading
+└── requirements.txt       # Python dependencies
+```
+
+## Deployment
+
+The application is configured for deployment on Railway with:
+- Automatic dependency installation
+- Environment variable support
+- Static file serving
+
+## Environment Variables
+
+- `PORT`: Server port (default: 8888)
+- `NODE_ENV`: Node environment (development/production)
+
+## Cache Information
+
+- 344 manufacturers with model data
+- 145 manufacturers without models (hidden in UI)
+- Fast response times using cached data
+- Manual fetching available for all models
+
+## License
+
+MIT

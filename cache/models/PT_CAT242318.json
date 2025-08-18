@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hubbell Heaters",
+    "code": "PT_CAT242318",
+    "uri": "hubbell-heaters"
+  },
+  "models": [
+    {
+      "name": "E",
+      "url": "/hubbell-heaters/e/parts",
+      "code": "e"
+    },
+    {
+      "name": "EMV",
+      "url": "/hubbell-heaters/emv/parts",
+      "code": "emv"
+    },
+    {
+      "name": "ETX",
+      "url": "/hubbell-heaters/etx/parts",
+      "code": "etx"
+    },
+    {
+      "name": "H",
+      "url": "/hubbell-heaters/h/parts",
+      "code": "h"
+    },
+    {
+      "name": "HD",
+      "url": "/hubbell-heaters/hd/parts",
+      "code": "hd"
+    },
+    {
+      "name": "HE",
+      "url": "/hubbell-heaters/he/parts",
+      "code": "he"
+    },
+    {
+      "name": "HSE",
+      "url": "/hubbell-heaters/hse/parts",
+      "code": "hse"
+    },
+    {
+      "name": "HX",
+      "url": "/hubbell-heaters/hx/parts",
+      "code": "hx"
+    },
+    {
+      "name": "J",
+      "url": "/hubbell-heaters/j/parts",
+      "code": "j"
+    },
+    {
+      "name": "J16",
+      "url": "/hubbell-heaters/j16/parts",
+      "code": "j16"
+    },
+    {
+      "name": "J161.5A",
+      "url": "/hubbell-heaters/j161-5a/parts",
+      "code": "j161-5a"
+    },
+    {
+      "name": "J1610R",
+      "url": "/hubbell-heaters/j1610r/parts",
+      "code": "j1610r"
+    },
+    {
+      "name": "J1610RS",
+      "url": "/hubbell-heaters/j1610rs/parts",
+      "code": "j1610rs"
+    },
+    {
+      "name": "J1610S",
+      "url": "/hubbell-heaters/j1610s/parts",
+      "code": "j1610s"
+    },
+    {
+      "name": "J1610T",
+      "url": "/hubbell-heaters/j1610t/parts",
+      "code": "j1610t"
+    },
+    {
+      "name": "J1610T4",
+      "url": "/hubbell-heaters/j1610t4/parts",
+      "code": "j1610t4"
+    },
+    {
+      "name": "J1610T6",
+      "url": "/hubbell-heaters/j1610t6/parts",
+      "code": "j1610t6"
+    },
+    {
+      "name": "J1612R",
+      "url": "/hubbell-heaters/j1612r/parts",
+      "code": "j1612r"
+    },
+    {
+      "name": "J1612RS",
+      "url": "/hubbell-heaters/j1612rs/parts",
+      "code": "j1612rs"
+    },
+    {
+      "name": "J1612S",
+      "url": "/hubbell-heaters/j1612s/parts",
+      "code": "j1612s"
+    },
+    {
+      "name": "J1612T",
+      "url": "/hubbell-heaters/j1612t/parts",
+      "code": "j1612t"
+    },
+    {
+      "name": "J1612T4",
+      "url": "/hubbell-heaters/j1612t4/parts",
+      "code": "j1612t4"
+    },
+    {
+      "name": "J1612T6",
+      "url": "/hubbell-heaters/j1612t6/parts",
+      "code": "j1612t6"
+    },
+    {
+      "name": "J1613R",
+      "url": "/hubbell-heaters/j1613r/parts",
+      "code": "j1613r"
+    },
+    {
+      "name": "J1613RS",
+      "url": "/hubbell-heaters/j1613rs/parts",
+      "code": "j1613rs"
+    },
+    {
+      "name": "J1613S",
+      "url": "/hubbell-heaters/j1613s/parts",
+      "code": "j1613s"
+    },
+    {
+      "name": "J1613T",
+      "url": "/hubbell-heaters/j1613t/parts",
+      "code": "j1613t"
+    },
+    {
+      "name": "J1613T4",
+      "url": "/hubbell-heaters/j1613t4/parts",
+      "code": "j1613t4"
+    },
+    {
+      "name": "J1615R",
+      "url": "/hubbell-heaters/j1615r/parts",
+      "code": "j1615r"
+    },
+    {
+      "name": "J1615RS",
+      "url": "/hubbell-heaters/j1615rs/parts",
+      "code": "j1615rs"
+    },
+    {
+      "name": "J1615S",
+      "url": "/hubbell-heaters/j1615s/parts",
+      "code": "j1615s"
+    },
+    {
+      "name": "J1615T",
+      "url": "/hubbell-heaters/j1615t/parts",
+      "code": "j1615t"
+    },
+    {
+      "name": "J1615T4",
+      "url": "/hubbell-heaters/j1615t4/parts",
+      "code": "j1615t4"
+    },
+    {
+      "name": "J1615T6",
+      "url": "/hubbell-heaters/j1615t6/parts",
+      "code": "j1615t6"
+    },
+    {
+      "name": "J1618R",
+      "url": "/hubbell-heaters/j1618r/parts",
+      "code": "j1618r"
+    },
+    {
+      "name": "J1618RS",
+      "url": "/hubbell-heaters/j1618rs/parts",
+      "code": "j1618rs"
+    },
+    {
+      "name": "J1618S",
+      "url": "/hubbell-heaters/j1618s/parts",
+      "code": "j1618s"
+    },
+    {
+      "name": "J1618T",
+      "url": "/hubbell-heaters/j1618t/parts",
+      "code": "j1618t"
+    },
+    {
+      "name": "J1618T4",
+      "url": "/hubbell-heaters/j1618t4/parts",
+      "code": "j1618t4"
+    },
+    {
+      "name": "J1618T6",
+      "url": "/hubbell-heaters/j1618t6/parts",
+      "code": "j1618t6"
+    },
+    {
+      "name": "J161A",
+      "url": "/hubbell-heaters/j161a/parts",
+      "code": "j161a"
+    },
+    {
+      "name": "J1624R",
+      "url": "/hubbell-heaters/j1624r/parts",
+      "code": "j1624r"
+    },
+    {
+      "name": "J1624RS",
+      "url": "/hubbell-heaters/j1624rs/parts",
+      "code": "j1624rs"
+    },
+    {
+      "name": "J1624S",
+      "url": "/hubbell-heaters/j1624s/parts",
+      "code": "j1624s"
+    },
+    {
+      "name": "J1624T",
+      "url": "/hubbell-heaters/j1624t/parts",
+      "code": "j1624t"
+    },
+    {
+      "name": "J1624T4",
+      "url": "/hubbell-heaters/j1624t4/parts",
+      "code": "j1624t4"
+    },
+    {
+      "name": "J1624T6",
+      "url": "/hubbell-heaters/j1624t6/parts",
+      "code": "j1624t6"
+    },
+    {
+      "name": "J1627R",
+      "url": "/hubbell-heaters/j1627r/parts",
+      "code": "j1627r"
+    },
+    {
+      "name": "J1627RS",
+      "url": "/hubbell-heaters/j1627rs/parts",
+      "code": "j1627rs"
+    },
+    {
+      "name": "J1627S",
+      "url": "/hubbell-heaters/j1627s/parts",
+      "code": "j1627s"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:01:48.409143"
+}

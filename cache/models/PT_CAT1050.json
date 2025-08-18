@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "3M",
+    "code": "PT_CAT1050",
+    "uri": "3m"
+  },
+  "models": [
+    {
+      "name": "5629101",
+      "url": "/3m/5629101/parts",
+      "code": "5629101"
+    },
+    {
+      "name": "6239301",
+      "url": "/3m/6239301/parts",
+      "code": "6239301"
+    },
+    {
+      "name": "6239302",
+      "url": "/3m/6239302/parts",
+      "code": "6239302"
+    },
+    {
+      "name": "BEV120-I",
+      "url": "/3m/bev120-i/parts",
+      "code": "bev120-i"
+    },
+    {
+      "name": "BEV130",
+      "url": "/3m/bev130/parts",
+      "code": "bev130"
+    },
+    {
+      "name": "BEV135",
+      "url": "/3m/bev135/parts",
+      "code": "bev135"
+    },
+    {
+      "name": "BEV140",
+      "url": "/3m/bev140/parts",
+      "code": "bev140"
+    },
+    {
+      "name": "BEV145",
+      "url": "/3m/bev145/parts",
+      "code": "bev145"
+    },
+    {
+      "name": "BEV160",
+      "url": "/3m/bev160/parts",
+      "code": "bev160"
+    },
+    {
+      "name": "BEV165",
+      "url": "/3m/bev165/parts",
+      "code": "bev165"
+    },
+    {
+      "name": "BEV190",
+      "url": "/3m/bev190/parts",
+      "code": "bev190"
+    },
+    {
+      "name": "BEV195",
+      "url": "/3m/bev195/parts",
+      "code": "bev195"
+    },
+    {
+      "name": "BREW120-MS",
+      "url": "/3m/brew120-ms/parts",
+      "code": "brew120-ms"
+    },
+    {
+      "name": "BREW125-MS",
+      "url": "/3m/brew125-ms/parts",
+      "code": "brew125-ms"
+    },
+    {
+      "name": "BREW130-MS",
+      "url": "/3m/brew130-ms/parts",
+      "code": "brew130-ms"
+    },
+    {
+      "name": "CFSM1254",
+      "url": "/3m/cfsm1254/parts",
+      "code": "cfsm1254"
+    },
+    {
+      "name": "DF260-CL-CC",
+      "url": "/3m/df260-cl-cc/parts",
+      "code": "df260-cl-cc"
+    },
+    {
+      "name": "DF260-CLX",
+      "url": "/3m/df260-clx/parts",
+      "code": "df260-clx"
+    },
+    {
+      "name": "DF265-CLX",
+      "url": "/3m/df265-clx/parts",
+      "code": "df265-clx"
+    },
+    {
+      "name": "DF290-CLX",
+      "url": "/3m/df290-clx/parts",
+      "code": "df290-clx"
+    },
+    {
+      "name": "DIDF260-CLX",
+      "url": "/3m/didf260-clx/parts",
+      "code": "didf260-clx"
+    },
+    {
+      "name": "DIDF265-CLX",
+      "url": "/3m/didf265-clx/parts",
+      "code": "didf265-clx"
+    },
+    {
+      "name": "DP190",
+      "url": "/3m/dp190/parts",
+      "code": "dp190"
+    },
+    {
+      "name": "DP1XX",
+      "url": "/3m/dp1xx/parts",
+      "code": "dp1xx"
+    },
+    {
+      "name": "DP260",
+      "url": "/3m/dp260/parts",
+      "code": "dp260"
+    },
+    {
+      "name": "DP290",
+      "url": "/3m/dp290/parts",
+      "code": "dp290"
+    },
+    {
+      "name": "DP2XX",
+      "url": "/3m/dp2xx/parts",
+      "code": "dp2xx"
+    },
+    {
+      "name": "DP390",
+      "url": "/3m/dp390/parts",
+      "code": "dp390"
+    },
+    {
+      "name": "DP3XX",
+      "url": "/3m/dp3xx/parts",
+      "code": "dp3xx"
+    },
+    {
+      "name": "Flashguard",
+      "url": "/3m/flashguard/parts",
+      "code": "flashguard"
+    },
+    {
+      "name": "HF160-CL",
+      "url": "/3m/hf160-cl/parts",
+      "code": "hf160-cl"
+    },
+    {
+      "name": "HF160-CLS",
+      "url": "/3m/hf160-cls/parts",
+      "code": "hf160-cls"
+    },
+    {
+      "name": "HF160-CLX",
+      "url": "/3m/hf160-clx/parts",
+      "code": "hf160-clx"
+    },
+    {
+      "name": "HF160-CLXS",
+      "url": "/3m/hf160-clxs/parts",
+      "code": "hf160-clxs"
+    },
+    {
+      "name": "HF165-CL",
+      "url": "/3m/hf165-cl/parts",
+      "code": "hf165-cl"
+    },
+    {
+      "name": "HF165-CLX",
+      "url": "/3m/hf165-clx/parts",
+      "code": "hf165-clx"
+    },
+    {
+      "name": "HF195-CL",
+      "url": "/3m/hf195-cl/parts",
+      "code": "hf195-cl"
+    },
+    {
+      "name": "HF195-CLX",
+      "url": "/3m/hf195-clx/parts",
+      "code": "hf195-clx"
+    },
+    {
+      "name": "HF265-CL",
+      "url": "/3m/hf265-cl/parts",
+      "code": "hf265-cl"
+    },
+    {
+      "name": "HF265-CLX",
+      "url": "/3m/hf265-clx/parts",
+      "code": "hf265-clx"
+    },
+    {
+      "name": "HF295-CL",
+      "url": "/3m/hf295-cl/parts",
+      "code": "hf295-cl"
+    },
+    {
+      "name": "HF295-CLX",
+      "url": "/3m/hf295-clx/parts",
+      "code": "hf295-clx"
+    },
+    {
+      "name": "HF395-CLX",
+      "url": "/3m/hf395-clx/parts",
+      "code": "hf395-clx"
+    },
+    {
+      "name": "HWS050",
+      "url": "/3m/hws050/parts",
+      "code": "hws050"
+    },
+    {
+      "name": "ICE120-A020-S-SR",
+      "url": "/3m/ice120-a020-s-sr/parts",
+      "code": "ice120-a020-s-sr"
+    },
+    {
+      "name": "ICE120-S",
+      "url": "/3m/ice120-s/parts",
+      "code": "ice120-s"
+    },
+    {
+      "name": "ICE120-S-SR",
+      "url": "/3m/ice120-s-sr/parts",
+      "code": "ice120-s-sr"
+    },
+    {
+      "name": "ICE120-SI",
+      "url": "/3m/ice120-si/parts",
+      "code": "ice120-si"
+    },
+    {
+      "name": "ICE125-S",
+      "url": "/3m/ice125-s/parts",
+      "code": "ice125-s"
+    },
+    {
+      "name": "ICE140-S",
+      "url": "/3m/ice140-s/parts",
+      "code": "ice140-s"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-15T11:44:52.350767"
+}

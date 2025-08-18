@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Brita",
+    "code": "PT_CAT235503",
+    "uri": "brita"
+  },
+  "models": [
+    {
+      "name": "AquaGusto",
+      "url": "/brita/aquagusto/parts",
+      "code": "aquagusto"
+    },
+    {
+      "name": "PURITY C",
+      "url": "/brita/purity-c/parts",
+      "code": "purity-c"
+    },
+    {
+      "name": "PURITY Clean",
+      "url": "/brita/purity-clean/parts",
+      "code": "purity-clean"
+    },
+    {
+      "name": "PURITY Quell ST",
+      "url": "/brita/purity-quell-st/parts",
+      "code": "purity-quell-st"
+    },
+    {
+      "name": "PURITY Steam",
+      "url": "/brita/purity-steam/parts",
+      "code": "purity-steam"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T18:00:10.404153"
+}

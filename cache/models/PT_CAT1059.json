@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Duke",
+    "code": "PT_CAT1059",
+    "uri": "duke"
+  },
+  "models": [
+    {
+      "name": "1104",
+      "url": "/duke/1104/parts",
+      "code": "1104"
+    },
+    {
+      "name": "1104P",
+      "url": "/duke/1104p/parts",
+      "code": "1104p"
+    },
+    {
+      "name": "1151",
+      "url": "/duke/1151/parts",
+      "code": "1151"
+    },
+    {
+      "name": "1151P",
+      "url": "/duke/1151p/parts",
+      "code": "1151p"
+    },
+    {
+      "name": "1203",
+      "url": "/duke/1203/parts",
+      "code": "1203"
+    },
+    {
+      "name": "1203P",
+      "url": "/duke/1203p/parts",
+      "code": "1203p"
+    },
+    {
+      "name": "1204",
+      "url": "/duke/1204/parts",
+      "code": "1204"
+    },
+    {
+      "name": "1204P",
+      "url": "/duke/1204p/parts",
+      "code": "1204p"
+    },
+    {
+      "name": "1253",
+      "url": "/duke/1253/parts",
+      "code": "1253"
+    },
+    {
+      "name": "1253P",
+      "url": "/duke/1253p/parts",
+      "code": "1253p"
+    },
+    {
+      "name": "1262",
+      "url": "/duke/1262/parts",
+      "code": "1262"
+    },
+    {
+      "name": "1262P",
+      "url": "/duke/1262p/parts",
+      "code": "1262p"
+    },
+    {
+      "name": "1302",
+      "url": "/duke/1302/parts",
+      "code": "1302"
+    },
+    {
+      "name": "1302P",
+      "url": "/duke/1302p/parts",
+      "code": "1302p"
+    },
+    {
+      "name": "1304",
+      "url": "/duke/1304/parts",
+      "code": "1304"
+    },
+    {
+      "name": "1304P",
+      "url": "/duke/1304p/parts",
+      "code": "1304p"
+    },
+    {
+      "name": "1305",
+      "url": "/duke/1305/parts",
+      "code": "1305"
+    },
+    {
+      "name": "1305P",
+      "url": "/duke/1305p/parts",
+      "code": "1305p"
+    },
+    {
+      "name": "1306",
+      "url": "/duke/1306/parts",
+      "code": "1306"
+    },
+    {
+      "name": "1306P",
+      "url": "/duke/1306p/parts",
+      "code": "1306p"
+    },
+    {
+      "name": "1308",
+      "url": "/duke/1308/parts",
+      "code": "1308"
+    },
+    {
+      "name": "1308P",
+      "url": "/duke/1308p/parts",
+      "code": "1308p"
+    },
+    {
+      "name": "1309",
+      "url": "/duke/1309/parts",
+      "code": "1309"
+    },
+    {
+      "name": "1309P",
+      "url": "/duke/1309p/parts",
+      "code": "1309p"
+    },
+    {
+      "name": "1351",
+      "url": "/duke/1351/parts",
+      "code": "1351"
+    },
+    {
+      "name": "1351P",
+      "url": "/duke/1351p/parts",
+      "code": "1351p"
+    },
+    {
+      "name": "1352",
+      "url": "/duke/1352/parts",
+      "code": "1352"
+    },
+    {
+      "name": "1352P",
+      "url": "/duke/1352p/parts",
+      "code": "1352p"
+    },
+    {
+      "name": "1353",
+      "url": "/duke/1353/parts",
+      "code": "1353"
+    },
+    {
+      "name": "1353P",
+      "url": "/duke/1353p/parts",
+      "code": "1353p"
+    },
+    {
+      "name": "1452",
+      "url": "/duke/1452/parts",
+      "code": "1452"
+    },
+    {
+      "name": "1452P",
+      "url": "/duke/1452p/parts",
+      "code": "1452p"
+    },
+    {
+      "name": "1453",
+      "url": "/duke/1453/parts",
+      "code": "1453"
+    },
+    {
+      "name": "1453P",
+      "url": "/duke/1453p/parts",
+      "code": "1453p"
+    },
+    {
+      "name": "1454",
+      "url": "/duke/1454/parts",
+      "code": "1454"
+    },
+    {
+      "name": "1454P",
+      "url": "/duke/1454p/parts",
+      "code": "1454p"
+    },
+    {
+      "name": "1455",
+      "url": "/duke/1455/parts",
+      "code": "1455"
+    },
+    {
+      "name": "1455P",
+      "url": "/duke/1455p/parts",
+      "code": "1455p"
+    },
+    {
+      "name": "1456",
+      "url": "/duke/1456/parts",
+      "code": "1456"
+    },
+    {
+      "name": "1456P",
+      "url": "/duke/1456p/parts",
+      "code": "1456p"
+    },
+    {
+      "name": "1458",
+      "url": "/duke/1458/parts",
+      "code": "1458"
+    },
+    {
+      "name": "1459P",
+      "url": "/duke/1459p/parts",
+      "code": "1459p"
+    },
+    {
+      "name": "1551",
+      "url": "/duke/1551/parts",
+      "code": "1551"
+    },
+    {
+      "name": "1551P",
+      "url": "/duke/1551p/parts",
+      "code": "1551p"
+    },
+    {
+      "name": "1552",
+      "url": "/duke/1552/parts",
+      "code": "1552"
+    },
+    {
+      "name": "1552P",
+      "url": "/duke/1552p/parts",
+      "code": "1552p"
+    },
+    {
+      "name": "1553",
+      "url": "/duke/1553/parts",
+      "code": "1553"
+    },
+    {
+      "name": "1553P",
+      "url": "/duke/1553p/parts",
+      "code": "1553p"
+    },
+    {
+      "name": "1554",
+      "url": "/duke/1554/parts",
+      "code": "1554"
+    },
+    {
+      "name": "1554P",
+      "url": "/duke/1554p/parts",
+      "code": "1554p"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:24:44.907281"
+}

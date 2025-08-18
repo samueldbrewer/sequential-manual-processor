@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Oliver",
+    "code": "PT_CAT1155",
+    "uri": "oliver"
+  },
+  "models": [
+    {
+      "name": "1179",
+      "url": "/oliver/1179/parts",
+      "code": "1179"
+    },
+    {
+      "name": "1179-S",
+      "url": "/oliver/1179-s/parts",
+      "code": "1179-s"
+    },
+    {
+      "name": "1279",
+      "url": "/oliver/1279/parts",
+      "code": "1279"
+    },
+    {
+      "name": "1308",
+      "url": "/oliver/1308/parts",
+      "code": "1308"
+    },
+    {
+      "name": "1308-C",
+      "url": "/oliver/1308-c/parts",
+      "code": "1308-c"
+    },
+    {
+      "name": "1308-N",
+      "url": "/oliver/1308-n/parts",
+      "code": "1308-n"
+    },
+    {
+      "name": "1508-M",
+      "url": "/oliver/1508-m/parts",
+      "code": "1508-m"
+    },
+    {
+      "name": "1508-NLG",
+      "url": "/oliver/1508-nlg/parts",
+      "code": "1508-nlg"
+    },
+    {
+      "name": "1808-CE",
+      "url": "/oliver/1808-ce/parts",
+      "code": "1808-ce"
+    },
+    {
+      "name": "1908",
+      "url": "/oliver/1908/parts",
+      "code": "1908"
+    },
+    {
+      "name": "2003R",
+      "url": "/oliver/2003r/parts",
+      "code": "2003r"
+    },
+    {
+      "name": "2005",
+      "url": "/oliver/2005/parts",
+      "code": "2005"
+    },
+    {
+      "name": "2218",
+      "url": "/oliver/2218/parts",
+      "code": "2218"
+    },
+    {
+      "name": "501",
+      "url": "/oliver/501/parts",
+      "code": "501"
+    },
+    {
+      "name": "501-N",
+      "url": "/oliver/501-n/parts",
+      "code": "501-n"
+    },
+    {
+      "name": "502",
+      "url": "/oliver/502/parts",
+      "code": "502"
+    },
+    {
+      "name": "502-N",
+      "url": "/oliver/502-n/parts",
+      "code": "502-n"
+    },
+    {
+      "name": "600-R3",
+      "url": "/oliver/600-r3/parts",
+      "code": "600-r3"
+    },
+    {
+      "name": "619",
+      "url": "/oliver/619/parts",
+      "code": "619"
+    },
+    {
+      "name": "619-16",
+      "url": "/oliver/619-16/parts",
+      "code": "619-16"
+    },
+    {
+      "name": "619-16A",
+      "url": "/oliver/619-16a/parts",
+      "code": "619-16a"
+    },
+    {
+      "name": "619-20",
+      "url": "/oliver/619-20/parts",
+      "code": "619-20"
+    },
+    {
+      "name": "619-20A",
+      "url": "/oliver/619-20a/parts",
+      "code": "619-20a"
+    },
+    {
+      "name": "619-24",
+      "url": "/oliver/619-24/parts",
+      "code": "619-24"
+    },
+    {
+      "name": "619-24R",
+      "url": "/oliver/619-24r/parts",
+      "code": "619-24r"
+    },
+    {
+      "name": "619-24RA",
+      "url": "/oliver/619-24ra/parts",
+      "code": "619-24ra"
+    },
+    {
+      "name": "619-MDP",
+      "url": "/oliver/619-mdp/parts",
+      "code": "619-mdp"
+    },
+    {
+      "name": "623",
+      "url": "/oliver/623/parts",
+      "code": "623"
+    },
+    {
+      "name": "623-N",
+      "url": "/oliver/623-n/parts",
+      "code": "623-n"
+    },
+    {
+      "name": "625-DR",
+      "url": "/oliver/625-dr/parts",
+      "code": "625-dr"
+    },
+    {
+      "name": "625-S",
+      "url": "/oliver/625-s/parts",
+      "code": "625-s"
+    },
+    {
+      "name": "641",
+      "url": "/oliver/641/parts",
+      "code": "641"
+    },
+    {
+      "name": "670 Poco",
+      "url": "/oliver/670-poco/parts",
+      "code": "670-poco"
+    },
+    {
+      "name": "688-N",
+      "url": "/oliver/688-n/parts",
+      "code": "688-n"
+    },
+    {
+      "name": "690-C2",
+      "url": "/oliver/690-c2/parts",
+      "code": "690-c2"
+    },
+    {
+      "name": "690-NC2",
+      "url": "/oliver/690-nc2/parts",
+      "code": "690-nc2"
+    },
+    {
+      "name": "691",
+      "url": "/oliver/691/parts",
+      "code": "691"
+    },
+    {
+      "name": "691-S",
+      "url": "/oliver/691-s/parts",
+      "code": "691-s"
+    },
+    {
+      "name": "695",
+      "url": "/oliver/695/parts",
+      "code": "695"
+    },
+    {
+      "name": "695D",
+      "url": "/oliver/695d/parts",
+      "code": "695d"
+    },
+    {
+      "name": "702",
+      "url": "/oliver/702/parts",
+      "code": "702"
+    },
+    {
+      "name": "702-N",
+      "url": "/oliver/702-n/parts",
+      "code": "702-n"
+    },
+    {
+      "name": "702-NSE",
+      "url": "/oliver/702-nse/parts",
+      "code": "702-nse"
+    },
+    {
+      "name": "702-NSS",
+      "url": "/oliver/702-nss/parts",
+      "code": "702-nss"
+    },
+    {
+      "name": "702-SE",
+      "url": "/oliver/702-se/parts",
+      "code": "702-se"
+    },
+    {
+      "name": "702-SS",
+      "url": "/oliver/702-ss/parts",
+      "code": "702-ss"
+    },
+    {
+      "name": "703",
+      "url": "/oliver/703/parts",
+      "code": "703"
+    },
+    {
+      "name": "704",
+      "url": "/oliver/704/parts",
+      "code": "704"
+    },
+    {
+      "name": "704-N",
+      "url": "/oliver/704-n/parts",
+      "code": "704-n"
+    },
+    {
+      "name": "705-N",
+      "url": "/oliver/705-n/parts",
+      "code": "705-n"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:45:02.214442"
+}

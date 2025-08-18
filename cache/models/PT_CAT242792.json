@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Mannhart",
+    "code": "PT_CAT242792",
+    "uri": "mannhart"
+  },
+  "models": [
+    {
+      "name": "M2000",
+      "url": "/mannhart/m2000/parts",
+      "code": "m2000"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:26:13.629634"
+}

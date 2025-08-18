@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Chicago Faucet",
+    "code": "PT_CAT249645",
+    "uri": "chicago-faucet"
+  },
+  "models": [
+    {
+      "name": "1029-ABCP",
+      "url": "/chicago-faucet/1029-abcp/parts",
+      "code": "1029-abcp"
+    },
+    {
+      "name": "1100-GN2AE3VXKAB",
+      "url": "/chicago-faucet/1100-gn2ae3vxkab/parts",
+      "code": "1100-gn2ae3vxkab"
+    },
+    {
+      "name": "1100-GN2AE3XKABCP",
+      "url": "/chicago-faucet/1100-gn2ae3xkabcp/parts",
+      "code": "1100-gn2ae3xkabcp"
+    },
+    {
+      "name": "1100-GN2FC317ABCP",
+      "url": "/chicago-faucet/1100-gn2fc317abcp/parts",
+      "code": "1100-gn2fc317abcp"
+    },
+    {
+      "name": "1100-GN8AE3-317AB",
+      "url": "/chicago-faucet/1100-gn8ae3-317ab/parts",
+      "code": "1100-gn8ae3-317ab"
+    },
+    {
+      "name": "1100-GN8AE3-369AB",
+      "url": "/chicago-faucet/1100-gn8ae3-369ab/parts",
+      "code": "1100-gn8ae3-369ab"
+    },
+    {
+      "name": "1100-GN8AE35-317AB",
+      "url": "/chicago-faucet/1100-gn8ae35-317ab/parts",
+      "code": "1100-gn8ae35-317ab"
+    },
+    {
+      "name": "1100-GN8AE35-369AB",
+      "url": "/chicago-faucet/1100-gn8ae35-369ab/parts",
+      "code": "1100-gn8ae35-369ab"
+    },
+    {
+      "name": "1100-GN8AE35ABCP",
+      "url": "/chicago-faucet/1100-gn8ae35abcp/parts",
+      "code": "1100-gn8ae35abcp"
+    },
+    {
+      "name": "1100-GN8AE3ABCP",
+      "url": "/chicago-faucet/1100-gn8ae3abcp/parts",
+      "code": "1100-gn8ae3abcp"
+    },
+    {
+      "name": "1100-GN8AE3VPCABCP",
+      "url": "/chicago-faucet/1100-gn8ae3vpcabcp/parts",
+      "code": "1100-gn8ae3vpcabcp"
+    },
+    {
+      "name": "1100-GN8BVBE2-2CP",
+      "url": "/chicago-faucet/1100-gn8bvbe2-2cp/parts",
+      "code": "1100-gn8bvbe2-2cp"
+    },
+    {
+      "name": "1100-GN8BVBE2-2XKC",
+      "url": "/chicago-faucet/1100-gn8bvbe2-2xkc/parts",
+      "code": "1100-gn8bvbe2-2xkc"
+    },
+    {
+      "name": "1100-H8E35-317XKAB",
+      "url": "/chicago-faucet/1100-h8e35-317xkab/parts",
+      "code": "1100-h8e35-317xkab"
+    },
+    {
+      "name": "1100-HA8-241ABCP",
+      "url": "/chicago-faucet/1100-ha8-241abcp/parts",
+      "code": "1100-ha8-241abcp"
+    },
+    {
+      "name": "1100-HA8-317ABCP",
+      "url": "/chicago-faucet/1100-ha8-317abcp/parts",
+      "code": "1100-ha8-317abcp"
+    },
+    {
+      "name": "1100-HA8-317XKABCP",
+      "url": "/chicago-faucet/1100-ha8-317xkabcp/parts",
+      "code": "1100-ha8-317xkabcp"
+    },
+    {
+      "name": "1100-HA8-369ABCP",
+      "url": "/chicago-faucet/1100-ha8-369abcp/parts",
+      "code": "1100-ha8-369abcp"
+    },
+    {
+      "name": "1100-HA8-369VPAAB",
+      "url": "/chicago-faucet/1100-ha8-369vpaab/parts",
+      "code": "1100-ha8-369vpaab"
+    },
+    {
+      "name": "1100-HA8ABCP",
+      "url": "/chicago-faucet/1100-ha8abcp/parts",
+      "code": "1100-ha8abcp"
+    },
+    {
+      "name": "1100-HA8AE35-317AB",
+      "url": "/chicago-faucet/1100-ha8ae35-317ab/parts",
+      "code": "1100-ha8ae35-317ab"
+    },
+    {
+      "name": "1100-HA8AE35ABCP",
+      "url": "/chicago-faucet/1100-ha8ae35abcp/parts",
+      "code": "1100-ha8ae35abcp"
+    },
+    {
+      "name": "1100-HA8E35-241AB",
+      "url": "/chicago-faucet/1100-ha8e35-241ab/parts",
+      "code": "1100-ha8e35-241ab"
+    },
+    {
+      "name": "1100-HA8VPAABCP",
+      "url": "/chicago-faucet/1100-ha8vpaabcp/parts",
+      "code": "1100-ha8vpaabcp"
+    },
+    {
+      "name": "1100-HA8VPCABCP",
+      "url": "/chicago-faucet/1100-ha8vpcabcp/parts",
+      "code": "1100-ha8vpcabcp"
+    },
+    {
+      "name": "1100-HA8XKABCP",
+      "url": "/chicago-faucet/1100-ha8xkabcp/parts",
+      "code": "1100-ha8xkabcp"
+    },
+    {
+      "name": "1100-L5VBCP",
+      "url": "/chicago-faucet/1100-l5vbcp/parts",
+      "code": "1100-l5vbcp"
+    },
+    {
+      "name": "1100-L9-317ABCP",
+      "url": "/chicago-faucet/1100-l9-317abcp/parts",
+      "code": "1100-l9-317abcp"
+    },
+    {
+      "name": "1100-L9-317XKABCP",
+      "url": "/chicago-faucet/1100-l9-317xkabcp/parts",
+      "code": "1100-l9-317xkabcp"
+    },
+    {
+      "name": "1100-L9ABCP",
+      "url": "/chicago-faucet/1100-l9abcp/parts",
+      "code": "1100-l9abcp"
+    },
+    {
+      "name": "1100-L9E29VPABCP",
+      "url": "/chicago-faucet/1100-l9e29vpabcp/parts",
+      "code": "1100-l9e29vpabcp"
+    },
+    {
+      "name": "1100-L9E35-317ABCP",
+      "url": "/chicago-faucet/1100-l9e35-317abcp/parts",
+      "code": "1100-l9e35-317abcp"
+    },
+    {
+      "name": "1100-L9E35-317XKAB",
+      "url": "/chicago-faucet/1100-l9e35-317xkab/parts",
+      "code": "1100-l9e35-317xkab"
+    },
+    {
+      "name": "1100-L9E35ABCP",
+      "url": "/chicago-faucet/1100-l9e35abcp/parts",
+      "code": "1100-l9e35abcp"
+    },
+    {
+      "name": "1100-L9VPAXKABCP",
+      "url": "/chicago-faucet/1100-l9vpaxkabcp/parts",
+      "code": "1100-l9vpaxkabcp"
+    },
+    {
+      "name": "1100-LEHAB",
+      "url": "/chicago-faucet/1100-lehab/parts",
+      "code": "1100-lehab"
+    },
+    {
+      "name": "1100-LES317AB",
+      "url": "/chicago-faucet/1100-les317ab/parts",
+      "code": "1100-les317ab"
+    },
+    {
+      "name": "1100-LES317XKAB",
+      "url": "/chicago-faucet/1100-les317xkab/parts",
+      "code": "1100-les317xkab"
+    },
+    {
+      "name": "1100-LESAB",
+      "url": "/chicago-faucet/1100-lesab/parts",
+      "code": "1100-lesab"
+    },
+    {
+      "name": "1100-LESHAB",
+      "url": "/chicago-faucet/1100-leshab/parts",
+      "code": "1100-leshab"
+    },
+    {
+      "name": "1100-LESXKAB",
+      "url": "/chicago-faucet/1100-lesxkab/parts",
+      "code": "1100-lesxkab"
+    },
+    {
+      "name": "1100-S6-950ABCP",
+      "url": "/chicago-faucet/1100-s6-950abcp/parts",
+      "code": "1100-s6-950abcp"
+    },
+    {
+      "name": "1100-VPAABCP",
+      "url": "/chicago-faucet/1100-vpaabcp/parts",
+      "code": "1100-vpaabcp"
+    },
+    {
+      "name": "1100-VPCABCP",
+      "url": "/chicago-faucet/1100-vpcabcp/parts",
+      "code": "1100-vpcabcp"
+    },
+    {
+      "name": "1100-XKABCP",
+      "url": "/chicago-faucet/1100-xkabcp/parts",
+      "code": "1100-xkabcp"
+    },
+    {
+      "name": "1102-317ABCP",
+      "url": "/chicago-faucet/1102-317abcp/parts",
+      "code": "1102-317abcp"
+    },
+    {
+      "name": "1102-ABCP",
+      "url": "/chicago-faucet/1102-abcp/parts",
+      "code": "1102-abcp"
+    },
+    {
+      "name": "1102-E35-317ABCP",
+      "url": "/chicago-faucet/1102-e35-317abcp/parts",
+      "code": "1102-e35-317abcp"
+    },
+    {
+      "name": "1102-E35ABCP",
+      "url": "/chicago-faucet/1102-e35abcp/parts",
+      "code": "1102-e35abcp"
+    },
+    {
+      "name": "1102-GN8AE3-317AB",
+      "url": "/chicago-faucet/1102-gn8ae3-317ab/parts",
+      "code": "1102-gn8ae3-317ab"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:08:31.329518"
+}

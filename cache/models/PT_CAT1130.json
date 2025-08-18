@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Lennox",
+    "code": "PT_CAT1130",
+    "uri": "lennox"
+  },
+  "models": [
+    {
+      "name": "0MCE4-09-121FP-01",
+      "url": "/lennox/0mce4-09-121fp-01/parts",
+      "code": "0mce4-09-121fp-01"
+    },
+    {
+      "name": "0MCE4-09-121FP-02",
+      "url": "/lennox/0mce4-09-121fp-02/parts",
+      "code": "0mce4-09-121fp-02"
+    },
+    {
+      "name": "0MCE4-09-121FP-03",
+      "url": "/lennox/0mce4-09-121fp-03/parts",
+      "code": "0mce4-09-121fp-03"
+    },
+    {
+      "name": "0MCE4-09-121P-01",
+      "url": "/lennox/0mce4-09-121p-01/parts",
+      "code": "0mce4-09-121p-01"
+    },
+    {
+      "name": "0MCE4-09-121P-02",
+      "url": "/lennox/0mce4-09-121p-02/parts",
+      "code": "0mce4-09-121p-02"
+    },
+    {
+      "name": "0MCE4-09-121P-03",
+      "url": "/lennox/0mce4-09-121p-03/parts",
+      "code": "0mce4-09-121p-03"
+    },
+    {
+      "name": "0MCE4-09-241CP-01",
+      "url": "/lennox/0mce4-09-241cp-01/parts",
+      "code": "0mce4-09-241cp-01"
+    },
+    {
+      "name": "0MCE4-09-241FP-01",
+      "url": "/lennox/0mce4-09-241fp-01/parts",
+      "code": "0mce4-09-241fp-01"
+    },
+    {
+      "name": "0MCE4-09-241FP-02",
+      "url": "/lennox/0mce4-09-241fp-02/parts",
+      "code": "0mce4-09-241fp-02"
+    },
+    {
+      "name": "0MCE4-09-241P-01",
+      "url": "/lennox/0mce4-09-241p-01/parts",
+      "code": "0mce4-09-241p-01"
+    },
+    {
+      "name": "0MCE4-09-241P-02",
+      "url": "/lennox/0mce4-09-241p-02/parts",
+      "code": "0mce4-09-241p-02"
+    },
+    {
+      "name": "0MCE4-09-301CP-01",
+      "url": "/lennox/0mce4-09-301cp-01/parts",
+      "code": "0mce4-09-301cp-01"
+    },
+    {
+      "name": "0MCE4-09-301FP-01",
+      "url": "/lennox/0mce4-09-301fp-01/parts",
+      "code": "0mce4-09-301fp-01"
+    },
+    {
+      "name": "0MCE4-09-301FP-02",
+      "url": "/lennox/0mce4-09-301fp-02/parts",
+      "code": "0mce4-09-301fp-02"
+    },
+    {
+      "name": "0MCE4-09-301P-01",
+      "url": "/lennox/0mce4-09-301p-01/parts",
+      "code": "0mce4-09-301p-01"
+    },
+    {
+      "name": "0MCE4-09-301P-02",
+      "url": "/lennox/0mce4-09-301p-02/parts",
+      "code": "0mce4-09-301p-02"
+    },
+    {
+      "name": "0MCE4-10-181P-01",
+      "url": "/lennox/0mce4-10-181p-01/parts",
+      "code": "0mce4-10-181p-01"
+    },
+    {
+      "name": "0MCE4-10-181P-02",
+      "url": "/lennox/0mce4-10-181p-02/parts",
+      "code": "0mce4-10-181p-02"
+    },
+    {
+      "name": "0MCE4-10-181P-03",
+      "url": "/lennox/0mce4-10-181p-03/parts",
+      "code": "0mce4-10-181p-03"
+    },
+    {
+      "name": "0MCE4-10-241P-01",
+      "url": "/lennox/0mce4-10-241p-01/parts",
+      "code": "0mce4-10-241p-01"
+    },
+    {
+      "name": "0MCE4-10-241P-02",
+      "url": "/lennox/0mce4-10-241p-02/parts",
+      "code": "0mce4-10-241p-02"
+    },
+    {
+      "name": "0MHP10B24A-01",
+      "url": "/lennox/0mhp10b24a-01/parts",
+      "code": "0mhp10b24a-01"
+    },
+    {
+      "name": "0MHP10B24A-02",
+      "url": "/lennox/0mhp10b24a-02/parts",
+      "code": "0mhp10b24a-02"
+    },
+    {
+      "name": "0MHP10B24FA-01",
+      "url": "/lennox/0mhp10b24fa-01/parts",
+      "code": "0mhp10b24fa-01"
+    },
+    {
+      "name": "0MHP10B24FA-02",
+      "url": "/lennox/0mhp10b24fa-02/parts",
+      "code": "0mhp10b24fa-02"
+    },
+    {
+      "name": "0MHP10B30A-01",
+      "url": "/lennox/0mhp10b30a-01/parts",
+      "code": "0mhp10b30a-01"
+    },
+    {
+      "name": "0MHP10B30A-02",
+      "url": "/lennox/0mhp10b30a-02/parts",
+      "code": "0mhp10b30a-02"
+    },
+    {
+      "name": "0MHP10B30FA-01",
+      "url": "/lennox/0mhp10b30fa-01/parts",
+      "code": "0mhp10b30fa-01"
+    },
+    {
+      "name": "0MHP10B30FA-02",
+      "url": "/lennox/0mhp10b30fa-02/parts",
+      "code": "0mhp10b30fa-02"
+    },
+    {
+      "name": "0MHP12A18A-01",
+      "url": "/lennox/0mhp12a18a-01/parts",
+      "code": "0mhp12a18a-01"
+    },
+    {
+      "name": "0MHP12A18FA-01",
+      "url": "/lennox/0mhp12a18fa-01/parts",
+      "code": "0mhp12a18fa-01"
+    },
+    {
+      "name": "0MHP12A24A-01",
+      "url": "/lennox/0mhp12a24a-01/parts",
+      "code": "0mhp12a24a-01"
+    },
+    {
+      "name": "0MHP12A24FA-01",
+      "url": "/lennox/0mhp12a24fa-01/parts",
+      "code": "0mhp12a24fa-01"
+    },
+    {
+      "name": "10AC12-1P",
+      "url": "/lennox/10ac12-1p/parts",
+      "code": "10ac12-1p"
+    },
+    {
+      "name": "10AC12-3P",
+      "url": "/lennox/10ac12-3p/parts",
+      "code": "10ac12-3p"
+    },
+    {
+      "name": "10AC18-1P",
+      "url": "/lennox/10ac18-1p/parts",
+      "code": "10ac18-1p"
+    },
+    {
+      "name": "10AC18-3P",
+      "url": "/lennox/10ac18-3p/parts",
+      "code": "10ac18-3p"
+    },
+    {
+      "name": "10AC24-1P",
+      "url": "/lennox/10ac24-1p/parts",
+      "code": "10ac24-1p"
+    },
+    {
+      "name": "10AC24-3P",
+      "url": "/lennox/10ac24-3p/parts",
+      "code": "10ac24-3p"
+    },
+    {
+      "name": "10AC30-1P",
+      "url": "/lennox/10ac30-1p/parts",
+      "code": "10ac30-1p"
+    },
+    {
+      "name": "10AC30-2P",
+      "url": "/lennox/10ac30-2p/parts",
+      "code": "10ac30-2p"
+    },
+    {
+      "name": "10AC30-3P",
+      "url": "/lennox/10ac30-3p/parts",
+      "code": "10ac30-3p"
+    },
+    {
+      "name": "10AC36-1P",
+      "url": "/lennox/10ac36-1p/parts",
+      "code": "10ac36-1p"
+    },
+    {
+      "name": "10AC36-3P",
+      "url": "/lennox/10ac36-3p/parts",
+      "code": "10ac36-3p"
+    },
+    {
+      "name": "10AC36-4P",
+      "url": "/lennox/10ac36-4p/parts",
+      "code": "10ac36-4p"
+    },
+    {
+      "name": "10AC42-1P",
+      "url": "/lennox/10ac42-1p/parts",
+      "code": "10ac42-1p"
+    },
+    {
+      "name": "10AC42-2P",
+      "url": "/lennox/10ac42-2p/parts",
+      "code": "10ac42-2p"
+    },
+    {
+      "name": "10AC42-3P",
+      "url": "/lennox/10ac42-3p/parts",
+      "code": "10ac42-3p"
+    },
+    {
+      "name": "10AC48-1P",
+      "url": "/lennox/10ac48-1p/parts",
+      "code": "10ac48-1p"
+    },
+    {
+      "name": "10AC60-1P",
+      "url": "/lennox/10ac60-1p/parts",
+      "code": "10ac60-1p"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:21:25.885978"
+}

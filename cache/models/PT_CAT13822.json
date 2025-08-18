@@ -1,0 +1,121 @@
+{
+  "manufacturer": {
+    "name": "Eloma",
+    "code": "PT_CAT13822",
+    "uri": "eloma"
+  },
+  "models": [
+    {
+      "name": "GMTC 1-1",
+      "url": "/eloma/gmtc-1-1/parts",
+      "code": "gmtc-1-1"
+    },
+    {
+      "name": "Genius 1-1",
+      "url": "/eloma/genius-1-1/parts",
+      "code": "genius-1-1"
+    },
+    {
+      "name": "Genius 10-11",
+      "url": "/eloma/genius-10-11/parts",
+      "code": "genius-10-11"
+    },
+    {
+      "name": "Genius 12-21",
+      "url": "/eloma/genius-12-21/parts",
+      "code": "genius-12-21"
+    },
+    {
+      "name": "Genius 20-11",
+      "url": "/eloma/genius-20-11/parts",
+      "code": "genius-20-11"
+    },
+    {
+      "name": "Genius 20-21",
+      "url": "/eloma/genius-20-21/parts",
+      "code": "genius-20-21"
+    },
+    {
+      "name": "Genius 6-11",
+      "url": "/eloma/genius-6-11/parts",
+      "code": "genius-6-11"
+    },
+    {
+      "name": "Genius Compact 6-23",
+      "url": "/eloma/genius-compact-6-23/parts",
+      "code": "genius-compact-6-23"
+    },
+    {
+      "name": "JOKER 6-11",
+      "url": "/eloma/joker-6-11/parts",
+      "code": "joker-6-11"
+    },
+    {
+      "name": "JOKER 6-23",
+      "url": "/eloma/joker-6-23/parts",
+      "code": "joker-6-23"
+    },
+    {
+      "name": "JOKER 6-43",
+      "url": "/eloma/joker-6-43/parts",
+      "code": "joker-6-43"
+    },
+    {
+      "name": "Joker 1-1",
+      "url": "/eloma/joker-1-1/parts",
+      "code": "joker-1-1"
+    },
+    {
+      "name": "Joker 2-3",
+      "url": "/eloma/joker-2-3/parts",
+      "code": "joker-2-3"
+    },
+    {
+      "name": "Joker T",
+      "url": "/eloma/joker-t/parts",
+      "code": "joker-t"
+    },
+    {
+      "name": "MB Genius-T 10-11",
+      "url": "/eloma/mb-genius-t-10-11/parts",
+      "code": "mb-genius-t-10-11"
+    },
+    {
+      "name": "MB Genius-T 12-21",
+      "url": "/eloma/mb-genius-t-12-21/parts",
+      "code": "mb-genius-t-12-21"
+    },
+    {
+      "name": "MB Genius-T 20-11",
+      "url": "/eloma/mb-genius-t-20-11/parts",
+      "code": "mb-genius-t-20-11"
+    },
+    {
+      "name": "MB Genius-T 20-21",
+      "url": "/eloma/mb-genius-t-20-21/parts",
+      "code": "mb-genius-t-20-21"
+    },
+    {
+      "name": "MB Genius-T 6-11",
+      "url": "/eloma/mb-genius-t-6-11/parts",
+      "code": "mb-genius-t-6-11"
+    },
+    {
+      "name": "MULTIMAX 10-11",
+      "url": "/eloma/multimax-10-11/parts",
+      "code": "multimax-10-11"
+    },
+    {
+      "name": "MULTIMAX 20-21",
+      "url": "/eloma/multimax-20-21/parts",
+      "code": "multimax-20-21"
+    },
+    {
+      "name": "MULTIMAX 6-11",
+      "url": "/eloma/multimax-6-11/parts",
+      "code": "multimax-6-11"
+    }
+  ],
+  "total_models": 22,
+  "cached_at": "2025-08-14T18:28:03.085691"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Beverage Air",
+    "code": "PT_CAT1022",
+    "uri": "beverage-air"
+  },
+  "models": [
+    {
+      "name": "10DF-13",
+      "url": "/beverage-air/10df-13/parts",
+      "code": "10df-13"
+    },
+    {
+      "name": "12HC",
+      "url": "/beverage-air/12hc/parts",
+      "code": "12hc"
+    },
+    {
+      "name": "12HR",
+      "url": "/beverage-air/12hr/parts",
+      "code": "12hr"
+    },
+    {
+      "name": "14DF-13",
+      "url": "/beverage-air/14df-13/parts",
+      "code": "14df-13"
+    },
+    {
+      "name": "16HC",
+      "url": "/beverage-air/16hc/parts",
+      "code": "16hc"
+    },
+    {
+      "name": "16HR",
+      "url": "/beverage-air/16hr/parts",
+      "code": "16hr"
+    },
+    {
+      "name": "2SF-13",
+      "url": "/beverage-air/2sf-13/parts",
+      "code": "2sf-13"
+    },
+    {
+      "name": "4DF-13",
+      "url": "/beverage-air/4df-13/parts",
+      "code": "4df-13"
+    },
+    {
+      "name": "4HC",
+      "url": "/beverage-air/4hc/parts",
+      "code": "4hc"
+    },
+    {
+      "name": "4HR",
+      "url": "/beverage-air/4hr/parts",
+      "code": "4hr"
+    },
+    {
+      "name": "4SF-13",
+      "url": "/beverage-air/4sf-13/parts",
+      "code": "4sf-13"
+    },
+    {
+      "name": "6DF-13",
+      "url": "/beverage-air/6df-13/parts",
+      "code": "6df-13"
+    },
+    {
+      "name": "8DF-13",
+      "url": "/beverage-air/8df-13/parts",
+      "code": "8df-13"
+    },
+    {
+      "name": "8FR-13",
+      "url": "/beverage-air/8fr-13/parts",
+      "code": "8fr-13"
+    },
+    {
+      "name": "8HC",
+      "url": "/beverage-air/8hc/parts",
+      "code": "8hc"
+    },
+    {
+      "name": "8HR",
+      "url": "/beverage-air/8hr/parts",
+      "code": "8hr"
+    },
+    {
+      "name": "BB48",
+      "url": "/beverage-air/bb48/parts",
+      "code": "bb48"
+    },
+    {
+      "name": "BB58",
+      "url": "/beverage-air/bb58/parts",
+      "code": "bb58"
+    },
+    {
+      "name": "BB68",
+      "url": "/beverage-air/bb68/parts",
+      "code": "bb68"
+    },
+    {
+      "name": "BB72",
+      "url": "/beverage-air/bb72/parts",
+      "code": "bb72"
+    },
+    {
+      "name": "BB78",
+      "url": "/beverage-air/bb78/parts",
+      "code": "bb78"
+    },
+    {
+      "name": "BB94",
+      "url": "/beverage-air/bb94/parts",
+      "code": "bb94"
+    },
+    {
+      "name": "BM23",
+      "url": "/beverage-air/bm23/parts",
+      "code": "bm23"
+    },
+    {
+      "name": "BRD52",
+      "url": "/beverage-air/brd52/parts",
+      "code": "brd52"
+    },
+    {
+      "name": "BRT68",
+      "url": "/beverage-air/brt68/parts",
+      "code": "brt68"
+    },
+    {
+      "name": "BRT90",
+      "url": "/beverage-air/brt90/parts",
+      "code": "brt90"
+    },
+    {
+      "name": "BT30CWFMS-2",
+      "url": "/beverage-air/bt30cwfms-2/parts",
+      "code": "bt30cwfms-2"
+    },
+    {
+      "name": "BT30FS-4",
+      "url": "/beverage-air/bt30fs-4/parts",
+      "code": "bt30fs-4"
+    },
+    {
+      "name": "BT30RF-FMS",
+      "url": "/beverage-air/bt30rf-fms/parts",
+      "code": "bt30rf-fms"
+    },
+    {
+      "name": "BT30RG-4.1",
+      "url": "/beverage-air/bt30rg-4-1/parts",
+      "code": "bt30rg-4-1"
+    },
+    {
+      "name": "BT30RGCH-4.1",
+      "url": "/beverage-air/bt30rgch-4-1/parts",
+      "code": "bt30rgch-4-1"
+    },
+    {
+      "name": "BT30RS-4.1",
+      "url": "/beverage-air/bt30rs-4-1/parts",
+      "code": "bt30rs-4-1"
+    },
+    {
+      "name": "BT30RSFMS-4.1",
+      "url": "/beverage-air/bt30rsfms-4-1/parts",
+      "code": "bt30rsfms-4-1"
+    },
+    {
+      "name": "BT50FS-4",
+      "url": "/beverage-air/bt50fs-4/parts",
+      "code": "bt50fs-4"
+    },
+    {
+      "name": "BT50RG-4.1",
+      "url": "/beverage-air/bt50rg-4-1/parts",
+      "code": "bt50rg-4-1"
+    },
+    {
+      "name": "BT50RGCH-4.1",
+      "url": "/beverage-air/bt50rgch-4-1/parts",
+      "code": "bt50rgch-4-1"
+    },
+    {
+      "name": "BT50RS-4.1",
+      "url": "/beverage-air/bt50rs-4-1/parts",
+      "code": "bt50rs-4-1"
+    },
+    {
+      "name": "BT50RSFMS-4.1",
+      "url": "/beverage-air/bt50rsfms-4-1/parts",
+      "code": "bt50rsfms-4-1"
+    },
+    {
+      "name": "BT80FS-4",
+      "url": "/beverage-air/bt80fs-4/parts",
+      "code": "bt80fs-4"
+    },
+    {
+      "name": "BT80RG-4.1",
+      "url": "/beverage-air/bt80rg-4-1/parts",
+      "code": "bt80rg-4-1"
+    },
+    {
+      "name": "BTL30FS-4",
+      "url": "/beverage-air/btl30fs-4/parts",
+      "code": "btl30fs-4"
+    },
+    {
+      "name": "BTQ50FSHD-4",
+      "url": "/beverage-air/btq50fshd-4/parts",
+      "code": "btq50fshd-4"
+    },
+    {
+      "name": "BZ13",
+      "url": "/beverage-air/bz13/parts",
+      "code": "bz13"
+    },
+    {
+      "name": "BZ16",
+      "url": "/beverage-air/bz16/parts",
+      "code": "bz16"
+    },
+    {
+      "name": "CDPD3",
+      "url": "/beverage-air/cdpd3/parts",
+      "code": "cdpd3"
+    },
+    {
+      "name": "CDPD4",
+      "url": "/beverage-air/cdpd4/parts",
+      "code": "cdpd4"
+    },
+    {
+      "name": "CDPD6",
+      "url": "/beverage-air/cdpd6/parts",
+      "code": "cdpd6"
+    },
+    {
+      "name": "CFG12",
+      "url": "/beverage-air/cfg12/parts",
+      "code": "cfg12"
+    },
+    {
+      "name": "CFG24",
+      "url": "/beverage-air/cfg24/parts",
+      "code": "cfg24"
+    },
+    {
+      "name": "CFG36",
+      "url": "/beverage-air/cfg36/parts",
+      "code": "cfg36"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:54:18.468199"
+}

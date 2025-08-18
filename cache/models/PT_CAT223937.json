@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Ruud",
+    "code": "PT_CAT223937",
+    "uri": "ruud"
+  },
+  "models": [
+    {
+      "name": "CRUTGH-95DVLN-2",
+      "url": "/ruud/crutgh-95dvln-2/parts",
+      "code": "crutgh-95dvln-2"
+    },
+    {
+      "name": "G100-200(A)",
+      "url": "/ruud/g100-200-a/parts",
+      "code": "g100-200-a"
+    },
+    {
+      "name": "G100-250(A)",
+      "url": "/ruud/g100-250-a/parts",
+      "code": "g100-250-a"
+    },
+    {
+      "name": "G100-270(A)",
+      "url": "/ruud/g100-270-a/parts",
+      "code": "g100-270-a"
+    },
+    {
+      "name": "G100-310(A)",
+      "url": "/ruud/g100-310-a/parts",
+      "code": "g100-310-a"
+    },
+    {
+      "name": "G100-400(A)",
+      "url": "/ruud/g100-400-a/parts",
+      "code": "g100-400-a"
+    },
+    {
+      "name": "G37-200",
+      "url": "/ruud/g37-200/parts",
+      "code": "g37-200"
+    },
+    {
+      "name": "G65-400(A)",
+      "url": "/ruud/g65-400-a/parts",
+      "code": "g65-400-a"
+    },
+    {
+      "name": "G72-250(A)",
+      "url": "/ruud/g72-250-a/parts",
+      "code": "g72-250-a"
+    },
+    {
+      "name": "G72-300(A)",
+      "url": "/ruud/g72-300-a/parts",
+      "code": "g72-300-a"
+    },
+    {
+      "name": "G75-125",
+      "url": "/ruud/g75-125/parts",
+      "code": "g75-125"
+    },
+    {
+      "name": "G76-180",
+      "url": "/ruud/g76-180/parts",
+      "code": "g76-180"
+    },
+    {
+      "name": "G76-200-1",
+      "url": "/ruud/g76-200-1/parts",
+      "code": "g76-200-1"
+    },
+    {
+      "name": "G82-156",
+      "url": "/ruud/g82-156/parts",
+      "code": "g82-156"
+    },
+    {
+      "name": "G85-400(A)",
+      "url": "/ruud/g85-400-a/parts",
+      "code": "g85-400-a"
+    },
+    {
+      "name": "G91-200",
+      "url": "/ruud/g91-200/parts",
+      "code": "g91-200"
+    },
+    {
+      "name": "GHE100SS-130(A)",
+      "url": "/ruud/ghe100ss-130-a/parts",
+      "code": "ghe100ss-130-a"
+    },
+    {
+      "name": "GHE100SS-160(A)",
+      "url": "/ruud/ghe100ss-160-a/parts",
+      "code": "ghe100ss-160-a"
+    },
+    {
+      "name": "GHE100SS-200(A)",
+      "url": "/ruud/ghe100ss-200-a/parts",
+      "code": "ghe100ss-200-a"
+    },
+    {
+      "name": "GHE100SS-250(A)",
+      "url": "/ruud/ghe100ss-250-a/parts",
+      "code": "ghe100ss-250-a"
+    },
+    {
+      "name": "GHE100SS-300(A)",
+      "url": "/ruud/ghe100ss-300-a/parts",
+      "code": "ghe100ss-300-a"
+    },
+    {
+      "name": "GHE100SS-400(A)",
+      "url": "/ruud/ghe100ss-400-a/parts",
+      "code": "ghe100ss-400-a"
+    },
+    {
+      "name": "GHE100SU-130(A)",
+      "url": "/ruud/ghe100su-130-a/parts",
+      "code": "ghe100su-130-a"
+    },
+    {
+      "name": "GHE100SU-160(A)",
+      "url": "/ruud/ghe100su-160-a/parts",
+      "code": "ghe100su-160-a"
+    },
+    {
+      "name": "GHE100SU-200(A)",
+      "url": "/ruud/ghe100su-200-a/parts",
+      "code": "ghe100su-200-a"
+    },
+    {
+      "name": "GHE100SU-250(A)",
+      "url": "/ruud/ghe100su-250-a/parts",
+      "code": "ghe100su-250-a"
+    },
+    {
+      "name": "GHE100SU-300(A)",
+      "url": "/ruud/ghe100su-300-a/parts",
+      "code": "ghe100su-300-a"
+    },
+    {
+      "name": "GHE100SU-400(A)",
+      "url": "/ruud/ghe100su-400-a/parts",
+      "code": "ghe100su-400-a"
+    },
+    {
+      "name": "GHE80SS-130(A)",
+      "url": "/ruud/ghe80ss-130-a/parts",
+      "code": "ghe80ss-130-a"
+    },
+    {
+      "name": "GHE80SS-160(A)",
+      "url": "/ruud/ghe80ss-160-a/parts",
+      "code": "ghe80ss-160-a"
+    },
+    {
+      "name": "GHE80SS-200(A)",
+      "url": "/ruud/ghe80ss-200-a/parts",
+      "code": "ghe80ss-200-a"
+    },
+    {
+      "name": "GHE80SS-300(A)",
+      "url": "/ruud/ghe80ss-300-a/parts",
+      "code": "ghe80ss-300-a"
+    },
+    {
+      "name": "GHE80SU-130(A)",
+      "url": "/ruud/ghe80su-130-a/parts",
+      "code": "ghe80su-130-a"
+    },
+    {
+      "name": "GHE80SU-160(A)",
+      "url": "/ruud/ghe80su-160-a/parts",
+      "code": "ghe80su-160-a"
+    },
+    {
+      "name": "GHE80SU-200(A)",
+      "url": "/ruud/ghe80su-200-a/parts",
+      "code": "ghe80su-200-a"
+    },
+    {
+      "name": "GHE80SU-300(A)",
+      "url": "/ruud/ghe80su-300-a/parts",
+      "code": "ghe80su-300-a"
+    },
+    {
+      "name": "GPDV50-65",
+      "url": "/ruud/gpdv50-65/parts",
+      "code": "gpdv50-65"
+    },
+    {
+      "name": "GPDV50-65LP",
+      "url": "/ruud/gpdv50-65lp/parts",
+      "code": "gpdv50-65lp"
+    },
+    {
+      "name": "GPDV75-75",
+      "url": "/ruud/gpdv75-75/parts",
+      "code": "gpdv75-75"
+    },
+    {
+      "name": "GPDV75-76LP",
+      "url": "/ruud/gpdv75-76lp/parts",
+      "code": "gpdv75-76lp"
+    },
+    {
+      "name": "GX90-500(A)",
+      "url": "/ruud/gx90-500-a/parts",
+      "code": "gx90-500-a"
+    },
+    {
+      "name": "GX90-550(A)",
+      "url": "/ruud/gx90-550-a/parts",
+      "code": "gx90-550-a"
+    },
+    {
+      "name": "GX90-600(A)",
+      "url": "/ruud/gx90-600-a/parts",
+      "code": "gx90-600-a"
+    },
+    {
+      "name": "GX90-640(A)",
+      "url": "/ruud/gx90-640-a/parts",
+      "code": "gx90-640-a"
+    },
+    {
+      "name": "GX90-680(A)",
+      "url": "/ruud/gx90-680-a/parts",
+      "code": "gx90-680-a"
+    },
+    {
+      "name": "GX90-715(A)",
+      "url": "/ruud/gx90-715-a/parts",
+      "code": "gx90-715-a"
+    },
+    {
+      "name": "RUTGH-84DVLN-2",
+      "url": "/ruud/rutgh-84dvln-2/parts",
+      "code": "rutgh-84dvln-2"
+    },
+    {
+      "name": "RUTGH-84XLN-2",
+      "url": "/ruud/rutgh-84xln-2/parts",
+      "code": "rutgh-84xln-2"
+    },
+    {
+      "name": "RUTGH-90DVLN-2",
+      "url": "/ruud/rutgh-90dvln-2/parts",
+      "code": "rutgh-90dvln-2"
+    },
+    {
+      "name": "RUTGH-90XLN-2",
+      "url": "/ruud/rutgh-90xln-2/parts",
+      "code": "rutgh-90xln-2"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T20:17:39.086436"
+}

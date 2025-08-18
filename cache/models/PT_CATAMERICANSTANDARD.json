@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "American Standard",
+    "code": "PT_CATAMERICANSTANDARD",
+    "uri": "american-standard"
+  },
+  "models": [
+    {
+      "name": "4A6H4018",
+      "url": "/american-standard/4a6h4018/parts",
+      "code": "4a6h4018"
+    },
+    {
+      "name": "4A6H4024",
+      "url": "/american-standard/4a6h4024/parts",
+      "code": "4a6h4024"
+    },
+    {
+      "name": "4A6H4030",
+      "url": "/american-standard/4a6h4030/parts",
+      "code": "4a6h4030"
+    },
+    {
+      "name": "4A6H4036",
+      "url": "/american-standard/4a6h4036/parts",
+      "code": "4a6h4036"
+    },
+    {
+      "name": "4A6H4042",
+      "url": "/american-standard/4a6h4042/parts",
+      "code": "4a6h4042"
+    },
+    {
+      "name": "4A6H4048",
+      "url": "/american-standard/4a6h4048/parts",
+      "code": "4a6h4048"
+    },
+    {
+      "name": "4A6H4060",
+      "url": "/american-standard/4a6h4060/parts",
+      "code": "4a6h4060"
+    },
+    {
+      "name": "4A6H5018",
+      "url": "/american-standard/4a6h5018/parts",
+      "code": "4a6h5018"
+    },
+    {
+      "name": "4A6H5024",
+      "url": "/american-standard/4a6h5024/parts",
+      "code": "4a6h5024"
+    },
+    {
+      "name": "4A6H5030",
+      "url": "/american-standard/4a6h5030/parts",
+      "code": "4a6h5030"
+    },
+    {
+      "name": "4A6H5036",
+      "url": "/american-standard/4a6h5036/parts",
+      "code": "4a6h5036"
+    },
+    {
+      "name": "4A6H5042",
+      "url": "/american-standard/4a6h5042/parts",
+      "code": "4a6h5042"
+    },
+    {
+      "name": "4A6H5048",
+      "url": "/american-standard/4a6h5048/parts",
+      "code": "4a6h5048"
+    },
+    {
+      "name": "4A6H5060",
+      "url": "/american-standard/4a6h5060/parts",
+      "code": "4a6h5060"
+    },
+    {
+      "name": "4A6H6024N",
+      "url": "/american-standard/4a6h6024n/parts",
+      "code": "4a6h6024n"
+    },
+    {
+      "name": "4A6H6036N",
+      "url": "/american-standard/4a6h6036n/parts",
+      "code": "4a6h6036n"
+    },
+    {
+      "name": "4A6H6048N",
+      "url": "/american-standard/4a6h6048n/parts",
+      "code": "4a6h6048n"
+    },
+    {
+      "name": "4A6H6060N",
+      "url": "/american-standard/4a6h6060n/parts",
+      "code": "4a6h6060n"
+    },
+    {
+      "name": "4A6L5024",
+      "url": "/american-standard/4a6l5024/parts",
+      "code": "4a6l5024"
+    },
+    {
+      "name": "4A6L5030",
+      "url": "/american-standard/4a6l5030/parts",
+      "code": "4a6l5030"
+    },
+    {
+      "name": "4A6L5036",
+      "url": "/american-standard/4a6l5036/parts",
+      "code": "4a6l5036"
+    },
+    {
+      "name": "4A6L5042",
+      "url": "/american-standard/4a6l5042/parts",
+      "code": "4a6l5042"
+    },
+    {
+      "name": "4A6L5048",
+      "url": "/american-standard/4a6l5048/parts",
+      "code": "4a6l5048"
+    },
+    {
+      "name": "4A6L9024",
+      "url": "/american-standard/4a6l9024/parts",
+      "code": "4a6l9024"
+    },
+    {
+      "name": "4A6L9036",
+      "url": "/american-standard/4a6l9036/parts",
+      "code": "4a6l9036"
+    },
+    {
+      "name": "4A6L9048",
+      "url": "/american-standard/4a6l9048/parts",
+      "code": "4a6l9048"
+    },
+    {
+      "name": "4A6L9060",
+      "url": "/american-standard/4a6l9060/parts",
+      "code": "4a6l9060"
+    },
+    {
+      "name": "4A6V0X24",
+      "url": "/american-standard/4a6v0x24/parts",
+      "code": "4a6v0x24"
+    },
+    {
+      "name": "4A6V0X36",
+      "url": "/american-standard/4a6v0x36/parts",
+      "code": "4a6v0x36"
+    },
+    {
+      "name": "4A6V0X48",
+      "url": "/american-standard/4a6v0x48/parts",
+      "code": "4a6v0x48"
+    },
+    {
+      "name": "4A6V0X60",
+      "url": "/american-standard/4a6v0x60/parts",
+      "code": "4a6v0x60"
+    },
+    {
+      "name": "4A6V8024",
+      "url": "/american-standard/4a6v8024/parts",
+      "code": "4a6v8024"
+    },
+    {
+      "name": "4A6V8036",
+      "url": "/american-standard/4a6v8036/parts",
+      "code": "4a6v8036"
+    },
+    {
+      "name": "4A6V8048",
+      "url": "/american-standard/4a6v8048/parts",
+      "code": "4a6v8048"
+    },
+    {
+      "name": "4A6V8060",
+      "url": "/american-standard/4a6v8060/parts",
+      "code": "4a6v8060"
+    },
+    {
+      "name": "4A7A3018N",
+      "url": "/american-standard/4a7a3018n/parts",
+      "code": "4a7a3018n"
+    },
+    {
+      "name": "4A7A3024N",
+      "url": "/american-standard/4a7a3024n/parts",
+      "code": "4a7a3024n"
+    },
+    {
+      "name": "4A7A3030N",
+      "url": "/american-standard/4a7a3030n/parts",
+      "code": "4a7a3030n"
+    },
+    {
+      "name": "4A7A3036N",
+      "url": "/american-standard/4a7a3036n/parts",
+      "code": "4a7a3036n"
+    },
+    {
+      "name": "4A7A3042N",
+      "url": "/american-standard/4a7a3042n/parts",
+      "code": "4a7a3042n"
+    },
+    {
+      "name": "4A7A3048N",
+      "url": "/american-standard/4a7a3048n/parts",
+      "code": "4a7a3048n"
+    },
+    {
+      "name": "4A7A3060N",
+      "url": "/american-standard/4a7a3060n/parts",
+      "code": "4a7a3060n"
+    },
+    {
+      "name": "4A7A4018",
+      "url": "/american-standard/4a7a4018/parts",
+      "code": "4a7a4018"
+    },
+    {
+      "name": "4A7A4019",
+      "url": "/american-standard/4a7a4019/parts",
+      "code": "4a7a4019"
+    },
+    {
+      "name": "4A7A4024",
+      "url": "/american-standard/4a7a4024/parts",
+      "code": "4a7a4024"
+    },
+    {
+      "name": "4A7A4025",
+      "url": "/american-standard/4a7a4025/parts",
+      "code": "4a7a4025"
+    },
+    {
+      "name": "4A7A4030",
+      "url": "/american-standard/4a7a4030/parts",
+      "code": "4a7a4030"
+    },
+    {
+      "name": "4A7A4036",
+      "url": "/american-standard/4a7a4036/parts",
+      "code": "4a7a4036"
+    },
+    {
+      "name": "4A7A4042",
+      "url": "/american-standard/4a7a4042/parts",
+      "code": "4a7a4042"
+    },
+    {
+      "name": "4A7A4048",
+      "url": "/american-standard/4a7a4048/parts",
+      "code": "4a7a4048"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:44:02.671835"
+}

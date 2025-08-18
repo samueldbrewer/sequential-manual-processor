@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Cambro",
+    "code": "PT_CATCAMBRO",
+    "uri": "cambro"
+  },
+  "models": [
+    {
+      "name": "1000LCD",
+      "url": "/cambro/1000lcd/parts",
+      "code": "1000lcd"
+    },
+    {
+      "name": "100LCD",
+      "url": "/cambro/100lcd/parts",
+      "code": "100lcd"
+    },
+    {
+      "name": "100MPC",
+      "url": "/cambro/100mpc/parts",
+      "code": "100mpc"
+    },
+    {
+      "name": "100MPCHL",
+      "url": "/cambro/100mpchl/parts",
+      "code": "100mpchl"
+    },
+    {
+      "name": "125MPC",
+      "url": "/cambro/125mpc/parts",
+      "code": "125mpc"
+    },
+    {
+      "name": "1318MTC",
+      "url": "/cambro/1318mtc/parts",
+      "code": "1318mtc"
+    },
+    {
+      "name": "140MPC",
+      "url": "/cambro/140mpc/parts",
+      "code": "140mpc"
+    },
+    {
+      "name": "150MPC",
+      "url": "/cambro/150mpc/parts",
+      "code": "150mpc"
+    },
+    {
+      "name": "160MPC",
+      "url": "/cambro/160mpc/parts",
+      "code": "160mpc"
+    },
+    {
+      "name": "180MPC",
+      "url": "/cambro/180mpc/parts",
+      "code": "180mpc"
+    },
+    {
+      "name": "1826DBC",
+      "url": "/cambro/1826dbc/parts",
+      "code": "1826dbc"
+    },
+    {
+      "name": "1826DBCSP",
+      "url": "/cambro/1826dbcsp/parts",
+      "code": "1826dbcsp"
+    },
+    {
+      "name": "1826DTC",
+      "url": "/cambro/1826dtc/parts",
+      "code": "1826dtc"
+    },
+    {
+      "name": "1826DTCSP",
+      "url": "/cambro/1826dtcsp/parts",
+      "code": "1826dtcsp"
+    },
+    {
+      "name": "1826LBC",
+      "url": "/cambro/1826lbc/parts",
+      "code": "1826lbc"
+    },
+    {
+      "name": "1826LBCSP",
+      "url": "/cambro/1826lbcsp/parts",
+      "code": "1826lbcsp"
+    },
+    {
+      "name": "1826LTC",
+      "url": "/cambro/1826ltc/parts",
+      "code": "1826ltc"
+    },
+    {
+      "name": "1826LTC3",
+      "url": "/cambro/1826ltc3/parts",
+      "code": "1826ltc3"
+    },
+    {
+      "name": "1826LTCSP",
+      "url": "/cambro/1826ltcsp/parts",
+      "code": "1826ltcsp"
+    },
+    {
+      "name": "1826MTC",
+      "url": "/cambro/1826mtc/parts",
+      "code": "1826mtc"
+    },
+    {
+      "name": "200MPC",
+      "url": "/cambro/200mpc/parts",
+      "code": "200mpc"
+    },
+    {
+      "name": "2030UT",
+      "url": "/cambro/2030ut/parts",
+      "code": "2030ut"
+    },
+    {
+      "name": "240MPC",
+      "url": "/cambro/240mpc/parts",
+      "code": "240mpc"
+    },
+    {
+      "name": "2436UTH",
+      "url": "/cambro/2436uth/parts",
+      "code": "2436uth"
+    },
+    {
+      "name": "2436UTHS",
+      "url": "/cambro/2436uths/parts",
+      "code": "2436uths"
+    },
+    {
+      "name": "250LCD",
+      "url": "/cambro/250lcd/parts",
+      "code": "250lcd"
+    },
+    {
+      "name": "300MPC",
+      "url": "/cambro/300mpc/parts",
+      "code": "300mpc"
+    },
+    {
+      "name": "350LCD",
+      "url": "/cambro/350lcd/parts",
+      "code": "350lcd"
+    },
+    {
+      "name": "4FBR",
+      "url": "/cambro/4fbr/parts",
+      "code": "4fbr"
+    },
+    {
+      "name": "4FBRSL",
+      "url": "/cambro/4fbrsl/parts",
+      "code": "4fbrsl"
+    },
+    {
+      "name": "4FBRTT",
+      "url": "/cambro/4fbrtt/parts",
+      "code": "4fbrtt"
+    },
+    {
+      "name": "4UBR",
+      "url": "/cambro/4ubr/parts",
+      "code": "4ubr"
+    },
+    {
+      "name": "500LCD",
+      "url": "/cambro/500lcd/parts",
+      "code": "500lcd"
+    },
+    {
+      "name": "5FBR",
+      "url": "/cambro/5fbr/parts",
+      "code": "5fbr"
+    },
+    {
+      "name": "5FBRSL",
+      "url": "/cambro/5fbrsl/parts",
+      "code": "5fbrsl"
+    },
+    {
+      "name": "5FBRTT",
+      "url": "/cambro/5fbrtt/parts",
+      "code": "5fbrtt"
+    },
+    {
+      "name": "5UBR",
+      "url": "/cambro/5ubr/parts",
+      "code": "5ubr"
+    },
+    {
+      "name": "600MPC",
+      "url": "/cambro/600mpc/parts",
+      "code": "600mpc"
+    },
+    {
+      "name": "6FBR",
+      "url": "/cambro/6fbr/parts",
+      "code": "6fbr"
+    },
+    {
+      "name": "6FBRSL",
+      "url": "/cambro/6fbrsl/parts",
+      "code": "6fbrsl"
+    },
+    {
+      "name": "6FBRTT",
+      "url": "/cambro/6fbrtt/parts",
+      "code": "6fbrtt"
+    },
+    {
+      "name": "6UBR",
+      "url": "/cambro/6ubr/parts",
+      "code": "6ubr"
+    },
+    {
+      "name": "800MPC",
+      "url": "/cambro/800mpc/parts",
+      "code": "800mpc"
+    },
+    {
+      "name": "ADC33",
+      "url": "/cambro/adc33/parts",
+      "code": "adc33"
+    },
+    {
+      "name": "ADC4",
+      "url": "/cambro/adc4/parts",
+      "code": "adc4"
+    },
+    {
+      "name": "ADC6",
+      "url": "/cambro/adc6/parts",
+      "code": "adc6"
+    },
+    {
+      "name": "ADCS",
+      "url": "/cambro/adcs/parts",
+      "code": "adcs"
+    },
+    {
+      "name": "ADCSC",
+      "url": "/cambro/adcsc/parts",
+      "code": "adcsc"
+    },
+    {
+      "name": "ADCSC12PKG",
+      "url": "/cambro/adcsc12pkg/parts",
+      "code": "adcsc12pkg"
+    },
+    {
+      "name": "ADCSC8PKG",
+      "url": "/cambro/adcsc8pkg/parts",
+      "code": "adcsc8pkg"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:03:05.932946"
+}

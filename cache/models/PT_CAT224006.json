@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Apex Supply Chain Tech",
+    "code": "PT_CAT224006",
+    "uri": "apex-supply-chain-tech"
+  },
+  "models": [
+    {
+      "name": "Pizza Portal",
+      "url": "/apex-supply-chain-tech/pizza-portal/parts",
+      "code": "pizza-portal"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T17:46:04.924727"
+}

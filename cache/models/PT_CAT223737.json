@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "AHT Cooling Systems",
+    "code": "PT_CAT223737",
+    "uri": "aht-cooling-systems"
+  },
+  "models": [
+    {
+      "name": "AC-M (801474)",
+      "url": "/aht-cooling-systems/ac-m-801474/parts",
+      "code": "ac-m-801474"
+    },
+    {
+      "name": "AC-S (801473)",
+      "url": "/aht-cooling-systems/ac-s-801473/parts",
+      "code": "ac-s-801473"
+    },
+    {
+      "name": "AC-W (801475)",
+      "url": "/aht-cooling-systems/ac-w-801475/parts",
+      "code": "ac-w-801475"
+    },
+    {
+      "name": "GD-XL (370016)",
+      "url": "/aht-cooling-systems/gd-xl-370016/parts",
+      "code": "gd-xl-370016"
+    },
+    {
+      "name": "GD-XLS (370010)",
+      "url": "/aht-cooling-systems/gd-xls-370010/parts",
+      "code": "gd-xls-370010"
+    },
+    {
+      "name": "Ibiza (372149)",
+      "url": "/aht-cooling-systems/ibiza-372149/parts",
+      "code": "ibiza-372149"
+    },
+    {
+      "name": "Kinley XL (378110)",
+      "url": "/aht-cooling-systems/kinley-xl-378110/parts",
+      "code": "kinley-xl-378110"
+    },
+    {
+      "name": "Kinley XL (397198)",
+      "url": "/aht-cooling-systems/kinley-xl-397198/parts",
+      "code": "kinley-xl-397198"
+    },
+    {
+      "name": "Kinley XL (398049)",
+      "url": "/aht-cooling-systems/kinley-xl-398049/parts",
+      "code": "kinley-xl-398049"
+    },
+    {
+      "name": "Kinley XL (432670)",
+      "url": "/aht-cooling-systems/kinley-xl-432670/parts",
+      "code": "kinley-xl-432670"
+    },
+    {
+      "name": "Kinley XL (432680)",
+      "url": "/aht-cooling-systems/kinley-xl-432680/parts",
+      "code": "kinley-xl-432680"
+    },
+    {
+      "name": "Kinley XL (801397)",
+      "url": "/aht-cooling-systems/kinley-xl-801397/parts",
+      "code": "kinley-xl-801397"
+    },
+    {
+      "name": "Manhattan (349907)",
+      "url": "/aht-cooling-systems/manhattan-349907/parts",
+      "code": "manhattan-349907"
+    },
+    {
+      "name": "Manhattan (405259)",
+      "url": "/aht-cooling-systems/manhattan-405259/parts",
+      "code": "manhattan-405259"
+    },
+    {
+      "name": "Manhattan (405276)",
+      "url": "/aht-cooling-systems/manhattan-405276/parts",
+      "code": "manhattan-405276"
+    },
+    {
+      "name": "Manhattan (405382)",
+      "url": "/aht-cooling-systems/manhattan-405382/parts",
+      "code": "manhattan-405382"
+    },
+    {
+      "name": "Miami (372679)",
+      "url": "/aht-cooling-systems/miami-372679/parts",
+      "code": "miami-372679"
+    },
+    {
+      "name": "Miami (372680)",
+      "url": "/aht-cooling-systems/miami-372680/parts",
+      "code": "miami-372680"
+    },
+    {
+      "name": "Montreal Push EC (433984)",
+      "url": "/aht-cooling-systems/montreal-push-ec-433984/parts",
+      "code": "montreal-push-ec-433984"
+    },
+    {
+      "name": "Montreal Slim Push (433980)",
+      "url": "/aht-cooling-systems/montreal-slim-push-433980/parts",
+      "code": "montreal-slim-push-433980"
+    },
+    {
+      "name": "Montreal Slim Push (433981)",
+      "url": "/aht-cooling-systems/montreal-slim-push-433981/parts",
+      "code": "montreal-slim-push-433981"
+    },
+    {
+      "name": "Montreal Slim Push EC (433952)",
+      "url": "/aht-cooling-systems/montreal-slim-push-ec-433952/parts",
+      "code": "montreal-slim-push-ec-433952"
+    },
+    {
+      "name": "Montreal XL Push (433979)",
+      "url": "/aht-cooling-systems/montreal-xl-push-433979/parts",
+      "code": "montreal-xl-push-433979"
+    },
+    {
+      "name": "Montreal XL Push (433982)",
+      "url": "/aht-cooling-systems/montreal-xl-push-433982/parts",
+      "code": "montreal-xl-push-433982"
+    },
+    {
+      "name": "Montreal XL Push (433983)",
+      "url": "/aht-cooling-systems/montreal-xl-push-433983/parts",
+      "code": "montreal-xl-push-433983"
+    },
+    {
+      "name": "Paris (373501)",
+      "url": "/aht-cooling-systems/paris-373501/parts",
+      "code": "paris-373501"
+    },
+    {
+      "name": "Paris (373502)",
+      "url": "/aht-cooling-systems/paris-373502/parts",
+      "code": "paris-373502"
+    },
+    {
+      "name": "Paris (373521)",
+      "url": "/aht-cooling-systems/paris-373521/parts",
+      "code": "paris-373521"
+    },
+    {
+      "name": "Paris (373522)",
+      "url": "/aht-cooling-systems/paris-373522/parts",
+      "code": "paris-373522"
+    },
+    {
+      "name": "Paris (384120)",
+      "url": "/aht-cooling-systems/paris-384120/parts",
+      "code": "paris-384120"
+    },
+    {
+      "name": "Paris (390019)",
+      "url": "/aht-cooling-systems/paris-390019/parts",
+      "code": "paris-390019"
+    },
+    {
+      "name": "Paris (390258)",
+      "url": "/aht-cooling-systems/paris-390258/parts",
+      "code": "paris-390258"
+    },
+    {
+      "name": "Paris (390259)",
+      "url": "/aht-cooling-systems/paris-390259/parts",
+      "code": "paris-390259"
+    },
+    {
+      "name": "Paris (434143)",
+      "url": "/aht-cooling-systems/paris-434143/parts",
+      "code": "paris-434143"
+    },
+    {
+      "name": "Paris (434144)",
+      "url": "/aht-cooling-systems/paris-434144/parts",
+      "code": "paris-434144"
+    },
+    {
+      "name": "Paris (459976)",
+      "url": "/aht-cooling-systems/paris-459976/parts",
+      "code": "paris-459976"
+    },
+    {
+      "name": "Paris (460532)",
+      "url": "/aht-cooling-systems/paris-460532/parts",
+      "code": "paris-460532"
+    },
+    {
+      "name": "Paris (460533)",
+      "url": "/aht-cooling-systems/paris-460533/parts",
+      "code": "paris-460533"
+    },
+    {
+      "name": "Paris EC (434140)",
+      "url": "/aht-cooling-systems/paris-ec-434140/parts",
+      "code": "paris-ec-434140"
+    },
+    {
+      "name": "Paris EC (434141)",
+      "url": "/aht-cooling-systems/paris-ec-434141/parts",
+      "code": "paris-ec-434141"
+    },
+    {
+      "name": "Rio S (396674)",
+      "url": "/aht-cooling-systems/rio-s-396674/parts",
+      "code": "rio-s-396674"
+    },
+    {
+      "name": "Rio S (396675)",
+      "url": "/aht-cooling-systems/rio-s-396675/parts",
+      "code": "rio-s-396675"
+    },
+    {
+      "name": "Rio S (396676)",
+      "url": "/aht-cooling-systems/rio-s-396676/parts",
+      "code": "rio-s-396676"
+    },
+    {
+      "name": "Rio S (396677)",
+      "url": "/aht-cooling-systems/rio-s-396677/parts",
+      "code": "rio-s-396677"
+    },
+    {
+      "name": "Rio S (396678)",
+      "url": "/aht-cooling-systems/rio-s-396678/parts",
+      "code": "rio-s-396678"
+    },
+    {
+      "name": "Sao Paulo (350010)",
+      "url": "/aht-cooling-systems/sao-paulo-350010/parts",
+      "code": "sao-paulo-350010"
+    },
+    {
+      "name": "Sydney (373312)",
+      "url": "/aht-cooling-systems/sydney-373312/parts",
+      "code": "sydney-373312"
+    },
+    {
+      "name": "Sydney (434098)",
+      "url": "/aht-cooling-systems/sydney-434098/parts",
+      "code": "sydney-434098"
+    },
+    {
+      "name": "Sydney (434101)",
+      "url": "/aht-cooling-systems/sydney-434101/parts",
+      "code": "sydney-434101"
+    },
+    {
+      "name": "Sydney EC (434099)",
+      "url": "/aht-cooling-systems/sydney-ec-434099/parts",
+      "code": "sydney-ec-434099"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-15T11:45:31.927478"
+}

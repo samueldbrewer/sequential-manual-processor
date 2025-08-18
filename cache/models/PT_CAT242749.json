@@ -1,0 +1,161 @@
+{
+  "manufacturer": {
+    "name": "Quality Espresso",
+    "code": "PT_CAT242749",
+    "uri": "quality-espresso"
+  },
+  "models": [
+    {
+      "name": "Cunill Series",
+      "url": "/quality-espresso/cunill-series/parts",
+      "code": "cunill-series"
+    },
+    {
+      "name": "Futurmat 24 Carat Custom",
+      "url": "/quality-espresso/futurmat-24-carat-custom/parts",
+      "code": "futurmat-24-carat-custom"
+    },
+    {
+      "name": "Futurmat Custom",
+      "url": "/quality-espresso/futurmat-custom/parts",
+      "code": "futurmat-custom"
+    },
+    {
+      "name": "Futurmat F3",
+      "url": "/quality-espresso/futurmat-f3/parts",
+      "code": "futurmat-f3"
+    },
+    {
+      "name": "Futurmat Palanca",
+      "url": "/quality-espresso/futurmat-palanca/parts",
+      "code": "futurmat-palanca"
+    },
+    {
+      "name": "Futurmat Rimini",
+      "url": "/quality-espresso/futurmat-rimini/parts",
+      "code": "futurmat-rimini"
+    },
+    {
+      "name": "Futurmat Sensius",
+      "url": "/quality-espresso/futurmat-sensius/parts",
+      "code": "futurmat-sensius"
+    },
+    {
+      "name": "Futurmat Sensius Gold",
+      "url": "/quality-espresso/futurmat-sensius-gold/parts",
+      "code": "futurmat-sensius-gold"
+    },
+    {
+      "name": "Gaggia G6",
+      "url": "/quality-espresso/gaggia-g6/parts",
+      "code": "gaggia-g6"
+    },
+    {
+      "name": "Gaggia G6+",
+      "url": "/quality-espresso/gaggia-g6/parts",
+      "code": "gaggia-g6"
+    },
+    {
+      "name": "Gaggia Vetro",
+      "url": "/quality-espresso/gaggia-vetro/parts",
+      "code": "gaggia-vetro"
+    },
+    {
+      "name": "IT4 Italcrem",
+      "url": "/quality-espresso/it4-italcrem/parts",
+      "code": "it4-italcrem"
+    },
+    {
+      "name": "Mazzer Grinder Series",
+      "url": "/quality-espresso/mazzer-grinder-series/parts",
+      "code": "mazzer-grinder-series"
+    },
+    {
+      "name": "Ottima Electronic",
+      "url": "/quality-espresso/ottima-electronic/parts",
+      "code": "ottima-electronic"
+    },
+    {
+      "name": "Ottima Evo",
+      "url": "/quality-espresso/ottima-evo/parts",
+      "code": "ottima-evo"
+    },
+    {
+      "name": "Ottima Semiautomatic",
+      "url": "/quality-espresso/ottima-semiautomatic/parts",
+      "code": "ottima-semiautomatic"
+    },
+    {
+      "name": "Ottima XL",
+      "url": "/quality-espresso/ottima-xl/parts",
+      "code": "ottima-xl"
+    },
+    {
+      "name": "Q10 Evo",
+      "url": "/quality-espresso/q10-evo/parts",
+      "code": "q10-evo"
+    },
+    {
+      "name": "Q10 Series Grinder",
+      "url": "/quality-espresso/q10-series-grinder/parts",
+      "code": "q10-series-grinder"
+    },
+    {
+      "name": "QMilk",
+      "url": "/quality-espresso/qmilk/parts",
+      "code": "qmilk"
+    },
+    {
+      "name": "Rimini Soul",
+      "url": "/quality-espresso/rimini-soul/parts",
+      "code": "rimini-soul"
+    },
+    {
+      "name": "Ruby",
+      "url": "/quality-espresso/ruby/parts",
+      "code": "ruby"
+    },
+    {
+      "name": "Ruby Pro",
+      "url": "/quality-espresso/ruby-pro/parts",
+      "code": "ruby-pro"
+    },
+    {
+      "name": "Ruby Pro 2",
+      "url": "/quality-espresso/ruby-pro-2/parts",
+      "code": "ruby-pro-2"
+    },
+    {
+      "name": "Thermo Milk Warmer With Base",
+      "url": "/quality-espresso/thermo-milk-warmer-with-base/parts",
+      "code": "thermo-milk-warmer-with-base"
+    },
+    {
+      "name": "Thermo Milk Warmer Without Base",
+      "url": "/quality-espresso/thermo-milk-warmer-without-base/parts",
+      "code": "thermo-milk-warmer-without-base"
+    },
+    {
+      "name": "Visacrem Palanca",
+      "url": "/quality-espresso/visacrem-palanca/parts",
+      "code": "visacrem-palanca"
+    },
+    {
+      "name": "Visacrem V6",
+      "url": "/quality-espresso/visacrem-v6/parts",
+      "code": "visacrem-v6"
+    },
+    {
+      "name": "Visacrem V6+",
+      "url": "/quality-espresso/visacrem-v6/parts",
+      "code": "visacrem-v6"
+    },
+    {
+      "name": "Visacrem Vetro",
+      "url": "/quality-espresso/visacrem-vetro/parts",
+      "code": "visacrem-vetro"
+    }
+  ],
+  "total_models": 30,
+  "cached_at": "2025-08-14T19:54:01.133228"
+}

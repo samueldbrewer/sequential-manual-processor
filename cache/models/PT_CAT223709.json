@@ -1,0 +1,256 @@
+{
+  "manufacturer": {
+    "name": "Avanti",
+    "code": "PT_CAT223709",
+    "uri": "avanti"
+  },
+  "models": [
+    {
+      "name": "AR5102SS",
+      "url": "/avanti/ar5102ss/parts",
+      "code": "ar5102ss"
+    },
+    {
+      "name": "BCA306SS-IS",
+      "url": "/avanti/bca306ss-is/parts",
+      "code": "bca306ss-is"
+    },
+    {
+      "name": "BCA3115S3S",
+      "url": "/avanti/bca3115s3s/parts",
+      "code": "bca3115s3s"
+    },
+    {
+      "name": "BCA5105SG-1",
+      "url": "/avanti/bca5105sg-1/parts",
+      "code": "bca5105sg-1"
+    },
+    {
+      "name": "BCA516SS",
+      "url": "/avanti/bca516ss/parts",
+      "code": "bca516ss"
+    },
+    {
+      "name": "D110J2P-IS",
+      "url": "/avanti/d110j2p-is/parts",
+      "code": "d110j2p-is"
+    },
+    {
+      "name": "DER20P3S",
+      "url": "/avanti/der20p3s/parts",
+      "code": "der20p3s"
+    },
+    {
+      "name": "DER24P3S",
+      "url": "/avanti/der24p3s/parts",
+      "code": "der24p3s"
+    },
+    {
+      "name": "DG202BS",
+      "url": "/avanti/dg202bs/parts",
+      "code": "dg202bs"
+    },
+    {
+      "name": "DGR20P3S",
+      "url": "/avanti/dgr20p3s/parts",
+      "code": "dgr20p3s"
+    },
+    {
+      "name": "DGR24P3S",
+      "url": "/avanti/dgr24p3s/parts",
+      "code": "dgr24p3s"
+    },
+    {
+      "name": "ER24P0WG",
+      "url": "/avanti/er24p0wg/parts",
+      "code": "er24p0wg"
+    },
+    {
+      "name": "ERU200P0W",
+      "url": "/avanti/eru200p0w/parts",
+      "code": "eru200p0w"
+    },
+    {
+      "name": "ERU200P3S",
+      "url": "/avanti/eru200p3s/parts",
+      "code": "eru200p3s"
+    },
+    {
+      "name": "ERU240P0W",
+      "url": "/avanti/eru240p0w/parts",
+      "code": "eru240p0w"
+    },
+    {
+      "name": "ERU240P1B",
+      "url": "/avanti/eru240p1b/parts",
+      "code": "eru240p1b"
+    },
+    {
+      "name": "ERU240P3S",
+      "url": "/avanti/eru240p3s/parts",
+      "code": "eru240p3s"
+    },
+    {
+      "name": "FF10B0W",
+      "url": "/avanti/ff10b0w/parts",
+      "code": "ff10b0w"
+    },
+    {
+      "name": "FF116B0W",
+      "url": "/avanti/ff116b0w/parts",
+      "code": "ff116b0w"
+    },
+    {
+      "name": "FFBM92H0W",
+      "url": "/avanti/ffbm92h0w/parts",
+      "code": "ffbm92h0w"
+    },
+    {
+      "name": "FFBM92H3S",
+      "url": "/avanti/ffbm92h3s/parts",
+      "code": "ffbm92h3s"
+    },
+    {
+      "name": "GR2011CW",
+      "url": "/avanti/gr2011cw/parts",
+      "code": "gr2011cw"
+    },
+    {
+      "name": "GR2013CSS",
+      "url": "/avanti/gr2013css/parts",
+      "code": "gr2013css"
+    },
+    {
+      "name": "GR2414CW",
+      "url": "/avanti/gr2414cw/parts",
+      "code": "gr2414cw"
+    },
+    {
+      "name": "GR2415CB",
+      "url": "/avanti/gr2415cb/parts",
+      "code": "gr2415cb"
+    },
+    {
+      "name": "GR2416CSS",
+      "url": "/avanti/gr2416css/parts",
+      "code": "gr2416css"
+    },
+    {
+      "name": "GRO20P0W",
+      "url": "/avanti/gro20p0w/parts",
+      "code": "gro20p0w"
+    },
+    {
+      "name": "GRO24P0W",
+      "url": "/avanti/gro24p0w/parts",
+      "code": "gro24p0w"
+    },
+    {
+      "name": "MO1108SST",
+      "url": "/avanti/mo1108sst/parts",
+      "code": "mo1108sst"
+    },
+    {
+      "name": "MO1450TW",
+      "url": "/avanti/mo1450tw/parts",
+      "code": "mo1450tw"
+    },
+    {
+      "name": "MO7103SST",
+      "url": "/avanti/mo7103sst/parts",
+      "code": "mo7103sst"
+    },
+    {
+      "name": "MT16K3S",
+      "url": "/avanti/mt16k3s/parts",
+      "code": "mt16k3s"
+    },
+    {
+      "name": "RA7306WT",
+      "url": "/avanti/ra7306wt/parts",
+      "code": "ra7306wt"
+    },
+    {
+      "name": "RA7316PST",
+      "url": "/avanti/ra7316pst/parts",
+      "code": "ra7316pst"
+    },
+    {
+      "name": "SAR1701N1B",
+      "url": "/avanti/sar1701n1b/parts",
+      "code": "sar1701n1b"
+    },
+    {
+      "name": "SHP1702SS",
+      "url": "/avanti/shp1702ss/parts",
+      "code": "shp1702ss"
+    },
+    {
+      "name": "SHP1712SDC-IS",
+      "url": "/avanti/shp1712sdc-is/parts",
+      "code": "shp1712sdc-is"
+    },
+    {
+      "name": "STW30D0W",
+      "url": "/avanti/stw30d0w/parts",
+      "code": "stw30d0w"
+    },
+    {
+      "name": "WBV19DZ",
+      "url": "/avanti/wbv19dz/parts",
+      "code": "wbv19dz"
+    },
+    {
+      "name": "WC3015S3S",
+      "url": "/avanti/wc3015s3s/parts",
+      "code": "wc3015s3s"
+    },
+    {
+      "name": "WCDE46R3S",
+      "url": "/avanti/wcde46r3s/parts",
+      "code": "wcde46r3s"
+    },
+    {
+      "name": "WCF148DE3S",
+      "url": "/avanti/wcf148de3s/parts",
+      "code": "wcf148de3s"
+    },
+    {
+      "name": "WCF165S3SS",
+      "url": "/avanti/wcf165s3ss/parts",
+      "code": "wcf165s3ss"
+    },
+    {
+      "name": "WCF282E3SD",
+      "url": "/avanti/wcf282e3sd/parts",
+      "code": "wcf282e3sd"
+    },
+    {
+      "name": "WCF51S3SS",
+      "url": "/avanti/wcf51s3ss/parts",
+      "code": "wcf51s3ss"
+    },
+    {
+      "name": "WCR496DS",
+      "url": "/avanti/wcr496ds/parts",
+      "code": "wcr496ds"
+    },
+    {
+      "name": "WCR506SS",
+      "url": "/avanti/wcr506ss/parts",
+      "code": "wcr506ss"
+    },
+    {
+      "name": "WCV38DZ",
+      "url": "/avanti/wcv38dz/parts",
+      "code": "wcv38dz"
+    },
+    {
+      "name": "WD360",
+      "url": "/avanti/wd360/parts",
+      "code": "wd360"
+    }
+  ],
+  "total_models": 49,
+  "cached_at": "2025-08-14T17:50:01.194180"
+}

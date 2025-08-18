@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Blodgett",
+    "code": "PT_CAT1025",
+    "uri": "blodgett"
+  },
+  "models": [
+    {
+      "name": "1000",
+      "url": "/blodgett/1000/parts",
+      "code": "1000"
+    },
+    {
+      "name": "100DS-KLS",
+      "url": "/blodgett/100ds-kls/parts",
+      "code": "100ds-kls"
+    },
+    {
+      "name": "100DS-KLT",
+      "url": "/blodgett/100ds-klt/parts",
+      "code": "100ds-klt"
+    },
+    {
+      "name": "100DS-KPS",
+      "url": "/blodgett/100ds-kps/parts",
+      "code": "100ds-kps"
+    },
+    {
+      "name": "100E-KLS",
+      "url": "/blodgett/100e-kls/parts",
+      "code": "100e-kls"
+    },
+    {
+      "name": "100E-KLT",
+      "url": "/blodgett/100e-klt/parts",
+      "code": "100e-klt"
+    },
+    {
+      "name": "100M",
+      "url": "/blodgett/100m/parts",
+      "code": "100m"
+    },
+    {
+      "name": "1048",
+      "url": "/blodgett/1048/parts",
+      "code": "1048"
+    },
+    {
+      "name": "1048DD",
+      "url": "/blodgett/1048dd/parts",
+      "code": "1048dd"
+    },
+    {
+      "name": "1060",
+      "url": "/blodgett/1060/parts",
+      "code": "1060"
+    },
+    {
+      "name": "10E-KTT",
+      "url": "/blodgett/10e-ktt/parts",
+      "code": "10e-ktt"
+    },
+    {
+      "name": "10E-SB",
+      "url": "/blodgett/10e-sb/parts",
+      "code": "10e-sb"
+    },
+    {
+      "name": "1200",
+      "url": "/blodgett/1200/parts",
+      "code": "1200"
+    },
+    {
+      "name": "12E-KTT",
+      "url": "/blodgett/12e-ktt/parts",
+      "code": "12e-ktt"
+    },
+    {
+      "name": "1400",
+      "url": "/blodgett/1400/parts",
+      "code": "1400"
+    },
+    {
+      "name": "1405",
+      "url": "/blodgett/1405/parts",
+      "code": "1405"
+    },
+    {
+      "name": "1415",
+      "url": "/blodgett/1415/parts",
+      "code": "1415"
+    },
+    {
+      "name": "1500",
+      "url": "/blodgett/1500/parts",
+      "code": "1500"
+    },
+    {
+      "name": "1501",
+      "url": "/blodgett/1501/parts",
+      "code": "1501"
+    },
+    {
+      "name": "20DS-KLS",
+      "url": "/blodgett/20ds-kls/parts",
+      "code": "20ds-kls"
+    },
+    {
+      "name": "20DS-KLT",
+      "url": "/blodgett/20ds-klt/parts",
+      "code": "20ds-klt"
+    },
+    {
+      "name": "20DS-KPS",
+      "url": "/blodgett/20ds-kps/parts",
+      "code": "20ds-kps"
+    },
+    {
+      "name": "20DS-KPT",
+      "url": "/blodgett/20ds-kpt/parts",
+      "code": "20ds-kpt"
+    },
+    {
+      "name": "20E-KLS",
+      "url": "/blodgett/20e-kls/parts",
+      "code": "20e-kls"
+    },
+    {
+      "name": "20E-KLT",
+      "url": "/blodgett/20e-klt/parts",
+      "code": "20e-klt"
+    },
+    {
+      "name": "20E-KPS",
+      "url": "/blodgett/20e-kps/parts",
+      "code": "20e-kps"
+    },
+    {
+      "name": "20E-KTT",
+      "url": "/blodgett/20e-ktt/parts",
+      "code": "20e-ktt"
+    },
+    {
+      "name": "20G-KLt",
+      "url": "/blodgett/20g-klt/parts",
+      "code": "20g-klt"
+    },
+    {
+      "name": "30DS-KLS",
+      "url": "/blodgett/30ds-kls/parts",
+      "code": "30ds-kls"
+    },
+    {
+      "name": "30DS-KLT",
+      "url": "/blodgett/30ds-klt/parts",
+      "code": "30ds-klt"
+    },
+    {
+      "name": "30DS-KPS",
+      "url": "/blodgett/30ds-kps/parts",
+      "code": "30ds-kps"
+    },
+    {
+      "name": "30DS-KPT",
+      "url": "/blodgett/30ds-kpt/parts",
+      "code": "30ds-kpt"
+    },
+    {
+      "name": "30E-BLP",
+      "url": "/blodgett/30e-blp/parts",
+      "code": "30e-blp"
+    },
+    {
+      "name": "30E-BLT",
+      "url": "/blodgett/30e-blt/parts",
+      "code": "30e-blt"
+    },
+    {
+      "name": "30E-KLS",
+      "url": "/blodgett/30e-kls/parts",
+      "code": "30e-kls"
+    },
+    {
+      "name": "30E-KLT",
+      "url": "/blodgett/30e-klt/parts",
+      "code": "30e-klt"
+    },
+    {
+      "name": "30G-BLT",
+      "url": "/blodgett/30g-blt/parts",
+      "code": "30g-blt"
+    },
+    {
+      "name": "3E-SBF",
+      "url": "/blodgett/3e-sbf/parts",
+      "code": "3e-sbf"
+    },
+    {
+      "name": "3E-SN",
+      "url": "/blodgett/3e-sn/parts",
+      "code": "3e-sn"
+    },
+    {
+      "name": "40DS-KLS",
+      "url": "/blodgett/40ds-kls/parts",
+      "code": "40ds-kls"
+    },
+    {
+      "name": "40DS-KLT",
+      "url": "/blodgett/40ds-klt/parts",
+      "code": "40ds-klt"
+    },
+    {
+      "name": "40DS-KPS",
+      "url": "/blodgett/40ds-kps/parts",
+      "code": "40ds-kps"
+    },
+    {
+      "name": "40DS-KPT",
+      "url": "/blodgett/40ds-kpt/parts",
+      "code": "40ds-kpt"
+    },
+    {
+      "name": "40E-BLP",
+      "url": "/blodgett/40e-blp/parts",
+      "code": "40e-blp"
+    },
+    {
+      "name": "40E-BLT",
+      "url": "/blodgett/40e-blt/parts",
+      "code": "40e-blt"
+    },
+    {
+      "name": "40E-KLS",
+      "url": "/blodgett/40e-kls/parts",
+      "code": "40e-kls"
+    },
+    {
+      "name": "40E-KLT",
+      "url": "/blodgett/40e-klt/parts",
+      "code": "40e-klt"
+    },
+    {
+      "name": "40G-BLT",
+      "url": "/blodgett/40g-blt/parts",
+      "code": "40g-blt"
+    },
+    {
+      "name": "40G-KLT",
+      "url": "/blodgett/40g-klt/parts",
+      "code": "40g-klt"
+    },
+    {
+      "name": "5E-SN",
+      "url": "/blodgett/5e-sn/parts",
+      "code": "5e-sn"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:56:31.664144"
+}

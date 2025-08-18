@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Powered Aire",
+    "code": "PT_CAT223766",
+    "uri": "powered-aire"
+  },
+  "models": [
+    {
+      "name": "BCE-1-36",
+      "url": "/powered-aire/bce-1-36/parts",
+      "code": "bce-1-36"
+    },
+    {
+      "name": "BCE-1-42",
+      "url": "/powered-aire/bce-1-42/parts",
+      "code": "bce-1-42"
+    },
+    {
+      "name": "BCE-1-48",
+      "url": "/powered-aire/bce-1-48/parts",
+      "code": "bce-1-48"
+    },
+    {
+      "name": "BCE-1-60",
+      "url": "/powered-aire/bce-1-60/parts",
+      "code": "bce-1-60"
+    },
+    {
+      "name": "BCE-2-60",
+      "url": "/powered-aire/bce-2-60/parts",
+      "code": "bce-2-60"
+    },
+    {
+      "name": "BCE-2-72",
+      "url": "/powered-aire/bce-2-72/parts",
+      "code": "bce-2-72"
+    },
+    {
+      "name": "BCE-2-84",
+      "url": "/powered-aire/bce-2-84/parts",
+      "code": "bce-2-84"
+    },
+    {
+      "name": "BCE-2-96",
+      "url": "/powered-aire/bce-2-96/parts",
+      "code": "bce-2-96"
+    },
+    {
+      "name": "BCE-3-108",
+      "url": "/powered-aire/bce-3-108/parts",
+      "code": "bce-3-108"
+    },
+    {
+      "name": "BCE-3-120",
+      "url": "/powered-aire/bce-3-120/parts",
+      "code": "bce-3-120"
+    },
+    {
+      "name": "BCE-3-132",
+      "url": "/powered-aire/bce-3-132/parts",
+      "code": "bce-3-132"
+    },
+    {
+      "name": "BCE-4-144",
+      "url": "/powered-aire/bce-4-144/parts",
+      "code": "bce-4-144"
+    },
+    {
+      "name": "BCT-1-36",
+      "url": "/powered-aire/bct-1-36/parts",
+      "code": "bct-1-36"
+    },
+    {
+      "name": "BCT-1-42",
+      "url": "/powered-aire/bct-1-42/parts",
+      "code": "bct-1-42"
+    },
+    {
+      "name": "BCT-1-48",
+      "url": "/powered-aire/bct-1-48/parts",
+      "code": "bct-1-48"
+    },
+    {
+      "name": "BCT-1-60",
+      "url": "/powered-aire/bct-1-60/parts",
+      "code": "bct-1-60"
+    },
+    {
+      "name": "BCT-2-60",
+      "url": "/powered-aire/bct-2-60/parts",
+      "code": "bct-2-60"
+    },
+    {
+      "name": "BCT-2-72",
+      "url": "/powered-aire/bct-2-72/parts",
+      "code": "bct-2-72"
+    },
+    {
+      "name": "BCT-2-84",
+      "url": "/powered-aire/bct-2-84/parts",
+      "code": "bct-2-84"
+    },
+    {
+      "name": "BCT-2-96",
+      "url": "/powered-aire/bct-2-96/parts",
+      "code": "bct-2-96"
+    },
+    {
+      "name": "BCT-3-108",
+      "url": "/powered-aire/bct-3-108/parts",
+      "code": "bct-3-108"
+    },
+    {
+      "name": "BCT-3-120",
+      "url": "/powered-aire/bct-3-120/parts",
+      "code": "bct-3-120"
+    },
+    {
+      "name": "BCT-3-132",
+      "url": "/powered-aire/bct-3-132/parts",
+      "code": "bct-3-132"
+    },
+    {
+      "name": "BCT-4-144",
+      "url": "/powered-aire/bct-4-144/parts",
+      "code": "bct-4-144"
+    },
+    {
+      "name": "CED-1-36",
+      "url": "/powered-aire/ced-1-36/parts",
+      "code": "ced-1-36"
+    },
+    {
+      "name": "CED-1-36E",
+      "url": "/powered-aire/ced-1-36e/parts",
+      "code": "ced-1-36e"
+    },
+    {
+      "name": "CED-1-42",
+      "url": "/powered-aire/ced-1-42/parts",
+      "code": "ced-1-42"
+    },
+    {
+      "name": "CED-1-42E",
+      "url": "/powered-aire/ced-1-42e/parts",
+      "code": "ced-1-42e"
+    },
+    {
+      "name": "CED-1-48",
+      "url": "/powered-aire/ced-1-48/parts",
+      "code": "ced-1-48"
+    },
+    {
+      "name": "CED-1-48E",
+      "url": "/powered-aire/ced-1-48e/parts",
+      "code": "ced-1-48e"
+    },
+    {
+      "name": "CED-1-60",
+      "url": "/powered-aire/ced-1-60/parts",
+      "code": "ced-1-60"
+    },
+    {
+      "name": "CED-1-60E",
+      "url": "/powered-aire/ced-1-60e/parts",
+      "code": "ced-1-60e"
+    },
+    {
+      "name": "CED-2-60",
+      "url": "/powered-aire/ced-2-60/parts",
+      "code": "ced-2-60"
+    },
+    {
+      "name": "CED-2-60E",
+      "url": "/powered-aire/ced-2-60e/parts",
+      "code": "ced-2-60e"
+    },
+    {
+      "name": "CED-2-72",
+      "url": "/powered-aire/ced-2-72/parts",
+      "code": "ced-2-72"
+    },
+    {
+      "name": "CED-2-72E",
+      "url": "/powered-aire/ced-2-72e/parts",
+      "code": "ced-2-72e"
+    },
+    {
+      "name": "CED-2-84",
+      "url": "/powered-aire/ced-2-84/parts",
+      "code": "ced-2-84"
+    },
+    {
+      "name": "CED-2-84E",
+      "url": "/powered-aire/ced-2-84e/parts",
+      "code": "ced-2-84e"
+    },
+    {
+      "name": "CED-2-96",
+      "url": "/powered-aire/ced-2-96/parts",
+      "code": "ced-2-96"
+    },
+    {
+      "name": "CED-2-96E",
+      "url": "/powered-aire/ced-2-96e/parts",
+      "code": "ced-2-96e"
+    },
+    {
+      "name": "CED-3-108",
+      "url": "/powered-aire/ced-3-108/parts",
+      "code": "ced-3-108"
+    },
+    {
+      "name": "CED-3-108E",
+      "url": "/powered-aire/ced-3-108e/parts",
+      "code": "ced-3-108e"
+    },
+    {
+      "name": "CED-3-120",
+      "url": "/powered-aire/ced-3-120/parts",
+      "code": "ced-3-120"
+    },
+    {
+      "name": "CED-3-120E",
+      "url": "/powered-aire/ced-3-120e/parts",
+      "code": "ced-3-120e"
+    },
+    {
+      "name": "CED-3-132",
+      "url": "/powered-aire/ced-3-132/parts",
+      "code": "ced-3-132"
+    },
+    {
+      "name": "CED-3-132E",
+      "url": "/powered-aire/ced-3-132e/parts",
+      "code": "ced-3-132e"
+    },
+    {
+      "name": "CED-4-144",
+      "url": "/powered-aire/ced-4-144/parts",
+      "code": "ced-4-144"
+    },
+    {
+      "name": "CED-4-144E",
+      "url": "/powered-aire/ced-4-144e/parts",
+      "code": "ced-4-144e"
+    },
+    {
+      "name": "CED-4-156",
+      "url": "/powered-aire/ced-4-156/parts",
+      "code": "ced-4-156"
+    },
+    {
+      "name": "CED-4-156E",
+      "url": "/powered-aire/ced-4-156e/parts",
+      "code": "ced-4-156e"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:50:54.324288"
+}

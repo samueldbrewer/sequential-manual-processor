@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Rinnai Rice Cooker",
+    "code": "PT_CAT224092",
+    "uri": "rinnai-rice-cooker"
+  },
+  "models": [
+    {
+      "name": "RER-55AS",
+      "url": "/rinnai-rice-cooker/rer-55as/parts",
+      "code": "rer-55as"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T20:00:25.389686"
+}

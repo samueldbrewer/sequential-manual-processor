@@ -1,0 +1,20 @@
+# Sequential Manual Processor - Python Dependencies
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Web Scraping
+playwright==1.40.0
+
+# PDF Processing
+PyPDF2==3.0.1
+PyMuPDF==1.23.8
+pdf2image==1.16.3
+pillow==10.1.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0

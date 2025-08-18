@@ -1,0 +1,176 @@
+{
+  "manufacturer": {
+    "name": "Omega",
+    "code": "PT_CAT48091",
+    "uri": "omega"
+  },
+  "models": [
+    {
+      "name": "8007",
+      "url": "/omega/8007/parts",
+      "code": "8007"
+    },
+    {
+      "name": "8008",
+      "url": "/omega/8008/parts",
+      "code": "8008"
+    },
+    {
+      "name": "BL300 SERIES",
+      "url": "/omega/bl300-series/parts",
+      "code": "bl300-series"
+    },
+    {
+      "name": "BL330",
+      "url": "/omega/bl330/parts",
+      "code": "bl330"
+    },
+    {
+      "name": "BL360",
+      "url": "/omega/bl360/parts",
+      "code": "bl360"
+    },
+    {
+      "name": "BL420",
+      "url": "/omega/bl420/parts",
+      "code": "bl420"
+    },
+    {
+      "name": "BL440",
+      "url": "/omega/bl440/parts",
+      "code": "bl440"
+    },
+    {
+      "name": "BL460",
+      "url": "/omega/bl460/parts",
+      "code": "bl460"
+    },
+    {
+      "name": "BL480",
+      "url": "/omega/bl480/parts",
+      "code": "bl480"
+    },
+    {
+      "name": "BL490",
+      "url": "/omega/bl490/parts",
+      "code": "bl490"
+    },
+    {
+      "name": "BL630",
+      "url": "/omega/bl630/parts",
+      "code": "bl630"
+    },
+    {
+      "name": "BL660",
+      "url": "/omega/bl660/parts",
+      "code": "bl660"
+    },
+    {
+      "name": "BMJ330",
+      "url": "/omega/bmj330/parts",
+      "code": "bmj330"
+    },
+    {
+      "name": "BMJ332",
+      "url": "/omega/bmj332/parts",
+      "code": "bmj332"
+    },
+    {
+      "name": "BMJ390",
+      "url": "/omega/bmj390/parts",
+      "code": "bmj390"
+    },
+    {
+      "name": "BMJ392",
+      "url": "/omega/bmj392/parts",
+      "code": "bmj392"
+    },
+    {
+      "name": "C-10",
+      "url": "/omega/c-10/parts",
+      "code": "c-10"
+    },
+    {
+      "name": "C-20C",
+      "url": "/omega/c-20c/parts",
+      "code": "c-20c"
+    },
+    {
+      "name": "M1000",
+      "url": "/omega/m1000/parts",
+      "code": "m1000"
+    },
+    {
+      "name": "M1220",
+      "url": "/omega/m1220/parts",
+      "code": "m1220"
+    },
+    {
+      "name": "M3000",
+      "url": "/omega/m3000/parts",
+      "code": "m3000"
+    },
+    {
+      "name": "M3220",
+      "url": "/omega/m3220/parts",
+      "code": "m3220"
+    },
+    {
+      "name": "NC800",
+      "url": "/omega/nc800/parts",
+      "code": "nc800"
+    },
+    {
+      "name": "NC900",
+      "url": "/omega/nc900/parts",
+      "code": "nc900"
+    },
+    {
+      "name": "OFS20",
+      "url": "/omega/ofs20/parts",
+      "code": "ofs20"
+    },
+    {
+      "name": "OFS30",
+      "url": "/omega/ofs30/parts",
+      "code": "ofs30"
+    },
+    {
+      "name": "OSD10",
+      "url": "/omega/osd10/parts",
+      "code": "osd10"
+    },
+    {
+      "name": "OSD20",
+      "url": "/omega/osd20/parts",
+      "code": "osd20"
+    },
+    {
+      "name": "OSD30",
+      "url": "/omega/osd30/parts",
+      "code": "osd30"
+    },
+    {
+      "name": "VRT370",
+      "url": "/omega/vrt370/parts",
+      "code": "vrt370"
+    },
+    {
+      "name": "VRT380",
+      "url": "/omega/vrt380/parts",
+      "code": "vrt380"
+    },
+    {
+      "name": "VRT400",
+      "url": "/omega/vrt400/parts",
+      "code": "vrt400"
+    },
+    {
+      "name": "VSJ843Q",
+      "url": "/omega/vsj843q/parts",
+      "code": "vsj843q"
+    }
+  ],
+  "total_models": 33,
+  "cached_at": "2025-08-14T19:46:16.246382"
+}

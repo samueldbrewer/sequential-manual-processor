@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "Melitta",
+    "code": "PT_CAT219703",
+    "uri": "melitta"
+  },
+  "models": [
+    {
+      "name": "C5-12CFF",
+      "url": "/melitta/c5-12cff/parts",
+      "code": "c5-12cff"
+    },
+    {
+      "name": "CT8",
+      "url": "/melitta/ct8/parts",
+      "code": "ct8"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T19:29:37.437392"
+}

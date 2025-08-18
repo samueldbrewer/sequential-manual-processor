@@ -1,0 +1,91 @@
+{
+  "manufacturer": {
+    "name": "Sanremo Coffee Machines",
+    "code": "PT_CAT375335",
+    "uri": "sanremo-coffee-machines"
+  },
+  "models": [
+    {
+      "name": "Cafe Racer 2GR",
+      "url": "/sanremo-coffee-machines/cafe-racer-2gr/parts",
+      "code": "cafe-racer-2gr"
+    },
+    {
+      "name": "Cafe Racer 3GR",
+      "url": "/sanremo-coffee-machines/cafe-racer-3gr/parts",
+      "code": "cafe-racer-3gr"
+    },
+    {
+      "name": "Cube R Model A",
+      "url": "/sanremo-coffee-machines/cube-r-model-a/parts",
+      "code": "cube-r-model-a"
+    },
+    {
+      "name": "Cube R Model B",
+      "url": "/sanremo-coffee-machines/cube-r-model-b/parts",
+      "code": "cube-r-model-b"
+    },
+    {
+      "name": "Cube V Model A",
+      "url": "/sanremo-coffee-machines/cube-v-model-a/parts",
+      "code": "cube-v-model-a"
+    },
+    {
+      "name": "Cube V Model B",
+      "url": "/sanremo-coffee-machines/cube-v-model-b/parts",
+      "code": "cube-v-model-b"
+    },
+    {
+      "name": "F18 MB 2GR",
+      "url": "/sanremo-coffee-machines/f18-mb-2gr/parts",
+      "code": "f18-mb-2gr"
+    },
+    {
+      "name": "F18 MB 3GR",
+      "url": "/sanremo-coffee-machines/f18-mb-3gr/parts",
+      "code": "f18-mb-3gr"
+    },
+    {
+      "name": "Opera 2.0 2GR",
+      "url": "/sanremo-coffee-machines/opera-2-0-2gr/parts",
+      "code": "opera-2-0-2gr"
+    },
+    {
+      "name": "Opera 2.0 3GR",
+      "url": "/sanremo-coffee-machines/opera-2-0-3gr/parts",
+      "code": "opera-2-0-3gr"
+    },
+    {
+      "name": "YOU",
+      "url": "/sanremo-coffee-machines/you/parts",
+      "code": "you"
+    },
+    {
+      "name": "Zoe Compact",
+      "url": "/sanremo-coffee-machines/zoe-compact/parts",
+      "code": "zoe-compact"
+    },
+    {
+      "name": "Zoe Competition 2GR",
+      "url": "/sanremo-coffee-machines/zoe-competition-2gr/parts",
+      "code": "zoe-competition-2gr"
+    },
+    {
+      "name": "Zoe Competition 3GR",
+      "url": "/sanremo-coffee-machines/zoe-competition-3gr/parts",
+      "code": "zoe-competition-3gr"
+    },
+    {
+      "name": "Zoe Competition Tall 2GR",
+      "url": "/sanremo-coffee-machines/zoe-competition-tall-2gr/parts",
+      "code": "zoe-competition-tall-2gr"
+    },
+    {
+      "name": "Zoe Competition Tall 3GR",
+      "url": "/sanremo-coffee-machines/zoe-competition-tall-3gr/parts",
+      "code": "zoe-competition-tall-3gr"
+    }
+  ],
+  "total_models": 16,
+  "cached_at": "2025-08-14T22:05:30.152022"
+}

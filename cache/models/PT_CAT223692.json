@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Lightfry",
+    "code": "PT_CAT223692",
+    "uri": "lightfry"
+  },
+  "models": [
+    {
+      "name": "LF12U",
+      "url": "/lightfry/lf12u/parts",
+      "code": "lf12u"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:21:36.607083"
+}

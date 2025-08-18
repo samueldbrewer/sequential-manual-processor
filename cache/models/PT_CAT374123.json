@@ -1,0 +1,56 @@
+{
+  "manufacturer": {
+    "name": "Alpine",
+    "code": "PT_CAT374123",
+    "uri": "alpine"
+  },
+  "models": [
+    {
+      "name": "CDE153BT",
+      "url": "/alpine/cde153bt/parts",
+      "code": "cde153bt"
+    },
+    {
+      "name": "CDESM145BT",
+      "url": "/alpine/cdesm145bt/parts",
+      "code": "cdesm145bt"
+    },
+    {
+      "name": "ICS7HD",
+      "url": "/alpine/ics7hd/parts",
+      "code": "ics7hd"
+    },
+    {
+      "name": "ILX007",
+      "url": "/alpine/ilx007/parts",
+      "code": "ilx007"
+    },
+    {
+      "name": "IVEW535HD",
+      "url": "/alpine/ivew535hd/parts",
+      "code": "ivew535hd"
+    },
+    {
+      "name": "KTA450",
+      "url": "/alpine/kta450/parts",
+      "code": "kta450"
+    },
+    {
+      "name": "MRVF300",
+      "url": "/alpine/mrvf300/parts",
+      "code": "mrvf300"
+    },
+    {
+      "name": "MRXM100",
+      "url": "/alpine/mrxm100/parts",
+      "code": "mrxm100"
+    },
+    {
+      "name": "UTE52BT",
+      "url": "/alpine/ute52bt/parts",
+      "code": "ute52bt"
+    }
+  ],
+  "total_models": 9,
+  "cached_at": "2025-08-14T17:39:29.887603"
+}

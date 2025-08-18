@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Montague",
+    "code": "PT_CAT1147",
+    "uri": "montague"
+  },
+  "models": [
+    {
+      "name": "115A",
+      "url": "/montague/115a/parts",
+      "code": "115a"
+    },
+    {
+      "name": "115A W/ MOD.STAND",
+      "url": "/montague/115a-w-mod-stand/parts",
+      "code": "115a-w-mod-stand"
+    },
+    {
+      "name": "115G",
+      "url": "/montague/115g/parts",
+      "code": "115g"
+    },
+    {
+      "name": "115S",
+      "url": "/montague/115s/parts",
+      "code": "115s"
+    },
+    {
+      "name": "115X",
+      "url": "/montague/115x/parts",
+      "code": "115x"
+    },
+    {
+      "name": "115Z",
+      "url": "/montague/115z/parts",
+      "code": "115z"
+    },
+    {
+      "name": "115Z W/ MOD.STAND",
+      "url": "/montague/115z-w-mod-stand/parts",
+      "code": "115z-w-mod-stand"
+    },
+    {
+      "name": "12-5",
+      "url": "/montague/12-5/parts",
+      "code": "12-5"
+    },
+    {
+      "name": "12-559",
+      "url": "/montague/12-559/parts",
+      "code": "12-559"
+    },
+    {
+      "name": "12-559S",
+      "url": "/montague/12-559s/parts",
+      "code": "12-559s"
+    },
+    {
+      "name": "12-5S",
+      "url": "/montague/12-5s/parts",
+      "code": "12-5s"
+    },
+    {
+      "name": "12-8",
+      "url": "/montague/12-8/parts",
+      "code": "12-8"
+    },
+    {
+      "name": "12-9E",
+      "url": "/montague/12-9e/parts",
+      "code": "12-9e"
+    },
+    {
+      "name": "12-9G",
+      "url": "/montague/12-9g/parts",
+      "code": "12-9g"
+    },
+    {
+      "name": "12-S",
+      "url": "/montague/12-s/parts",
+      "code": "12-s"
+    },
+    {
+      "name": "124-5",
+      "url": "/montague/124-5/parts",
+      "code": "124-5"
+    },
+    {
+      "name": "124-559",
+      "url": "/montague/124-559/parts",
+      "code": "124-559"
+    },
+    {
+      "name": "124-S",
+      "url": "/montague/124-s/parts",
+      "code": "124-s"
+    },
+    {
+      "name": "136-0E",
+      "url": "/montague/136-0e/parts",
+      "code": "136-0e"
+    },
+    {
+      "name": "136-0EPL",
+      "url": "/montague/136-0epl/parts",
+      "code": "136-0epl"
+    },
+    {
+      "name": "136-0G",
+      "url": "/montague/136-0g/parts",
+      "code": "136-0g"
+    },
+    {
+      "name": "136-0GPL",
+      "url": "/montague/136-0gpl/parts",
+      "code": "136-0gpl"
+    },
+    {
+      "name": "136-10E",
+      "url": "/montague/136-10e/parts",
+      "code": "136-10e"
+    },
+    {
+      "name": "136-10G",
+      "url": "/montague/136-10g/parts",
+      "code": "136-10g"
+    },
+    {
+      "name": "136-11",
+      "url": "/montague/136-11/parts",
+      "code": "136-11"
+    },
+    {
+      "name": "136-11E",
+      "url": "/montague/136-11e/parts",
+      "code": "136-11e"
+    },
+    {
+      "name": "136-12",
+      "url": "/montague/136-12/parts",
+      "code": "136-12"
+    },
+    {
+      "name": "136-12E",
+      "url": "/montague/136-12e/parts",
+      "code": "136-12e"
+    },
+    {
+      "name": "136-12EPL",
+      "url": "/montague/136-12epl/parts",
+      "code": "136-12epl"
+    },
+    {
+      "name": "136-12PL",
+      "url": "/montague/136-12pl/parts",
+      "code": "136-12pl"
+    },
+    {
+      "name": "136-13",
+      "url": "/montague/136-13/parts",
+      "code": "136-13"
+    },
+    {
+      "name": "136-13PL",
+      "url": "/montague/136-13pl/parts",
+      "code": "136-13pl"
+    },
+    {
+      "name": "136-14",
+      "url": "/montague/136-14/parts",
+      "code": "136-14"
+    },
+    {
+      "name": "136-14E",
+      "url": "/montague/136-14e/parts",
+      "code": "136-14e"
+    },
+    {
+      "name": "136-15",
+      "url": "/montague/136-15/parts",
+      "code": "136-15"
+    },
+    {
+      "name": "136-16",
+      "url": "/montague/136-16/parts",
+      "code": "136-16"
+    },
+    {
+      "name": "136-1E",
+      "url": "/montague/136-1e/parts",
+      "code": "136-1e"
+    },
+    {
+      "name": "136-1G",
+      "url": "/montague/136-1g/parts",
+      "code": "136-1g"
+    },
+    {
+      "name": "136-2E",
+      "url": "/montague/136-2e/parts",
+      "code": "136-2e"
+    },
+    {
+      "name": "136-2G",
+      "url": "/montague/136-2g/parts",
+      "code": "136-2g"
+    },
+    {
+      "name": "136-3E",
+      "url": "/montague/136-3e/parts",
+      "code": "136-3e"
+    },
+    {
+      "name": "136-3G",
+      "url": "/montague/136-3g/parts",
+      "code": "136-3g"
+    },
+    {
+      "name": "136-4E",
+      "url": "/montague/136-4e/parts",
+      "code": "136-4e"
+    },
+    {
+      "name": "136-4G",
+      "url": "/montague/136-4g/parts",
+      "code": "136-4g"
+    },
+    {
+      "name": "136-5",
+      "url": "/montague/136-5/parts",
+      "code": "136-5"
+    },
+    {
+      "name": "136-559",
+      "url": "/montague/136-559/parts",
+      "code": "136-559"
+    },
+    {
+      "name": "136-559S",
+      "url": "/montague/136-559s/parts",
+      "code": "136-559s"
+    },
+    {
+      "name": "136-5A",
+      "url": "/montague/136-5a/parts",
+      "code": "136-5a"
+    },
+    {
+      "name": "136-5S",
+      "url": "/montague/136-5s/parts",
+      "code": "136-5s"
+    },
+    {
+      "name": "136-6",
+      "url": "/montague/136-6/parts",
+      "code": "136-6"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:36:46.468684"
+}

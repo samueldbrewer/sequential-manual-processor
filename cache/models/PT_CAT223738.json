@@ -1,0 +1,151 @@
+{
+  "manufacturer": {
+    "name": "Amerec",
+    "code": "PT_CAT223738",
+    "uri": "amerec"
+  },
+  "models": [
+    {
+      "name": "3K10 (2000-2017)",
+      "url": "/amerec/3k10-2000-2017/parts",
+      "code": "3k10-2000-2017"
+    },
+    {
+      "name": "3K12 (2000-2017)",
+      "url": "/amerec/3k12-2000-2017/parts",
+      "code": "3k12-2000-2017"
+    },
+    {
+      "name": "3K14 (2000-2017)",
+      "url": "/amerec/3k14-2000-2017/parts",
+      "code": "3k14-2000-2017"
+    },
+    {
+      "name": "3K8 (2000-2017)",
+      "url": "/amerec/3k8-2000-2017/parts",
+      "code": "3k8-2000-2017"
+    },
+    {
+      "name": "AI12 (2007-2018)",
+      "url": "/amerec/ai12-2007-2018/parts",
+      "code": "ai12-2007-2018"
+    },
+    {
+      "name": "AI12 (2018-Present)",
+      "url": "/amerec/ai12-2018-present/parts",
+      "code": "ai12-2018-present"
+    },
+    {
+      "name": "AI18 (2007-2018)",
+      "url": "/amerec/ai18-2007-2018/parts",
+      "code": "ai18-2007-2018"
+    },
+    {
+      "name": "AI18 (2018-Present)",
+      "url": "/amerec/ai18-2018-present/parts",
+      "code": "ai18-2018-present"
+    },
+    {
+      "name": "AI24 (2007-2018)",
+      "url": "/amerec/ai24-2007-2018/parts",
+      "code": "ai24-2007-2018"
+    },
+    {
+      "name": "AI24 (2018-Present)",
+      "url": "/amerec/ai24-2018-present/parts",
+      "code": "ai24-2018-present"
+    },
+    {
+      "name": "AI30 (2007-2018)",
+      "url": "/amerec/ai30-2007-2018/parts",
+      "code": "ai30-2007-2018"
+    },
+    {
+      "name": "AI30 (2018-Present)",
+      "url": "/amerec/ai30-2018-present/parts",
+      "code": "ai30-2018-present"
+    },
+    {
+      "name": "AI36 (2007-2018)",
+      "url": "/amerec/ai36-2007-2018/parts",
+      "code": "ai36-2007-2018"
+    },
+    {
+      "name": "AI36 (2018-Present)",
+      "url": "/amerec/ai36-2018-present/parts",
+      "code": "ai36-2018-present"
+    },
+    {
+      "name": "AI42 (2007-2018)",
+      "url": "/amerec/ai42-2007-2018/parts",
+      "code": "ai42-2007-2018"
+    },
+    {
+      "name": "AI42 (2018-Present)",
+      "url": "/amerec/ai42-2018-present/parts",
+      "code": "ai42-2018-present"
+    },
+    {
+      "name": "AI48 (2007-2018)",
+      "url": "/amerec/ai48-2007-2018/parts",
+      "code": "ai48-2007-2018"
+    },
+    {
+      "name": "AI48 (2018-Present)",
+      "url": "/amerec/ai48-2018-present/parts",
+      "code": "ai48-2018-present"
+    },
+    {
+      "name": "AK (2017-Present)",
+      "url": "/amerec/ak-2017-present/parts",
+      "code": "ak-2017-present"
+    },
+    {
+      "name": "AK10 (2000-2017)",
+      "url": "/amerec/ak10-2000-2017/parts",
+      "code": "ak10-2000-2017"
+    },
+    {
+      "name": "AK12 (2000-2017)",
+      "url": "/amerec/ak12-2000-2017/parts",
+      "code": "ak12-2000-2017"
+    },
+    {
+      "name": "AK14 (2000-2017)",
+      "url": "/amerec/ak14-2000-2017/parts",
+      "code": "ak14-2000-2017"
+    },
+    {
+      "name": "AK4 (2000-2017)",
+      "url": "/amerec/ak4-2000-2017/parts",
+      "code": "ak4-2000-2017"
+    },
+    {
+      "name": "AK5 (2000-2017)",
+      "url": "/amerec/ak5-2000-2017/parts",
+      "code": "ak5-2000-2017"
+    },
+    {
+      "name": "AK6 (2000-2017)",
+      "url": "/amerec/ak6-2000-2017/parts",
+      "code": "ak6-2000-2017"
+    },
+    {
+      "name": "AK7 (2000-2017)",
+      "url": "/amerec/ak7-2000-2017/parts",
+      "code": "ak7-2000-2017"
+    },
+    {
+      "name": "AK8.5 (2000-2017)",
+      "url": "/amerec/ak8-5-2000-2017/parts",
+      "code": "ak8-5-2000-2017"
+    },
+    {
+      "name": "AX (2016-Present)",
+      "url": "/amerec/ax-2016-present/parts",
+      "code": "ax-2016-present"
+    }
+  ],
+  "total_models": 28,
+  "cached_at": "2025-08-14T17:42:51.134570"
+}

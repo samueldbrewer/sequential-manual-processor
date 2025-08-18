@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Advance Tabco",
+    "code": "PT_CAT37077",
+    "uri": "advance-tabco"
+  },
+  "models": [
+    {
+      "name": "7-PS-10",
+      "url": "/advance-tabco/7-ps-10/parts",
+      "code": "7-ps-10"
+    },
+    {
+      "name": "7-PS-14",
+      "url": "/advance-tabco/7-ps-14/parts",
+      "code": "7-ps-14"
+    },
+    {
+      "name": "7-PS-24",
+      "url": "/advance-tabco/7-ps-24/parts",
+      "code": "7-ps-24"
+    },
+    {
+      "name": "7-PS-27",
+      "url": "/advance-tabco/7-ps-27/parts",
+      "code": "7-ps-27"
+    },
+    {
+      "name": "7-PS-32",
+      "url": "/advance-tabco/7-ps-32/parts",
+      "code": "7-ps-32"
+    },
+    {
+      "name": "7-PS-39",
+      "url": "/advance-tabco/7-ps-39/parts",
+      "code": "7-ps-39"
+    },
+    {
+      "name": "7-PS-48",
+      "url": "/advance-tabco/7-ps-48/parts",
+      "code": "7-ps-48"
+    },
+    {
+      "name": "DTA-53",
+      "url": "/advance-tabco/dta-53/parts",
+      "code": "dta-53"
+    },
+    {
+      "name": "FC3-1824-18RLBW",
+      "url": "/advance-tabco/fc3-1824-18rlbw/parts",
+      "code": "fc3-1824-18rlbw"
+    },
+    {
+      "name": "FT-2",
+      "url": "/advance-tabco/ft-2/parts",
+      "code": "ft-2"
+    },
+    {
+      "name": "K-01",
+      "url": "/advance-tabco/k-01/parts",
+      "code": "k-01"
+    },
+    {
+      "name": "K-08",
+      "url": "/advance-tabco/k-08/parts",
+      "code": "k-08"
+    },
+    {
+      "name": "K-1",
+      "url": "/advance-tabco/k-1/parts",
+      "code": "k-1"
+    },
+    {
+      "name": "K-101",
+      "url": "/advance-tabco/k-101/parts",
+      "code": "k-101"
+    },
+    {
+      "name": "K-103",
+      "url": "/advance-tabco/k-103/parts",
+      "code": "k-103"
+    },
+    {
+      "name": "K-104",
+      "url": "/advance-tabco/k-104/parts",
+      "code": "k-104"
+    },
+    {
+      "name": "K-105",
+      "url": "/advance-tabco/k-105/parts",
+      "code": "k-105"
+    },
+    {
+      "name": "K-11",
+      "url": "/advance-tabco/k-11/parts",
+      "code": "k-11"
+    },
+    {
+      "name": "K-111",
+      "url": "/advance-tabco/k-111/parts",
+      "code": "k-111"
+    },
+    {
+      "name": "K-1118",
+      "url": "/advance-tabco/k-1118/parts",
+      "code": "k-1118"
+    },
+    {
+      "name": "K-112",
+      "url": "/advance-tabco/k-112/parts",
+      "code": "k-112"
+    },
+    {
+      "name": "K-113",
+      "url": "/advance-tabco/k-113/parts",
+      "code": "k-113"
+    },
+    {
+      "name": "K-114",
+      "url": "/advance-tabco/k-114/parts",
+      "code": "k-114"
+    },
+    {
+      "name": "K-115",
+      "url": "/advance-tabco/k-115/parts",
+      "code": "k-115"
+    },
+    {
+      "name": "K-116",
+      "url": "/advance-tabco/k-116/parts",
+      "code": "k-116"
+    },
+    {
+      "name": "K-117",
+      "url": "/advance-tabco/k-117/parts",
+      "code": "k-117"
+    },
+    {
+      "name": "K-119",
+      "url": "/advance-tabco/k-119/parts",
+      "code": "k-119"
+    },
+    {
+      "name": "K-121",
+      "url": "/advance-tabco/k-121/parts",
+      "code": "k-121"
+    },
+    {
+      "name": "K-123",
+      "url": "/advance-tabco/k-123/parts",
+      "code": "k-123"
+    },
+    {
+      "name": "K-124",
+      "url": "/advance-tabco/k-124/parts",
+      "code": "k-124"
+    },
+    {
+      "name": "K-132",
+      "url": "/advance-tabco/k-132/parts",
+      "code": "k-132"
+    },
+    {
+      "name": "K-15",
+      "url": "/advance-tabco/k-15/parts",
+      "code": "k-15"
+    },
+    {
+      "name": "K-16",
+      "url": "/advance-tabco/k-16/parts",
+      "code": "k-16"
+    },
+    {
+      "name": "K-170",
+      "url": "/advance-tabco/k-170/parts",
+      "code": "k-170"
+    },
+    {
+      "name": "K-175",
+      "url": "/advance-tabco/k-175/parts",
+      "code": "k-175"
+    },
+    {
+      "name": "K-180",
+      "url": "/advance-tabco/k-180/parts",
+      "code": "k-180"
+    },
+    {
+      "name": "K-190",
+      "url": "/advance-tabco/k-190/parts",
+      "code": "k-190"
+    },
+    {
+      "name": "K-208",
+      "url": "/advance-tabco/k-208/parts",
+      "code": "k-208"
+    },
+    {
+      "name": "K-211",
+      "url": "/advance-tabco/k-211/parts",
+      "code": "k-211"
+    },
+    {
+      "name": "K-22",
+      "url": "/advance-tabco/k-22/parts",
+      "code": "k-22"
+    },
+    {
+      "name": "K-240",
+      "url": "/advance-tabco/k-240/parts",
+      "code": "k-240"
+    },
+    {
+      "name": "K-242",
+      "url": "/advance-tabco/k-242/parts",
+      "code": "k-242"
+    },
+    {
+      "name": "K-244",
+      "url": "/advance-tabco/k-244/parts",
+      "code": "k-244"
+    },
+    {
+      "name": "K-26",
+      "url": "/advance-tabco/k-26/parts",
+      "code": "k-26"
+    },
+    {
+      "name": "K-30",
+      "url": "/advance-tabco/k-30/parts",
+      "code": "k-30"
+    },
+    {
+      "name": "K-316",
+      "url": "/advance-tabco/k-316/parts",
+      "code": "k-316"
+    },
+    {
+      "name": "K-4",
+      "url": "/advance-tabco/k-4/parts",
+      "code": "k-4"
+    },
+    {
+      "name": "K-40",
+      "url": "/advance-tabco/k-40/parts",
+      "code": "k-40"
+    },
+    {
+      "name": "K-400",
+      "url": "/advance-tabco/k-400/parts",
+      "code": "k-400"
+    },
+    {
+      "name": "K-410",
+      "url": "/advance-tabco/k-410/parts",
+      "code": "k-410"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:35:35.972199"
+}

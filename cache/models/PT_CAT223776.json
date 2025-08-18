@@ -1,0 +1,141 @@
+{
+  "manufacturer": {
+    "name": "La Marzocco",
+    "code": "PT_CAT223776",
+    "uri": "la-marzocco"
+  },
+  "models": [
+    {
+      "name": "GB5",
+      "url": "/la-marzocco/gb5/parts",
+      "code": "gb5"
+    },
+    {
+      "name": "GS3",
+      "url": "/la-marzocco/gs3/parts",
+      "code": "gs3"
+    },
+    {
+      "name": "KB90",
+      "url": "/la-marzocco/kb90/parts",
+      "code": "kb90"
+    },
+    {
+      "name": "KOLD",
+      "url": "/la-marzocco/kold/parts",
+      "code": "kold"
+    },
+    {
+      "name": "KONY",
+      "url": "/la-marzocco/kony/parts",
+      "code": "kony"
+    },
+    {
+      "name": "LEVA S",
+      "url": "/la-marzocco/leva-s/parts",
+      "code": "leva-s"
+    },
+    {
+      "name": "LEVA X",
+      "url": "/la-marzocco/leva-x/parts",
+      "code": "leva-x"
+    },
+    {
+      "name": "LINEA CLASSIC",
+      "url": "/la-marzocco/linea-classic/parts",
+      "code": "linea-classic"
+    },
+    {
+      "name": "LINEA MICRA",
+      "url": "/la-marzocco/linea-micra/parts",
+      "code": "linea-micra"
+    },
+    {
+      "name": "LINEA MINI",
+      "url": "/la-marzocco/linea-mini/parts",
+      "code": "linea-mini"
+    },
+    {
+      "name": "LINEA PB",
+      "url": "/la-marzocco/linea-pb/parts",
+      "code": "linea-pb"
+    },
+    {
+      "name": "LUX D",
+      "url": "/la-marzocco/lux-d/parts",
+      "code": "lux-d"
+    },
+    {
+      "name": "Leva",
+      "url": "/la-marzocco/leva/parts",
+      "code": "leva"
+    },
+    {
+      "name": "MINI",
+      "url": "/la-marzocco/mini/parts",
+      "code": "mini"
+    },
+    {
+      "name": "Major",
+      "url": "/la-marzocco/major/parts",
+      "code": "major"
+    },
+    {
+      "name": "ROBUR S",
+      "url": "/la-marzocco/robur-s/parts",
+      "code": "robur-s"
+    },
+    {
+      "name": "Robur E",
+      "url": "/la-marzocco/robur-e/parts",
+      "code": "robur-e"
+    },
+    {
+      "name": "STRADA AV",
+      "url": "/la-marzocco/strada-av/parts",
+      "code": "strada-av"
+    },
+    {
+      "name": "STRADA EE",
+      "url": "/la-marzocco/strada-ee/parts",
+      "code": "strada-ee"
+    },
+    {
+      "name": "STRADA EP",
+      "url": "/la-marzocco/strada-ep/parts",
+      "code": "strada-ep"
+    },
+    {
+      "name": "STRADA MP",
+      "url": "/la-marzocco/strada-mp/parts",
+      "code": "strada-mp"
+    },
+    {
+      "name": "SUPER JOLLY",
+      "url": "/la-marzocco/super-jolly/parts",
+      "code": "super-jolly"
+    },
+    {
+      "name": "SWIFT",
+      "url": "/la-marzocco/swift/parts",
+      "code": "swift"
+    },
+    {
+      "name": "VULCANO E",
+      "url": "/la-marzocco/vulcano-e/parts",
+      "code": "vulcano-e"
+    },
+    {
+      "name": "VULCANO SWIFT",
+      "url": "/la-marzocco/vulcano-swift/parts",
+      "code": "vulcano-swift"
+    },
+    {
+      "name": "ZM FILTER",
+      "url": "/la-marzocco/zm-filter/parts",
+      "code": "zm-filter"
+    }
+  ],
+  "total_models": 26,
+  "cached_at": "2025-08-14T19:18:17.334640"
+}

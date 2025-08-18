@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Cornelius",
+    "code": "PT_CAT1103",
+    "uri": "cornelius"
+  },
+  "models": [
+    {
+      "name": "1 BOWL PREMIUM",
+      "url": "/cornelius/1-bowl-premium/parts",
+      "code": "1-bowl-premium"
+    },
+    {
+      "name": "1000",
+      "url": "/cornelius/1000/parts",
+      "code": "1000"
+    },
+    {
+      "name": "1030",
+      "url": "/cornelius/1030/parts",
+      "code": "1030"
+    },
+    {
+      "name": "1230",
+      "url": "/cornelius/1230/parts",
+      "code": "1230"
+    },
+    {
+      "name": "1400",
+      "url": "/cornelius/1400/parts",
+      "code": "1400"
+    },
+    {
+      "name": "1444",
+      "url": "/cornelius/1444/parts",
+      "code": "1444"
+    },
+    {
+      "name": "150",
+      "url": "/cornelius/150/parts",
+      "code": "150"
+    },
+    {
+      "name": "1530",
+      "url": "/cornelius/1530/parts",
+      "code": "1530"
+    },
+    {
+      "name": "1844",
+      "url": "/cornelius/1844/parts",
+      "code": "1844"
+    },
+    {
+      "name": "2 BOWL AUTOFILL DISPENSER",
+      "url": "/cornelius/2-bowl-autofill-dispenser/parts",
+      "code": "2-bowl-autofill-dispenser"
+    },
+    {
+      "name": "2 BOWL PREMIUM",
+      "url": "/cornelius/2-bowl-premium/parts",
+      "code": "2-bowl-premium"
+    },
+    {
+      "name": "2 Bowl Economy",
+      "url": "/cornelius/2-bowl-economy/parts",
+      "code": "2-bowl-economy"
+    },
+    {
+      "name": "200",
+      "url": "/cornelius/200/parts",
+      "code": "200"
+    },
+    {
+      "name": "2000",
+      "url": "/cornelius/2000/parts",
+      "code": "2000"
+    },
+    {
+      "name": "3 BOWL PREMIUM",
+      "url": "/cornelius/3-bowl-premium/parts",
+      "code": "3-bowl-premium"
+    },
+    {
+      "name": "322",
+      "url": "/cornelius/322/parts",
+      "code": "322"
+    },
+    {
+      "name": "330",
+      "url": "/cornelius/330/parts",
+      "code": "330"
+    },
+    {
+      "name": "416424000",
+      "url": "/cornelius/416424000/parts",
+      "code": "416424000"
+    },
+    {
+      "name": "500",
+      "url": "/cornelius/500/parts",
+      "code": "500"
+    },
+    {
+      "name": "522",
+      "url": "/cornelius/522/parts",
+      "code": "522"
+    },
+    {
+      "name": "525",
+      "url": "/cornelius/525/parts",
+      "code": "525"
+    },
+    {
+      "name": "530",
+      "url": "/cornelius/530/parts",
+      "code": "530"
+    },
+    {
+      "name": "621058496",
+      "url": "/cornelius/621058496/parts",
+      "code": "621058496"
+    },
+    {
+      "name": "6210588496",
+      "url": "/cornelius/6210588496/parts",
+      "code": "6210588496"
+    },
+    {
+      "name": "630",
+      "url": "/cornelius/630/parts",
+      "code": "630"
+    },
+    {
+      "name": "700",
+      "url": "/cornelius/700/parts",
+      "code": "700"
+    },
+    {
+      "name": "725",
+      "url": "/cornelius/725/parts",
+      "code": "725"
+    },
+    {
+      "name": "750",
+      "url": "/cornelius/750/parts",
+      "code": "750"
+    },
+    {
+      "name": "8 Valve Drop-In",
+      "url": "/cornelius/8-valve-drop-in/parts",
+      "code": "8-valve-drop-in"
+    },
+    {
+      "name": "830",
+      "url": "/cornelius/830/parts",
+      "code": "830"
+    },
+    {
+      "name": "ABS",
+      "url": "/cornelius/abs/parts",
+      "code": "abs"
+    },
+    {
+      "name": "ABS 2.0",
+      "url": "/cornelius/abs-2-0/parts",
+      "code": "abs-2-0"
+    },
+    {
+      "name": "AC322",
+      "url": "/cornelius/ac322/parts",
+      "code": "ac322"
+    },
+    {
+      "name": "Back Room Package Asia",
+      "url": "/cornelius/back-room-package-asia/parts",
+      "code": "back-room-package-asia"
+    },
+    {
+      "name": "Back Room Package Europe",
+      "url": "/cornelius/back-room-package-europe/parts",
+      "code": "back-room-package-europe"
+    },
+    {
+      "name": "Back Room Package UK",
+      "url": "/cornelius/back-room-package-uk/parts",
+      "code": "back-room-package-uk"
+    },
+    {
+      "name": "CB2323",
+      "url": "/cornelius/cb2323/parts",
+      "code": "cb2323"
+    },
+    {
+      "name": "CCM03221",
+      "url": "/cornelius/ccm03221/parts",
+      "code": "ccm03221"
+    },
+    {
+      "name": "CCM03225",
+      "url": "/cornelius/ccm03225/parts",
+      "code": "ccm03225"
+    },
+    {
+      "name": "CCM0330",
+      "url": "/cornelius/ccm0330/parts",
+      "code": "ccm0330"
+    },
+    {
+      "name": "CCM03301",
+      "url": "/cornelius/ccm03301/parts",
+      "code": "ccm03301"
+    },
+    {
+      "name": "CCM03305",
+      "url": "/cornelius/ccm03305/parts",
+      "code": "ccm03305"
+    },
+    {
+      "name": "CCM0330A1",
+      "url": "/cornelius/ccm0330a1/parts",
+      "code": "ccm0330a1"
+    },
+    {
+      "name": "CCM0330A5",
+      "url": "/cornelius/ccm0330a5/parts",
+      "code": "ccm0330a5"
+    },
+    {
+      "name": "CCM0330W1",
+      "url": "/cornelius/ccm0330w1/parts",
+      "code": "ccm0330w1"
+    },
+    {
+      "name": "CCM0330W5",
+      "url": "/cornelius/ccm0330w5/parts",
+      "code": "ccm0330w5"
+    },
+    {
+      "name": "CCM0430",
+      "url": "/cornelius/ccm0430/parts",
+      "code": "ccm0430"
+    },
+    {
+      "name": "CCM04301",
+      "url": "/cornelius/ccm04301/parts",
+      "code": "ccm04301"
+    },
+    {
+      "name": "CCM04305",
+      "url": "/cornelius/ccm04305/parts",
+      "code": "ccm04305"
+    },
+    {
+      "name": "CCM0430A1",
+      "url": "/cornelius/ccm0430a1/parts",
+      "code": "ccm0430a1"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:13:48.037905"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Bowers & Wilkins",
+    "code": "PT_CAT374125",
+    "uri": "bowers-wilkins"
+  },
+  "models": [
+    {
+      "name": "603",
+      "url": "/bowers-wilkins/603/parts",
+      "code": "603"
+    },
+    {
+      "name": "606",
+      "url": "/bowers-wilkins/606/parts",
+      "code": "606"
+    },
+    {
+      "name": "607",
+      "url": "/bowers-wilkins/607/parts",
+      "code": "607"
+    },
+    {
+      "name": "607S2",
+      "url": "/bowers-wilkins/607s2/parts",
+      "code": "607s2"
+    },
+    {
+      "name": "683",
+      "url": "/bowers-wilkins/683/parts",
+      "code": "683"
+    },
+    {
+      "name": "683S2",
+      "url": "/bowers-wilkins/683s2/parts",
+      "code": "683s2"
+    },
+    {
+      "name": "684",
+      "url": "/bowers-wilkins/684/parts",
+      "code": "684"
+    },
+    {
+      "name": "684S2",
+      "url": "/bowers-wilkins/684s2/parts",
+      "code": "684s2"
+    },
+    {
+      "name": "685",
+      "url": "/bowers-wilkins/685/parts",
+      "code": "685"
+    },
+    {
+      "name": "685S2",
+      "url": "/bowers-wilkins/685s2/parts",
+      "code": "685s2"
+    },
+    {
+      "name": "686",
+      "url": "/bowers-wilkins/686/parts",
+      "code": "686"
+    },
+    {
+      "name": "686S2",
+      "url": "/bowers-wilkins/686s2/parts",
+      "code": "686s2"
+    },
+    {
+      "name": "702S2",
+      "url": "/bowers-wilkins/702s2/parts",
+      "code": "702s2"
+    },
+    {
+      "name": "703",
+      "url": "/bowers-wilkins/703/parts",
+      "code": "703"
+    },
+    {
+      "name": "703S2",
+      "url": "/bowers-wilkins/703s2/parts",
+      "code": "703s2"
+    },
+    {
+      "name": "704",
+      "url": "/bowers-wilkins/704/parts",
+      "code": "704"
+    },
+    {
+      "name": "704S2",
+      "url": "/bowers-wilkins/704s2/parts",
+      "code": "704s2"
+    },
+    {
+      "name": "705",
+      "url": "/bowers-wilkins/705/parts",
+      "code": "705"
+    },
+    {
+      "name": "705S2",
+      "url": "/bowers-wilkins/705s2/parts",
+      "code": "705s2"
+    },
+    {
+      "name": "706S2",
+      "url": "/bowers-wilkins/706s2/parts",
+      "code": "706s2"
+    },
+    {
+      "name": "707S2",
+      "url": "/bowers-wilkins/707s2/parts",
+      "code": "707s2"
+    },
+    {
+      "name": "800D",
+      "url": "/bowers-wilkins/800d/parts",
+      "code": "800d"
+    },
+    {
+      "name": "800D3",
+      "url": "/bowers-wilkins/800d3/parts",
+      "code": "800d3"
+    },
+    {
+      "name": "800D4SERIES",
+      "url": "/bowers-wilkins/800d4series/parts",
+      "code": "800d4series"
+    },
+    {
+      "name": "800DIAMOND",
+      "url": "/bowers-wilkins/800diamond/parts",
+      "code": "800diamond"
+    },
+    {
+      "name": "801D",
+      "url": "/bowers-wilkins/801d/parts",
+      "code": "801d"
+    },
+    {
+      "name": "801D4",
+      "url": "/bowers-wilkins/801d4/parts",
+      "code": "801d4"
+    },
+    {
+      "name": "802D",
+      "url": "/bowers-wilkins/802d/parts",
+      "code": "802d"
+    },
+    {
+      "name": "802D3",
+      "url": "/bowers-wilkins/802d3/parts",
+      "code": "802d3"
+    },
+    {
+      "name": "802D4",
+      "url": "/bowers-wilkins/802d4/parts",
+      "code": "802d4"
+    },
+    {
+      "name": "802DIAMOND",
+      "url": "/bowers-wilkins/802diamond/parts",
+      "code": "802diamond"
+    },
+    {
+      "name": "803D4",
+      "url": "/bowers-wilkins/803d4/parts",
+      "code": "803d4"
+    },
+    {
+      "name": "803S",
+      "url": "/bowers-wilkins/803s/parts",
+      "code": "803s"
+    },
+    {
+      "name": "804D3",
+      "url": "/bowers-wilkins/804d3/parts",
+      "code": "804d3"
+    },
+    {
+      "name": "804D4",
+      "url": "/bowers-wilkins/804d4/parts",
+      "code": "804d4"
+    },
+    {
+      "name": "804DIAMOND",
+      "url": "/bowers-wilkins/804diamond/parts",
+      "code": "804diamond"
+    },
+    {
+      "name": "804S",
+      "url": "/bowers-wilkins/804s/parts",
+      "code": "804s"
+    },
+    {
+      "name": "805D3",
+      "url": "/bowers-wilkins/805d3/parts",
+      "code": "805d3"
+    },
+    {
+      "name": "805D4",
+      "url": "/bowers-wilkins/805d4/parts",
+      "code": "805d4"
+    },
+    {
+      "name": "805DIAMOND",
+      "url": "/bowers-wilkins/805diamond/parts",
+      "code": "805diamond"
+    },
+    {
+      "name": "805MASERATIEDITION",
+      "url": "/bowers-wilkins/805maseratiedition/parts",
+      "code": "805maseratiedition"
+    },
+    {
+      "name": "805S",
+      "url": "/bowers-wilkins/805s/parts",
+      "code": "805s"
+    },
+    {
+      "name": "AM1",
+      "url": "/bowers-wilkins/am1/parts",
+      "code": "am1"
+    },
+    {
+      "name": "CC3",
+      "url": "/bowers-wilkins/cc3/parts",
+      "code": "cc3"
+    },
+    {
+      "name": "CC6",
+      "url": "/bowers-wilkins/cc6/parts",
+      "code": "cc6"
+    },
+    {
+      "name": "CC6S2",
+      "url": "/bowers-wilkins/cc6s2/parts",
+      "code": "cc6s2"
+    },
+    {
+      "name": "CCM20",
+      "url": "/bowers-wilkins/ccm20/parts",
+      "code": "ccm20"
+    },
+    {
+      "name": "CCM362",
+      "url": "/bowers-wilkins/ccm362/parts",
+      "code": "ccm362"
+    },
+    {
+      "name": "CCM382",
+      "url": "/bowers-wilkins/ccm382/parts",
+      "code": "ccm382"
+    },
+    {
+      "name": "CCM50",
+      "url": "/bowers-wilkins/ccm50/parts",
+      "code": "ccm50"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:59:11.907393"
+}

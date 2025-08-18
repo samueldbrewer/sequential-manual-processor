@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Adamatic",
+    "code": "PT_CAT48070",
+    "uri": "adamatic"
+  },
+  "models": [
+    {
+      "name": "AP-51",
+      "url": "/adamatic/ap-51/parts",
+      "code": "ap-51"
+    },
+    {
+      "name": "FG-189",
+      "url": "/adamatic/fg-189/parts",
+      "code": "fg-189"
+    },
+    {
+      "name": "FG247",
+      "url": "/adamatic/fg247/parts",
+      "code": "fg247"
+    },
+    {
+      "name": "FG257",
+      "url": "/adamatic/fg257/parts",
+      "code": "fg257"
+    },
+    {
+      "name": "Harmony Deck Oven",
+      "url": "/adamatic/harmony-deck-oven/parts",
+      "code": "harmony-deck-oven"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T17:34:55.663010"
+}

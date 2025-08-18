@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "Kattex",
+    "code": "PT_CAT2898233",
+    "uri": "kattex"
+  },
+  "models": [
+    {
+      "name": "FVS-1",
+      "url": "/kattex/fvs-1/parts",
+      "code": "fvs-1"
+    },
+    {
+      "name": "FWS-6",
+      "url": "/kattex/fws-6/parts",
+      "code": "fws-6"
+    },
+    {
+      "name": "FWS-8",
+      "url": "/kattex/fws-8/parts",
+      "code": "fws-8"
+    },
+    {
+      "name": "HBP-3",
+      "url": "/kattex/hbp-3/parts",
+      "code": "hbp-3"
+    },
+    {
+      "name": "HCD-250",
+      "url": "/kattex/hcd-250/parts",
+      "code": "hcd-250"
+    },
+    {
+      "name": "HCD-500",
+      "url": "/kattex/hcd-500/parts",
+      "code": "hcd-500"
+    },
+    {
+      "name": "HFC-250",
+      "url": "/kattex/hfc-250/parts",
+      "code": "hfc-250"
+    },
+    {
+      "name": "HFC-375",
+      "url": "/kattex/hfc-375/parts",
+      "code": "hfc-375"
+    },
+    {
+      "name": "HFC-500",
+      "url": "/kattex/hfc-500/parts",
+      "code": "hfc-500"
+    },
+    {
+      "name": "MG-10",
+      "url": "/kattex/mg-10/parts",
+      "code": "mg-10"
+    },
+    {
+      "name": "OS-188",
+      "url": "/kattex/os-188/parts",
+      "code": "os-188"
+    },
+    {
+      "name": "TCT-375",
+      "url": "/kattex/tct-375/parts",
+      "code": "tct-375"
+    },
+    {
+      "name": "TCT-750",
+      "url": "/kattex/tct-750/parts",
+      "code": "tct-750"
+    },
+    {
+      "name": "TLC-1",
+      "url": "/kattex/tlc-1/parts",
+      "code": "tlc-1"
+    },
+    {
+      "name": "TTS-188",
+      "url": "/kattex/tts-188/parts",
+      "code": "tts-188"
+    },
+    {
+      "name": "TTS-2",
+      "url": "/kattex/tts-2/parts",
+      "code": "tts-2"
+    },
+    {
+      "name": "TTS-250S",
+      "url": "/kattex/tts-250s/parts",
+      "code": "tts-250s"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-14T19:10:38.287935"
+}

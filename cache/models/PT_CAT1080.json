@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Frymaster",
+    "code": "PT_CAT1080",
+    "uri": "frymaster"
+  },
+  "models": [
+    {
+      "name": "17BC",
+      "url": "/frymaster/17bc/parts",
+      "code": "17bc"
+    },
+    {
+      "name": "17C",
+      "url": "/frymaster/17c/parts",
+      "code": "17c"
+    },
+    {
+      "name": "17CSC",
+      "url": "/frymaster/17csc/parts",
+      "code": "17csc"
+    },
+    {
+      "name": "17EC",
+      "url": "/frymaster/17ec/parts",
+      "code": "17ec"
+    },
+    {
+      "name": "17ECS",
+      "url": "/frymaster/17ecs/parts",
+      "code": "17ecs"
+    },
+    {
+      "name": "17SMS",
+      "url": "/frymaster/17sms/parts",
+      "code": "17sms"
+    },
+    {
+      "name": "1814 Series",
+      "url": "/frymaster/1814-series/parts",
+      "code": "1814-series"
+    },
+    {
+      "name": "1814E Series",
+      "url": "/frymaster/1814e-series/parts",
+      "code": "1814e-series"
+    },
+    {
+      "name": "1824/2424G",
+      "url": "/frymaster/1824-2424g/parts",
+      "code": "1824-2424g"
+    },
+    {
+      "name": "1824E",
+      "url": "/frymaster/1824e/parts",
+      "code": "1824e"
+    },
+    {
+      "name": "1824G",
+      "url": "/frymaster/1824g/parts",
+      "code": "1824g"
+    },
+    {
+      "name": "18UE",
+      "url": "/frymaster/18ue/parts",
+      "code": "18ue"
+    },
+    {
+      "name": "2424E",
+      "url": "/frymaster/2424e/parts",
+      "code": "2424e"
+    },
+    {
+      "name": "2424G",
+      "url": "/frymaster/2424g/parts",
+      "code": "2424g"
+    },
+    {
+      "name": "24G",
+      "url": "/frymaster/24g/parts",
+      "code": "24g"
+    },
+    {
+      "name": "2836 w/o Float Switch",
+      "url": "/frymaster/2836-w-o-float-switch/parts",
+      "code": "2836-w-o-float-switch"
+    },
+    {
+      "name": "2836 with Float Switch",
+      "url": "/frymaster/2836-with-float-switch/parts",
+      "code": "2836-with-float-switch"
+    },
+    {
+      "name": "2FGLAU0ZQTZBNG",
+      "url": "/frymaster/2fglau0zqtzbng/parts",
+      "code": "2fglau0zqtzbng"
+    },
+    {
+      "name": "35 Series",
+      "url": "/frymaster/35-series/parts",
+      "code": "35-series"
+    },
+    {
+      "name": "3FQE30U",
+      "url": "/frymaster/3fqe30u/parts",
+      "code": "3fqe30u"
+    },
+    {
+      "name": "3FQG120",
+      "url": "/frymaster/3fqg120/parts",
+      "code": "3fqg120"
+    },
+    {
+      "name": "3FQG30U",
+      "url": "/frymaster/3fqg30u/parts",
+      "code": "3fqg30u"
+    },
+    {
+      "name": "41814GF-CFS",
+      "url": "/frymaster/41814gf-cfs/parts",
+      "code": "41814gf-cfs"
+    },
+    {
+      "name": "6BC",
+      "url": "/frymaster/6bc/parts",
+      "code": "6bc"
+    },
+    {
+      "name": "6C",
+      "url": "/frymaster/6c/parts",
+      "code": "6c"
+    },
+    {
+      "name": "6SMS",
+      "url": "/frymaster/6sms/parts",
+      "code": "6sms"
+    },
+    {
+      "name": "8BC",
+      "url": "/frymaster/8bc/parts",
+      "code": "8bc"
+    },
+    {
+      "name": "8BCSD",
+      "url": "/frymaster/8bcsd/parts",
+      "code": "8bcsd"
+    },
+    {
+      "name": "8C",
+      "url": "/frymaster/8c/parts",
+      "code": "8c"
+    },
+    {
+      "name": "8SMS",
+      "url": "/frymaster/8sms/parts",
+      "code": "8sms"
+    },
+    {
+      "name": "Application Series",
+      "url": "/frymaster/application-series/parts",
+      "code": "application-series"
+    },
+    {
+      "name": "BID80",
+      "url": "/frymaster/bid80/parts",
+      "code": "bid80"
+    },
+    {
+      "name": "BIEL 14",
+      "url": "/frymaster/biel-14/parts",
+      "code": "biel-14"
+    },
+    {
+      "name": "BIELA Series",
+      "url": "/frymaster/biela-series/parts",
+      "code": "biela-series"
+    },
+    {
+      "name": "BIELA14",
+      "url": "/frymaster/biela14/parts",
+      "code": "biela14"
+    },
+    {
+      "name": "BIELA14-T",
+      "url": "/frymaster/biela14-t/parts",
+      "code": "biela14-t"
+    },
+    {
+      "name": "BIGL30",
+      "url": "/frymaster/bigl30/parts",
+      "code": "bigl30"
+    },
+    {
+      "name": "BIGLA30",
+      "url": "/frymaster/bigla30/parts",
+      "code": "bigla30"
+    },
+    {
+      "name": "BIGLA30-T",
+      "url": "/frymaster/bigla30-t/parts",
+      "code": "bigla30-t"
+    },
+    {
+      "name": "BIH14 Series",
+      "url": "/frymaster/bih14-series/parts",
+      "code": "bih14-series"
+    },
+    {
+      "name": "BIH152",
+      "url": "/frymaster/bih152/parts",
+      "code": "bih152"
+    },
+    {
+      "name": "BIH1721",
+      "url": "/frymaster/bih1721/parts",
+      "code": "bih1721"
+    },
+    {
+      "name": "BIH252",
+      "url": "/frymaster/bih252/parts",
+      "code": "bih252"
+    },
+    {
+      "name": "BIH352",
+      "url": "/frymaster/bih352/parts",
+      "code": "bih352"
+    },
+    {
+      "name": "BIH452",
+      "url": "/frymaster/bih452/parts",
+      "code": "bih452"
+    },
+    {
+      "name": "BIH52",
+      "url": "/frymaster/bih52/parts",
+      "code": "bih52"
+    },
+    {
+      "name": "BIH552",
+      "url": "/frymaster/bih552/parts",
+      "code": "bih552"
+    },
+    {
+      "name": "BIMH Series",
+      "url": "/frymaster/bimh-series/parts",
+      "code": "bimh-series"
+    },
+    {
+      "name": "BIMH14",
+      "url": "/frymaster/bimh14/parts",
+      "code": "bimh14"
+    },
+    {
+      "name": "BIMH52",
+      "url": "/frymaster/bimh52/parts",
+      "code": "bimh52"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:40:43.181038"
+}

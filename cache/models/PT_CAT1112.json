@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Jade",
+    "code": "PT_CAT1112",
+    "uri": "jade"
+  },
+  "models": [
+    {
+      "name": "JB Series",
+      "url": "/jade/jb-series/parts",
+      "code": "jb-series"
+    },
+    {
+      "name": "JBR SERIES",
+      "url": "/jade/jbr-series/parts",
+      "code": "jbr-series"
+    },
+    {
+      "name": "JBR-6-36",
+      "url": "/jade/jbr-6-36/parts",
+      "code": "jbr-6-36"
+    },
+    {
+      "name": "JCM-108",
+      "url": "/jade/jcm-108/parts",
+      "code": "jcm-108"
+    },
+    {
+      "name": "JCM-120",
+      "url": "/jade/jcm-120/parts",
+      "code": "jcm-120"
+    },
+    {
+      "name": "JCM-18",
+      "url": "/jade/jcm-18/parts",
+      "code": "jcm-18"
+    },
+    {
+      "name": "JCM-24",
+      "url": "/jade/jcm-24/parts",
+      "code": "jcm-24"
+    },
+    {
+      "name": "JCM-30",
+      "url": "/jade/jcm-30/parts",
+      "code": "jcm-30"
+    },
+    {
+      "name": "JCM-36",
+      "url": "/jade/jcm-36/parts",
+      "code": "jcm-36"
+    },
+    {
+      "name": "JCM-42",
+      "url": "/jade/jcm-42/parts",
+      "code": "jcm-42"
+    },
+    {
+      "name": "JCM-48",
+      "url": "/jade/jcm-48/parts",
+      "code": "jcm-48"
+    },
+    {
+      "name": "JCM-54",
+      "url": "/jade/jcm-54/parts",
+      "code": "jcm-54"
+    },
+    {
+      "name": "JCM-60",
+      "url": "/jade/jcm-60/parts",
+      "code": "jcm-60"
+    },
+    {
+      "name": "JCM-72",
+      "url": "/jade/jcm-72/parts",
+      "code": "jcm-72"
+    },
+    {
+      "name": "JCM-84",
+      "url": "/jade/jcm-84/parts",
+      "code": "jcm-84"
+    },
+    {
+      "name": "JCM-96",
+      "url": "/jade/jcm-96/parts",
+      "code": "jcm-96"
+    },
+    {
+      "name": "JCR",
+      "url": "/jade/jcr/parts",
+      "code": "jcr"
+    },
+    {
+      "name": "JCR SERIES",
+      "url": "/jade/jcr-series/parts",
+      "code": "jcr-series"
+    },
+    {
+      "name": "JGT-2424",
+      "url": "/jade/jgt-2424/parts",
+      "code": "jgt-2424"
+    },
+    {
+      "name": "JGT-2436",
+      "url": "/jade/jgt-2436/parts",
+      "code": "jgt-2436"
+    },
+    {
+      "name": "JHP SERIES",
+      "url": "/jade/jhp-series/parts",
+      "code": "jhp-series"
+    },
+    {
+      "name": "JHP-212",
+      "url": "/jade/jhp-212/parts",
+      "code": "jhp-212"
+    },
+    {
+      "name": "JHP-424",
+      "url": "/jade/jhp-424/parts",
+      "code": "jhp-424"
+    },
+    {
+      "name": "JLB 30",
+      "url": "/jade/jlb-30/parts",
+      "code": "jlb-30"
+    },
+    {
+      "name": "JLB 36",
+      "url": "/jade/jlb-36/parts",
+      "code": "jlb-36"
+    },
+    {
+      "name": "JLB 42",
+      "url": "/jade/jlb-42/parts",
+      "code": "jlb-42"
+    },
+    {
+      "name": "JLB 48",
+      "url": "/jade/jlb-48/parts",
+      "code": "jlb-48"
+    },
+    {
+      "name": "JLB 54",
+      "url": "/jade/jlb-54/parts",
+      "code": "jlb-54"
+    },
+    {
+      "name": "JLB 60",
+      "url": "/jade/jlb-60/parts",
+      "code": "jlb-60"
+    },
+    {
+      "name": "JLB SERIES",
+      "url": "/jade/jlb-series/parts",
+      "code": "jlb-series"
+    },
+    {
+      "name": "JMSS-05-T-60",
+      "url": "/jade/jmss-05-t-60/parts",
+      "code": "jmss-05-t-60"
+    },
+    {
+      "name": "JPTC-24",
+      "url": "/jade/jptc-24/parts",
+      "code": "jptc-24"
+    },
+    {
+      "name": "JRLH SERIES",
+      "url": "/jade/jrlh-series/parts",
+      "code": "jrlh-series"
+    },
+    {
+      "name": "JRLH-04S-T-72",
+      "url": "/jade/jrlh-04s-t-72/parts",
+      "code": "jrlh-04s-t-72"
+    },
+    {
+      "name": "JRLH-04S-T-84",
+      "url": "/jade/jrlh-04s-t-84/parts",
+      "code": "jrlh-04s-t-84"
+    },
+    {
+      "name": "JRTH-36",
+      "url": "/jade/jrth-36/parts",
+      "code": "jrth-36"
+    },
+    {
+      "name": "JRTH-36C",
+      "url": "/jade/jrth-36c/parts",
+      "code": "jrth-36c"
+    },
+    {
+      "name": "JSB-36",
+      "url": "/jade/jsb-36/parts",
+      "code": "jsb-36"
+    },
+    {
+      "name": "JSBHBI",
+      "url": "/jade/jsbhbi/parts",
+      "code": "jsbhbi"
+    },
+    {
+      "name": "JSHBI SERIES",
+      "url": "/jade/jshbi-series/parts",
+      "code": "jshbi-series"
+    },
+    {
+      "name": "JSR-10-36",
+      "url": "/jade/jsr-10-36/parts",
+      "code": "jsr-10-36"
+    },
+    {
+      "name": "JSR-4-24",
+      "url": "/jade/jsr-4-24/parts",
+      "code": "jsr-4-24"
+    },
+    {
+      "name": "JSR-6-36",
+      "url": "/jade/jsr-6-36/parts",
+      "code": "jsr-6-36"
+    },
+    {
+      "name": "JTPC-16",
+      "url": "/jade/jtpc-16/parts",
+      "code": "jtpc-16"
+    },
+    {
+      "name": "JTPC-18",
+      "url": "/jade/jtpc-18/parts",
+      "code": "jtpc-18"
+    },
+    {
+      "name": "JTPC-24",
+      "url": "/jade/jtpc-24/parts",
+      "code": "jtpc-24"
+    },
+    {
+      "name": "JTRG SERIES",
+      "url": "/jade/jtrg-series/parts",
+      "code": "jtrg-series"
+    },
+    {
+      "name": "JTRH SERIES",
+      "url": "/jade/jtrh-series/parts",
+      "code": "jtrh-series"
+    },
+    {
+      "name": "JTRH-24GT-36C",
+      "url": "/jade/jtrh-24gt-36c/parts",
+      "code": "jtrh-24gt-36c"
+    },
+    {
+      "name": "JTRH-2FHT",
+      "url": "/jade/jtrh-2fht/parts",
+      "code": "jtrh-2fht"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:09:20.198267"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Lang",
+    "code": "PT_CAT1131",
+    "uri": "lang"
+  },
+  "models": [
+    {
+      "name": "0-2-10-3",
+      "url": "/lang/0-2-10-3/parts",
+      "code": "0-2-10-3"
+    },
+    {
+      "name": "0-2-10-4",
+      "url": "/lang/0-2-10-4/parts",
+      "code": "0-2-10-4"
+    },
+    {
+      "name": "0-2-10-5",
+      "url": "/lang/0-2-10-5/parts",
+      "code": "0-2-10-5"
+    },
+    {
+      "name": "124CM",
+      "url": "/lang/124cm/parts",
+      "code": "124cm"
+    },
+    {
+      "name": "124CMW",
+      "url": "/lang/124cmw/parts",
+      "code": "124cmw"
+    },
+    {
+      "name": "124S",
+      "url": "/lang/124s/parts",
+      "code": "124s"
+    },
+    {
+      "name": "124S-208VM",
+      "url": "/lang/124s-208vm/parts",
+      "code": "124s-208vm"
+    },
+    {
+      "name": "124S-480V",
+      "url": "/lang/124s-480v/parts",
+      "code": "124s-480v"
+    },
+    {
+      "name": "124SCHE",
+      "url": "/lang/124sche/parts",
+      "code": "124sche"
+    },
+    {
+      "name": "124SCHE",
+      "url": "/lang/124sche/parts",
+      "code": "124sche"
+    },
+    {
+      "name": "124SHE",
+      "url": "/lang/124she/parts",
+      "code": "124she"
+    },
+    {
+      "name": "124T",
+      "url": "/lang/124t/parts",
+      "code": "124t"
+    },
+    {
+      "name": "124TC",
+      "url": "/lang/124tc/parts",
+      "code": "124tc"
+    },
+    {
+      "name": "124TH",
+      "url": "/lang/124th/parts",
+      "code": "124th"
+    },
+    {
+      "name": "124THE",
+      "url": "/lang/124the/parts",
+      "code": "124the"
+    },
+    {
+      "name": "124TR",
+      "url": "/lang/124tr/parts",
+      "code": "124tr"
+    },
+    {
+      "name": "124TSS",
+      "url": "/lang/124tss/parts",
+      "code": "124tss"
+    },
+    {
+      "name": "124ZS",
+      "url": "/lang/124zs/parts",
+      "code": "124zs"
+    },
+    {
+      "name": "124ZSD",
+      "url": "/lang/124zsd/parts",
+      "code": "124zsd"
+    },
+    {
+      "name": "124ZT",
+      "url": "/lang/124zt/parts",
+      "code": "124zt"
+    },
+    {
+      "name": "124ZT",
+      "url": "/lang/124zt/parts",
+      "code": "124zt"
+    },
+    {
+      "name": "124ZTD",
+      "url": "/lang/124ztd/parts",
+      "code": "124ztd"
+    },
+    {
+      "name": "130F",
+      "url": "/lang/130f/parts",
+      "code": "130f"
+    },
+    {
+      "name": "130F-208VM",
+      "url": "/lang/130f-208vm/parts",
+      "code": "130f-208vm"
+    },
+    {
+      "name": "130F-240VM",
+      "url": "/lang/130f-240vm/parts",
+      "code": "130f-240vm"
+    },
+    {
+      "name": "130F-380VM",
+      "url": "/lang/130f-380vm/parts",
+      "code": "130f-380vm"
+    },
+    {
+      "name": "130F-440VM",
+      "url": "/lang/130f-440vm/parts",
+      "code": "130f-440vm"
+    },
+    {
+      "name": "130F-480VM",
+      "url": "/lang/130f-480vm/parts",
+      "code": "130f-480vm"
+    },
+    {
+      "name": "136CM",
+      "url": "/lang/136cm/parts",
+      "code": "136cm"
+    },
+    {
+      "name": "136CMW",
+      "url": "/lang/136cmw/parts",
+      "code": "136cmw"
+    },
+    {
+      "name": "136S",
+      "url": "/lang/136s/parts",
+      "code": "136s"
+    },
+    {
+      "name": "136S-380V",
+      "url": "/lang/136s-380v/parts",
+      "code": "136s-380v"
+    },
+    {
+      "name": "136S-380VM",
+      "url": "/lang/136s-380vm/parts",
+      "code": "136s-380vm"
+    },
+    {
+      "name": "136S-440VM",
+      "url": "/lang/136s-440vm/parts",
+      "code": "136s-440vm"
+    },
+    {
+      "name": "136S-480V",
+      "url": "/lang/136s-480v/parts",
+      "code": "136s-480v"
+    },
+    {
+      "name": "136S-SC",
+      "url": "/lang/136s-sc/parts",
+      "code": "136s-sc"
+    },
+    {
+      "name": "136S-SC",
+      "url": "/lang/136s-sc/parts",
+      "code": "136s-sc"
+    },
+    {
+      "name": "136SB",
+      "url": "/lang/136sb/parts",
+      "code": "136sb"
+    },
+    {
+      "name": "136SB-WB",
+      "url": "/lang/136sb-wb/parts",
+      "code": "136sb-wb"
+    },
+    {
+      "name": "136SCHE",
+      "url": "/lang/136sche/parts",
+      "code": "136sche"
+    },
+    {
+      "name": "136SDI",
+      "url": "/lang/136sdi/parts",
+      "code": "136sdi"
+    },
+    {
+      "name": "136SHE",
+      "url": "/lang/136she/parts",
+      "code": "136she"
+    },
+    {
+      "name": "136SHE",
+      "url": "/lang/136she/parts",
+      "code": "136she"
+    },
+    {
+      "name": "136SMB",
+      "url": "/lang/136smb/parts",
+      "code": "136smb"
+    },
+    {
+      "name": "136T",
+      "url": "/lang/136t/parts",
+      "code": "136t"
+    },
+    {
+      "name": "136TC",
+      "url": "/lang/136tc/parts",
+      "code": "136tc"
+    },
+    {
+      "name": "136TDI",
+      "url": "/lang/136tdi/parts",
+      "code": "136tdi"
+    },
+    {
+      "name": "136TDI-480V",
+      "url": "/lang/136tdi-480v/parts",
+      "code": "136tdi-480v"
+    },
+    {
+      "name": "136TDI-VG",
+      "url": "/lang/136tdi-vg/parts",
+      "code": "136tdi-vg"
+    },
+    {
+      "name": "136TDIC-480V",
+      "url": "/lang/136tdic-480v/parts",
+      "code": "136tdic-480v"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:19:52.709807"
+}

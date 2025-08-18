@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Rational",
+    "code": "PT_CAT47965",
+    "uri": "rational"
+  },
+  "models": [
+    {
+      "name": "CM101E",
+      "url": "/rational/cm101e/parts",
+      "code": "cm101e"
+    },
+    {
+      "name": "CM101G",
+      "url": "/rational/cm101g/parts",
+      "code": "cm101g"
+    },
+    {
+      "name": "CM102E",
+      "url": "/rational/cm102e/parts",
+      "code": "cm102e"
+    },
+    {
+      "name": "CM102G",
+      "url": "/rational/cm102g/parts",
+      "code": "cm102g"
+    },
+    {
+      "name": "CM201E",
+      "url": "/rational/cm201e/parts",
+      "code": "cm201e"
+    },
+    {
+      "name": "CM201G",
+      "url": "/rational/cm201g/parts",
+      "code": "cm201g"
+    },
+    {
+      "name": "CM202E",
+      "url": "/rational/cm202e/parts",
+      "code": "cm202e"
+    },
+    {
+      "name": "CM202G",
+      "url": "/rational/cm202g/parts",
+      "code": "cm202g"
+    },
+    {
+      "name": "CM61E",
+      "url": "/rational/cm61e/parts",
+      "code": "cm61e"
+    },
+    {
+      "name": "CM61G",
+      "url": "/rational/cm61g/parts",
+      "code": "cm61g"
+    },
+    {
+      "name": "CM62E",
+      "url": "/rational/cm62e/parts",
+      "code": "cm62e"
+    },
+    {
+      "name": "CM62G",
+      "url": "/rational/cm62g/parts",
+      "code": "cm62g"
+    },
+    {
+      "name": "CMP101E",
+      "url": "/rational/cmp101e/parts",
+      "code": "cmp101e"
+    },
+    {
+      "name": "CMP101G",
+      "url": "/rational/cmp101g/parts",
+      "code": "cmp101g"
+    },
+    {
+      "name": "CMP102E",
+      "url": "/rational/cmp102e/parts",
+      "code": "cmp102e"
+    },
+    {
+      "name": "CMP102G",
+      "url": "/rational/cmp102g/parts",
+      "code": "cmp102g"
+    },
+    {
+      "name": "CMP201E",
+      "url": "/rational/cmp201e/parts",
+      "code": "cmp201e"
+    },
+    {
+      "name": "CMP201G",
+      "url": "/rational/cmp201g/parts",
+      "code": "cmp201g"
+    },
+    {
+      "name": "CMP202E",
+      "url": "/rational/cmp202e/parts",
+      "code": "cmp202e"
+    },
+    {
+      "name": "CMP202G",
+      "url": "/rational/cmp202g/parts",
+      "code": "cmp202g"
+    },
+    {
+      "name": "CMP61E",
+      "url": "/rational/cmp61e/parts",
+      "code": "cmp61e"
+    },
+    {
+      "name": "CMP61G",
+      "url": "/rational/cmp61g/parts",
+      "code": "cmp61g"
+    },
+    {
+      "name": "CMP62E",
+      "url": "/rational/cmp62e/parts",
+      "code": "cmp62e"
+    },
+    {
+      "name": "CMP62G",
+      "url": "/rational/cmp62g/parts",
+      "code": "cmp62g"
+    },
+    {
+      "name": "CPC Series",
+      "url": "/rational/cpc-series/parts",
+      "code": "cpc-series"
+    },
+    {
+      "name": "ICOMBI",
+      "url": "/rational/icombi/parts",
+      "code": "icombi"
+    },
+    {
+      "name": "IVARIO",
+      "url": "/rational/ivario/parts",
+      "code": "ivario"
+    },
+    {
+      "name": "LM100GG.AXXXX",
+      "url": "/rational/lm100gg-axxxx/parts",
+      "code": "lm100gg-axxxx"
+    },
+    {
+      "name": "R295-CL",
+      "url": "/rational/r295-cl/parts",
+      "code": "r295-cl"
+    },
+    {
+      "name": "SCC-202G",
+      "url": "/rational/scc-202g/parts",
+      "code": "scc-202g"
+    },
+    {
+      "name": "SCC101E",
+      "url": "/rational/scc101e/parts",
+      "code": "scc101e"
+    },
+    {
+      "name": "SCC101G",
+      "url": "/rational/scc101g/parts",
+      "code": "scc101g"
+    },
+    {
+      "name": "SCC102E",
+      "url": "/rational/scc102e/parts",
+      "code": "scc102e"
+    },
+    {
+      "name": "SCC102G",
+      "url": "/rational/scc102g/parts",
+      "code": "scc102g"
+    },
+    {
+      "name": "SCC201E",
+      "url": "/rational/scc201e/parts",
+      "code": "scc201e"
+    },
+    {
+      "name": "SCC201G",
+      "url": "/rational/scc201g/parts",
+      "code": "scc201g"
+    },
+    {
+      "name": "SCC202E",
+      "url": "/rational/scc202e/parts",
+      "code": "scc202e"
+    },
+    {
+      "name": "SCC61E",
+      "url": "/rational/scc61e/parts",
+      "code": "scc61e"
+    },
+    {
+      "name": "SCC61G",
+      "url": "/rational/scc61g/parts",
+      "code": "scc61g"
+    },
+    {
+      "name": "SCC62E",
+      "url": "/rational/scc62e/parts",
+      "code": "scc62e"
+    },
+    {
+      "name": "SCC62G",
+      "url": "/rational/scc62g/parts",
+      "code": "scc62g"
+    },
+    {
+      "name": "SCCWE101E",
+      "url": "/rational/sccwe101e/parts",
+      "code": "sccwe101e"
+    },
+    {
+      "name": "SCCWE101G",
+      "url": "/rational/sccwe101g/parts",
+      "code": "sccwe101g"
+    },
+    {
+      "name": "SCCWE102E",
+      "url": "/rational/sccwe102e/parts",
+      "code": "sccwe102e"
+    },
+    {
+      "name": "SCCWE201E",
+      "url": "/rational/sccwe201e/parts",
+      "code": "sccwe201e"
+    },
+    {
+      "name": "SCCWE201G",
+      "url": "/rational/sccwe201g/parts",
+      "code": "sccwe201g"
+    },
+    {
+      "name": "SCCWE202E",
+      "url": "/rational/sccwe202e/parts",
+      "code": "sccwe202e"
+    },
+    {
+      "name": "SCCWE202G",
+      "url": "/rational/sccwe202g/parts",
+      "code": "sccwe202g"
+    },
+    {
+      "name": "SCCWE61E",
+      "url": "/rational/sccwe61e/parts",
+      "code": "sccwe61e"
+    },
+    {
+      "name": "SCCWE61G",
+      "url": "/rational/sccwe61g/parts",
+      "code": "sccwe61g"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:56:15.308896"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Delfield",
+    "code": "PT_CAT1053",
+    "uri": "delfield"
+  },
+  "models": [
+    {
+      "name": "000-20111ISA7",
+      "url": "/delfield/000-20111isa7/parts",
+      "code": "000-20111isa7"
+    },
+    {
+      "name": "000-20111J4X4",
+      "url": "/delfield/000-20111j4x4/parts",
+      "code": "000-20111j4x4"
+    },
+    {
+      "name": "000-20111J4Y5",
+      "url": "/delfield/000-20111j4y5/parts",
+      "code": "000-20111j4y5"
+    },
+    {
+      "name": "15048",
+      "url": "/delfield/15048/parts",
+      "code": "15048"
+    },
+    {
+      "name": "15072",
+      "url": "/delfield/15072/parts",
+      "code": "15072"
+    },
+    {
+      "name": "15148",
+      "url": "/delfield/15148/parts",
+      "code": "15148"
+    },
+    {
+      "name": "15172",
+      "url": "/delfield/15172/parts",
+      "code": "15172"
+    },
+    {
+      "name": "15248",
+      "url": "/delfield/15248/parts",
+      "code": "15248"
+    },
+    {
+      "name": "15272",
+      "url": "/delfield/15272/parts",
+      "code": "15272"
+    },
+    {
+      "name": "15948",
+      "url": "/delfield/15948/parts",
+      "code": "15948"
+    },
+    {
+      "name": "15972",
+      "url": "/delfield/15972/parts",
+      "code": "15972"
+    },
+    {
+      "name": "186114-BSTM",
+      "url": "/delfield/186114-bstm/parts",
+      "code": "186114-bstm"
+    },
+    {
+      "name": "186114-BUCM",
+      "url": "/delfield/186114-bucm/parts",
+      "code": "186114-bucm"
+    },
+    {
+      "name": "186114-PTBM",
+      "url": "/delfield/186114-ptbm/parts",
+      "code": "186114-ptbm"
+    },
+    {
+      "name": "186114BSTM(404A)",
+      "url": "/delfield/186114bstm-404a/parts",
+      "code": "186114bstm-404a"
+    },
+    {
+      "name": "186114BSTMP(R290)",
+      "url": "/delfield/186114bstmp-r290/parts",
+      "code": "186114bstmp-r290"
+    },
+    {
+      "name": "186114BUCM(404A)",
+      "url": "/delfield/186114bucm-404a/parts",
+      "code": "186114bucm-404a"
+    },
+    {
+      "name": "186114BUCMP(R290)",
+      "url": "/delfield/186114bucmp-r290/parts",
+      "code": "186114bucmp-r290"
+    },
+    {
+      "name": "186114PTBM(404A)",
+      "url": "/delfield/186114ptbm-404a/parts",
+      "code": "186114ptbm-404a"
+    },
+    {
+      "name": "186114PTBMP(R290)",
+      "url": "/delfield/186114ptbmp-r290/parts",
+      "code": "186114ptbmp-r290"
+    },
+    {
+      "name": "18648-BUCM",
+      "url": "/delfield/18648-bucm/parts",
+      "code": "18648-bucm"
+    },
+    {
+      "name": "18648-PDL",
+      "url": "/delfield/18648-pdl/parts",
+      "code": "18648-pdl"
+    },
+    {
+      "name": "18648-PTB",
+      "url": "/delfield/18648-ptb/parts",
+      "code": "18648-ptb"
+    },
+    {
+      "name": "18648-PTBM",
+      "url": "/delfield/18648-ptbm/parts",
+      "code": "18648-ptbm"
+    },
+    {
+      "name": "18648-PTL",
+      "url": "/delfield/18648-ptl/parts",
+      "code": "18648-ptl"
+    },
+    {
+      "name": "18648B-BSTM",
+      "url": "/delfield/18648b-bstm/parts",
+      "code": "18648b-bstm"
+    },
+    {
+      "name": "18648BSTM(404A)",
+      "url": "/delfield/18648bstm-404a/parts",
+      "code": "18648bstm-404a"
+    },
+    {
+      "name": "18648BSTMP(R290)",
+      "url": "/delfield/18648bstmp-r290/parts",
+      "code": "18648bstmp-r290"
+    },
+    {
+      "name": "18648BUCM(404A)",
+      "url": "/delfield/18648bucm-404a/parts",
+      "code": "18648bucm-404a"
+    },
+    {
+      "name": "18648BUCMP(R290)",
+      "url": "/delfield/18648bucmp-r290/parts",
+      "code": "18648bucmp-r290"
+    },
+    {
+      "name": "18648PDL(404A)",
+      "url": "/delfield/18648pdl-404a/parts",
+      "code": "18648pdl-404a"
+    },
+    {
+      "name": "18648PDLP(R290)",
+      "url": "/delfield/18648pdlp-r290/parts",
+      "code": "18648pdlp-r290"
+    },
+    {
+      "name": "18648PDLV(404A)",
+      "url": "/delfield/18648pdlv-404a/parts",
+      "code": "18648pdlv-404a"
+    },
+    {
+      "name": "18648PTBM(404A)",
+      "url": "/delfield/18648ptbm-404a/parts",
+      "code": "18648ptbm-404a"
+    },
+    {
+      "name": "18648PTBMP(R290)",
+      "url": "/delfield/18648ptbmp-r290/parts",
+      "code": "18648ptbmp-r290"
+    },
+    {
+      "name": "18648PTL(404A)",
+      "url": "/delfield/18648ptl-404a/parts",
+      "code": "18648ptl-404a"
+    },
+    {
+      "name": "18648PTLP(R290)",
+      "url": "/delfield/18648ptlp-r290/parts",
+      "code": "18648ptlp-r290"
+    },
+    {
+      "name": "18648PTLV(404A)",
+      "url": "/delfield/18648ptlv-404a/parts",
+      "code": "18648ptlv-404a"
+    },
+    {
+      "name": "18650-VD",
+      "url": "/delfield/18650-vd/parts",
+      "code": "18650-vd"
+    },
+    {
+      "name": "18660-BSTM",
+      "url": "/delfield/18660-bstm/parts",
+      "code": "18660-bstm"
+    },
+    {
+      "name": "18660-BUCM",
+      "url": "/delfield/18660-bucm/parts",
+      "code": "18660-bucm"
+    },
+    {
+      "name": "18660-PTBM",
+      "url": "/delfield/18660-ptbm/parts",
+      "code": "18660-ptbm"
+    },
+    {
+      "name": "18660BSTM(404A)",
+      "url": "/delfield/18660bstm-404a/parts",
+      "code": "18660bstm-404a"
+    },
+    {
+      "name": "18660BSTMP",
+      "url": "/delfield/18660bstmp/parts",
+      "code": "18660bstmp"
+    },
+    {
+      "name": "18660BSTMP(R290)",
+      "url": "/delfield/18660bstmp-r290/parts",
+      "code": "18660bstmp-r290"
+    },
+    {
+      "name": "18660BUCM(404A)",
+      "url": "/delfield/18660bucm-404a/parts",
+      "code": "18660bucm-404a"
+    },
+    {
+      "name": "18660BUCMP(R290)",
+      "url": "/delfield/18660bucmp-r290/parts",
+      "code": "18660bucmp-r290"
+    },
+    {
+      "name": "18660PTBM(404A)",
+      "url": "/delfield/18660ptbm-404a/parts",
+      "code": "18660ptbm-404a"
+    },
+    {
+      "name": "18660PTBMP(R290)",
+      "url": "/delfield/18660ptbmp-r290/parts",
+      "code": "18660ptbmp-r290"
+    },
+    {
+      "name": "18670PTM",
+      "url": "/delfield/18670ptm/parts",
+      "code": "18670ptm"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:19:58.327832"
+}

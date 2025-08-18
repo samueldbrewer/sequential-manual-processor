@@ -1,0 +1,61 @@
+{
+  "manufacturer": {
+    "name": "Krampouz-Eurodib",
+    "code": "PT_CAT14880",
+    "uri": "krampouz-eurodib"
+  },
+  "models": [
+    {
+      "name": "CEBIF4",
+      "url": "/krampouz-eurodib/cebif4/parts",
+      "code": "cebif4"
+    },
+    {
+      "name": "CEBPB2",
+      "url": "/krampouz-eurodib/cebpb2/parts",
+      "code": "cebpb2"
+    },
+    {
+      "name": "CECIF4",
+      "url": "/krampouz-eurodib/cecif4/parts",
+      "code": "cecif4"
+    },
+    {
+      "name": "CECIJ4",
+      "url": "/krampouz-eurodib/cecij4/parts",
+      "code": "cecij4"
+    },
+    {
+      "name": "CEFIA2",
+      "url": "/krampouz-eurodib/cefia2/parts",
+      "code": "cefia2"
+    },
+    {
+      "name": "CGBIP4",
+      "url": "/krampouz-eurodib/cgbip4/parts",
+      "code": "cgbip4"
+    },
+    {
+      "name": "CGCID4",
+      "url": "/krampouz-eurodib/cgcid4/parts",
+      "code": "cgcid4"
+    },
+    {
+      "name": "CGCIM4",
+      "url": "/krampouz-eurodib/cgcim4/parts",
+      "code": "cgcim4"
+    },
+    {
+      "name": "CGCIP4",
+      "url": "/krampouz-eurodib/cgcip4/parts",
+      "code": "cgcip4"
+    },
+    {
+      "name": "CGCIW4",
+      "url": "/krampouz-eurodib/cgciw4/parts",
+      "code": "cgciw4"
+    }
+  ],
+  "total_models": 10,
+  "cached_at": "2025-08-14T19:15:07.302515"
+}

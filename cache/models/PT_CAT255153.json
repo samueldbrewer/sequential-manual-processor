@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Krowne",
+    "code": "PT_CAT255153",
+    "uri": "krowne"
+  },
+  "models": [
+    {
+      "name": "10-400L",
+      "url": "/krowne/10-400l/parts",
+      "code": "10-400l"
+    },
+    {
+      "name": "10-400L-W",
+      "url": "/krowne/10-400l-w/parts",
+      "code": "10-400l-w"
+    },
+    {
+      "name": "10-406L",
+      "url": "/krowne/10-406l/parts",
+      "code": "10-406l"
+    },
+    {
+      "name": "10-410L",
+      "url": "/krowne/10-410l/parts",
+      "code": "10-410l"
+    },
+    {
+      "name": "10-435L",
+      "url": "/krowne/10-435l/parts",
+      "code": "10-435l"
+    },
+    {
+      "name": "10-435L-W",
+      "url": "/krowne/10-435l-w/parts",
+      "code": "10-435l-w"
+    },
+    {
+      "name": "11-400L",
+      "url": "/krowne/11-400l/parts",
+      "code": "11-400l"
+    },
+    {
+      "name": "11-400L-W",
+      "url": "/krowne/11-400l-w/parts",
+      "code": "11-400l-w"
+    },
+    {
+      "name": "11-401L",
+      "url": "/krowne/11-401l/parts",
+      "code": "11-401l"
+    },
+    {
+      "name": "11-406L",
+      "url": "/krowne/11-406l/parts",
+      "code": "11-406l"
+    },
+    {
+      "name": "11-412L",
+      "url": "/krowne/11-412l/parts",
+      "code": "11-412l"
+    },
+    {
+      "name": "11-435L",
+      "url": "/krowne/11-435l/parts",
+      "code": "11-435l"
+    },
+    {
+      "name": "11-450L",
+      "url": "/krowne/11-450l/parts",
+      "code": "11-450l"
+    },
+    {
+      "name": "11-460L",
+      "url": "/krowne/11-460l/parts",
+      "code": "11-460l"
+    },
+    {
+      "name": "12-170L",
+      "url": "/krowne/12-170l/parts",
+      "code": "12-170l"
+    },
+    {
+      "name": "12-171L",
+      "url": "/krowne/12-171l/parts",
+      "code": "12-171l"
+    },
+    {
+      "name": "12-510L",
+      "url": "/krowne/12-510l/parts",
+      "code": "12-510l"
+    },
+    {
+      "name": "12-525L",
+      "url": "/krowne/12-525l/parts",
+      "code": "12-525l"
+    },
+    {
+      "name": "12-801L",
+      "url": "/krowne/12-801l/parts",
+      "code": "12-801l"
+    },
+    {
+      "name": "12-802L",
+      "url": "/krowne/12-802l/parts",
+      "code": "12-802l"
+    },
+    {
+      "name": "12-806L",
+      "url": "/krowne/12-806l/parts",
+      "code": "12-806l"
+    },
+    {
+      "name": "12-808L",
+      "url": "/krowne/12-808l/parts",
+      "code": "12-808l"
+    },
+    {
+      "name": "12-810L",
+      "url": "/krowne/12-810l/parts",
+      "code": "12-810l"
+    },
+    {
+      "name": "12-812L",
+      "url": "/krowne/12-812l/parts",
+      "code": "12-812l"
+    },
+    {
+      "name": "12-814L",
+      "url": "/krowne/12-814l/parts",
+      "code": "12-814l"
+    },
+    {
+      "name": "12-816L",
+      "url": "/krowne/12-816l/parts",
+      "code": "12-816l"
+    },
+    {
+      "name": "12-818L",
+      "url": "/krowne/12-818l/parts",
+      "code": "12-818l"
+    },
+    {
+      "name": "12-824L",
+      "url": "/krowne/12-824l/parts",
+      "code": "12-824l"
+    },
+    {
+      "name": "12-8XXL",
+      "url": "/krowne/12-8xxl/parts",
+      "code": "12-8xxl"
+    },
+    {
+      "name": "13-222L",
+      "url": "/krowne/13-222l/parts",
+      "code": "13-222l"
+    },
+    {
+      "name": "13-223L",
+      "url": "/krowne/13-223l/parts",
+      "code": "13-223l"
+    },
+    {
+      "name": "13-225L",
+      "url": "/krowne/13-225l/parts",
+      "code": "13-225l"
+    },
+    {
+      "name": "13-801L",
+      "url": "/krowne/13-801l/parts",
+      "code": "13-801l"
+    },
+    {
+      "name": "13-802L",
+      "url": "/krowne/13-802l/parts",
+      "code": "13-802l"
+    },
+    {
+      "name": "13-806L",
+      "url": "/krowne/13-806l/parts",
+      "code": "13-806l"
+    },
+    {
+      "name": "13-808L",
+      "url": "/krowne/13-808l/parts",
+      "code": "13-808l"
+    },
+    {
+      "name": "13-810L",
+      "url": "/krowne/13-810l/parts",
+      "code": "13-810l"
+    },
+    {
+      "name": "13-812L",
+      "url": "/krowne/13-812l/parts",
+      "code": "13-812l"
+    },
+    {
+      "name": "13-814L",
+      "url": "/krowne/13-814l/parts",
+      "code": "13-814l"
+    },
+    {
+      "name": "13-816L",
+      "url": "/krowne/13-816l/parts",
+      "code": "13-816l"
+    },
+    {
+      "name": "13-818L",
+      "url": "/krowne/13-818l/parts",
+      "code": "13-818l"
+    },
+    {
+      "name": "13-824L",
+      "url": "/krowne/13-824l/parts",
+      "code": "13-824l"
+    },
+    {
+      "name": "13-8XXL",
+      "url": "/krowne/13-8xxl/parts",
+      "code": "13-8xxl"
+    },
+    {
+      "name": "14-400L",
+      "url": "/krowne/14-400l/parts",
+      "code": "14-400l"
+    },
+    {
+      "name": "14-400L-W-E2",
+      "url": "/krowne/14-400l-w-e2/parts",
+      "code": "14-400l-w-e2"
+    },
+    {
+      "name": "14-401L",
+      "url": "/krowne/14-401l/parts",
+      "code": "14-401l"
+    },
+    {
+      "name": "14-401L-W-E4",
+      "url": "/krowne/14-401l-w-e4/parts",
+      "code": "14-401l-w-e4"
+    },
+    {
+      "name": "14-402L",
+      "url": "/krowne/14-402l/parts",
+      "code": "14-402l"
+    },
+    {
+      "name": "14-406L",
+      "url": "/krowne/14-406l/parts",
+      "code": "14-406l"
+    },
+    {
+      "name": "14-406L-W-E4",
+      "url": "/krowne/14-406l-w-e4/parts",
+      "code": "14-406l-w-e4"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:16:27.161699"
+}

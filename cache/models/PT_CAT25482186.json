@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Peel Mirror System",
+    "code": "PT_CAT25482186",
+    "uri": "peel-mirror-system"
+  },
+  "models": [
+    {
+      "name": "Peel Mirror",
+      "url": "/peel-mirror-system/peel-mirror/parts",
+      "code": "peel-mirror"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:48:16.726485"
+}

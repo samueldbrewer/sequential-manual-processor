@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Armstrong Fluid Technology",
+    "code": "PT_CAT374438",
+    "uri": "armstrong-fluid-technology"
+  },
+  "models": [
+    {
+      "name": "060-1.5",
+      "url": "/armstrong-fluid-technology/060-1-5/parts",
+      "code": "060-1-5"
+    },
+    {
+      "name": "1.25B",
+      "url": "/armstrong-fluid-technology/1-25b/parts",
+      "code": "1-25b"
+    },
+    {
+      "name": "1.5B",
+      "url": "/armstrong-fluid-technology/1-5b/parts",
+      "code": "1-5b"
+    },
+    {
+      "name": "1050-1",
+      "url": "/armstrong-fluid-technology/1050-1/parts",
+      "code": "1050-1"
+    },
+    {
+      "name": "1050-1.25",
+      "url": "/armstrong-fluid-technology/1050-1-25/parts",
+      "code": "1050-1-25"
+    },
+    {
+      "name": "1050-1.5",
+      "url": "/armstrong-fluid-technology/1050-1-5/parts",
+      "code": "1050-1-5"
+    },
+    {
+      "name": "1050-2",
+      "url": "/armstrong-fluid-technology/1050-2/parts",
+      "code": "1050-2"
+    },
+    {
+      "name": "1060-1.5",
+      "url": "/armstrong-fluid-technology/1060-1-5/parts",
+      "code": "1060-1-5"
+    },
+    {
+      "name": "1060-2",
+      "url": "/armstrong-fluid-technology/1060-2/parts",
+      "code": "1060-2"
+    },
+    {
+      "name": "1060-3",
+      "url": "/armstrong-fluid-technology/1060-3/parts",
+      "code": "1060-3"
+    },
+    {
+      "name": "10x8x11 (HF/MF)",
+      "url": "/armstrong-fluid-technology/10x8x11-hf-mf/parts",
+      "code": "10x8x11-hf-mf"
+    },
+    {
+      "name": "10x8x11M",
+      "url": "/armstrong-fluid-technology/10x8x11m/parts",
+      "code": "10x8x11m"
+    },
+    {
+      "name": "10x8x14 (HF/LF)",
+      "url": "/armstrong-fluid-technology/10x8x14-hf-lf/parts",
+      "code": "10x8x14-hf-lf"
+    },
+    {
+      "name": "10x8x14H",
+      "url": "/armstrong-fluid-technology/10x8x14h/parts",
+      "code": "10x8x14h"
+    },
+    {
+      "name": "10x8x14L",
+      "url": "/armstrong-fluid-technology/10x8x14l/parts",
+      "code": "10x8x14l"
+    },
+    {
+      "name": "10x8x14NF",
+      "url": "/armstrong-fluid-technology/10x8x14nf/parts",
+      "code": "10x8x14nf"
+    },
+    {
+      "name": "10x8x20F",
+      "url": "/armstrong-fluid-technology/10x8x20f/parts",
+      "code": "10x8x20f"
+    },
+    {
+      "name": "12x10x12.5H",
+      "url": "/armstrong-fluid-technology/12x10x12-5h/parts",
+      "code": "12x10x12-5h"
+    },
+    {
+      "name": "12x10x15H",
+      "url": "/armstrong-fluid-technology/12x10x15h/parts",
+      "code": "12x10x15h"
+    },
+    {
+      "name": "12x8x18",
+      "url": "/armstrong-fluid-technology/12x8x18/parts",
+      "code": "12x8x18"
+    },
+    {
+      "name": "12x8x18F",
+      "url": "/armstrong-fluid-technology/12x8x18f/parts",
+      "code": "12x8x18f"
+    },
+    {
+      "name": "12x8x18NF",
+      "url": "/armstrong-fluid-technology/12x8x18nf/parts",
+      "code": "12x8x18nf"
+    },
+    {
+      "name": "12x8x20F",
+      "url": "/armstrong-fluid-technology/12x8x20f/parts",
+      "code": "12x8x20f"
+    },
+    {
+      "name": "4030",
+      "url": "/armstrong-fluid-technology/4030/parts",
+      "code": "4030"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 4X3X13",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-4x3x13/parts",
+      "code": "4030-fire-pump-size-4x3x13"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 4X3X13NF",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-4x3x13nf/parts",
+      "code": "4030-fire-pump-size-4x3x13nf"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 4X3X8.5",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-4x3x8-5/parts",
+      "code": "4030-fire-pump-size-4x3x8-5"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 5X4X11.5",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-5x4x11-5/parts",
+      "code": "4030-fire-pump-size-5x4x11-5"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 6X5X13",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-6x5x13/parts",
+      "code": "4030-fire-pump-size-6x5x13"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 8X5X11.5",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-8x5x11-5/parts",
+      "code": "4030-fire-pump-size-8x5x11-5"
+    },
+    {
+      "name": "4030 Fire Pump / SIZE 8X6X13",
+      "url": "/armstrong-fluid-technology/4030-fire-pump-size-8x6x13/parts",
+      "code": "4030-fire-pump-size-8x6x13"
+    },
+    {
+      "name": "4030-4x3x13FM",
+      "url": "/armstrong-fluid-technology/4030-4x3x13fm/parts",
+      "code": "4030-4x3x13fm"
+    },
+    {
+      "name": "4030-4x3x8.5FM",
+      "url": "/armstrong-fluid-technology/4030-4x3x8-5fm/parts",
+      "code": "4030-4x3x8-5fm"
+    },
+    {
+      "name": "4200H",
+      "url": "/armstrong-fluid-technology/4200h/parts",
+      "code": "4200h"
+    },
+    {
+      "name": "4270",
+      "url": "/armstrong-fluid-technology/4270/parts",
+      "code": "4270"
+    },
+    {
+      "name": "4280",
+      "url": "/armstrong-fluid-technology/4280/parts",
+      "code": "4280"
+    },
+    {
+      "name": "4300",
+      "url": "/armstrong-fluid-technology/4300/parts",
+      "code": "4300"
+    },
+    {
+      "name": "4302",
+      "url": "/armstrong-fluid-technology/4302/parts",
+      "code": "4302"
+    },
+    {
+      "name": "4312",
+      "url": "/armstrong-fluid-technology/4312/parts",
+      "code": "4312"
+    },
+    {
+      "name": "4322",
+      "url": "/armstrong-fluid-technology/4322/parts",
+      "code": "4322"
+    },
+    {
+      "name": "4360",
+      "url": "/armstrong-fluid-technology/4360/parts",
+      "code": "4360"
+    },
+    {
+      "name": "4360B",
+      "url": "/armstrong-fluid-technology/4360b/parts",
+      "code": "4360b"
+    },
+    {
+      "name": "4372",
+      "url": "/armstrong-fluid-technology/4372/parts",
+      "code": "4372"
+    },
+    {
+      "name": "4380",
+      "url": "/armstrong-fluid-technology/4380/parts",
+      "code": "4380"
+    },
+    {
+      "name": "4382",
+      "url": "/armstrong-fluid-technology/4382/parts",
+      "code": "4382"
+    },
+    {
+      "name": "4392",
+      "url": "/armstrong-fluid-technology/4392/parts",
+      "code": "4392"
+    },
+    {
+      "name": "43F VIL Fire Pump / SIZE 2X1-1/2LA-F",
+      "url": "/armstrong-fluid-technology/43f-vil-fire-pump-size-2x1-1-2la-f/parts",
+      "code": "43f-vil-fire-pump-size-2x1-1-2la-f"
+    },
+    {
+      "name": "43F VIL Fire Pump / SIZE 2X2X8",
+      "url": "/armstrong-fluid-technology/43f-vil-fire-pump-size-2x2x8/parts",
+      "code": "43f-vil-fire-pump-size-2x2x8"
+    },
+    {
+      "name": "43F VIL Fire Pump / SIZE 3X3X8",
+      "url": "/armstrong-fluid-technology/43f-vil-fire-pump-size-3x3x8/parts",
+      "code": "43f-vil-fire-pump-size-3x3x8"
+    },
+    {
+      "name": "43F VIL Fire Pump / SIZE 5X5X8",
+      "url": "/armstrong-fluid-technology/43f-vil-fire-pump-size-5x5x8/parts",
+      "code": "43f-vil-fire-pump-size-5x5x8"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:48:31.518067"
+}

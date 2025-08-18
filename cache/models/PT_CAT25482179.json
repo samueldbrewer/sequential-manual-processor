@@ -1,0 +1,21 @@
+{
+  "manufacturer": {
+    "name": "AccelMix",
+    "code": "PT_CAT25482179",
+    "uri": "accelmix"
+  },
+  "models": [
+    {
+      "name": "XLB-1000",
+      "url": "/accelmix/xlb-1000/parts",
+      "code": "xlb-1000"
+    },
+    {
+      "name": "XLB-44",
+      "url": "/accelmix/xlb-44/parts",
+      "code": "xlb-44"
+    }
+  ],
+  "total_models": 2,
+  "cached_at": "2025-08-14T17:34:15.105581"
+}

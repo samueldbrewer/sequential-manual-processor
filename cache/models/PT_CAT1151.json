@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Nemco",
+    "code": "PT_CAT1151",
+    "uri": "nemco"
+  },
+  "models": [
+    {
+      "name": "10961",
+      "url": "/nemco/10961/parts",
+      "code": "10961"
+    },
+    {
+      "name": "10962",
+      "url": "/nemco/10962/parts",
+      "code": "10962"
+    },
+    {
+      "name": "10963",
+      "url": "/nemco/10963/parts",
+      "code": "10963"
+    },
+    {
+      "name": "10964",
+      "url": "/nemco/10964/parts",
+      "code": "10964"
+    },
+    {
+      "name": "10965",
+      "url": "/nemco/10965/parts",
+      "code": "10965"
+    },
+    {
+      "name": "10966",
+      "url": "/nemco/10966/parts",
+      "code": "10966"
+    },
+    {
+      "name": "10967",
+      "url": "/nemco/10967/parts",
+      "code": "10967"
+    },
+    {
+      "name": "10968",
+      "url": "/nemco/10968/parts",
+      "code": "10968"
+    },
+    {
+      "name": "10969",
+      "url": "/nemco/10969/parts",
+      "code": "10969"
+    },
+    {
+      "name": "10970",
+      "url": "/nemco/10970/parts",
+      "code": "10970"
+    },
+    {
+      "name": "1400-16",
+      "url": "/nemco/1400-16/parts",
+      "code": "1400-16"
+    },
+    {
+      "name": "1400-16-2",
+      "url": "/nemco/1400-16-2/parts",
+      "code": "1400-16-2"
+    },
+    {
+      "name": "1400-25",
+      "url": "/nemco/1400-25/parts",
+      "code": "1400-25"
+    },
+    {
+      "name": "1400-25-2",
+      "url": "/nemco/1400-25-2/parts",
+      "code": "1400-25-2"
+    },
+    {
+      "name": "55050AN",
+      "url": "/nemco/55050an/parts",
+      "code": "55050an"
+    },
+    {
+      "name": "55050AN-CT",
+      "url": "/nemco/55050an-ct/parts",
+      "code": "55050an-ct"
+    },
+    {
+      "name": "55050AN-G",
+      "url": "/nemco/55050an-g/parts",
+      "code": "55050an-g"
+    },
+    {
+      "name": "55050AN-P",
+      "url": "/nemco/55050an-p/parts",
+      "code": "55050an-p"
+    },
+    {
+      "name": "55050AN-PN",
+      "url": "/nemco/55050an-pn/parts",
+      "code": "55050an-pn"
+    },
+    {
+      "name": "55050AN-R",
+      "url": "/nemco/55050an-r/parts",
+      "code": "55050an-r"
+    },
+    {
+      "name": "55050AN-WCT",
+      "url": "/nemco/55050an-wct/parts",
+      "code": "55050an-wct"
+    },
+    {
+      "name": "55050AN-WR",
+      "url": "/nemco/55050an-wr/parts",
+      "code": "55050an-wr"
+    },
+    {
+      "name": "55100E",
+      "url": "/nemco/55100e/parts",
+      "code": "55100e"
+    },
+    {
+      "name": "55100E-1",
+      "url": "/nemco/55100e-1/parts",
+      "code": "55100e-1"
+    },
+    {
+      "name": "55100E-2",
+      "url": "/nemco/55100e-2/parts",
+      "code": "55100e-2"
+    },
+    {
+      "name": "55150A",
+      "url": "/nemco/55150a/parts",
+      "code": "55150a"
+    },
+    {
+      "name": "55150B",
+      "url": "/nemco/55150b/parts",
+      "code": "55150b"
+    },
+    {
+      "name": "55150C-C",
+      "url": "/nemco/55150c-c/parts",
+      "code": "55150c-c"
+    },
+    {
+      "name": "55150C-CT",
+      "url": "/nemco/55150c-ct/parts",
+      "code": "55150c-ct"
+    },
+    {
+      "name": "55150C-G",
+      "url": "/nemco/55150c-g/parts",
+      "code": "55150c-g"
+    },
+    {
+      "name": "55150C-P",
+      "url": "/nemco/55150c-p/parts",
+      "code": "55150c-p"
+    },
+    {
+      "name": "55150C-R",
+      "url": "/nemco/55150c-r/parts",
+      "code": "55150c-r"
+    },
+    {
+      "name": "55150C-WCT",
+      "url": "/nemco/55150c-wct/parts",
+      "code": "55150c-wct"
+    },
+    {
+      "name": "55150C-WR",
+      "url": "/nemco/55150c-wr/parts",
+      "code": "55150c-wr"
+    },
+    {
+      "name": "55200AN",
+      "url": "/nemco/55200an/parts",
+      "code": "55200an"
+    },
+    {
+      "name": "55200AN-1",
+      "url": "/nemco/55200an-1/parts",
+      "code": "55200an-1"
+    },
+    {
+      "name": "55200AN-2",
+      "url": "/nemco/55200an-2/parts",
+      "code": "55200an-2"
+    },
+    {
+      "name": "55200AN-4",
+      "url": "/nemco/55200an-4/parts",
+      "code": "55200an-4"
+    },
+    {
+      "name": "55200AN-6",
+      "url": "/nemco/55200an-6/parts",
+      "code": "55200an-6"
+    },
+    {
+      "name": "55200AN-8",
+      "url": "/nemco/55200an-8/parts",
+      "code": "55200an-8"
+    },
+    {
+      "name": "55200AN-9",
+      "url": "/nemco/55200an-9/parts",
+      "code": "55200an-9"
+    },
+    {
+      "name": "55200AN-B",
+      "url": "/nemco/55200an-b/parts",
+      "code": "55200an-b"
+    },
+    {
+      "name": "55250A",
+      "url": "/nemco/55250a/parts",
+      "code": "55250a"
+    },
+    {
+      "name": "55300A",
+      "url": "/nemco/55300a/parts",
+      "code": "55300a"
+    },
+    {
+      "name": "55300A-1",
+      "url": "/nemco/55300a-1/parts",
+      "code": "55300a-1"
+    },
+    {
+      "name": "55300A-2",
+      "url": "/nemco/55300a-2/parts",
+      "code": "55300a-2"
+    },
+    {
+      "name": "55300A-516D",
+      "url": "/nemco/55300a-516d/parts",
+      "code": "55300a-516d"
+    },
+    {
+      "name": "55350A",
+      "url": "/nemco/55350a/parts",
+      "code": "55350a"
+    },
+    {
+      "name": "55400",
+      "url": "/nemco/55400/parts",
+      "code": "55400"
+    },
+    {
+      "name": "55450-1",
+      "url": "/nemco/55450-1/parts",
+      "code": "55450-1"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:40:32.942179"
+}

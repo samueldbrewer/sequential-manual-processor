@@ -1,0 +1,26 @@
+{
+  "manufacturer": {
+    "name": "Oil Solutions Group",
+    "code": "PT_CAT321386",
+    "uri": "oil-solutions-group"
+  },
+  "models": [
+    {
+      "name": "ARM-120",
+      "url": "/oil-solutions-group/arm-120/parts",
+      "code": "arm-120"
+    },
+    {
+      "name": "ARM-60",
+      "url": "/oil-solutions-group/arm-60/parts",
+      "code": "arm-60"
+    },
+    {
+      "name": "ARM-90",
+      "url": "/oil-solutions-group/arm-90/parts",
+      "code": "arm-90"
+    }
+  ],
+  "total_models": 3,
+  "cached_at": "2025-08-14T19:44:34.526321"
+}

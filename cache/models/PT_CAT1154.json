@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Newco",
+    "code": "PT_CAT1154",
+    "uri": "newco"
+  },
+  "models": [
+    {
+      "name": "10-S",
+      "url": "/newco/10-s/parts",
+      "code": "10-s"
+    },
+    {
+      "name": "10-T",
+      "url": "/newco/10-t/parts",
+      "code": "10-t"
+    },
+    {
+      "name": "145-0",
+      "url": "/newco/145-0/parts",
+      "code": "145-0"
+    },
+    {
+      "name": "145-3",
+      "url": "/newco/145-3/parts",
+      "code": "145-3"
+    },
+    {
+      "name": "145-4",
+      "url": "/newco/145-4/parts",
+      "code": "145-4"
+    },
+    {
+      "name": "145-8",
+      "url": "/newco/145-8/parts",
+      "code": "145-8"
+    },
+    {
+      "name": "180-0",
+      "url": "/newco/180-0/parts",
+      "code": "180-0"
+    },
+    {
+      "name": "180-3",
+      "url": "/newco/180-3/parts",
+      "code": "180-3"
+    },
+    {
+      "name": "180-4",
+      "url": "/newco/180-4/parts",
+      "code": "180-4"
+    },
+    {
+      "name": "180-8",
+      "url": "/newco/180-8/parts",
+      "code": "180-8"
+    },
+    {
+      "name": "20-1",
+      "url": "/newco/20-1/parts",
+      "code": "20-1"
+    },
+    {
+      "name": "350-0",
+      "url": "/newco/350-0/parts",
+      "code": "350-0"
+    },
+    {
+      "name": "350-3",
+      "url": "/newco/350-3/parts",
+      "code": "350-3"
+    },
+    {
+      "name": "350-4",
+      "url": "/newco/350-4/parts",
+      "code": "350-4"
+    },
+    {
+      "name": "350-8",
+      "url": "/newco/350-8/parts",
+      "code": "350-8"
+    },
+    {
+      "name": "6GM",
+      "url": "/newco/6gm/parts",
+      "code": "6gm"
+    },
+    {
+      "name": "771040",
+      "url": "/newco/771040/parts",
+      "code": "771040"
+    },
+    {
+      "name": "781860",
+      "url": "/newco/781860/parts",
+      "code": "781860"
+    },
+    {
+      "name": "ACE SERIES",
+      "url": "/newco/ace-series/parts",
+      "code": "ace-series"
+    },
+    {
+      "name": "ACE-AP",
+      "url": "/newco/ace-ap/parts",
+      "code": "ace-ap"
+    },
+    {
+      "name": "ACE-D",
+      "url": "/newco/ace-d/parts",
+      "code": "ace-d"
+    },
+    {
+      "name": "ACE-LD",
+      "url": "/newco/ace-ld/parts",
+      "code": "ace-ld"
+    },
+    {
+      "name": "ACE-LP",
+      "url": "/newco/ace-lp/parts",
+      "code": "ace-lp"
+    },
+    {
+      "name": "ACE-S",
+      "url": "/newco/ace-s/parts",
+      "code": "ace-s"
+    },
+    {
+      "name": "ACE-TC",
+      "url": "/newco/ace-tc/parts",
+      "code": "ace-tc"
+    },
+    {
+      "name": "ACE-TS",
+      "url": "/newco/ace-ts/parts",
+      "code": "ace-ts"
+    },
+    {
+      "name": "AK",
+      "url": "/newco/ak/parts",
+      "code": "ak"
+    },
+    {
+      "name": "AK-1",
+      "url": "/newco/ak-1/parts",
+      "code": "ak-1"
+    },
+    {
+      "name": "AK-2",
+      "url": "/newco/ak-2/parts",
+      "code": "ak-2"
+    },
+    {
+      "name": "AK-AP",
+      "url": "/newco/ak-ap/parts",
+      "code": "ak-ap"
+    },
+    {
+      "name": "AK-D",
+      "url": "/newco/ak-d/parts",
+      "code": "ak-d"
+    },
+    {
+      "name": "AK-LD",
+      "url": "/newco/ak-ld/parts",
+      "code": "ak-ld"
+    },
+    {
+      "name": "AK-TC",
+      "url": "/newco/ak-tc/parts",
+      "code": "ak-tc"
+    },
+    {
+      "name": "AKH",
+      "url": "/newco/akh/parts",
+      "code": "akh"
+    },
+    {
+      "name": "AKH-1",
+      "url": "/newco/akh-1/parts",
+      "code": "akh-1"
+    },
+    {
+      "name": "AKH-2",
+      "url": "/newco/akh-2/parts",
+      "code": "akh-2"
+    },
+    {
+      "name": "AKH-3",
+      "url": "/newco/akh-3/parts",
+      "code": "akh-3"
+    },
+    {
+      "name": "AKH-AP",
+      "url": "/newco/akh-ap/parts",
+      "code": "akh-ap"
+    },
+    {
+      "name": "AKH-APA",
+      "url": "/newco/akh-apa/parts",
+      "code": "akh-apa"
+    },
+    {
+      "name": "AKH-D",
+      "url": "/newco/akh-d/parts",
+      "code": "akh-d"
+    },
+    {
+      "name": "AKH-DA",
+      "url": "/newco/akh-da/parts",
+      "code": "akh-da"
+    },
+    {
+      "name": "AKH-LD",
+      "url": "/newco/akh-ld/parts",
+      "code": "akh-ld"
+    },
+    {
+      "name": "AKH-LDA",
+      "url": "/newco/akh-lda/parts",
+      "code": "akh-lda"
+    },
+    {
+      "name": "AKH-TC",
+      "url": "/newco/akh-tc/parts",
+      "code": "akh-tc"
+    },
+    {
+      "name": "AKH-TCA",
+      "url": "/newco/akh-tca/parts",
+      "code": "akh-tca"
+    },
+    {
+      "name": "AKH-TT",
+      "url": "/newco/akh-tt/parts",
+      "code": "akh-tt"
+    },
+    {
+      "name": "AKPA-3DB-THW",
+      "url": "/newco/akpa-3db-thw/parts",
+      "code": "akpa-3db-thw"
+    },
+    {
+      "name": "BISTRO SERIES",
+      "url": "/newco/bistro-series/parts",
+      "code": "bistro-series"
+    },
+    {
+      "name": "BMF",
+      "url": "/newco/bmf/parts",
+      "code": "bmf"
+    },
+    {
+      "name": "BMR",
+      "url": "/newco/bmr/parts",
+      "code": "bmr"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:41:03.711720"
+}

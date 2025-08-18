@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "ITV Ice Makers",
+    "code": "PT_CAT223845",
+    "uri": "itv-ice-makers"
+  },
+  "models": [
+    {
+      "name": "ALFA NG 135",
+      "url": "/itv-ice-makers/alfa-ng-135/parts",
+      "code": "alfa-ng-135"
+    },
+    {
+      "name": "ALFA NG 175",
+      "url": "/itv-ice-makers/alfa-ng-175/parts",
+      "code": "alfa-ng-175"
+    },
+    {
+      "name": "ALFA NG 265",
+      "url": "/itv-ice-makers/alfa-ng-265/parts",
+      "code": "alfa-ng-265"
+    },
+    {
+      "name": "ALFA NG 355",
+      "url": "/itv-ice-makers/alfa-ng-355/parts",
+      "code": "alfa-ng-355"
+    },
+    {
+      "name": "ALFA NG 75",
+      "url": "/itv-ice-makers/alfa-ng-75/parts",
+      "code": "alfa-ng-75"
+    },
+    {
+      "name": "ALFA NG 95",
+      "url": "/itv-ice-makers/alfa-ng-95/parts",
+      "code": "alfa-ng-95"
+    },
+    {
+      "name": "BIN S-1050",
+      "url": "/itv-ice-makers/bin-s-1050/parts",
+      "code": "bin-s-1050"
+    },
+    {
+      "name": "BIN S-300",
+      "url": "/itv-ice-makers/bin-s-300/parts",
+      "code": "bin-s-300"
+    },
+    {
+      "name": "BIN S-400",
+      "url": "/itv-ice-makers/bin-s-400/parts",
+      "code": "bin-s-400"
+    },
+    {
+      "name": "BIN S-400-22",
+      "url": "/itv-ice-makers/bin-s-400-22/parts",
+      "code": "bin-s-400-22"
+    },
+    {
+      "name": "BIN S-500",
+      "url": "/itv-ice-makers/bin-s-500/parts",
+      "code": "bin-s-500"
+    },
+    {
+      "name": "BIN S-750",
+      "url": "/itv-ice-makers/bin-s-750/parts",
+      "code": "bin-s-750"
+    },
+    {
+      "name": "BIN S-900",
+      "url": "/itv-ice-makers/bin-s-900/parts",
+      "code": "bin-s-900"
+    },
+    {
+      "name": "BIN SCS 150",
+      "url": "/itv-ice-makers/bin-scs-150/parts",
+      "code": "bin-scs-150"
+    },
+    {
+      "name": "BIN SCS 300",
+      "url": "/itv-ice-makers/bin-scs-300/parts",
+      "code": "bin-scs-300"
+    },
+    {
+      "name": "DHD DISPENSER",
+      "url": "/itv-ice-makers/dhd-dispenser/parts",
+      "code": "dhd-dispenser"
+    },
+    {
+      "name": "Delta NG R290",
+      "url": "/itv-ice-makers/delta-ng-r290/parts",
+      "code": "delta-ng-r290"
+    },
+    {
+      "name": "GALA NG 135",
+      "url": "/itv-ice-makers/gala-ng-135/parts",
+      "code": "gala-ng-135"
+    },
+    {
+      "name": "GALA NG 175",
+      "url": "/itv-ice-makers/gala-ng-175/parts",
+      "code": "gala-ng-175"
+    },
+    {
+      "name": "GALA NG 265",
+      "url": "/itv-ice-makers/gala-ng-265/parts",
+      "code": "gala-ng-265"
+    },
+    {
+      "name": "GALA NG 355",
+      "url": "/itv-ice-makers/gala-ng-355/parts",
+      "code": "gala-ng-355"
+    },
+    {
+      "name": "GALA NG 75",
+      "url": "/itv-ice-makers/gala-ng-75/parts",
+      "code": "gala-ng-75"
+    },
+    {
+      "name": "GALA NG 95",
+      "url": "/itv-ice-makers/gala-ng-95/parts",
+      "code": "gala-ng-95"
+    },
+    {
+      "name": "ICE TRANSPORT SYSTEM SCD 1400",
+      "url": "/itv-ice-makers/ice-transport-system-scd-1400/parts",
+      "code": "ice-transport-system-scd-1400"
+    },
+    {
+      "name": "ICE TRANSPORT SYSTEM SCD-1800",
+      "url": "/itv-ice-makers/ice-transport-system-scd-1800/parts",
+      "code": "ice-transport-system-scd-1800"
+    },
+    {
+      "name": "ICE TRANSPORT SYSTEM SCD-900",
+      "url": "/itv-ice-makers/ice-transport-system-scd-900/parts",
+      "code": "ice-transport-system-scd-900"
+    },
+    {
+      "name": "IQ 200C",
+      "url": "/itv-ice-makers/iq-200c/parts",
+      "code": "iq-200c"
+    },
+    {
+      "name": "IQ1300",
+      "url": "/itv-ice-makers/iq1300/parts",
+      "code": "iq1300"
+    },
+    {
+      "name": "IQ1300 R",
+      "url": "/itv-ice-makers/iq1300-r/parts",
+      "code": "iq1300-r"
+    },
+    {
+      "name": "IQ1300R",
+      "url": "/itv-ice-makers/iq1300r/parts",
+      "code": "iq1300r"
+    },
+    {
+      "name": "IQ200C",
+      "url": "/itv-ice-makers/iq200c/parts",
+      "code": "iq200c"
+    },
+    {
+      "name": "IQ2700",
+      "url": "/itv-ice-makers/iq2700/parts",
+      "code": "iq2700"
+    },
+    {
+      "name": "IQ300C",
+      "url": "/itv-ice-makers/iq300c/parts",
+      "code": "iq300c"
+    },
+    {
+      "name": "IQ500",
+      "url": "/itv-ice-makers/iq500/parts",
+      "code": "iq500"
+    },
+    {
+      "name": "IQ900",
+      "url": "/itv-ice-makers/iq900/parts",
+      "code": "iq900"
+    },
+    {
+      "name": "IQN-F R290",
+      "url": "/itv-ice-makers/iqn-f-r290/parts",
+      "code": "iqn-f-r290"
+    },
+    {
+      "name": "IQN/F",
+      "url": "/itv-ice-makers/iqn-f/parts",
+      "code": "iqn-f"
+    },
+    {
+      "name": "IQN/F R290",
+      "url": "/itv-ice-makers/iqn-f-r290/parts",
+      "code": "iqn-f-r290"
+    },
+    {
+      "name": "NDP 55",
+      "url": "/itv-ice-makers/ndp-55/parts",
+      "code": "ndp-55"
+    },
+    {
+      "name": "SCD BIN WITH CART",
+      "url": "/itv-ice-makers/scd-bin-with-cart/parts",
+      "code": "scd-bin-with-cart"
+    },
+    {
+      "name": "SIRION DHD 200-30",
+      "url": "/itv-ice-makers/sirion-dhd-200-30/parts",
+      "code": "sirion-dhd-200-30"
+    },
+    {
+      "name": "SIRION SLIM DHD",
+      "url": "/itv-ice-makers/sirion-slim-dhd/parts",
+      "code": "sirion-slim-dhd"
+    },
+    {
+      "name": "SPIKA MS 1000",
+      "url": "/itv-ice-makers/spika-ms-1000/parts",
+      "code": "spika-ms-1000"
+    },
+    {
+      "name": "SPIKA MS 1000 REMOTE",
+      "url": "/itv-ice-makers/spika-ms-1000-remote/parts",
+      "code": "spika-ms-1000-remote"
+    },
+    {
+      "name": "SPIKA MS 400-700",
+      "url": "/itv-ice-makers/spika-ms-400-700/parts",
+      "code": "spika-ms-400-700"
+    },
+    {
+      "name": "SPIKA MS 500",
+      "url": "/itv-ice-makers/spika-ms-500/parts",
+      "code": "spika-ms-500"
+    },
+    {
+      "name": "SPIKA MS 500 REMOTE",
+      "url": "/itv-ice-makers/spika-ms-500-remote/parts",
+      "code": "spika-ms-500-remote"
+    },
+    {
+      "name": "SPIKA MS 500-1000",
+      "url": "/itv-ice-makers/spika-ms-500-1000/parts",
+      "code": "spika-ms-500-1000"
+    },
+    {
+      "name": "SPIKA MS 700-22",
+      "url": "/itv-ice-makers/spika-ms-700-22/parts",
+      "code": "spika-ms-700-22"
+    },
+    {
+      "name": "SPIKA NG 125",
+      "url": "/itv-ice-makers/spika-ng-125/parts",
+      "code": "spika-ng-125"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:04:55.505278"
+}

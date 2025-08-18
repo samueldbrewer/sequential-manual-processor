@@ -1,0 +1,12 @@
+{
+  "manufacturer": {
+    "code": "PT_CAT1204",
+    "name": "T&S Brass",
+    "uri": "t-s-brass"
+  },
+  "models": [],
+  "cached_at": "2025-08-18T12:55:34.504958",
+  "source": "fetch_models_curl",
+  "method": "curl_html_scraping",
+  "note": "No models found via curl scraping"
+}

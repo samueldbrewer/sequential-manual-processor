@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Quality Industries",
+    "code": "PT_CATQUALITYINDUSTRIES",
+    "uri": "quality-industries"
+  },
+  "models": [
+    {
+      "name": "FMA015",
+      "url": "/quality-industries/fma015/parts",
+      "code": "fma015"
+    },
+    {
+      "name": "FMA015081",
+      "url": "/quality-industries/fma015081/parts",
+      "code": "fma015081"
+    },
+    {
+      "name": "FMD015",
+      "url": "/quality-industries/fmd015/parts",
+      "code": "fmd015"
+    },
+    {
+      "name": "FMD015081",
+      "url": "/quality-industries/fmd015081/parts",
+      "code": "fmd015081"
+    },
+    {
+      "name": "M-69",
+      "url": "/quality-industries/m-69/parts",
+      "code": "m-69"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T19:54:12.067265"
+}

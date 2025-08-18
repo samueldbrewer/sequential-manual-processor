@@ -1,0 +1,131 @@
+{
+  "manufacturer": {
+    "name": "Rancilio",
+    "code": "PT_CAT1165",
+    "uri": "rancilio"
+  },
+  "models": [
+    {
+      "name": "Classe 7 E",
+      "url": "/rancilio/classe-7-e/parts",
+      "code": "classe-7-e"
+    },
+    {
+      "name": "Classe 7 E Compact",
+      "url": "/rancilio/classe-7-e-compact/parts",
+      "code": "classe-7-e-compact"
+    },
+    {
+      "name": "Classe 7 E Compact Tall",
+      "url": "/rancilio/classe-7-e-compact-tall/parts",
+      "code": "classe-7-e-compact-tall"
+    },
+    {
+      "name": "Classe 7 E Tall",
+      "url": "/rancilio/classe-7-e-tall/parts",
+      "code": "classe-7-e-tall"
+    },
+    {
+      "name": "Classe 7 S",
+      "url": "/rancilio/classe-7-s/parts",
+      "code": "classe-7-s"
+    },
+    {
+      "name": "Classe 7 S Compact",
+      "url": "/rancilio/classe-7-s-compact/parts",
+      "code": "classe-7-s-compact"
+    },
+    {
+      "name": "Classe 9 S",
+      "url": "/rancilio/classe-9-s/parts",
+      "code": "classe-9-s"
+    },
+    {
+      "name": "Classe 9 USB",
+      "url": "/rancilio/classe-9-usb/parts",
+      "code": "classe-9-usb"
+    },
+    {
+      "name": "Classe 9 USB Tall",
+      "url": "/rancilio/classe-9-usb-tall/parts",
+      "code": "classe-9-usb-tall"
+    },
+    {
+      "name": "Classe 9 USB Tall Xcelsius",
+      "url": "/rancilio/classe-9-usb-tall-xcelsius/parts",
+      "code": "classe-9-usb-tall-xcelsius"
+    },
+    {
+      "name": "Egro One Pure Coffee",
+      "url": "/rancilio/egro-one-pure-coffee/parts",
+      "code": "egro-one-pure-coffee"
+    },
+    {
+      "name": "Egro One Quick Milk NMS",
+      "url": "/rancilio/egro-one-quick-milk-nms/parts",
+      "code": "egro-one-quick-milk-nms"
+    },
+    {
+      "name": "Egro One Top Milk XP NMS",
+      "url": "/rancilio/egro-one-top-milk-xp-nms/parts",
+      "code": "egro-one-top-milk-xp-nms"
+    },
+    {
+      "name": "Epoca E 1",
+      "url": "/rancilio/epoca-e-1/parts",
+      "code": "epoca-e-1"
+    },
+    {
+      "name": "Epoca E 2",
+      "url": "/rancilio/epoca-e-2/parts",
+      "code": "epoca-e-2"
+    },
+    {
+      "name": "Epoca S 1",
+      "url": "/rancilio/epoca-s-1/parts",
+      "code": "epoca-s-1"
+    },
+    {
+      "name": "Epoca S 2",
+      "url": "/rancilio/epoca-s-2/parts",
+      "code": "epoca-s-2"
+    },
+    {
+      "name": "Epoca S Tank 1",
+      "url": "/rancilio/epoca-s-tank-1/parts",
+      "code": "epoca-s-tank-1"
+    },
+    {
+      "name": "Epoca S Tank 2",
+      "url": "/rancilio/epoca-s-tank-2/parts",
+      "code": "epoca-s-tank-2"
+    },
+    {
+      "name": "Kryo 65 OD",
+      "url": "/rancilio/kryo-65-od/parts",
+      "code": "kryo-65-od"
+    },
+    {
+      "name": "Kryo 65 ST",
+      "url": "/rancilio/kryo-65-st/parts",
+      "code": "kryo-65-st"
+    },
+    {
+      "name": "Rocky SD",
+      "url": "/rancilio/rocky-sd/parts",
+      "code": "rocky-sd"
+    },
+    {
+      "name": "Rocky SS",
+      "url": "/rancilio/rocky-ss/parts",
+      "code": "rocky-ss"
+    },
+    {
+      "name": "Silvia",
+      "url": "/rancilio/silvia/parts",
+      "code": "silvia"
+    }
+  ],
+  "total_models": 24,
+  "cached_at": "2025-08-14T19:54:56.703776"
+}

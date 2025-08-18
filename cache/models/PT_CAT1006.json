@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Amana Menumaster",
+    "code": "PT_CAT1006",
+    "uri": "amana-menumaster"
+  },
+  "models": [
+    {
+      "name": "100A-3R",
+      "url": "/amana-menumaster/100a-3r/parts",
+      "code": "100a-3r"
+    },
+    {
+      "name": "100A-8R",
+      "url": "/amana-menumaster/100a-8r/parts",
+      "code": "100a-8r"
+    },
+    {
+      "name": "100C-2RH",
+      "url": "/amana-menumaster/100c-2rh/parts",
+      "code": "100c-2rh"
+    },
+    {
+      "name": "100C-2RHL",
+      "url": "/amana-menumaster/100c-2rhl/parts",
+      "code": "100c-2rhl"
+    },
+    {
+      "name": "100C-3R",
+      "url": "/amana-menumaster/100c-3r/parts",
+      "code": "100c-3r"
+    },
+    {
+      "name": "100C-3RHL",
+      "url": "/amana-menumaster/100c-3rhl/parts",
+      "code": "100c-3rhl"
+    },
+    {
+      "name": "100C-3RL",
+      "url": "/amana-menumaster/100c-3rl/parts",
+      "code": "100c-3rl"
+    },
+    {
+      "name": "100C-8RH",
+      "url": "/amana-menumaster/100c-8rh/parts",
+      "code": "100c-8rh"
+    },
+    {
+      "name": "100LC-2RH",
+      "url": "/amana-menumaster/100lc-2rh/parts",
+      "code": "100lc-2rh"
+    },
+    {
+      "name": "106-2J (P5439078R)",
+      "url": "/amana-menumaster/106-2j-p5439078r/parts",
+      "code": "106-2j-p5439078r"
+    },
+    {
+      "name": "106-2JH (P5439079R)",
+      "url": "/amana-menumaster/106-2jh-p5439079r/parts",
+      "code": "106-2jh-p5439079r"
+    },
+    {
+      "name": "107-2C",
+      "url": "/amana-menumaster/107-2c/parts",
+      "code": "107-2c"
+    },
+    {
+      "name": "107C-2R",
+      "url": "/amana-menumaster/107c-2r/parts",
+      "code": "107c-2r"
+    },
+    {
+      "name": "107C-2RL",
+      "url": "/amana-menumaster/107c-2rl/parts",
+      "code": "107c-2rl"
+    },
+    {
+      "name": "10M12TA (P1214702R)",
+      "url": "/amana-menumaster/10m12ta-p1214702r/parts",
+      "code": "10m12ta-p1214702r"
+    },
+    {
+      "name": "10M12TA (P1230806R)",
+      "url": "/amana-menumaster/10m12ta-p1230806r/parts",
+      "code": "10m12ta-p1230806r"
+    },
+    {
+      "name": "10M52TA (P1214708R)",
+      "url": "/amana-menumaster/10m52ta-p1214708r/parts",
+      "code": "10m52ta-p1214708r"
+    },
+    {
+      "name": "10M52TB (P1230808R)",
+      "url": "/amana-menumaster/10m52tb-p1230808r/parts",
+      "code": "10m52tb-p1230808r"
+    },
+    {
+      "name": "12,000 BTU",
+      "url": "/amana-menumaster/12-000-btu/parts",
+      "code": "12-000-btu"
+    },
+    {
+      "name": "12QZ22TB (P1200902R)",
+      "url": "/amana-menumaster/12qz22tb-p1200902r/parts",
+      "code": "12qz22tb-p1200902r"
+    },
+    {
+      "name": "14M13TA (P1214808R)",
+      "url": "/amana-menumaster/14m13ta-p1214808r/parts",
+      "code": "14m13ta-p1214808r"
+    },
+    {
+      "name": "14M13TA (P1214809R)",
+      "url": "/amana-menumaster/14m13ta-p1214809r/parts",
+      "code": "14m13ta-p1214809r"
+    },
+    {
+      "name": "14QZ23TA (P1186601R)",
+      "url": "/amana-menumaster/14qz23ta-p1186601r/parts",
+      "code": "14qz23ta-p1186601r"
+    },
+    {
+      "name": "14QZ23TB (P1200801R)",
+      "url": "/amana-menumaster/14qz23tb-p1200801r/parts",
+      "code": "14qz23tb-p1200801r"
+    },
+    {
+      "name": "150A-8R",
+      "url": "/amana-menumaster/150a-8r/parts",
+      "code": "150a-8r"
+    },
+    {
+      "name": "150C-8R",
+      "url": "/amana-menumaster/150c-8r/parts",
+      "code": "150c-8r"
+    },
+    {
+      "name": "18QZ33TA (P1178006R)",
+      "url": "/amana-menumaster/18qz33ta-p1178006r/parts",
+      "code": "18qz33ta-p1178006r"
+    },
+    {
+      "name": "200A-3R",
+      "url": "/amana-menumaster/200a-3r/parts",
+      "code": "200a-3r"
+    },
+    {
+      "name": "200C-3R",
+      "url": "/amana-menumaster/200c-3r/parts",
+      "code": "200c-3r"
+    },
+    {
+      "name": "200C-3RH",
+      "url": "/amana-menumaster/200c-3rh/parts",
+      "code": "200c-3rh"
+    },
+    {
+      "name": "200C-8RH",
+      "url": "/amana-menumaster/200c-8rh/parts",
+      "code": "200c-8rh"
+    },
+    {
+      "name": "210W-3BH",
+      "url": "/amana-menumaster/210w-3bh/parts",
+      "code": "210w-3bh"
+    },
+    {
+      "name": "210W-3JH (P5465527R)",
+      "url": "/amana-menumaster/210w-3jh-p5465527r/parts",
+      "code": "210w-3jh-p5465527r"
+    },
+    {
+      "name": "210W-3SPF",
+      "url": "/amana-menumaster/210w-3spf/parts",
+      "code": "210w-3spf"
+    },
+    {
+      "name": "210W-3SPFH (210W-3SPF H)",
+      "url": "/amana-menumaster/210w-3spfh-210w-3spf-h/parts",
+      "code": "210w-3spfh-210w-3spf-h"
+    },
+    {
+      "name": "210W-3SPGH (210W-3SPG H)",
+      "url": "/amana-menumaster/210w-3spgh-210w-3spg-h/parts",
+      "code": "210w-3spgh-210w-3spg-h"
+    },
+    {
+      "name": "210W-3SPGH (P5429988R)",
+      "url": "/amana-menumaster/210w-3spgh-p5429988r/parts",
+      "code": "210w-3spgh-p5429988r"
+    },
+    {
+      "name": "212-2SPF",
+      "url": "/amana-menumaster/212-2spf/parts",
+      "code": "212-2spf"
+    },
+    {
+      "name": "212-2SPG",
+      "url": "/amana-menumaster/212-2spg/parts",
+      "code": "212-2spg"
+    },
+    {
+      "name": "212-2SPG (P5429986R)",
+      "url": "/amana-menumaster/212-2spg-p5429986r/parts",
+      "code": "212-2spg-p5429986r"
+    },
+    {
+      "name": "212-3J (P5465516R)",
+      "url": "/amana-menumaster/212-3j-p5465516r/parts",
+      "code": "212-3j-p5465516r"
+    },
+    {
+      "name": "212-3SPG (P5429999R)",
+      "url": "/amana-menumaster/212-3spg-p5429999r/parts",
+      "code": "212-3spg-p5429999r"
+    },
+    {
+      "name": "212D-3J (P5465510R)",
+      "url": "/amana-menumaster/212d-3j-p5465510r/parts",
+      "code": "212d-3j-p5465510r"
+    },
+    {
+      "name": "213-3B",
+      "url": "/amana-menumaster/213-3b/parts",
+      "code": "213-3b"
+    },
+    {
+      "name": "213-3BH",
+      "url": "/amana-menumaster/213-3bh/parts",
+      "code": "213-3bh"
+    },
+    {
+      "name": "213-3F",
+      "url": "/amana-menumaster/213-3f/parts",
+      "code": "213-3f"
+    },
+    {
+      "name": "213-3G",
+      "url": "/amana-menumaster/213-3g/parts",
+      "code": "213-3g"
+    },
+    {
+      "name": "213-3G (P5429985R)",
+      "url": "/amana-menumaster/213-3g-p5429985r/parts",
+      "code": "213-3g-p5429985r"
+    },
+    {
+      "name": "213-5B",
+      "url": "/amana-menumaster/213-5b/parts",
+      "code": "213-5b"
+    },
+    {
+      "name": "213-5BH",
+      "url": "/amana-menumaster/213-5bh/parts",
+      "code": "213-5bh"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:42:37.890543"
+}

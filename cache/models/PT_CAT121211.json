@@ -1,0 +1,16 @@
+{
+  "manufacturer": {
+    "name": "Leer",
+    "code": "PT_CAT121211",
+    "uri": "leer"
+  },
+  "models": [
+    {
+      "name": "DS3678CSN",
+      "url": "/leer/ds3678csn/parts",
+      "code": "ds3678csn"
+    }
+  ],
+  "total_models": 1,
+  "cached_at": "2025-08-14T19:20:13.944144"
+}

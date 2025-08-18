@@ -1,0 +1,46 @@
+{
+  "manufacturer": {
+    "name": "AAON",
+    "code": "PT_CATAAON",
+    "uri": "aaon"
+  },
+  "models": [
+    {
+      "name": "RN-013-3-0-FA09-2F4",
+      "url": "/aaon/rn-013-3-0-fa09-2f4/parts",
+      "code": "rn-013-3-0-fa09-2f4"
+    },
+    {
+      "name": "RN-015-3-0-FA09-2G4",
+      "url": "/aaon/rn-015-3-0-fa09-2g4/parts",
+      "code": "rn-015-3-0-fa09-2g4"
+    },
+    {
+      "name": "RN-030-3-0-EQ09-3C4",
+      "url": "/aaon/rn-030-3-0-eq09-3c4/parts",
+      "code": "rn-030-3-0-eq09-3c4"
+    },
+    {
+      "name": "RQ-003-3-V-FA09-214",
+      "url": "/aaon/rq-003-3-v-fa09-214/parts",
+      "code": "rq-003-3-v-fa09-214"
+    },
+    {
+      "name": "RQ-004-3-V-FA09-234",
+      "url": "/aaon/rq-004-3-v-fa09-234/parts",
+      "code": "rq-004-3-v-fa09-234"
+    },
+    {
+      "name": "RQ-006-3-V-0000-234",
+      "url": "/aaon/rq-006-3-v-0000-234/parts",
+      "code": "rq-006-3-v-0000-234"
+    },
+    {
+      "name": "RQ-006-3-V-FA09-234",
+      "url": "/aaon/rq-006-3-v-fa09-234/parts",
+      "code": "rq-006-3-v-fa09-234"
+    }
+  ],
+  "total_models": 7,
+  "cached_at": "2025-08-15T11:45:16.587383"
+}

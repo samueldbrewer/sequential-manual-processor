@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "AyrKing",
+    "code": "PT_CAT243409",
+    "uri": "ayrking"
+  },
+  "models": [
+    {
+      "name": "BBS-U",
+      "url": "/ayrking/bbs-u/parts",
+      "code": "bbs-u"
+    },
+    {
+      "name": "BBS-U-3615-3814",
+      "url": "/ayrking/bbs-u-3615-3814/parts",
+      "code": "bbs-u-3615-3814"
+    },
+    {
+      "name": "BBS-U-4221",
+      "url": "/ayrking/bbs-u-4221/parts",
+      "code": "bbs-u-4221"
+    },
+    {
+      "name": "BBS-U-4226",
+      "url": "/ayrking/bbs-u-4226/parts",
+      "code": "bbs-u-4226"
+    },
+    {
+      "name": "BBS-U-4226-BPC",
+      "url": "/ayrking/bbs-u-4226-bpc/parts",
+      "code": "bbs-u-4226-bpc"
+    },
+    {
+      "name": "BBS-U-4561",
+      "url": "/ayrking/bbs-u-4561/parts",
+      "code": "bbs-u-4561"
+    },
+    {
+      "name": "BBS-U-4830",
+      "url": "/ayrking/bbs-u-4830/parts",
+      "code": "bbs-u-4830"
+    },
+    {
+      "name": "BBS-U-4830-BPC",
+      "url": "/ayrking/bbs-u-4830-bpc/parts",
+      "code": "bbs-u-4830-bpc"
+    },
+    {
+      "name": "BBS-U-7230",
+      "url": "/ayrking/bbs-u-7230/parts",
+      "code": "bbs-u-7230"
+    },
+    {
+      "name": "BBS-U-8132",
+      "url": "/ayrking/bbs-u-8132/parts",
+      "code": "bbs-u-8132"
+    },
+    {
+      "name": "BBS-U-L2934",
+      "url": "/ayrking/bbs-u-l2934/parts",
+      "code": "bbs-u-l2934"
+    },
+    {
+      "name": "BBS-U-L2934-BPC",
+      "url": "/ayrking/bbs-u-l2934-bpc/parts",
+      "code": "bbs-u-l2934-bpc"
+    },
+    {
+      "name": "BBS-U-L2934MX",
+      "url": "/ayrking/bbs-u-l2934mx/parts",
+      "code": "bbs-u-l2934mx"
+    },
+    {
+      "name": "BBSU10032LH",
+      "url": "/ayrking/bbsu10032lh/parts",
+      "code": "bbsu10032lh"
+    },
+    {
+      "name": "BBSU10032RH",
+      "url": "/ayrking/bbsu10032rh/parts",
+      "code": "bbsu10032rh"
+    },
+    {
+      "name": "BBSU3515CD",
+      "url": "/ayrking/bbsu3515cd/parts",
+      "code": "bbsu3515cd"
+    },
+    {
+      "name": "BBSU3515FSP17",
+      "url": "/ayrking/bbsu3515fsp17/parts",
+      "code": "bbsu3515fsp17"
+    },
+    {
+      "name": "BBSU3515H",
+      "url": "/ayrking/bbsu3515h/parts",
+      "code": "bbsu3515h"
+    },
+    {
+      "name": "BBSU3515KTRH",
+      "url": "/ayrking/bbsu3515ktrh/parts",
+      "code": "bbsu3515ktrh"
+    },
+    {
+      "name": "BBSU3515P",
+      "url": "/ayrking/bbsu3515p/parts",
+      "code": "bbsu3515p"
+    },
+    {
+      "name": "BBSU3515P28",
+      "url": "/ayrking/bbsu3515p28/parts",
+      "code": "bbsu3515p28"
+    },
+    {
+      "name": "BBSU3515RHLB",
+      "url": "/ayrking/bbsu3515rhlb/parts",
+      "code": "bbsu3515rhlb"
+    },
+    {
+      "name": "BBSU3615-3814",
+      "url": "/ayrking/bbsu3615-3814/parts",
+      "code": "bbsu3615-3814"
+    },
+    {
+      "name": "BBSU3623",
+      "url": "/ayrking/bbsu3623/parts",
+      "code": "bbsu3623"
+    },
+    {
+      "name": "BBSU4219KK",
+      "url": "/ayrking/bbsu4219kk/parts",
+      "code": "bbsu4219kk"
+    },
+    {
+      "name": "BBSU4221",
+      "url": "/ayrking/bbsu4221/parts",
+      "code": "bbsu4221"
+    },
+    {
+      "name": "BBSU4226",
+      "url": "/ayrking/bbsu4226/parts",
+      "code": "bbsu4226"
+    },
+    {
+      "name": "BBSU4226B241",
+      "url": "/ayrking/bbsu4226b241/parts",
+      "code": "bbsu4226b241"
+    },
+    {
+      "name": "BBSU4226BPC",
+      "url": "/ayrking/bbsu4226bpc/parts",
+      "code": "bbsu4226bpc"
+    },
+    {
+      "name": "BBSU4226BPCB241",
+      "url": "/ayrking/bbsu4226bpcb241/parts",
+      "code": "bbsu4226bpcb241"
+    },
+    {
+      "name": "BBSU4561",
+      "url": "/ayrking/bbsu4561/parts",
+      "code": "bbsu4561"
+    },
+    {
+      "name": "BBSU4561B215",
+      "url": "/ayrking/bbsu4561b215/parts",
+      "code": "bbsu4561b215"
+    },
+    {
+      "name": "BBSU4561B216",
+      "url": "/ayrking/bbsu4561b216/parts",
+      "code": "bbsu4561b216"
+    },
+    {
+      "name": "BBSU4561B241",
+      "url": "/ayrking/bbsu4561b241/parts",
+      "code": "bbsu4561b241"
+    },
+    {
+      "name": "BBSU4561B241B215",
+      "url": "/ayrking/bbsu4561b241b215/parts",
+      "code": "bbsu4561b241b215"
+    },
+    {
+      "name": "BBSU4561B241B216",
+      "url": "/ayrking/bbsu4561b241b216/parts",
+      "code": "bbsu4561b241b216"
+    },
+    {
+      "name": "BBSU4830",
+      "url": "/ayrking/bbsu4830/parts",
+      "code": "bbsu4830"
+    },
+    {
+      "name": "BBSU4830B241",
+      "url": "/ayrking/bbsu4830b241/parts",
+      "code": "bbsu4830b241"
+    },
+    {
+      "name": "BBSU4830BPC",
+      "url": "/ayrking/bbsu4830bpc/parts",
+      "code": "bbsu4830bpc"
+    },
+    {
+      "name": "BBSU4830BPC241",
+      "url": "/ayrking/bbsu4830bpc241/parts",
+      "code": "bbsu4830bpc241"
+    },
+    {
+      "name": "BBSU4830BPCLH",
+      "url": "/ayrking/bbsu4830bpclh/parts",
+      "code": "bbsu4830bpclh"
+    },
+    {
+      "name": "BBSU4830BPCLHB241",
+      "url": "/ayrking/bbsu4830bpclhb241/parts",
+      "code": "bbsu4830bpclhb241"
+    },
+    {
+      "name": "BBSU4830LH",
+      "url": "/ayrking/bbsu4830lh/parts",
+      "code": "bbsu4830lh"
+    },
+    {
+      "name": "BBSU4830LHB241",
+      "url": "/ayrking/bbsu4830lhb241/parts",
+      "code": "bbsu4830lhb241"
+    },
+    {
+      "name": "BBSU4830LHPR",
+      "url": "/ayrking/bbsu4830lhpr/parts",
+      "code": "bbsu4830lhpr"
+    },
+    {
+      "name": "BBSU4830RHPR",
+      "url": "/ayrking/bbsu4830rhpr/parts",
+      "code": "bbsu4830rhpr"
+    },
+    {
+      "name": "BBSU5730BPB241LH",
+      "url": "/ayrking/bbsu5730bpb241lh/parts",
+      "code": "bbsu5730bpb241lh"
+    },
+    {
+      "name": "BBSU5730BPB241RH",
+      "url": "/ayrking/bbsu5730bpb241rh/parts",
+      "code": "bbsu5730bpb241rh"
+    },
+    {
+      "name": "BBSU5730BPLH",
+      "url": "/ayrking/bbsu5730bplh/parts",
+      "code": "bbsu5730bplh"
+    },
+    {
+      "name": "BBSU5730BPRH",
+      "url": "/ayrking/bbsu5730bprh/parts",
+      "code": "bbsu5730bprh"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:50:29.525332"
+}

@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "AM Manufacturing",
+    "code": "PT_CAT223710",
+    "uri": "am-manufacturing"
+  },
+  "models": [
+    {
+      "name": "BF100",
+      "url": "/am-manufacturing/bf100/parts",
+      "code": "bf100"
+    },
+    {
+      "name": "BF110",
+      "url": "/am-manufacturing/bf110/parts",
+      "code": "bf110"
+    },
+    {
+      "name": "LT1800",
+      "url": "/am-manufacturing/lt1800/parts",
+      "code": "lt1800"
+    },
+    {
+      "name": "R500",
+      "url": "/am-manufacturing/r500/parts",
+      "code": "r500"
+    },
+    {
+      "name": "R900C",
+      "url": "/am-manufacturing/r900c/parts",
+      "code": "r900c"
+    },
+    {
+      "name": "R900RT",
+      "url": "/am-manufacturing/r900rt/parts",
+      "code": "r900rt"
+    },
+    {
+      "name": "R900T",
+      "url": "/am-manufacturing/r900t/parts",
+      "code": "r900t"
+    },
+    {
+      "name": "RK2001",
+      "url": "/am-manufacturing/rk2001/parts",
+      "code": "rk2001"
+    },
+    {
+      "name": "RK2200",
+      "url": "/am-manufacturing/rk2200/parts",
+      "code": "rk2200"
+    },
+    {
+      "name": "RK3300",
+      "url": "/am-manufacturing/rk3300/parts",
+      "code": "rk3300"
+    },
+    {
+      "name": "S251",
+      "url": "/am-manufacturing/s251/parts",
+      "code": "s251"
+    },
+    {
+      "name": "S300",
+      "url": "/am-manufacturing/s300/parts",
+      "code": "s300"
+    },
+    {
+      "name": "S302",
+      "url": "/am-manufacturing/s302/parts",
+      "code": "s302"
+    },
+    {
+      "name": "S400",
+      "url": "/am-manufacturing/s400/parts",
+      "code": "s400"
+    },
+    {
+      "name": "S500",
+      "url": "/am-manufacturing/s500/parts",
+      "code": "s500"
+    },
+    {
+      "name": "S502",
+      "url": "/am-manufacturing/s502/parts",
+      "code": "s502"
+    },
+    {
+      "name": "SAB802",
+      "url": "/am-manufacturing/sab802/parts",
+      "code": "sab802"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-15T11:45:42.926311"
+}

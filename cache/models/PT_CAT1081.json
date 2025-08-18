@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Follett",
+    "code": "PT_CAT1081",
+    "uri": "follett"
+  },
+  "models": [
+    {
+      "name": "110CR400A/W",
+      "url": "/follett/110cr400a-w/parts",
+      "code": "110cr400a-w"
+    },
+    {
+      "name": "110CR400A/W-L",
+      "url": "/follett/110cr400a-w-l/parts",
+      "code": "110cr400a-w-l"
+    },
+    {
+      "name": "110CT400A/W",
+      "url": "/follett/110ct400a-w/parts",
+      "code": "110ct400a-w"
+    },
+    {
+      "name": "110CT400A/W-L",
+      "url": "/follett/110ct400a-w-l/parts",
+      "code": "110ct400a-w-l"
+    },
+    {
+      "name": "110CT425A-L",
+      "url": "/follett/110ct425a-l/parts",
+      "code": "110ct425a-l"
+    },
+    {
+      "name": "110CT425A-S",
+      "url": "/follett/110ct425a-s/parts",
+      "code": "110ct425a-s"
+    },
+    {
+      "name": "110CT425W-L",
+      "url": "/follett/110ct425w-l/parts",
+      "code": "110ct425w-l"
+    },
+    {
+      "name": "110CT425W-S",
+      "url": "/follett/110ct425w-s/parts",
+      "code": "110ct425w-s"
+    },
+    {
+      "name": "110FB400A/W",
+      "url": "/follett/110fb400a-w/parts",
+      "code": "110fb400a-w"
+    },
+    {
+      "name": "110FB400A/W-L",
+      "url": "/follett/110fb400a-w-l/parts",
+      "code": "110fb400a-w-l"
+    },
+    {
+      "name": "110FB425A-L",
+      "url": "/follett/110fb425a-l/parts",
+      "code": "110fb425a-l"
+    },
+    {
+      "name": "110FB425A-S",
+      "url": "/follett/110fb425a-s/parts",
+      "code": "110fb425a-s"
+    },
+    {
+      "name": "110FB425W-L",
+      "url": "/follett/110fb425w-l/parts",
+      "code": "110fb425w-l"
+    },
+    {
+      "name": "110FB425W-S",
+      "url": "/follett/110fb425w-s/parts",
+      "code": "110fb425w-s"
+    },
+    {
+      "name": "12CI400A",
+      "url": "/follett/12ci400a/parts",
+      "code": "12ci400a"
+    },
+    {
+      "name": "12CI400A-L",
+      "url": "/follett/12ci400a-l/parts",
+      "code": "12ci400a-l"
+    },
+    {
+      "name": "12CI400A-LI",
+      "url": "/follett/12ci400a-li/parts",
+      "code": "12ci400a-li"
+    },
+    {
+      "name": "12CI400A-S",
+      "url": "/follett/12ci400a-s/parts",
+      "code": "12ci400a-s"
+    },
+    {
+      "name": "12CI400A-SI",
+      "url": "/follett/12ci400a-si/parts",
+      "code": "12ci400a-si"
+    },
+    {
+      "name": "12CI425A-L",
+      "url": "/follett/12ci425a-l/parts",
+      "code": "12ci425a-l"
+    },
+    {
+      "name": "12CI425A-LI",
+      "url": "/follett/12ci425a-li/parts",
+      "code": "12ci425a-li"
+    },
+    {
+      "name": "12CI425A-S",
+      "url": "/follett/12ci425a-s/parts",
+      "code": "12ci425a-s"
+    },
+    {
+      "name": "12CI425A-SI",
+      "url": "/follett/12ci425a-si/parts",
+      "code": "12ci425a-si"
+    },
+    {
+      "name": "12HI400A",
+      "url": "/follett/12hi400a/parts",
+      "code": "12hi400a"
+    },
+    {
+      "name": "12HI400A-S",
+      "url": "/follett/12hi400a-s/parts",
+      "code": "12hi400a-s"
+    },
+    {
+      "name": "12HI425A-L",
+      "url": "/follett/12hi425a-l/parts",
+      "code": "12hi425a-l"
+    },
+    {
+      "name": "12HI425A-LI",
+      "url": "/follett/12hi425a-li/parts",
+      "code": "12hi425a-li"
+    },
+    {
+      "name": "12HI425A-S",
+      "url": "/follett/12hi425a-s/parts",
+      "code": "12hi425a-s"
+    },
+    {
+      "name": "12HI425A-SI",
+      "url": "/follett/12hi425a-si/parts",
+      "code": "12hi425a-si"
+    },
+    {
+      "name": "15 SERIES",
+      "url": "/follett/15-series/parts",
+      "code": "15-series"
+    },
+    {
+      "name": "15CI100A",
+      "url": "/follett/15ci100a/parts",
+      "code": "15ci100a"
+    },
+    {
+      "name": "15CI112A",
+      "url": "/follett/15ci112a/parts",
+      "code": "15ci112a"
+    },
+    {
+      "name": "25CI400A/W",
+      "url": "/follett/25ci400a-w/parts",
+      "code": "25ci400a-w"
+    },
+    {
+      "name": "25CI425A-L",
+      "url": "/follett/25ci425a-l/parts",
+      "code": "25ci425a-l"
+    },
+    {
+      "name": "25CI425A-LI",
+      "url": "/follett/25ci425a-li/parts",
+      "code": "25ci425a-li"
+    },
+    {
+      "name": "25CI425A-S",
+      "url": "/follett/25ci425a-s/parts",
+      "code": "25ci425a-s"
+    },
+    {
+      "name": "25CI425A-SI",
+      "url": "/follett/25ci425a-si/parts",
+      "code": "25ci425a-si"
+    },
+    {
+      "name": "25CI425W-L",
+      "url": "/follett/25ci425w-l/parts",
+      "code": "25ci425w-l"
+    },
+    {
+      "name": "25CI425W-LI",
+      "url": "/follett/25ci425w-li/parts",
+      "code": "25ci425w-li"
+    },
+    {
+      "name": "25CI425W-S",
+      "url": "/follett/25ci425w-s/parts",
+      "code": "25ci425w-s"
+    },
+    {
+      "name": "25CI425W-SI",
+      "url": "/follett/25ci425w-si/parts",
+      "code": "25ci425w-si"
+    },
+    {
+      "name": "25CR400A/W",
+      "url": "/follett/25cr400a-w/parts",
+      "code": "25cr400a-w"
+    },
+    {
+      "name": "25CT400A/W",
+      "url": "/follett/25ct400a-w/parts",
+      "code": "25ct400a-w"
+    },
+    {
+      "name": "25FB400A/W",
+      "url": "/follett/25fb400a-w/parts",
+      "code": "25fb400a-w"
+    },
+    {
+      "name": "25FB425A-L",
+      "url": "/follett/25fb425a-l/parts",
+      "code": "25fb425a-l"
+    },
+    {
+      "name": "25FB425A-LI",
+      "url": "/follett/25fb425a-li/parts",
+      "code": "25fb425a-li"
+    },
+    {
+      "name": "25FB425A-S",
+      "url": "/follett/25fb425a-s/parts",
+      "code": "25fb425a-s"
+    },
+    {
+      "name": "25FB425A-SI",
+      "url": "/follett/25fb425a-si/parts",
+      "code": "25fb425a-si"
+    },
+    {
+      "name": "25FB425W-L",
+      "url": "/follett/25fb425w-l/parts",
+      "code": "25fb425w-l"
+    },
+    {
+      "name": "25FB425W-LI",
+      "url": "/follett/25fb425w-li/parts",
+      "code": "25fb425w-li"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:36:23.427907"
+}

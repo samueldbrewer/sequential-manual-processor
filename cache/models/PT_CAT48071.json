@@ -1,0 +1,176 @@
+{
+  "manufacturer": {
+    "name": "Belleco",
+    "code": "PT_CAT48071",
+    "uri": "belleco"
+  },
+  "models": [
+    {
+      "name": "CBT-15",
+      "url": "/belleco/cbt-15/parts",
+      "code": "cbt-15"
+    },
+    {
+      "name": "JB2-H",
+      "url": "/belleco/jb2-h/parts",
+      "code": "jb2-h"
+    },
+    {
+      "name": "JB3-H",
+      "url": "/belleco/jb3-h/parts",
+      "code": "jb3-h"
+    },
+    {
+      "name": "JB3-HD",
+      "url": "/belleco/jb3-hd/parts",
+      "code": "jb3-hd"
+    },
+    {
+      "name": "JPO-14",
+      "url": "/belleco/jpo-14/parts",
+      "code": "jpo-14"
+    },
+    {
+      "name": "JPO-18",
+      "url": "/belleco/jpo-18/parts",
+      "code": "jpo-18"
+    },
+    {
+      "name": "JSO-14",
+      "url": "/belleco/jso-14/parts",
+      "code": "jso-14"
+    },
+    {
+      "name": "JT-4",
+      "url": "/belleco/jt-4/parts",
+      "code": "jt-4"
+    },
+    {
+      "name": "JT1",
+      "url": "/belleco/jt1/parts",
+      "code": "jt1"
+    },
+    {
+      "name": "JT1-B",
+      "url": "/belleco/jt1-b/parts",
+      "code": "jt1-b"
+    },
+    {
+      "name": "JT1H",
+      "url": "/belleco/jt1h/parts",
+      "code": "jt1h"
+    },
+    {
+      "name": "JT2",
+      "url": "/belleco/jt2/parts",
+      "code": "jt2"
+    },
+    {
+      "name": "JT2-B",
+      "url": "/belleco/jt2-b/parts",
+      "code": "jt2-b"
+    },
+    {
+      "name": "JT2-BQ",
+      "url": "/belleco/jt2-bq/parts",
+      "code": "jt2-bq"
+    },
+    {
+      "name": "JT2-C",
+      "url": "/belleco/jt2-c/parts",
+      "code": "jt2-c"
+    },
+    {
+      "name": "JT2-HC",
+      "url": "/belleco/jt2-hc/parts",
+      "code": "jt2-hc"
+    },
+    {
+      "name": "JT2000",
+      "url": "/belleco/jt2000/parts",
+      "code": "jt2000"
+    },
+    {
+      "name": "JT2H",
+      "url": "/belleco/jt2h/parts",
+      "code": "jt2h"
+    },
+    {
+      "name": "JT3",
+      "url": "/belleco/jt3/parts",
+      "code": "jt3"
+    },
+    {
+      "name": "JT3-BH",
+      "url": "/belleco/jt3-bh/parts",
+      "code": "jt3-bh"
+    },
+    {
+      "name": "JT3-C",
+      "url": "/belleco/jt3-c/parts",
+      "code": "jt3-c"
+    },
+    {
+      "name": "JT3-HC",
+      "url": "/belleco/jt3-hc/parts",
+      "code": "jt3-hc"
+    },
+    {
+      "name": "JT3-HCS",
+      "url": "/belleco/jt3-hcs/parts",
+      "code": "jt3-hcs"
+    },
+    {
+      "name": "JT3BP",
+      "url": "/belleco/jt3bp/parts",
+      "code": "jt3bp"
+    },
+    {
+      "name": "JT3H",
+      "url": "/belleco/jt3h/parts",
+      "code": "jt3h"
+    },
+    {
+      "name": "JT4-HC",
+      "url": "/belleco/jt4-hc/parts",
+      "code": "jt4-hc"
+    },
+    {
+      "name": "JT5",
+      "url": "/belleco/jt5/parts",
+      "code": "jt5"
+    },
+    {
+      "name": "JT5HC",
+      "url": "/belleco/jt5hc/parts",
+      "code": "jt5hc"
+    },
+    {
+      "name": "JW1",
+      "url": "/belleco/jw1/parts",
+      "code": "jw1"
+    },
+    {
+      "name": "JW2",
+      "url": "/belleco/jw2/parts",
+      "code": "jw2"
+    },
+    {
+      "name": "JW30",
+      "url": "/belleco/jw30/parts",
+      "code": "jw30"
+    },
+    {
+      "name": "JW30PA",
+      "url": "/belleco/jw30pa/parts",
+      "code": "jw30pa"
+    },
+    {
+      "name": "MGD-18",
+      "url": "/belleco/mgd-18/parts",
+      "code": "mgd-18"
+    }
+  ],
+  "total_models": 33,
+  "cached_at": "2025-08-14T17:52:47.452735"
+}

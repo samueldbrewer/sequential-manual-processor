@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Gaylord",
+    "code": "PT_CAT276716",
+    "uri": "gaylord"
+  },
+  "models": [
+    {
+      "name": "CG SERIES",
+      "url": "/gaylord/cg-series/parts",
+      "code": "cg-series"
+    },
+    {
+      "name": "CG SERIES C-5000 CONTROL",
+      "url": "/gaylord/cg-series-c-5000-control/parts",
+      "code": "cg-series-c-5000-control"
+    },
+    {
+      "name": "CG3 SERIES",
+      "url": "/gaylord/cg3-series/parts",
+      "code": "cg3-series"
+    },
+    {
+      "name": "CG3 SERIES C-6000B CONTROL",
+      "url": "/gaylord/cg3-series-c-6000b-control/parts",
+      "code": "cg3-series-c-6000b-control"
+    },
+    {
+      "name": "CG3-FDD  C-6000B CONTROL",
+      "url": "/gaylord/cg3-fdd-c-6000b-control/parts",
+      "code": "cg3-fdd-c-6000b-control"
+    },
+    {
+      "name": "CG3-FDD SERIES",
+      "url": "/gaylord/cg3-fdd-series/parts",
+      "code": "cg3-fdd-series"
+    },
+    {
+      "name": "CG3-FDL  C-6000B CONTROL",
+      "url": "/gaylord/cg3-fdl-c-6000b-control/parts",
+      "code": "cg3-fdl-c-6000b-control"
+    },
+    {
+      "name": "CG3-FDL SERIES",
+      "url": "/gaylord/cg3-fdl-series/parts",
+      "code": "cg3-fdl-series"
+    },
+    {
+      "name": "CG3-FDT  C-6000B CONTROL",
+      "url": "/gaylord/cg3-fdt-c-6000b-control/parts",
+      "code": "cg3-fdt-c-6000b-control"
+    },
+    {
+      "name": "CG3-FDT SERIES",
+      "url": "/gaylord/cg3-fdt-series/parts",
+      "code": "cg3-fdt-series"
+    },
+    {
+      "name": "CG3-ND  C-6000B CONTROL",
+      "url": "/gaylord/cg3-nd-c-6000b-control/parts",
+      "code": "cg3-nd-c-6000b-control"
+    },
+    {
+      "name": "CG3-ND SERIES",
+      "url": "/gaylord/cg3-nd-series/parts",
+      "code": "cg3-nd-series"
+    },
+    {
+      "name": "CG3-UV SERIES",
+      "url": "/gaylord/cg3-uv-series/parts",
+      "code": "cg3-uv-series"
+    },
+    {
+      "name": "CG3-UV-FDD SERIES",
+      "url": "/gaylord/cg3-uv-fdd-series/parts",
+      "code": "cg3-uv-fdd-series"
+    },
+    {
+      "name": "CG3-UV-FDL SERIES",
+      "url": "/gaylord/cg3-uv-fdl-series/parts",
+      "code": "cg3-uv-fdl-series"
+    },
+    {
+      "name": "CG3-UV-FDT SERIES",
+      "url": "/gaylord/cg3-uv-fdt-series/parts",
+      "code": "cg3-uv-fdt-series"
+    },
+    {
+      "name": "CG3-UV-ND SERIES",
+      "url": "/gaylord/cg3-uv-nd-series/parts",
+      "code": "cg3-uv-nd-series"
+    },
+    {
+      "name": "CG3-UV-SPC SERIES",
+      "url": "/gaylord/cg3-uv-spc-series/parts",
+      "code": "cg3-uv-spc-series"
+    },
+    {
+      "name": "CG3-UV-SPC-FDD C-6000UV ESP CONTROL",
+      "url": "/gaylord/cg3-uv-spc-fdd-c-6000uv-esp-control/parts",
+      "code": "cg3-uv-spc-fdd-c-6000uv-esp-control"
+    },
+    {
+      "name": "CG3-UV-SPC-FDD SERIES",
+      "url": "/gaylord/cg3-uv-spc-fdd-series/parts",
+      "code": "cg3-uv-spc-fdd-series"
+    },
+    {
+      "name": "CG3-UV-SPC-FDL C-6000UV ESP CONTROL",
+      "url": "/gaylord/cg3-uv-spc-fdl-c-6000uv-esp-control/parts",
+      "code": "cg3-uv-spc-fdl-c-6000uv-esp-control"
+    },
+    {
+      "name": "CG3-UV-SPC-FDL SERIES",
+      "url": "/gaylord/cg3-uv-spc-fdl-series/parts",
+      "code": "cg3-uv-spc-fdl-series"
+    },
+    {
+      "name": "CG3-UV-SPC-ND C-6000UV ESP CONTROL",
+      "url": "/gaylord/cg3-uv-spc-nd-c-6000uv-esp-control/parts",
+      "code": "cg3-uv-spc-nd-c-6000uv-esp-control"
+    },
+    {
+      "name": "CG3-UV-SPC-ND SERIES",
+      "url": "/gaylord/cg3-uv-spc-nd-series/parts",
+      "code": "cg3-uv-spc-nd-series"
+    },
+    {
+      "name": "CG3-UV-SPEC C-6000UV ESP CONTROL",
+      "url": "/gaylord/cg3-uv-spec-c-6000uv-esp-control/parts",
+      "code": "cg3-uv-spec-c-6000uv-esp-control"
+    },
+    {
+      "name": "CG3-UVi SERIES",
+      "url": "/gaylord/cg3-uvi-series/parts",
+      "code": "cg3-uvi-series"
+    },
+    {
+      "name": "CG3-UVi-FDD SERIES",
+      "url": "/gaylord/cg3-uvi-fdd-series/parts",
+      "code": "cg3-uvi-fdd-series"
+    },
+    {
+      "name": "CG3-UVi-FDL SERIES",
+      "url": "/gaylord/cg3-uvi-fdl-series/parts",
+      "code": "cg3-uvi-fdl-series"
+    },
+    {
+      "name": "CG3-UVi-FDT SERIES",
+      "url": "/gaylord/cg3-uvi-fdt-series/parts",
+      "code": "cg3-uvi-fdt-series"
+    },
+    {
+      "name": "CG3-UVi-ND SERIES",
+      "url": "/gaylord/cg3-uvi-nd-series/parts",
+      "code": "cg3-uvi-nd-series"
+    },
+    {
+      "name": "CG3-UVi-SPC SERIES",
+      "url": "/gaylord/cg3-uvi-spc-series/parts",
+      "code": "cg3-uvi-spc-series"
+    },
+    {
+      "name": "CG3-UVi-SPC SERIES C-7000 CONTROL",
+      "url": "/gaylord/cg3-uvi-spc-series-c-7000-control/parts",
+      "code": "cg3-uvi-spc-series-c-7000-control"
+    },
+    {
+      "name": "CG3-UVi-SPC-FDD C-7000 CONTROL",
+      "url": "/gaylord/cg3-uvi-spc-fdd-c-7000-control/parts",
+      "code": "cg3-uvi-spc-fdd-c-7000-control"
+    },
+    {
+      "name": "CG3-UVi-SPC-FDD SERIES",
+      "url": "/gaylord/cg3-uvi-spc-fdd-series/parts",
+      "code": "cg3-uvi-spc-fdd-series"
+    },
+    {
+      "name": "CG3-UVi-SPC-FDL C-7000 CONTROL",
+      "url": "/gaylord/cg3-uvi-spc-fdl-c-7000-control/parts",
+      "code": "cg3-uvi-spc-fdl-c-7000-control"
+    },
+    {
+      "name": "CG3-UVi-SPC-FDL SERIES",
+      "url": "/gaylord/cg3-uvi-spc-fdl-series/parts",
+      "code": "cg3-uvi-spc-fdl-series"
+    },
+    {
+      "name": "CG3-UVi-SPC-FDT C-7000 CONTROL",
+      "url": "/gaylord/cg3-uvi-spc-fdt-c-7000-control/parts",
+      "code": "cg3-uvi-spc-fdt-c-7000-control"
+    },
+    {
+      "name": "CG3-UVi-SPC-FDT SERIES",
+      "url": "/gaylord/cg3-uvi-spc-fdt-series/parts",
+      "code": "cg3-uvi-spc-fdt-series"
+    },
+    {
+      "name": "CG3-UVi-SPC-ND C-7000 CONTROL",
+      "url": "/gaylord/cg3-uvi-spc-nd-c-7000-control/parts",
+      "code": "cg3-uvi-spc-nd-c-7000-control"
+    },
+    {
+      "name": "CG3-UVi-SPC-ND SERIES",
+      "url": "/gaylord/cg3-uvi-spc-nd-series/parts",
+      "code": "cg3-uvi-spc-nd-series"
+    },
+    {
+      "name": "CUV-1000 SERIES",
+      "url": "/gaylord/cuv-1000-series/parts",
+      "code": "cuv-1000-series"
+    },
+    {
+      "name": "DCA",
+      "url": "/gaylord/dca/parts",
+      "code": "dca"
+    },
+    {
+      "name": "EL SERIES",
+      "url": "/gaylord/el-series/parts",
+      "code": "el-series"
+    },
+    {
+      "name": "EL-BB SERIES",
+      "url": "/gaylord/el-bb-series/parts",
+      "code": "el-bb-series"
+    },
+    {
+      "name": "EL-BBC-CL SERIES",
+      "url": "/gaylord/el-bbc-cl-series/parts",
+      "code": "el-bbc-cl-series"
+    },
+    {
+      "name": "ELX SERIES",
+      "url": "/gaylord/elx-series/parts",
+      "code": "elx-series"
+    },
+    {
+      "name": "ELX-ENL SERIES",
+      "url": "/gaylord/elx-enl-series/parts",
+      "code": "elx-enl-series"
+    },
+    {
+      "name": "ELX-UV SERIES",
+      "url": "/gaylord/elx-uv-series/parts",
+      "code": "elx-uv-series"
+    },
+    {
+      "name": "ELX-UVi SERIES",
+      "url": "/gaylord/elx-uvi-series/parts",
+      "code": "elx-uvi-series"
+    },
+    {
+      "name": "ELXC SERIES",
+      "url": "/gaylord/elxc-series/parts",
+      "code": "elxc-series"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:43:55.608907"
+}

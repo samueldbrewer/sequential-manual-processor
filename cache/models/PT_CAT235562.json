@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Electrolux Home Products Inc",
+    "code": "PT_CAT235562",
+    "uri": "electrolux-home-products-inc"
+  },
+  "models": [
+    {
+      "name": "ECCG3068AS",
+      "url": "/electrolux-home-products-inc/eccg3068as/parts",
+      "code": "eccg3068as"
+    },
+    {
+      "name": "ECCG3668AS",
+      "url": "/electrolux-home-products-inc/eccg3668as/parts",
+      "code": "eccg3668as"
+    },
+    {
+      "name": "EI33AF80WS",
+      "url": "/electrolux-home-products-inc/ei33af80ws/parts",
+      "code": "ei33af80ws"
+    },
+    {
+      "name": "EI33AR80WS",
+      "url": "/electrolux-home-products-inc/ei33ar80ws/parts",
+      "code": "ei33ar80ws"
+    },
+    {
+      "name": "ERFC2393AS",
+      "url": "/electrolux-home-products-inc/erfc2393as/parts",
+      "code": "erfc2393as"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T18:26:06.548750"
+}

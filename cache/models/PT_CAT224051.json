@@ -1,0 +1,176 @@
+{
+  "manufacturer": {
+    "name": "ASBER",
+    "code": "PT_CAT224051",
+    "uri": "asber"
+  },
+  "models": [
+    {
+      "name": "ABBC-23- S/SG",
+      "url": "/asber/abbc-23-s-sg/parts",
+      "code": "abbc-23-s-sg"
+    },
+    {
+      "name": "ABBC/DD-23",
+      "url": "/asber/abbc-dd-23/parts",
+      "code": "abbc-dd-23"
+    },
+    {
+      "name": "ACTC 55",
+      "url": "/asber/actc-55/parts",
+      "code": "actc-55"
+    },
+    {
+      "name": "ACTC 69",
+      "url": "/asber/actc-69/parts",
+      "code": "actc-69"
+    },
+    {
+      "name": "ACTC 69 SL",
+      "url": "/asber/actc-69-sl/parts",
+      "code": "actc-69-sl"
+    },
+    {
+      "name": "AECM-24 LP",
+      "url": "/asber/aecm-24-lp/parts",
+      "code": "aecm-24-lp"
+    },
+    {
+      "name": "AECM-24 NG",
+      "url": "/asber/aecm-24-ng/parts",
+      "code": "aecm-24-ng"
+    },
+    {
+      "name": "AECM-39 LP",
+      "url": "/asber/aecm-39-lp/parts",
+      "code": "aecm-39-lp"
+    },
+    {
+      "name": "AECM-39 NG",
+      "url": "/asber/aecm-39-ng/parts",
+      "code": "aecm-39-ng"
+    },
+    {
+      "name": "AEF-4050 LP",
+      "url": "/asber/aef-4050-lp/parts",
+      "code": "aef-4050-lp"
+    },
+    {
+      "name": "AEF-4050 NG",
+      "url": "/asber/aef-4050-ng/parts",
+      "code": "aef-4050-ng"
+    },
+    {
+      "name": "AEMG -12 LP",
+      "url": "/asber/aemg-12-lp/parts",
+      "code": "aemg-12-lp"
+    },
+    {
+      "name": "AEMG -12 NG",
+      "url": "/asber/aemg-12-ng/parts",
+      "code": "aemg-12-ng"
+    },
+    {
+      "name": "AEMG -24 H LP",
+      "url": "/asber/aemg-24-h-lp/parts",
+      "code": "aemg-24-h-lp"
+    },
+    {
+      "name": "AEMG -24 H NG",
+      "url": "/asber/aemg-24-h-ng/parts",
+      "code": "aemg-24-h-ng"
+    },
+    {
+      "name": "AEMG -36 H NG",
+      "url": "/asber/aemg-36-h-ng/parts",
+      "code": "aemg-36-h-ng"
+    },
+    {
+      "name": "AEMG -48 H NG",
+      "url": "/asber/aemg-48-h-ng/parts",
+      "code": "aemg-48-h-ng"
+    },
+    {
+      "name": "AEMG-36 H LP",
+      "url": "/asber/aemg-36-h-lp/parts",
+      "code": "aemg-36-h-lp"
+    },
+    {
+      "name": "AEMG-48 H LP",
+      "url": "/asber/aemg-48-h-lp/parts",
+      "code": "aemg-48-h-lp"
+    },
+    {
+      "name": "AER 4-24 LP",
+      "url": "/asber/aer-4-24-lp/parts",
+      "code": "aer-4-24-lp"
+    },
+    {
+      "name": "AER 4-24 NG",
+      "url": "/asber/aer-4-24-ng/parts",
+      "code": "aer-4-24-ng"
+    },
+    {
+      "name": "AER 6-36 LP",
+      "url": "/asber/aer-6-36-lp/parts",
+      "code": "aer-6-36-lp"
+    },
+    {
+      "name": "AER 6-36 NG",
+      "url": "/asber/aer-6-36-ng/parts",
+      "code": "aer-6-36-ng"
+    },
+    {
+      "name": "AESP 18-2 LP",
+      "url": "/asber/aesp-18-2-lp/parts",
+      "code": "aesp-18-2-lp"
+    },
+    {
+      "name": "AESP 48-4 LP",
+      "url": "/asber/aesp-48-4-lp/parts",
+      "code": "aesp-48-4-lp"
+    },
+    {
+      "name": "AESP-18-2 NG",
+      "url": "/asber/aesp-18-2-ng/parts",
+      "code": "aesp-18-2-ng"
+    },
+    {
+      "name": "AFMD-23",
+      "url": "/asber/afmd-23/parts",
+      "code": "afmd-23"
+    },
+    {
+      "name": "APTP-93",
+      "url": "/asber/aptp-93/parts",
+      "code": "aptp-93"
+    },
+    {
+      "name": "APTS-48-12",
+      "url": "/asber/apts-48-12/parts",
+      "code": "apts-48-12"
+    },
+    {
+      "name": "APTS-60-16",
+      "url": "/asber/apts-60-16/parts",
+      "code": "apts-60-16"
+    },
+    {
+      "name": "APTS-72-18",
+      "url": "/asber/apts-72-18/parts",
+      "code": "apts-72-18"
+    },
+    {
+      "name": "ARR-17",
+      "url": "/asber/arr-17/parts",
+      "code": "arr-17"
+    },
+    {
+      "name": "AUTR-27",
+      "url": "/asber/autr-27/parts",
+      "code": "autr-27"
+    }
+  ],
+  "total_models": 33,
+  "cached_at": "2025-08-14T17:34:04.113361"
+}

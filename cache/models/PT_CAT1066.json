@@ -1,0 +1,241 @@
+{
+  "manufacturer": {
+    "name": "EmberGlo",
+    "code": "PT_CAT1066",
+    "uri": "emberglo"
+  },
+  "models": [
+    {
+      "name": "25",
+      "url": "/emberglo/25/parts",
+      "code": "25"
+    },
+    {
+      "name": "25C",
+      "url": "/emberglo/25c/parts",
+      "code": "25c"
+    },
+    {
+      "name": "25C KABOB",
+      "url": "/emberglo/25c-kabob/parts",
+      "code": "25c-kabob"
+    },
+    {
+      "name": "25F",
+      "url": "/emberglo/25f/parts",
+      "code": "25f"
+    },
+    {
+      "name": "25F KABOB",
+      "url": "/emberglo/25f-kabob/parts",
+      "code": "25f-kabob"
+    },
+    {
+      "name": "25WC KABOB",
+      "url": "/emberglo/25wc-kabob/parts",
+      "code": "25wc-kabob"
+    },
+    {
+      "name": "25WF KABOB",
+      "url": "/emberglo/25wf-kabob/parts",
+      "code": "25wf-kabob"
+    },
+    {
+      "name": "31",
+      "url": "/emberglo/31/parts",
+      "code": "31"
+    },
+    {
+      "name": "31C",
+      "url": "/emberglo/31c/parts",
+      "code": "31c"
+    },
+    {
+      "name": "31C KABOB",
+      "url": "/emberglo/31c-kabob/parts",
+      "code": "31c-kabob"
+    },
+    {
+      "name": "31F",
+      "url": "/emberglo/31f/parts",
+      "code": "31f"
+    },
+    {
+      "name": "31F KABOB",
+      "url": "/emberglo/31f-kabob/parts",
+      "code": "31f-kabob"
+    },
+    {
+      "name": "31NC",
+      "url": "/emberglo/31nc/parts",
+      "code": "31nc"
+    },
+    {
+      "name": "31NF",
+      "url": "/emberglo/31nf/parts",
+      "code": "31nf"
+    },
+    {
+      "name": "41",
+      "url": "/emberglo/41/parts",
+      "code": "41"
+    },
+    {
+      "name": "41C",
+      "url": "/emberglo/41c/parts",
+      "code": "41c"
+    },
+    {
+      "name": "41F",
+      "url": "/emberglo/41f/parts",
+      "code": "41f"
+    },
+    {
+      "name": "AR30",
+      "url": "/emberglo/ar30/parts",
+      "code": "ar30"
+    },
+    {
+      "name": "AR60",
+      "url": "/emberglo/ar60/parts",
+      "code": "ar60"
+    },
+    {
+      "name": "AR60CTS",
+      "url": "/emberglo/ar60cts/parts",
+      "code": "ar60cts"
+    },
+    {
+      "name": "AR60T",
+      "url": "/emberglo/ar60t/parts",
+      "code": "ar60t"
+    },
+    {
+      "name": "E2412",
+      "url": "/emberglo/e2412/parts",
+      "code": "e2412"
+    },
+    {
+      "name": "E2424",
+      "url": "/emberglo/e2424/parts",
+      "code": "e2424"
+    },
+    {
+      "name": "E2436",
+      "url": "/emberglo/e2436/parts",
+      "code": "e2436"
+    },
+    {
+      "name": "E2436F",
+      "url": "/emberglo/e2436f/parts",
+      "code": "e2436f"
+    },
+    {
+      "name": "ES10PB",
+      "url": "/emberglo/es10pb/parts",
+      "code": "es10pb"
+    },
+    {
+      "name": "ES10TE",
+      "url": "/emberglo/es10te/parts",
+      "code": "es10te"
+    },
+    {
+      "name": "ES10TI",
+      "url": "/emberglo/es10ti/parts",
+      "code": "es10ti"
+    },
+    {
+      "name": "ES5CT",
+      "url": "/emberglo/es5ct/parts",
+      "code": "es5ct"
+    },
+    {
+      "name": "ES5CT18",
+      "url": "/emberglo/es5ct18/parts",
+      "code": "es5ct18"
+    },
+    {
+      "name": "ES5CTS",
+      "url": "/emberglo/es5cts/parts",
+      "code": "es5cts"
+    },
+    {
+      "name": "ES5CTS18",
+      "url": "/emberglo/es5cts18/parts",
+      "code": "es5cts18"
+    },
+    {
+      "name": "ES5M",
+      "url": "/emberglo/es5m/parts",
+      "code": "es5m"
+    },
+    {
+      "name": "ES5M18",
+      "url": "/emberglo/es5m18/parts",
+      "code": "es5m18"
+    },
+    {
+      "name": "ES5M18SB",
+      "url": "/emberglo/es5m18sb/parts",
+      "code": "es5m18sb"
+    },
+    {
+      "name": "ES5MT",
+      "url": "/emberglo/es5mt/parts",
+      "code": "es5mt"
+    },
+    {
+      "name": "ES5PB",
+      "url": "/emberglo/es5pb/parts",
+      "code": "es5pb"
+    },
+    {
+      "name": "ES5PB18",
+      "url": "/emberglo/es5pb18/parts",
+      "code": "es5pb18"
+    },
+    {
+      "name": "ES5PBS",
+      "url": "/emberglo/es5pbs/parts",
+      "code": "es5pbs"
+    },
+    {
+      "name": "ES5PBS18",
+      "url": "/emberglo/es5pbs18/parts",
+      "code": "es5pbs18"
+    },
+    {
+      "name": "ES5PC",
+      "url": "/emberglo/es5pc/parts",
+      "code": "es5pc"
+    },
+    {
+      "name": "ES5PCS",
+      "url": "/emberglo/es5pcs/parts",
+      "code": "es5pcs"
+    },
+    {
+      "name": "ES5PTS",
+      "url": "/emberglo/es5pts/parts",
+      "code": "es5pts"
+    },
+    {
+      "name": "ES5T",
+      "url": "/emberglo/es5t/parts",
+      "code": "es5t"
+    },
+    {
+      "name": "ES5TS",
+      "url": "/emberglo/es5ts/parts",
+      "code": "es5ts"
+    },
+    {
+      "name": "ES5TS18",
+      "url": "/emberglo/es5ts18/parts",
+      "code": "es5ts18"
+    }
+  ],
+  "total_models": 46,
+  "cached_at": "2025-08-14T18:28:15.321755"
+}

@@ -1,0 +1,36 @@
+{
+  "manufacturer": {
+    "name": "Metro",
+    "code": "PT_CAT283204",
+    "uri": "metro"
+  },
+  "models": [
+    {
+      "name": "C5T9-ASB",
+      "url": "/metro/c5t9-asb/parts",
+      "code": "c5t9-asb"
+    },
+    {
+      "name": "INS1436TOR",
+      "url": "/metro/ins1436tor/parts",
+      "code": "ins1436tor"
+    },
+    {
+      "name": "METROMAX I",
+      "url": "/metro/metromax-i/parts",
+      "code": "metromax-i"
+    },
+    {
+      "name": "METROMAX Q",
+      "url": "/metro/metromax-q/parts",
+      "code": "metromax-q"
+    },
+    {
+      "name": "SUPER ERECTA",
+      "url": "/metro/super-erecta/parts",
+      "code": "super-erecta"
+    }
+  ],
+  "total_models": 5,
+  "cached_at": "2025-08-14T19:30:25.231266"
+}

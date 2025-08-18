@@ -1,0 +1,76 @@
+{
+  "manufacturer": {
+    "name": "Intermetro",
+    "code": "PT_CAT1106",
+    "uri": "intermetro"
+  },
+  "models": [
+    {
+      "name": "C175",
+      "url": "/intermetro/c175/parts",
+      "code": "c175"
+    },
+    {
+      "name": "C199",
+      "url": "/intermetro/c199/parts",
+      "code": "c199"
+    },
+    {
+      "name": "C200",
+      "url": "/intermetro/c200/parts",
+      "code": "c200"
+    },
+    {
+      "name": "C5 1 SERIES / 3 SERIES 120V",
+      "url": "/intermetro/c5-1-series-3-series-120v/parts",
+      "code": "c5-1-series-3-series-120v"
+    },
+    {
+      "name": "C5 1 SERIES / 3 SERIES 220-240V",
+      "url": "/intermetro/c5-1-series-3-series-220-240v/parts",
+      "code": "c5-1-series-3-series-220-240v"
+    },
+    {
+      "name": "C5 8 SERIES",
+      "url": "/intermetro/c5-8-series/parts",
+      "code": "c5-8-series"
+    },
+    {
+      "name": "C5 9 SERIES",
+      "url": "/intermetro/c5-9-series/parts",
+      "code": "c5-9-series"
+    },
+    {
+      "name": "FL199",
+      "url": "/intermetro/fl199/parts",
+      "code": "fl199"
+    },
+    {
+      "name": "MBQ SERIES",
+      "url": "/intermetro/mbq-series/parts",
+      "code": "mbq-series"
+    },
+    {
+      "name": "MBQ SERIES TOP MOUNT",
+      "url": "/intermetro/mbq-series-top-mount/parts",
+      "code": "mbq-series-top-mount"
+    },
+    {
+      "name": "Shelving",
+      "url": "/intermetro/shelving/parts",
+      "code": "shelving"
+    },
+    {
+      "name": "TC90B",
+      "url": "/intermetro/tc90b/parts",
+      "code": "tc90b"
+    },
+    {
+      "name": "TC90S",
+      "url": "/intermetro/tc90s/parts",
+      "code": "tc90s"
+    }
+  ],
+  "total_models": 13,
+  "cached_at": "2025-08-14T19:07:24.075274"
+}

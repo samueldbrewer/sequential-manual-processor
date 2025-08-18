@@ -1,0 +1,131 @@
+{
+  "manufacturer": {
+    "name": "Saturn",
+    "code": "PT_CAT47985",
+    "uri": "saturn"
+  },
+  "models": [
+    {
+      "name": "S23F",
+      "url": "/saturn/s23f/parts",
+      "code": "s23f"
+    },
+    {
+      "name": "S23R",
+      "url": "/saturn/s23r/parts",
+      "code": "s23r"
+    },
+    {
+      "name": "S23RG",
+      "url": "/saturn/s23rg/parts",
+      "code": "s23rg"
+    },
+    {
+      "name": "S49F",
+      "url": "/saturn/s49f/parts",
+      "code": "s49f"
+    },
+    {
+      "name": "S49R",
+      "url": "/saturn/s49r/parts",
+      "code": "s49r"
+    },
+    {
+      "name": "S49RG",
+      "url": "/saturn/s49rg/parts",
+      "code": "s49rg"
+    },
+    {
+      "name": "SCB48-HD",
+      "url": "/saturn/scb48-hd/parts",
+      "code": "scb48-hd"
+    },
+    {
+      "name": "SF40",
+      "url": "/saturn/sf40/parts",
+      "code": "sf40"
+    },
+    {
+      "name": "SMG48",
+      "url": "/saturn/smg48/parts",
+      "code": "smg48"
+    },
+    {
+      "name": "SMG48F",
+      "url": "/saturn/smg48f/parts",
+      "code": "smg48f"
+    },
+    {
+      "name": "SMG72",
+      "url": "/saturn/smg72/parts",
+      "code": "smg72"
+    },
+    {
+      "name": "SMG72F",
+      "url": "/saturn/smg72f/parts",
+      "code": "smg72f"
+    },
+    {
+      "name": "SPT-44",
+      "url": "/saturn/spt-44/parts",
+      "code": "spt-44"
+    },
+    {
+      "name": "SPT-67",
+      "url": "/saturn/spt-67/parts",
+      "code": "spt-67"
+    },
+    {
+      "name": "SPT-93",
+      "url": "/saturn/spt-93/parts",
+      "code": "spt-93"
+    },
+    {
+      "name": "STM23F",
+      "url": "/saturn/stm23f/parts",
+      "code": "stm23f"
+    },
+    {
+      "name": "STM23R",
+      "url": "/saturn/stm23r/parts",
+      "code": "stm23r"
+    },
+    {
+      "name": "STM49F",
+      "url": "/saturn/stm49f/parts",
+      "code": "stm49f"
+    },
+    {
+      "name": "STM49R",
+      "url": "/saturn/stm49r/parts",
+      "code": "stm49r"
+    },
+    {
+      "name": "STM72F",
+      "url": "/saturn/stm72f/parts",
+      "code": "stm72f"
+    },
+    {
+      "name": "STM72R",
+      "url": "/saturn/stm72r/parts",
+      "code": "stm72r"
+    },
+    {
+      "name": "SUSS-27-12",
+      "url": "/saturn/suss-27-12/parts",
+      "code": "suss-27-12"
+    },
+    {
+      "name": "SUSS-27-8",
+      "url": "/saturn/suss-27-8/parts",
+      "code": "suss-27-8"
+    },
+    {
+      "name": "SUSS-48-12",
+      "url": "/saturn/suss-48-12/parts",
+      "code": "suss-48-12"
+    }
+  ],
+  "total_models": 24,
+  "cached_at": "2025-08-14T22:21:25.049832"
+}

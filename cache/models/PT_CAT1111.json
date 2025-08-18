@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Jackson",
+    "code": "PT_CAT1111",
+    "uri": "jackson"
+  },
+  "models": [
+    {
+      "name": "10A",
+      "url": "/jackson/10a/parts",
+      "code": "10a"
+    },
+    {
+      "name": "10AB",
+      "url": "/jackson/10ab/parts",
+      "code": "10ab"
+    },
+    {
+      "name": "10APRB",
+      "url": "/jackson/10aprb/parts",
+      "code": "10aprb"
+    },
+    {
+      "name": "10U",
+      "url": "/jackson/10u/parts",
+      "code": "10u"
+    },
+    {
+      "name": "200",
+      "url": "/jackson/200/parts",
+      "code": "200"
+    },
+    {
+      "name": "200B",
+      "url": "/jackson/200b/parts",
+      "code": "200b"
+    },
+    {
+      "name": "200LT",
+      "url": "/jackson/200lt/parts",
+      "code": "200lt"
+    },
+    {
+      "name": "200S",
+      "url": "/jackson/200s/parts",
+      "code": "200s"
+    },
+    {
+      "name": "300X",
+      "url": "/jackson/300x/parts",
+      "code": "300x"
+    },
+    {
+      "name": "300XLT",
+      "url": "/jackson/300xlt/parts",
+      "code": "300xlt"
+    },
+    {
+      "name": "300XN",
+      "url": "/jackson/300xn/parts",
+      "code": "300xn"
+    },
+    {
+      "name": "300XS",
+      "url": "/jackson/300xs/parts",
+      "code": "300xs"
+    },
+    {
+      "name": "AJ-100",
+      "url": "/jackson/aj-100/parts",
+      "code": "aj-100"
+    },
+    {
+      "name": "AJ-100CE",
+      "url": "/jackson/aj-100ce/parts",
+      "code": "aj-100ce"
+    },
+    {
+      "name": "AJ-100CGP",
+      "url": "/jackson/aj-100cgp/parts",
+      "code": "aj-100cgp"
+    },
+    {
+      "name": "AJ-100CS",
+      "url": "/jackson/aj-100cs/parts",
+      "code": "aj-100cs"
+    },
+    {
+      "name": "AJ-44",
+      "url": "/jackson/aj-44/parts",
+      "code": "aj-44"
+    },
+    {
+      "name": "AJ-44CE",
+      "url": "/jackson/aj-44ce/parts",
+      "code": "aj-44ce"
+    },
+    {
+      "name": "AJ-44CEL",
+      "url": "/jackson/aj-44cel/parts",
+      "code": "aj-44cel"
+    },
+    {
+      "name": "AJ-44CGP",
+      "url": "/jackson/aj-44cgp/parts",
+      "code": "aj-44cgp"
+    },
+    {
+      "name": "AJ-44CS",
+      "url": "/jackson/aj-44cs/parts",
+      "code": "aj-44cs"
+    },
+    {
+      "name": "AJ-44CSL",
+      "url": "/jackson/aj-44csl/parts",
+      "code": "aj-44csl"
+    },
+    {
+      "name": "AJ-44TE",
+      "url": "/jackson/aj-44te/parts",
+      "code": "aj-44te"
+    },
+    {
+      "name": "AJ-44TG",
+      "url": "/jackson/aj-44tg/parts",
+      "code": "aj-44tg"
+    },
+    {
+      "name": "AJ-44TS",
+      "url": "/jackson/aj-44ts/parts",
+      "code": "aj-44ts"
+    },
+    {
+      "name": "AJ-54",
+      "url": "/jackson/aj-54/parts",
+      "code": "aj-54"
+    },
+    {
+      "name": "AJ-54CE",
+      "url": "/jackson/aj-54ce/parts",
+      "code": "aj-54ce"
+    },
+    {
+      "name": "AJ-54CGP",
+      "url": "/jackson/aj-54cgp/parts",
+      "code": "aj-54cgp"
+    },
+    {
+      "name": "AJ-54CS",
+      "url": "/jackson/aj-54cs/parts",
+      "code": "aj-54cs"
+    },
+    {
+      "name": "AJ-64",
+      "url": "/jackson/aj-64/parts",
+      "code": "aj-64"
+    },
+    {
+      "name": "AJ-64CE",
+      "url": "/jackson/aj-64ce/parts",
+      "code": "aj-64ce"
+    },
+    {
+      "name": "AJ-64CS",
+      "url": "/jackson/aj-64cs/parts",
+      "code": "aj-64cs"
+    },
+    {
+      "name": "AJ-66",
+      "url": "/jackson/aj-66/parts",
+      "code": "aj-66"
+    },
+    {
+      "name": "AJ-66CE",
+      "url": "/jackson/aj-66ce/parts",
+      "code": "aj-66ce"
+    },
+    {
+      "name": "AJ-66CEL",
+      "url": "/jackson/aj-66cel/parts",
+      "code": "aj-66cel"
+    },
+    {
+      "name": "AJ-66CGP",
+      "url": "/jackson/aj-66cgp/parts",
+      "code": "aj-66cgp"
+    },
+    {
+      "name": "AJ-66CS",
+      "url": "/jackson/aj-66cs/parts",
+      "code": "aj-66cs"
+    },
+    {
+      "name": "AJ-66CSL",
+      "url": "/jackson/aj-66csl/parts",
+      "code": "aj-66csl"
+    },
+    {
+      "name": "AJ-66TE",
+      "url": "/jackson/aj-66te/parts",
+      "code": "aj-66te"
+    },
+    {
+      "name": "AJ-66TG",
+      "url": "/jackson/aj-66tg/parts",
+      "code": "aj-66tg"
+    },
+    {
+      "name": "AJ-66TS",
+      "url": "/jackson/aj-66ts/parts",
+      "code": "aj-66ts"
+    },
+    {
+      "name": "AJ-76",
+      "url": "/jackson/aj-76/parts",
+      "code": "aj-76"
+    },
+    {
+      "name": "AJ-76CE",
+      "url": "/jackson/aj-76ce/parts",
+      "code": "aj-76ce"
+    },
+    {
+      "name": "AJ-76CGP",
+      "url": "/jackson/aj-76cgp/parts",
+      "code": "aj-76cgp"
+    },
+    {
+      "name": "AJ-76CS",
+      "url": "/jackson/aj-76cs/parts",
+      "code": "aj-76cs"
+    },
+    {
+      "name": "AJ-80CE",
+      "url": "/jackson/aj-80ce/parts",
+      "code": "aj-80ce"
+    },
+    {
+      "name": "AJ-80CEL",
+      "url": "/jackson/aj-80cel/parts",
+      "code": "aj-80cel"
+    },
+    {
+      "name": "AJ-80CS",
+      "url": "/jackson/aj-80cs/parts",
+      "code": "aj-80cs"
+    },
+    {
+      "name": "AJ-80CSL",
+      "url": "/jackson/aj-80csl/parts",
+      "code": "aj-80csl"
+    },
+    {
+      "name": "AJ-80TE",
+      "url": "/jackson/aj-80te/parts",
+      "code": "aj-80te"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:09:06.319407"
+}

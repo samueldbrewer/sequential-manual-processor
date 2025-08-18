@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Hussmann",
+    "code": "PT_CAT47945",
+    "uri": "hussmann"
+  },
+  "models": [
+    {
+      "name": "B1X-GE",
+      "url": "/hussmann/b1x-ge/parts",
+      "code": "b1x-ge"
+    },
+    {
+      "name": "B1X12GEM",
+      "url": "/hussmann/b1x12gem/parts",
+      "code": "b1x12gem"
+    },
+    {
+      "name": "B1X8GEM",
+      "url": "/hussmann/b1x8gem/parts",
+      "code": "b1x8gem"
+    },
+    {
+      "name": "B3XC-LEP",
+      "url": "/hussmann/b3xc-lep/parts",
+      "code": "b3xc-lep"
+    },
+    {
+      "name": "B3XC-LGEP",
+      "url": "/hussmann/b3xc-lgep/parts",
+      "code": "b3xc-lgep"
+    },
+    {
+      "name": "B3XC12LEPM",
+      "url": "/hussmann/b3xc12lepm/parts",
+      "code": "b3xc12lepm"
+    },
+    {
+      "name": "B3XC12LGEM",
+      "url": "/hussmann/b3xc12lgem/parts",
+      "code": "b3xc12lgem"
+    },
+    {
+      "name": "B3XC6LEPM",
+      "url": "/hussmann/b3xc6lepm/parts",
+      "code": "b3xc6lepm"
+    },
+    {
+      "name": "B3XC6LGEPM",
+      "url": "/hussmann/b3xc6lgepm/parts",
+      "code": "b3xc6lgepm"
+    },
+    {
+      "name": "B3XC8LEPM",
+      "url": "/hussmann/b3xc8lepm/parts",
+      "code": "b3xc8lepm"
+    },
+    {
+      "name": "B3XC8LGEPM",
+      "url": "/hussmann/b3xc8lgepm/parts",
+      "code": "b3xc8lgepm"
+    },
+    {
+      "name": "B4X-E",
+      "url": "/hussmann/b4x-e/parts",
+      "code": "b4x-e"
+    },
+    {
+      "name": "B4X10EM",
+      "url": "/hussmann/b4x10em/parts",
+      "code": "b4x10em"
+    },
+    {
+      "name": "B4X12EM",
+      "url": "/hussmann/b4x12em/parts",
+      "code": "b4x12em"
+    },
+    {
+      "name": "B4X8EM",
+      "url": "/hussmann/b4x8em/parts",
+      "code": "b4x8em"
+    },
+    {
+      "name": "B5XEC-L",
+      "url": "/hussmann/b5xec-l/parts",
+      "code": "b5xec-l"
+    },
+    {
+      "name": "BEXD-8",
+      "url": "/hussmann/bexd-8/parts",
+      "code": "bexd-8"
+    },
+    {
+      "name": "BEXD-8A",
+      "url": "/hussmann/bexd-8a/parts",
+      "code": "bexd-8a"
+    },
+    {
+      "name": "BEXD8AM",
+      "url": "/hussmann/bexd8am/parts",
+      "code": "bexd8am"
+    },
+    {
+      "name": "BEXD8M",
+      "url": "/hussmann/bexd8m/parts",
+      "code": "bexd8m"
+    },
+    {
+      "name": "BEXDW-G",
+      "url": "/hussmann/bexdw-g/parts",
+      "code": "bexdw-g"
+    },
+    {
+      "name": "C2NX-EP",
+      "url": "/hussmann/c2nx-ep/parts",
+      "code": "c2nx-ep"
+    },
+    {
+      "name": "C2NX-LEP",
+      "url": "/hussmann/c2nx-lep/parts",
+      "code": "c2nx-lep"
+    },
+    {
+      "name": "C2NX-XLE",
+      "url": "/hussmann/c2nx-xle/parts",
+      "code": "c2nx-xle"
+    },
+    {
+      "name": "C2NX-XLGP",
+      "url": "/hussmann/c2nx-xlgp/parts",
+      "code": "c2nx-xlgp"
+    },
+    {
+      "name": "C2NX-XLP",
+      "url": "/hussmann/c2nx-xlp/parts",
+      "code": "c2nx-xlp"
+    },
+    {
+      "name": "C2NX10XLEM",
+      "url": "/hussmann/c2nx10xlem/parts",
+      "code": "c2nx10xlem"
+    },
+    {
+      "name": "C2NX12EM",
+      "url": "/hussmann/c2nx12em/parts",
+      "code": "c2nx12em"
+    },
+    {
+      "name": "C2NX12LEM",
+      "url": "/hussmann/c2nx12lem/parts",
+      "code": "c2nx12lem"
+    },
+    {
+      "name": "C2NX12XLEM",
+      "url": "/hussmann/c2nx12xlem/parts",
+      "code": "c2nx12xlem"
+    },
+    {
+      "name": "C2NX12XLGM",
+      "url": "/hussmann/c2nx12xlgm/parts",
+      "code": "c2nx12xlgm"
+    },
+    {
+      "name": "C2NX4XLEM",
+      "url": "/hussmann/c2nx4xlem/parts",
+      "code": "c2nx4xlem"
+    },
+    {
+      "name": "C2NX6LEM",
+      "url": "/hussmann/c2nx6lem/parts",
+      "code": "c2nx6lem"
+    },
+    {
+      "name": "C2NX6XLEM",
+      "url": "/hussmann/c2nx6xlem/parts",
+      "code": "c2nx6xlem"
+    },
+    {
+      "name": "C2NX6XLGEM",
+      "url": "/hussmann/c2nx6xlgem/parts",
+      "code": "c2nx6xlgem"
+    },
+    {
+      "name": "C2NX8LEM",
+      "url": "/hussmann/c2nx8lem/parts",
+      "code": "c2nx8lem"
+    },
+    {
+      "name": "C2NX8XLEM",
+      "url": "/hussmann/c2nx8xlem/parts",
+      "code": "c2nx8xlem"
+    },
+    {
+      "name": "C2NX8XLGEM",
+      "url": "/hussmann/c2nx8xlgem/parts",
+      "code": "c2nx8xlgem"
+    },
+    {
+      "name": "C2X-EP",
+      "url": "/hussmann/c2x-ep/parts",
+      "code": "c2x-ep"
+    },
+    {
+      "name": "C2X-LEP",
+      "url": "/hussmann/c2x-lep/parts",
+      "code": "c2x-lep"
+    },
+    {
+      "name": "C2X-LGE",
+      "url": "/hussmann/c2x-lge/parts",
+      "code": "c2x-lge"
+    },
+    {
+      "name": "C2X-LGEP",
+      "url": "/hussmann/c2x-lgep/parts",
+      "code": "c2x-lgep"
+    },
+    {
+      "name": "C2X-XEP",
+      "url": "/hussmann/c2x-xep/parts",
+      "code": "c2x-xep"
+    },
+    {
+      "name": "C2X-XGE",
+      "url": "/hussmann/c2x-xge/parts",
+      "code": "c2x-xge"
+    },
+    {
+      "name": "C2X-XGEP",
+      "url": "/hussmann/c2x-xgep/parts",
+      "code": "c2x-xgep"
+    },
+    {
+      "name": "C2X-XLE",
+      "url": "/hussmann/c2x-xle/parts",
+      "code": "c2x-xle"
+    },
+    {
+      "name": "C2X-XLEP",
+      "url": "/hussmann/c2x-xlep/parts",
+      "code": "c2x-xlep"
+    },
+    {
+      "name": "C2X-XLGE",
+      "url": "/hussmann/c2x-xlge/parts",
+      "code": "c2x-xlge"
+    },
+    {
+      "name": "C2X-XLGEP",
+      "url": "/hussmann/c2x-xlgep/parts",
+      "code": "c2x-xlgep"
+    },
+    {
+      "name": "C2X12EM",
+      "url": "/hussmann/c2x12em/parts",
+      "code": "c2x12em"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:04:29.177538"
+}

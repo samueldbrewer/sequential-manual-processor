@@ -1,0 +1,76 @@
+{
+  "manufacturer": {
+    "name": "Adamation",
+    "code": "PT_CAT1001",
+    "uri": "adamation"
+  },
+  "models": [
+    {
+      "name": "ABR-120",
+      "url": "/adamation/abr-120/parts",
+      "code": "abr-120"
+    },
+    {
+      "name": "ABR-200",
+      "url": "/adamation/abr-200/parts",
+      "code": "abr-200"
+    },
+    {
+      "name": "ABV-125",
+      "url": "/adamation/abv-125/parts",
+      "code": "abv-125"
+    },
+    {
+      "name": "ABV-300",
+      "url": "/adamation/abv-300/parts",
+      "code": "abv-300"
+    },
+    {
+      "name": "ARC-44",
+      "url": "/adamation/arc-44/parts",
+      "code": "arc-44"
+    },
+    {
+      "name": "CA & CSL-1390",
+      "url": "/adamation/ca-csl-1390/parts",
+      "code": "ca-csl-1390"
+    },
+    {
+      "name": "CA SERIES",
+      "url": "/adamation/ca-series/parts",
+      "code": "ca-series"
+    },
+    {
+      "name": "CSL SERIES",
+      "url": "/adamation/csl-series/parts",
+      "code": "csl-series"
+    },
+    {
+      "name": "EG-2",
+      "url": "/adamation/eg-2/parts",
+      "code": "eg-2"
+    },
+    {
+      "name": "EG-7",
+      "url": "/adamation/eg-7/parts",
+      "code": "eg-7"
+    },
+    {
+      "name": "FOOD WASTE PULPER",
+      "url": "/adamation/food-waste-pulper/parts",
+      "code": "food-waste-pulper"
+    },
+    {
+      "name": "VM-126",
+      "url": "/adamation/vm-126/parts",
+      "code": "vm-126"
+    },
+    {
+      "name": "VM-288",
+      "url": "/adamation/vm-288/parts",
+      "code": "vm-288"
+    }
+  ],
+  "total_models": 13,
+  "cached_at": "2025-08-14T17:35:06.277662"
+}

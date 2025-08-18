@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Magikitchn",
+    "code": "PT_CAT1143",
+    "uri": "magikitchn"
+  },
+  "models": [
+    {
+      "name": "APL",
+      "url": "/magikitchn/apl/parts",
+      "code": "apl"
+    },
+    {
+      "name": "APM",
+      "url": "/magikitchn/apm/parts",
+      "code": "apm"
+    },
+    {
+      "name": "APM-636",
+      "url": "/magikitchn/apm-636/parts",
+      "code": "apm-636"
+    },
+    {
+      "name": "CG-60",
+      "url": "/magikitchn/cg-60/parts",
+      "code": "cg-60"
+    },
+    {
+      "name": "CGL-60",
+      "url": "/magikitchn/cgl-60/parts",
+      "code": "cgl-60"
+    },
+    {
+      "name": "CM",
+      "url": "/magikitchn/cm/parts",
+      "code": "cm"
+    },
+    {
+      "name": "CM-648",
+      "url": "/magikitchn/cm-648/parts",
+      "code": "cm-648"
+    },
+    {
+      "name": "CM-SMB-648",
+      "url": "/magikitchn/cm-smb-648/parts",
+      "code": "cm-smb-648"
+    },
+    {
+      "name": "FC24",
+      "url": "/magikitchn/fc24/parts",
+      "code": "fc24"
+    },
+    {
+      "name": "FC36",
+      "url": "/magikitchn/fc36/parts",
+      "code": "fc36"
+    },
+    {
+      "name": "FC48",
+      "url": "/magikitchn/fc48/parts",
+      "code": "fc48"
+    },
+    {
+      "name": "FC60",
+      "url": "/magikitchn/fc60/parts",
+      "code": "fc60"
+    },
+    {
+      "name": "FC72",
+      "url": "/magikitchn/fc72/parts",
+      "code": "fc72"
+    },
+    {
+      "name": "FM",
+      "url": "/magikitchn/fm/parts",
+      "code": "fm"
+    },
+    {
+      "name": "FM-RMB-636",
+      "url": "/magikitchn/fm-rmb-636/parts",
+      "code": "fm-rmb-636"
+    },
+    {
+      "name": "FM-RMB-660",
+      "url": "/magikitchn/fm-rmb-660/parts",
+      "code": "fm-rmb-660"
+    },
+    {
+      "name": "LPAGA-30",
+      "url": "/magikitchn/lpaga-30/parts",
+      "code": "lpaga-30"
+    },
+    {
+      "name": "LPAGA-60",
+      "url": "/magikitchn/lpaga-60/parts",
+      "code": "lpaga-60"
+    },
+    {
+      "name": "LPCGA-30",
+      "url": "/magikitchn/lpcga-30/parts",
+      "code": "lpcga-30"
+    },
+    {
+      "name": "LPCGA-60",
+      "url": "/magikitchn/lpcga-60/parts",
+      "code": "lpcga-60"
+    },
+    {
+      "name": "LPG-30",
+      "url": "/magikitchn/lpg-30/parts",
+      "code": "lpg-30"
+    },
+    {
+      "name": "LPG-60",
+      "url": "/magikitchn/lpg-60/parts",
+      "code": "lpg-60"
+    },
+    {
+      "name": "MCF14",
+      "url": "/magikitchn/mcf14/parts",
+      "code": "mcf14"
+    },
+    {
+      "name": "MCF18",
+      "url": "/magikitchn/mcf18/parts",
+      "code": "mcf18"
+    },
+    {
+      "name": "MKE",
+      "url": "/magikitchn/mke/parts",
+      "code": "mke"
+    },
+    {
+      "name": "MKE24",
+      "url": "/magikitchn/mke24/parts",
+      "code": "mke24"
+    },
+    {
+      "name": "MKE36",
+      "url": "/magikitchn/mke36/parts",
+      "code": "mke36"
+    },
+    {
+      "name": "MKE48",
+      "url": "/magikitchn/mke48/parts",
+      "code": "mke48"
+    },
+    {
+      "name": "MKE60",
+      "url": "/magikitchn/mke60/parts",
+      "code": "mke60"
+    },
+    {
+      "name": "MKE72",
+      "url": "/magikitchn/mke72/parts",
+      "code": "mke72"
+    },
+    {
+      "name": "MKG Series",
+      "url": "/magikitchn/mkg-series/parts",
+      "code": "mkg-series"
+    },
+    {
+      "name": "MKG-36-E",
+      "url": "/magikitchn/mkg-36-e/parts",
+      "code": "mkg-36-e"
+    },
+    {
+      "name": "MKG-60-ST",
+      "url": "/magikitchn/mkg-60-st/parts",
+      "code": "mkg-60-st"
+    },
+    {
+      "name": "MKG24",
+      "url": "/magikitchn/mkg24/parts",
+      "code": "mkg24"
+    },
+    {
+      "name": "MKG36",
+      "url": "/magikitchn/mkg36/parts",
+      "code": "mkg36"
+    },
+    {
+      "name": "MKG36-B",
+      "url": "/magikitchn/mkg36-b/parts",
+      "code": "mkg36-b"
+    },
+    {
+      "name": "MKG48",
+      "url": "/magikitchn/mkg48/parts",
+      "code": "mkg48"
+    },
+    {
+      "name": "MKG60",
+      "url": "/magikitchn/mkg60/parts",
+      "code": "mkg60"
+    },
+    {
+      "name": "MKG72",
+      "url": "/magikitchn/mkg72/parts",
+      "code": "mkg72"
+    },
+    {
+      "name": "MKGD24",
+      "url": "/magikitchn/mkgd24/parts",
+      "code": "mkgd24"
+    },
+    {
+      "name": "MKGD36",
+      "url": "/magikitchn/mkgd36/parts",
+      "code": "mkgd36"
+    },
+    {
+      "name": "MKGD48",
+      "url": "/magikitchn/mkgd48/parts",
+      "code": "mkgd48"
+    },
+    {
+      "name": "MKGD60",
+      "url": "/magikitchn/mkgd60/parts",
+      "code": "mkgd60"
+    },
+    {
+      "name": "MKGD72",
+      "url": "/magikitchn/mkgd72/parts",
+      "code": "mkgd72"
+    },
+    {
+      "name": "MKHD24",
+      "url": "/magikitchn/mkhd24/parts",
+      "code": "mkhd24"
+    },
+    {
+      "name": "MKHD36",
+      "url": "/magikitchn/mkhd36/parts",
+      "code": "mkhd36"
+    },
+    {
+      "name": "MKHD48",
+      "url": "/magikitchn/mkhd48/parts",
+      "code": "mkhd48"
+    },
+    {
+      "name": "MKHD60",
+      "url": "/magikitchn/mkhd60/parts",
+      "code": "mkhd60"
+    },
+    {
+      "name": "MKHD72",
+      "url": "/magikitchn/mkhd72/parts",
+      "code": "mkhd72"
+    },
+    {
+      "name": "MKO30",
+      "url": "/magikitchn/mko30/parts",
+      "code": "mko30"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:24:15.786866"
+}

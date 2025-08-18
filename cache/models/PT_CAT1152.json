@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Norlake",
+    "code": "PT_CAT1152",
+    "uri": "norlake"
+  },
+  "models": [
+    {
+      "name": "BB48N",
+      "url": "/norlake/bb48n/parts",
+      "code": "bb48n"
+    },
+    {
+      "name": "BB48NG",
+      "url": "/norlake/bb48ng/parts",
+      "code": "bb48ng"
+    },
+    {
+      "name": "BB59G",
+      "url": "/norlake/bb59g/parts",
+      "code": "bb59g"
+    },
+    {
+      "name": "BB60N",
+      "url": "/norlake/bb60n/parts",
+      "code": "bb60n"
+    },
+    {
+      "name": "BB60NG",
+      "url": "/norlake/bb60ng/parts",
+      "code": "bb60ng"
+    },
+    {
+      "name": "BB69",
+      "url": "/norlake/bb69/parts",
+      "code": "bb69"
+    },
+    {
+      "name": "BB69G",
+      "url": "/norlake/bb69g/parts",
+      "code": "bb69g"
+    },
+    {
+      "name": "BB72N",
+      "url": "/norlake/bb72n/parts",
+      "code": "bb72n"
+    },
+    {
+      "name": "BB72NG",
+      "url": "/norlake/bb72ng/parts",
+      "code": "bb72ng"
+    },
+    {
+      "name": "BB79",
+      "url": "/norlake/bb79/parts",
+      "code": "bb79"
+    },
+    {
+      "name": "BB79G",
+      "url": "/norlake/bb79g/parts",
+      "code": "bb79g"
+    },
+    {
+      "name": "BB95",
+      "url": "/norlake/bb95/parts",
+      "code": "bb95"
+    },
+    {
+      "name": "BB95G",
+      "url": "/norlake/bb95g/parts",
+      "code": "bb95g"
+    },
+    {
+      "name": "BC50",
+      "url": "/norlake/bc50/parts",
+      "code": "bc50"
+    },
+    {
+      "name": "BC65",
+      "url": "/norlake/bc65/parts",
+      "code": "bc65"
+    },
+    {
+      "name": "BC80",
+      "url": "/norlake/bc80/parts",
+      "code": "bc80"
+    },
+    {
+      "name": "BC95",
+      "url": "/norlake/bc95/parts",
+      "code": "bc95"
+    },
+    {
+      "name": "CB72",
+      "url": "/norlake/cb72/parts",
+      "code": "cb72"
+    },
+    {
+      "name": "CB84",
+      "url": "/norlake/cb84/parts",
+      "code": "cb84"
+    },
+    {
+      "name": "CB96",
+      "url": "/norlake/cb96/parts",
+      "code": "cb96"
+    },
+    {
+      "name": "CPB0501C-A",
+      "url": "/norlake/cpb0501c-a/parts",
+      "code": "cpb0501c-a"
+    },
+    {
+      "name": "CPB0501CO-A",
+      "url": "/norlake/cpb0501co-a/parts",
+      "code": "cpb0501co-a"
+    },
+    {
+      "name": "CPB050DC-A",
+      "url": "/norlake/cpb050dc-a/parts",
+      "code": "cpb050dc-a"
+    },
+    {
+      "name": "CPB050DCO-A",
+      "url": "/norlake/cpb050dco-a/parts",
+      "code": "cpb050dco-a"
+    },
+    {
+      "name": "CPB050DW",
+      "url": "/norlake/cpb050dw/parts",
+      "code": "cpb050dw"
+    },
+    {
+      "name": "CPB050DWO",
+      "url": "/norlake/cpb050dwo/parts",
+      "code": "cpb050dwo"
+    },
+    {
+      "name": "CPB0751C-A",
+      "url": "/norlake/cpb0751c-a/parts",
+      "code": "cpb0751c-a"
+    },
+    {
+      "name": "CPB0751CO-A",
+      "url": "/norlake/cpb0751co-a/parts",
+      "code": "cpb0751co-a"
+    },
+    {
+      "name": "CPB075DC-A",
+      "url": "/norlake/cpb075dc-a/parts",
+      "code": "cpb075dc-a"
+    },
+    {
+      "name": "CPB075DCO-A",
+      "url": "/norlake/cpb075dco-a/parts",
+      "code": "cpb075dco-a"
+    },
+    {
+      "name": "CPB075DW",
+      "url": "/norlake/cpb075dw/parts",
+      "code": "cpb075dw"
+    },
+    {
+      "name": "CPB100DC-A",
+      "url": "/norlake/cpb100dc-a/parts",
+      "code": "cpb100dc-a"
+    },
+    {
+      "name": "CPB100DCO-A",
+      "url": "/norlake/cpb100dco-a/parts",
+      "code": "cpb100dco-a"
+    },
+    {
+      "name": "CPF060DC-A",
+      "url": "/norlake/cpf060dc-a/parts",
+      "code": "cpf060dc-a"
+    },
+    {
+      "name": "CPF060DCO-A",
+      "url": "/norlake/cpf060dco-a/parts",
+      "code": "cpf060dco-a"
+    },
+    {
+      "name": "CPF075DC-A",
+      "url": "/norlake/cpf075dc-a/parts",
+      "code": "cpf075dc-a"
+    },
+    {
+      "name": "CPF075DCO-A",
+      "url": "/norlake/cpf075dco-a/parts",
+      "code": "cpf075dco-a"
+    },
+    {
+      "name": "CPF100DC-A",
+      "url": "/norlake/cpf100dc-a/parts",
+      "code": "cpf100dc-a"
+    },
+    {
+      "name": "CPF100DCO-A",
+      "url": "/norlake/cpf100dco-a/parts",
+      "code": "cpf100dco-a"
+    },
+    {
+      "name": "CPF150DC-A",
+      "url": "/norlake/cpf150dc-a/parts",
+      "code": "cpf150dc-a"
+    },
+    {
+      "name": "CPF150DCO-A",
+      "url": "/norlake/cpf150dco-a/parts",
+      "code": "cpf150dco-a"
+    },
+    {
+      "name": "CPF151DC-A",
+      "url": "/norlake/cpf151dc-a/parts",
+      "code": "cpf151dc-a"
+    },
+    {
+      "name": "CPF151DCO-A",
+      "url": "/norlake/cpf151dco-a/parts",
+      "code": "cpf151dco-a"
+    },
+    {
+      "name": "CPF200DC-A",
+      "url": "/norlake/cpf200dc-a/parts",
+      "code": "cpf200dc-a"
+    },
+    {
+      "name": "CPF200DCO-A",
+      "url": "/norlake/cpf200dco-a/parts",
+      "code": "cpf200dco-a"
+    },
+    {
+      "name": "CPX100DC-A",
+      "url": "/norlake/cpx100dc-a/parts",
+      "code": "cpx100dc-a"
+    },
+    {
+      "name": "CPX150DC-A",
+      "url": "/norlake/cpx150dc-a/parts",
+      "code": "cpx150dc-a"
+    },
+    {
+      "name": "CPX151DC-A",
+      "url": "/norlake/cpx151dc-a/parts",
+      "code": "cpx151dc-a"
+    },
+    {
+      "name": "DD24",
+      "url": "/norlake/dd24/parts",
+      "code": "dd24"
+    },
+    {
+      "name": "DD59",
+      "url": "/norlake/dd59/parts",
+      "code": "dd59"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:41:59.659674"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "PizzaMaster",
+    "code": "PT_CAT243235",
+    "uri": "pizzamaster"
+  },
+  "models": [
+    {
+      "name": "PM351ED",
+      "url": "/pizzamaster/pm351ed/parts",
+      "code": "pm351ed"
+    },
+    {
+      "name": "PM351ED-1",
+      "url": "/pizzamaster/pm351ed-1/parts",
+      "code": "pm351ed-1"
+    },
+    {
+      "name": "PM351ED-1DW",
+      "url": "/pizzamaster/pm351ed-1dw/parts",
+      "code": "pm351ed-1dw"
+    },
+    {
+      "name": "PM351ED-DW",
+      "url": "/pizzamaster/pm351ed-dw/parts",
+      "code": "pm351ed-dw"
+    },
+    {
+      "name": "PM352ED",
+      "url": "/pizzamaster/pm352ed/parts",
+      "code": "pm352ed"
+    },
+    {
+      "name": "PM352ED-1",
+      "url": "/pizzamaster/pm352ed-1/parts",
+      "code": "pm352ed-1"
+    },
+    {
+      "name": "PM352ED-1DW",
+      "url": "/pizzamaster/pm352ed-1dw/parts",
+      "code": "pm352ed-1dw"
+    },
+    {
+      "name": "PM352ED-2",
+      "url": "/pizzamaster/pm352ed-2/parts",
+      "code": "pm352ed-2"
+    },
+    {
+      "name": "PM352ED-2DW",
+      "url": "/pizzamaster/pm352ed-2dw/parts",
+      "code": "pm352ed-2dw"
+    },
+    {
+      "name": "PM352ED-DW",
+      "url": "/pizzamaster/pm352ed-dw/parts",
+      "code": "pm352ed-dw"
+    },
+    {
+      "name": "PM401ED",
+      "url": "/pizzamaster/pm401ed/parts",
+      "code": "pm401ed"
+    },
+    {
+      "name": "PM401ED-1",
+      "url": "/pizzamaster/pm401ed-1/parts",
+      "code": "pm401ed-1"
+    },
+    {
+      "name": "PM401ED-1DW",
+      "url": "/pizzamaster/pm401ed-1dw/parts",
+      "code": "pm401ed-1dw"
+    },
+    {
+      "name": "PM401ED-DW",
+      "url": "/pizzamaster/pm401ed-dw/parts",
+      "code": "pm401ed-dw"
+    },
+    {
+      "name": "PM402ED",
+      "url": "/pizzamaster/pm402ed/parts",
+      "code": "pm402ed"
+    },
+    {
+      "name": "PM402ED-1",
+      "url": "/pizzamaster/pm402ed-1/parts",
+      "code": "pm402ed-1"
+    },
+    {
+      "name": "PM402ED-1DW",
+      "url": "/pizzamaster/pm402ed-1dw/parts",
+      "code": "pm402ed-1dw"
+    },
+    {
+      "name": "PM402ED-2",
+      "url": "/pizzamaster/pm402ed-2/parts",
+      "code": "pm402ed-2"
+    },
+    {
+      "name": "PM402ED-2DW",
+      "url": "/pizzamaster/pm402ed-2dw/parts",
+      "code": "pm402ed-2dw"
+    },
+    {
+      "name": "PM402ED-DW",
+      "url": "/pizzamaster/pm402ed-dw/parts",
+      "code": "pm402ed-dw"
+    },
+    {
+      "name": "PM451ED",
+      "url": "/pizzamaster/pm451ed/parts",
+      "code": "pm451ed"
+    },
+    {
+      "name": "PM451ED-1",
+      "url": "/pizzamaster/pm451ed-1/parts",
+      "code": "pm451ed-1"
+    },
+    {
+      "name": "PM451ED-1DW",
+      "url": "/pizzamaster/pm451ed-1dw/parts",
+      "code": "pm451ed-1dw"
+    },
+    {
+      "name": "PM451ED-DW",
+      "url": "/pizzamaster/pm451ed-dw/parts",
+      "code": "pm451ed-dw"
+    },
+    {
+      "name": "PM452ED",
+      "url": "/pizzamaster/pm452ed/parts",
+      "code": "pm452ed"
+    },
+    {
+      "name": "PM452ED-1",
+      "url": "/pizzamaster/pm452ed-1/parts",
+      "code": "pm452ed-1"
+    },
+    {
+      "name": "PM452ED-1DW",
+      "url": "/pizzamaster/pm452ed-1dw/parts",
+      "code": "pm452ed-1dw"
+    },
+    {
+      "name": "PM452ED-2",
+      "url": "/pizzamaster/pm452ed-2/parts",
+      "code": "pm452ed-2"
+    },
+    {
+      "name": "PM452ED-2DW",
+      "url": "/pizzamaster/pm452ed-2dw/parts",
+      "code": "pm452ed-2dw"
+    },
+    {
+      "name": "PM452ED-DW",
+      "url": "/pizzamaster/pm452ed-dw/parts",
+      "code": "pm452ed-dw"
+    },
+    {
+      "name": "PM551ED",
+      "url": "/pizzamaster/pm551ed/parts",
+      "code": "pm551ed"
+    },
+    {
+      "name": "PM551ED-1",
+      "url": "/pizzamaster/pm551ed-1/parts",
+      "code": "pm551ed-1"
+    },
+    {
+      "name": "PM552ED",
+      "url": "/pizzamaster/pm552ed/parts",
+      "code": "pm552ed"
+    },
+    {
+      "name": "PM552ED-1",
+      "url": "/pizzamaster/pm552ed-1/parts",
+      "code": "pm552ed-1"
+    },
+    {
+      "name": "PM552ED-2",
+      "url": "/pizzamaster/pm552ed-2/parts",
+      "code": "pm552ed-2"
+    },
+    {
+      "name": "PM721",
+      "url": "/pizzamaster/pm721/parts",
+      "code": "pm721"
+    },
+    {
+      "name": "PM722",
+      "url": "/pizzamaster/pm722/parts",
+      "code": "pm722"
+    },
+    {
+      "name": "PM723",
+      "url": "/pizzamaster/pm723/parts",
+      "code": "pm723"
+    },
+    {
+      "name": "PM724",
+      "url": "/pizzamaster/pm724/parts",
+      "code": "pm724"
+    },
+    {
+      "name": "PM725",
+      "url": "/pizzamaster/pm725/parts",
+      "code": "pm725"
+    },
+    {
+      "name": "PM731",
+      "url": "/pizzamaster/pm731/parts",
+      "code": "pm731"
+    },
+    {
+      "name": "PM732",
+      "url": "/pizzamaster/pm732/parts",
+      "code": "pm732"
+    },
+    {
+      "name": "PM733",
+      "url": "/pizzamaster/pm733/parts",
+      "code": "pm733"
+    },
+    {
+      "name": "PM734",
+      "url": "/pizzamaster/pm734/parts",
+      "code": "pm734"
+    },
+    {
+      "name": "PM735",
+      "url": "/pizzamaster/pm735/parts",
+      "code": "pm735"
+    },
+    {
+      "name": "PM741",
+      "url": "/pizzamaster/pm741/parts",
+      "code": "pm741"
+    },
+    {
+      "name": "PM742",
+      "url": "/pizzamaster/pm742/parts",
+      "code": "pm742"
+    },
+    {
+      "name": "PM743",
+      "url": "/pizzamaster/pm743/parts",
+      "code": "pm743"
+    },
+    {
+      "name": "PM744",
+      "url": "/pizzamaster/pm744/parts",
+      "code": "pm744"
+    },
+    {
+      "name": "PM745",
+      "url": "/pizzamaster/pm745/parts",
+      "code": "pm745"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:50:23.794919"
+}

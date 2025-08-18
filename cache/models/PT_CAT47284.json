@@ -1,0 +1,121 @@
+{
+  "manufacturer": {
+    "name": "Perfect Fry",
+    "code": "PT_CAT47284",
+    "uri": "perfect-fry"
+  },
+  "models": [
+    {
+      "name": "83548",
+      "url": "/perfect-fry/83548/parts",
+      "code": "83548"
+    },
+    {
+      "name": "DSA",
+      "url": "/perfect-fry/dsa/parts",
+      "code": "dsa"
+    },
+    {
+      "name": "DSA500",
+      "url": "/perfect-fry/dsa500/parts",
+      "code": "dsa500"
+    },
+    {
+      "name": "DSA730",
+      "url": "/perfect-fry/dsa730/parts",
+      "code": "dsa730"
+    },
+    {
+      "name": "DSE",
+      "url": "/perfect-fry/dse/parts",
+      "code": "dse"
+    },
+    {
+      "name": "DSE500",
+      "url": "/perfect-fry/dse500/parts",
+      "code": "dse500"
+    },
+    {
+      "name": "DSE730",
+      "url": "/perfect-fry/dse730/parts",
+      "code": "dse730"
+    },
+    {
+      "name": "PFA",
+      "url": "/perfect-fry/pfa/parts",
+      "code": "pfa"
+    },
+    {
+      "name": "PFA375",
+      "url": "/perfect-fry/pfa375/parts",
+      "code": "pfa375"
+    },
+    {
+      "name": "PFA500",
+      "url": "/perfect-fry/pfa500/parts",
+      "code": "pfa500"
+    },
+    {
+      "name": "PFA570",
+      "url": "/perfect-fry/pfa570/parts",
+      "code": "pfa570"
+    },
+    {
+      "name": "PFA570",
+      "url": "/perfect-fry/pfa570/parts",
+      "code": "pfa570"
+    },
+    {
+      "name": "PFA720",
+      "url": "/perfect-fry/pfa720/parts",
+      "code": "pfa720"
+    },
+    {
+      "name": "PFA730",
+      "url": "/perfect-fry/pfa730/parts",
+      "code": "pfa730"
+    },
+    {
+      "name": "PFC",
+      "url": "/perfect-fry/pfc/parts",
+      "code": "pfc"
+    },
+    {
+      "name": "PFC187",
+      "url": "/perfect-fry/pfc187/parts",
+      "code": "pfc187"
+    },
+    {
+      "name": "PFC375",
+      "url": "/perfect-fry/pfc375/parts",
+      "code": "pfc375"
+    },
+    {
+      "name": "PFC500",
+      "url": "/perfect-fry/pfc500/parts",
+      "code": "pfc500"
+    },
+    {
+      "name": "PFC570",
+      "url": "/perfect-fry/pfc570/parts",
+      "code": "pfc570"
+    },
+    {
+      "name": "PFC730",
+      "url": "/perfect-fry/pfc730/parts",
+      "code": "pfc730"
+    },
+    {
+      "name": "PFM",
+      "url": "/perfect-fry/pfm/parts",
+      "code": "pfm"
+    },
+    {
+      "name": "SFC",
+      "url": "/perfect-fry/sfc/parts",
+      "code": "sfc"
+    }
+  ],
+  "total_models": 22,
+  "cached_at": "2025-08-14T19:48:28.489540"
+}

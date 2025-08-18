@@ -1,0 +1,101 @@
+{
+  "manufacturer": {
+    "name": "Anfim",
+    "code": "PT_CAT28982320",
+    "uri": "anfim"
+  },
+  "models": [
+    {
+      "name": "B-220-B-OD",
+      "url": "/anfim/b-220-b-od/parts",
+      "code": "b-220-b-od"
+    },
+    {
+      "name": "B-220-B-OD-EL",
+      "url": "/anfim/b-220-b-od-el/parts",
+      "code": "b-220-b-od-el"
+    },
+    {
+      "name": "B-220-B-OD-EL-MK",
+      "url": "/anfim/b-220-b-od-el-mk/parts",
+      "code": "b-220-b-od-el-mk"
+    },
+    {
+      "name": "B-220-B-OD-EL-ST",
+      "url": "/anfim/b-220-b-od-el-st/parts",
+      "code": "b-220-b-od-el-st"
+    },
+    {
+      "name": "BEST Doser",
+      "url": "/anfim/best-doser/parts",
+      "code": "best-doser"
+    },
+    {
+      "name": "Caimano Drogheria",
+      "url": "/anfim/caimano-drogheria/parts",
+      "code": "caimano-drogheria"
+    },
+    {
+      "name": "Caimano Drogheria AP",
+      "url": "/anfim/caimano-drogheria-ap/parts",
+      "code": "caimano-drogheria-ap"
+    },
+    {
+      "name": "Caimano Drogheria Eco",
+      "url": "/anfim/caimano-drogheria-eco/parts",
+      "code": "caimano-drogheria-eco"
+    },
+    {
+      "name": "Caimano Special",
+      "url": "/anfim/caimano-special/parts",
+      "code": "caimano-special"
+    },
+    {
+      "name": "Luna",
+      "url": "/anfim/luna/parts",
+      "code": "luna"
+    },
+    {
+      "name": "Pratica",
+      "url": "/anfim/pratica/parts",
+      "code": "pratica"
+    },
+    {
+      "name": "SCODY -II-FAN",
+      "url": "/anfim/scody-ii-fan/parts",
+      "code": "scody-ii-fan"
+    },
+    {
+      "name": "SCODY-II",
+      "url": "/anfim/scody-ii/parts",
+      "code": "scody-ii"
+    },
+    {
+      "name": "SCT",
+      "url": "/anfim/sct/parts",
+      "code": "sct"
+    },
+    {
+      "name": "SP 450",
+      "url": "/anfim/sp-450/parts",
+      "code": "sp-450"
+    },
+    {
+      "name": "SPII",
+      "url": "/anfim/spii/parts",
+      "code": "spii"
+    },
+    {
+      "name": "SPII Plus",
+      "url": "/anfim/spii-plus/parts",
+      "code": "spii-plus"
+    },
+    {
+      "name": "Solida",
+      "url": "/anfim/solida/parts",
+      "code": "solida"
+    }
+  ],
+  "total_models": 18,
+  "cached_at": "2025-08-14T17:45:08.522465"
+}

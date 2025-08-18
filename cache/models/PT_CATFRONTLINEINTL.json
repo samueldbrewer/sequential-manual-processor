@@ -1,0 +1,181 @@
+{
+  "manufacturer": {
+    "name": "Frontline International",
+    "code": "PT_CATFRONTLINEINTL",
+    "uri": "frontline-international"
+  },
+  "models": [
+    {
+      "name": "10030018",
+      "url": "/frontline-international/10030018/parts",
+      "code": "10030018"
+    },
+    {
+      "name": "10SS-NA-FP",
+      "url": "/frontline-international/10ss-na-fp/parts",
+      "code": "10ss-na-fp"
+    },
+    {
+      "name": "10SS-NA-H",
+      "url": "/frontline-international/10ss-na-h/parts",
+      "code": "10ss-na-h"
+    },
+    {
+      "name": "10SS-NA-WM",
+      "url": "/frontline-international/10ss-na-wm/parts",
+      "code": "10ss-na-wm"
+    },
+    {
+      "name": "2478SQ-EU",
+      "url": "/frontline-international/2478sq-eu/parts",
+      "code": "2478sq-eu"
+    },
+    {
+      "name": "2478SQ-NA",
+      "url": "/frontline-international/2478sq-na/parts",
+      "code": "2478sq-na"
+    },
+    {
+      "name": "2478SQ-NA-DP",
+      "url": "/frontline-international/2478sq-na-dp/parts",
+      "code": "2478sq-na-dp"
+    },
+    {
+      "name": "2478SQ-NA-WM",
+      "url": "/frontline-international/2478sq-na-wm/parts",
+      "code": "2478sq-na-wm"
+    },
+    {
+      "name": "3072DCI-NA",
+      "url": "/frontline-international/3072dci-na/parts",
+      "code": "3072dci-na"
+    },
+    {
+      "name": "3073SQ",
+      "url": "/frontline-international/3073sq/parts",
+      "code": "3073sq"
+    },
+    {
+      "name": "3073SQ-O",
+      "url": "/frontline-international/3073sq-o/parts",
+      "code": "3073sq-o"
+    },
+    {
+      "name": "3073SQ-O-HV",
+      "url": "/frontline-international/3073sq-o-hv/parts",
+      "code": "3073sq-o-hv"
+    },
+    {
+      "name": "3073SQDC-O",
+      "url": "/frontline-international/3073sqdc-o/parts",
+      "code": "3073sqdc-o"
+    },
+    {
+      "name": "3078-EU",
+      "url": "/frontline-international/3078-eu/parts",
+      "code": "3078-eu"
+    },
+    {
+      "name": "3078-NA",
+      "url": "/frontline-international/3078-na/parts",
+      "code": "3078-na"
+    },
+    {
+      "name": "4073SQ-O",
+      "url": "/frontline-international/4073sq-o/parts",
+      "code": "4073sq-o"
+    },
+    {
+      "name": "4280-NA",
+      "url": "/frontline-international/4280-na/parts",
+      "code": "4280-na"
+    },
+    {
+      "name": "4280DCI-NA",
+      "url": "/frontline-international/4280dci-na/parts",
+      "code": "4280dci-na"
+    },
+    {
+      "name": "47SS-NA-WM",
+      "url": "/frontline-international/47ss-na-wm/parts",
+      "code": "47ss-na-wm"
+    },
+    {
+      "name": "47SS-NA-WP",
+      "url": "/frontline-international/47ss-na-wp/parts",
+      "code": "47ss-na-wp"
+    },
+    {
+      "name": "60030004",
+      "url": "/frontline-international/60030004/parts",
+      "code": "60030004"
+    },
+    {
+      "name": "60030008",
+      "url": "/frontline-international/60030008/parts",
+      "code": "60030008"
+    },
+    {
+      "name": "60030019",
+      "url": "/frontline-international/60030019/parts",
+      "code": "60030019"
+    },
+    {
+      "name": "60030056",
+      "url": "/frontline-international/60030056/parts",
+      "code": "60030056"
+    },
+    {
+      "name": "60030058",
+      "url": "/frontline-international/60030058/parts",
+      "code": "60030058"
+    },
+    {
+      "name": "60030059",
+      "url": "/frontline-international/60030059/parts",
+      "code": "60030059"
+    },
+    {
+      "name": "60030060",
+      "url": "/frontline-international/60030060/parts",
+      "code": "60030060"
+    },
+    {
+      "name": "74SS-NA",
+      "url": "/frontline-international/74ss-na/parts",
+      "code": "74ss-na"
+    },
+    {
+      "name": "LS1-60-EU-GG",
+      "url": "/frontline-international/ls1-60-eu-gg/parts",
+      "code": "ls1-60-eu-gg"
+    },
+    {
+      "name": "LS1-60-NA-GG",
+      "url": "/frontline-international/ls1-60-na-gg/parts",
+      "code": "ls1-60-na-gg"
+    },
+    {
+      "name": "LS3-60-NA-GG",
+      "url": "/frontline-international/ls3-60-na-gg/parts",
+      "code": "ls3-60-na-gg"
+    },
+    {
+      "name": "S-1-60GG",
+      "url": "/frontline-international/s-1-60gg/parts",
+      "code": "s-1-60gg"
+    },
+    {
+      "name": "WOPS-NA",
+      "url": "/frontline-international/wops-na/parts",
+      "code": "wops-na"
+    },
+    {
+      "name": "Waste Cooking Oil Mobile System",
+      "url": "/frontline-international/waste-cooking-oil-mobile-system/parts",
+      "code": "waste-cooking-oil-mobile-system"
+    }
+  ],
+  "total_models": 34,
+  "cached_at": "2025-08-14T18:39:54.445771"
+}

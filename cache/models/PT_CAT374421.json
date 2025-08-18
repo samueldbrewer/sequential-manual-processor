@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Alliance Laundry Systems",
+    "code": "PT_CAT374421",
+    "uri": "alliance-laundry-systems"
+  },
+  "models": [
+    {
+      "name": "32DG",
+      "url": "/alliance-laundry-systems/32dg/parts",
+      "code": "32dg"
+    },
+    {
+      "name": "C6",
+      "url": "/alliance-laundry-systems/c6/parts",
+      "code": "c6"
+    },
+    {
+      "name": "C8",
+      "url": "/alliance-laundry-systems/c8/parts",
+      "code": "c8"
+    },
+    {
+      "name": "CA025L",
+      "url": "/alliance-laundry-systems/ca025l/parts",
+      "code": "ca025l"
+    },
+    {
+      "name": "CA025N",
+      "url": "/alliance-laundry-systems/ca025n/parts",
+      "code": "ca025n"
+    },
+    {
+      "name": "CA030L",
+      "url": "/alliance-laundry-systems/ca030l/parts",
+      "code": "ca030l"
+    },
+    {
+      "name": "CA030N",
+      "url": "/alliance-laundry-systems/ca030n/parts",
+      "code": "ca030n"
+    },
+    {
+      "name": "CA035L",
+      "url": "/alliance-laundry-systems/ca035l/parts",
+      "code": "ca035l"
+    },
+    {
+      "name": "CA035N",
+      "url": "/alliance-laundry-systems/ca035n/parts",
+      "code": "ca035n"
+    },
+    {
+      "name": "CA200L",
+      "url": "/alliance-laundry-systems/ca200l/parts",
+      "code": "ca200l"
+    },
+    {
+      "name": "CA200N",
+      "url": "/alliance-laundry-systems/ca200n/parts",
+      "code": "ca200n"
+    },
+    {
+      "name": "CAT30L",
+      "url": "/alliance-laundry-systems/cat30l/parts",
+      "code": "cat30l"
+    },
+    {
+      "name": "CAT30N",
+      "url": "/alliance-laundry-systems/cat30n/parts",
+      "code": "cat30n"
+    },
+    {
+      "name": "CCN020HNF",
+      "url": "/alliance-laundry-systems/ccn020hnf/parts",
+      "code": "ccn020hnf"
+    },
+    {
+      "name": "CCN020HNV",
+      "url": "/alliance-laundry-systems/ccn020hnv/parts",
+      "code": "ccn020hnv"
+    },
+    {
+      "name": "CCN020KNF",
+      "url": "/alliance-laundry-systems/ccn020knf/parts",
+      "code": "ccn020knf"
+    },
+    {
+      "name": "CCN020KNV",
+      "url": "/alliance-laundry-systems/ccn020knv/parts",
+      "code": "ccn020knv"
+    },
+    {
+      "name": "CCN030HNF",
+      "url": "/alliance-laundry-systems/ccn030hnf/parts",
+      "code": "ccn030hnf"
+    },
+    {
+      "name": "CCN030HNV",
+      "url": "/alliance-laundry-systems/ccn030hnv/parts",
+      "code": "ccn030hnv"
+    },
+    {
+      "name": "CCN030KNF",
+      "url": "/alliance-laundry-systems/ccn030knf/parts",
+      "code": "ccn030knf"
+    },
+    {
+      "name": "CCN030KNV",
+      "url": "/alliance-laundry-systems/ccn030knv/parts",
+      "code": "ccn030knv"
+    },
+    {
+      "name": "CCN040HNF",
+      "url": "/alliance-laundry-systems/ccn040hnf/parts",
+      "code": "ccn040hnf"
+    },
+    {
+      "name": "CCN040HNV",
+      "url": "/alliance-laundry-systems/ccn040hnv/parts",
+      "code": "ccn040hnv"
+    },
+    {
+      "name": "CCN040KNF",
+      "url": "/alliance-laundry-systems/ccn040knf/parts",
+      "code": "ccn040knf"
+    },
+    {
+      "name": "CCN040KNV",
+      "url": "/alliance-laundry-systems/ccn040knv/parts",
+      "code": "ccn040knv"
+    },
+    {
+      "name": "CCN060HNF",
+      "url": "/alliance-laundry-systems/ccn060hnf/parts",
+      "code": "ccn060hnf"
+    },
+    {
+      "name": "CCN060HNV",
+      "url": "/alliance-laundry-systems/ccn060hnv/parts",
+      "code": "ccn060hnv"
+    },
+    {
+      "name": "CCN060KNF",
+      "url": "/alliance-laundry-systems/ccn060knf/parts",
+      "code": "ccn060knf"
+    },
+    {
+      "name": "CCN060KNV",
+      "url": "/alliance-laundry-systems/ccn060knv/parts",
+      "code": "ccn060knv"
+    },
+    {
+      "name": "CCN080HNF",
+      "url": "/alliance-laundry-systems/ccn080hnf/parts",
+      "code": "ccn080hnf"
+    },
+    {
+      "name": "CCN080HNV",
+      "url": "/alliance-laundry-systems/ccn080hnv/parts",
+      "code": "ccn080hnv"
+    },
+    {
+      "name": "CCN080KNV",
+      "url": "/alliance-laundry-systems/ccn080knv/parts",
+      "code": "ccn080knv"
+    },
+    {
+      "name": "CCN100HNF",
+      "url": "/alliance-laundry-systems/ccn100hnf/parts",
+      "code": "ccn100hnf"
+    },
+    {
+      "name": "CCN100HNV",
+      "url": "/alliance-laundry-systems/ccn100hnv/parts",
+      "code": "ccn100hnv"
+    },
+    {
+      "name": "CH018_CYGNUS-SELECT",
+      "url": "/alliance-laundry-systems/ch018-cygnus-select/parts",
+      "code": "ch018-cygnus-select"
+    },
+    {
+      "name": "CH025_CYGNUS-SELECT",
+      "url": "/alliance-laundry-systems/ch025-cygnus-select/parts",
+      "code": "ch025-cygnus-select"
+    },
+    {
+      "name": "CH040_CYGNUS-SELECT",
+      "url": "/alliance-laundry-systems/ch040-cygnus-select/parts",
+      "code": "ch040-cygnus-select"
+    },
+    {
+      "name": "CH040_CYGNUS-ULTRA",
+      "url": "/alliance-laundry-systems/ch040-cygnus-ultra/parts",
+      "code": "ch040-cygnus-ultra"
+    },
+    {
+      "name": "CH040_ULTRA-PRO",
+      "url": "/alliance-laundry-systems/ch040-ultra-pro/parts",
+      "code": "ch040-ultra-pro"
+    },
+    {
+      "name": "CH055_CYGNUS-SELECT",
+      "url": "/alliance-laundry-systems/ch055-cygnus-select/parts",
+      "code": "ch055-cygnus-select"
+    },
+    {
+      "name": "CH055_CYGNUS-ULTRA",
+      "url": "/alliance-laundry-systems/ch055-cygnus-ultra/parts",
+      "code": "ch055-cygnus-ultra"
+    },
+    {
+      "name": "CH055_ULTRA-PRO",
+      "url": "/alliance-laundry-systems/ch055-ultra-pro/parts",
+      "code": "ch055-ultra-pro"
+    },
+    {
+      "name": "CH075_CYGNUS-SELECT",
+      "url": "/alliance-laundry-systems/ch075-cygnus-select/parts",
+      "code": "ch075-cygnus-select"
+    },
+    {
+      "name": "CH075_CYGNUS-ULTRA",
+      "url": "/alliance-laundry-systems/ch075-cygnus-ultra/parts",
+      "code": "ch075-cygnus-ultra"
+    },
+    {
+      "name": "CH075_ULTRA-PRO",
+      "url": "/alliance-laundry-systems/ch075-ultra-pro/parts",
+      "code": "ch075-ultra-pro"
+    },
+    {
+      "name": "CH090_CYGNUS-SELECT",
+      "url": "/alliance-laundry-systems/ch090-cygnus-select/parts",
+      "code": "ch090-cygnus-select"
+    },
+    {
+      "name": "CH090_CYGNUS-ULTRA",
+      "url": "/alliance-laundry-systems/ch090-cygnus-ultra/parts",
+      "code": "ch090-cygnus-ultra"
+    },
+    {
+      "name": "CH090_ULTRA-PRO",
+      "url": "/alliance-laundry-systems/ch090-ultra-pro/parts",
+      "code": "ch090-ultra-pro"
+    },
+    {
+      "name": "CHE014X",
+      "url": "/alliance-laundry-systems/che014x/parts",
+      "code": "che014x"
+    },
+    {
+      "name": "CHE014Z",
+      "url": "/alliance-laundry-systems/che014z/parts",
+      "code": "che014z"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T17:39:19.260140"
+}

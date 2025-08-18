@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Delonghi",
+    "code": "PT_CAT235507",
+    "uri": "delonghi"
+  },
+  "models": [
+    {
+      "name": "2307K",
+      "url": "/delonghi/2307k/parts",
+      "code": "2307k"
+    },
+    {
+      "name": "2507EX1",
+      "url": "/delonghi/2507ex1/parts",
+      "code": "2507ex1"
+    },
+    {
+      "name": "2507L",
+      "url": "/delonghi/2507l/parts",
+      "code": "2507l"
+    },
+    {
+      "name": "2507T",
+      "url": "/delonghi/2507t/parts",
+      "code": "2507t"
+    },
+    {
+      "name": "35710",
+      "url": "/delonghi/35710/parts",
+      "code": "35710"
+    },
+    {
+      "name": "35820",
+      "url": "/delonghi/35820/parts",
+      "code": "35820"
+    },
+    {
+      "name": "35821",
+      "url": "/delonghi/35821/parts",
+      "code": "35821"
+    },
+    {
+      "name": "35824",
+      "url": "/delonghi/35824/parts",
+      "code": "35824"
+    },
+    {
+      "name": "35824EX1",
+      "url": "/delonghi/35824ex1/parts",
+      "code": "35824ex1"
+    },
+    {
+      "name": "6507L",
+      "url": "/delonghi/6507l/parts",
+      "code": "6507l"
+    },
+    {
+      "name": "6707E",
+      "url": "/delonghi/6707e/parts",
+      "code": "6707e"
+    },
+    {
+      "name": "6708EK",
+      "url": "/delonghi/6708ek/parts",
+      "code": "6708ek"
+    },
+    {
+      "name": "9707",
+      "url": "/delonghi/9707/parts",
+      "code": "9707"
+    },
+    {
+      "name": "AD1079",
+      "url": "/delonghi/ad1079/parts",
+      "code": "ad1079"
+    },
+    {
+      "name": "AD1079B",
+      "url": "/delonghi/ad1079b/parts",
+      "code": "ad1079b"
+    },
+    {
+      "name": "AD1099",
+      "url": "/delonghi/ad1099/parts",
+      "code": "ad1099"
+    },
+    {
+      "name": "AD679",
+      "url": "/delonghi/ad679/parts",
+      "code": "ad679"
+    },
+    {
+      "name": "AD679B",
+      "url": "/delonghi/ad679b/parts",
+      "code": "ad679b"
+    },
+    {
+      "name": "AR1070",
+      "url": "/delonghi/ar1070/parts",
+      "code": "ar1070"
+    },
+    {
+      "name": "AR680",
+      "url": "/delonghi/ar680/parts",
+      "code": "ar680"
+    },
+    {
+      "name": "AR690",
+      "url": "/delonghi/ar690/parts",
+      "code": "ar690"
+    },
+    {
+      "name": "AS100U",
+      "url": "/delonghi/as100u/parts",
+      "code": "as100u"
+    },
+    {
+      "name": "AS1070",
+      "url": "/delonghi/as1070/parts",
+      "code": "as1070"
+    },
+    {
+      "name": "AS1870",
+      "url": "/delonghi/as1870/parts",
+      "code": "as1870"
+    },
+    {
+      "name": "AS1870B",
+      "url": "/delonghi/as1870b/parts",
+      "code": "as1870b"
+    },
+    {
+      "name": "AS40U",
+      "url": "/delonghi/as40u/parts",
+      "code": "as40u"
+    },
+    {
+      "name": "AS50U",
+      "url": "/delonghi/as50u/parts",
+      "code": "as50u"
+    },
+    {
+      "name": "AS670",
+      "url": "/delonghi/as670/parts",
+      "code": "as670"
+    },
+    {
+      "name": "BBH100",
+      "url": "/delonghi/bbh100/parts",
+      "code": "bbh100"
+    },
+    {
+      "name": "BCO110",
+      "url": "/delonghi/bco110/parts",
+      "code": "bco110"
+    },
+    {
+      "name": "BCO120T",
+      "url": "/delonghi/bco120t/parts",
+      "code": "bco120t"
+    },
+    {
+      "name": "BCO130T",
+      "url": "/delonghi/bco130t/parts",
+      "code": "bco130t"
+    },
+    {
+      "name": "BCO264B",
+      "url": "/delonghi/bco264b/parts",
+      "code": "bco264b"
+    },
+    {
+      "name": "BCO320T",
+      "url": "/delonghi/bco320t/parts",
+      "code": "bco320t"
+    },
+    {
+      "name": "BCO330T",
+      "url": "/delonghi/bco330t/parts",
+      "code": "bco330t"
+    },
+    {
+      "name": "BCO430",
+      "url": "/delonghi/bco430/parts",
+      "code": "bco430"
+    },
+    {
+      "name": "BCO430BM",
+      "url": "/delonghi/bco430bm/parts",
+      "code": "bco430bm"
+    },
+    {
+      "name": "BCO432",
+      "url": "/delonghi/bco432/parts",
+      "code": "bco432"
+    },
+    {
+      "name": "BCO70",
+      "url": "/delonghi/bco70/parts",
+      "code": "bco70"
+    },
+    {
+      "name": "BG12",
+      "url": "/delonghi/bg12/parts",
+      "code": "bg12"
+    },
+    {
+      "name": "BG16",
+      "url": "/delonghi/bg16/parts",
+      "code": "bg16"
+    },
+    {
+      "name": "BG22",
+      "url": "/delonghi/bg22/parts",
+      "code": "bg22"
+    },
+    {
+      "name": "BG24",
+      "url": "/delonghi/bg24/parts",
+      "code": "bg24"
+    },
+    {
+      "name": "BG45",
+      "url": "/delonghi/bg45/parts",
+      "code": "bg45"
+    },
+    {
+      "name": "BGR50",
+      "url": "/delonghi/bgr50/parts",
+      "code": "bgr50"
+    },
+    {
+      "name": "BQ100",
+      "url": "/delonghi/bq100/parts",
+      "code": "bq100"
+    },
+    {
+      "name": "CC100IU",
+      "url": "/delonghi/cc100iu/parts",
+      "code": "cc100iu"
+    },
+    {
+      "name": "CF210",
+      "url": "/delonghi/cf210/parts",
+      "code": "cf210"
+    },
+    {
+      "name": "CG104",
+      "url": "/delonghi/cg104/parts",
+      "code": "cg104"
+    },
+    {
+      "name": "CGH1020D",
+      "url": "/delonghi/cgh1020d/parts",
+      "code": "cgh1020d"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T18:20:43.116421"
+}

@@ -1,0 +1,261 @@
+{
+  "manufacturer": {
+    "name": "Piper Products",
+    "code": "PT_CAT1162",
+    "uri": "piper-products"
+  },
+  "models": [
+    {
+      "name": "1008-SS",
+      "url": "/piper-products/1008-ss/parts",
+      "code": "1008-ss"
+    },
+    {
+      "name": "1016-SS",
+      "url": "/piper-products/1016-ss/parts",
+      "code": "1016-ss"
+    },
+    {
+      "name": "1016-SS-D",
+      "url": "/piper-products/1016-ss-d/parts",
+      "code": "1016-ss-d"
+    },
+    {
+      "name": "11QT-D-T-R",
+      "url": "/piper-products/11qt-d-t-r/parts",
+      "code": "11qt-d-t-r"
+    },
+    {
+      "name": "11QT-OD-T-R",
+      "url": "/piper-products/11qt-od-t-r/parts",
+      "code": "11qt-od-t-r"
+    },
+    {
+      "name": "2-HF (501-2)",
+      "url": "/piper-products/2-hf-501-2/parts",
+      "code": "2-hf-501-2"
+    },
+    {
+      "name": "2-HF-HIB",
+      "url": "/piper-products/2-hf-hib/parts",
+      "code": "2-hf-hib"
+    },
+    {
+      "name": "2HFSL",
+      "url": "/piper-products/2hfsl/parts",
+      "code": "2hfsl"
+    },
+    {
+      "name": "2HFW-1",
+      "url": "/piper-products/2hfw-1/parts",
+      "code": "2hfw-1"
+    },
+    {
+      "name": "2HFW-1DM",
+      "url": "/piper-products/2hfw-1dm/parts",
+      "code": "2hfw-1dm"
+    },
+    {
+      "name": "3-CB (502-3RAF)",
+      "url": "/piper-products/3-cb-502-3raf/parts",
+      "code": "3-cb-502-3raf"
+    },
+    {
+      "name": "3-FT (502-1F)",
+      "url": "/piper-products/3-ft-502-1f/parts",
+      "code": "3-ft-502-1f"
+    },
+    {
+      "name": "3-HCIDI",
+      "url": "/piper-products/3-hcidi/parts",
+      "code": "3-hcidi"
+    },
+    {
+      "name": "3-HCMDI",
+      "url": "/piper-products/3-hcmdi/parts",
+      "code": "3-hcmdi"
+    },
+    {
+      "name": "3-HF (501-3)",
+      "url": "/piper-products/3-hf-501-3/parts",
+      "code": "3-hf-501-3"
+    },
+    {
+      "name": "3-HF-HIB",
+      "url": "/piper-products/3-hf-hib/parts",
+      "code": "3-hf-hib"
+    },
+    {
+      "name": "3HFSL",
+      "url": "/piper-products/3hfsl/parts",
+      "code": "3hfsl"
+    },
+    {
+      "name": "3HFW-1",
+      "url": "/piper-products/3hfw-1/parts",
+      "code": "3hfw-1"
+    },
+    {
+      "name": "3HFW-1DM",
+      "url": "/piper-products/3hfw-1dm/parts",
+      "code": "3hfw-1dm"
+    },
+    {
+      "name": "4-CB (502-4RAF)",
+      "url": "/piper-products/4-cb-502-4raf/parts",
+      "code": "4-cb-502-4raf"
+    },
+    {
+      "name": "4-FT (502-2F)",
+      "url": "/piper-products/4-ft-502-2f/parts",
+      "code": "4-ft-502-2f"
+    },
+    {
+      "name": "4-HCIDI",
+      "url": "/piper-products/4-hcidi/parts",
+      "code": "4-hcidi"
+    },
+    {
+      "name": "4-HCMDI",
+      "url": "/piper-products/4-hcmdi/parts",
+      "code": "4-hcmdi"
+    },
+    {
+      "name": "4-HF (501-4)",
+      "url": "/piper-products/4-hf-501-4/parts",
+      "code": "4-hf-501-4"
+    },
+    {
+      "name": "4-HF-HIB",
+      "url": "/piper-products/4-hf-hib/parts",
+      "code": "4-hf-hib"
+    },
+    {
+      "name": "4HFW-1",
+      "url": "/piper-products/4hfw-1/parts",
+      "code": "4hfw-1"
+    },
+    {
+      "name": "4HFW-1DM",
+      "url": "/piper-products/4hfw-1dm/parts",
+      "code": "4hfw-1dm"
+    },
+    {
+      "name": "5-CB (502-5RAF)",
+      "url": "/piper-products/5-cb-502-5raf/parts",
+      "code": "5-cb-502-5raf"
+    },
+    {
+      "name": "5-FT (502-3F)",
+      "url": "/piper-products/5-ft-502-3f/parts",
+      "code": "5-ft-502-3f"
+    },
+    {
+      "name": "5-HCIDI",
+      "url": "/piper-products/5-hcidi/parts",
+      "code": "5-hcidi"
+    },
+    {
+      "name": "5-HCMDI",
+      "url": "/piper-products/5-hcmdi/parts",
+      "code": "5-hcmdi"
+    },
+    {
+      "name": "5-HF (501-5)",
+      "url": "/piper-products/5-hf-501-5/parts",
+      "code": "5-hf-501-5"
+    },
+    {
+      "name": "5-HF-HIB",
+      "url": "/piper-products/5-hf-hib/parts",
+      "code": "5-hf-hib"
+    },
+    {
+      "name": "5HFW-1",
+      "url": "/piper-products/5hfw-1/parts",
+      "code": "5hfw-1"
+    },
+    {
+      "name": "5HFW-1DM",
+      "url": "/piper-products/5hfw-1dm/parts",
+      "code": "5hfw-1dm"
+    },
+    {
+      "name": "6-CB (502-6RAF)",
+      "url": "/piper-products/6-cb-502-6raf/parts",
+      "code": "6-cb-502-6raf"
+    },
+    {
+      "name": "6-FT (502-4F)",
+      "url": "/piper-products/6-ft-502-4f/parts",
+      "code": "6-ft-502-4f"
+    },
+    {
+      "name": "6-HCIDI",
+      "url": "/piper-products/6-hcidi/parts",
+      "code": "6-hcidi"
+    },
+    {
+      "name": "6-HCMDI",
+      "url": "/piper-products/6-hcmdi/parts",
+      "code": "6-hcmdi"
+    },
+    {
+      "name": "6-HF (501-6)",
+      "url": "/piper-products/6-hf-501-6/parts",
+      "code": "6-hf-501-6"
+    },
+    {
+      "name": "6-HF-HIB",
+      "url": "/piper-products/6-hf-hib/parts",
+      "code": "6-hf-hib"
+    },
+    {
+      "name": "6HFW-1",
+      "url": "/piper-products/6hfw-1/parts",
+      "code": "6hfw-1"
+    },
+    {
+      "name": "6HFW-1DM",
+      "url": "/piper-products/6hfw-1dm/parts",
+      "code": "6hfw-1dm"
+    },
+    {
+      "name": "7QT-D-T-R",
+      "url": "/piper-products/7qt-d-t-r/parts",
+      "code": "7qt-d-t-r"
+    },
+    {
+      "name": "7QT-OD-T-R",
+      "url": "/piper-products/7qt-od-t-r/parts",
+      "code": "7qt-od-t-r"
+    },
+    {
+      "name": "B14050",
+      "url": "/piper-products/b14050/parts",
+      "code": "b14050"
+    },
+    {
+      "name": "B14050-HS",
+      "url": "/piper-products/b14050-hs/parts",
+      "code": "b14050-hs"
+    },
+    {
+      "name": "B16050",
+      "url": "/piper-products/b16050/parts",
+      "code": "b16050"
+    },
+    {
+      "name": "B16050-HS",
+      "url": "/piper-products/b16050-hs/parts",
+      "code": "b16050-hs"
+    },
+    {
+      "name": "B17060",
+      "url": "/piper-products/b17060/parts",
+      "code": "b17060"
+    }
+  ],
+  "total_models": 50,
+  "cached_at": "2025-08-14T19:49:45.268169"
+}

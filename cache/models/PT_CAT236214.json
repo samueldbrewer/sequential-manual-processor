@@ -1,0 +1,206 @@
+{
+  "manufacturer": {
+    "name": "Monaco Foodservice",
+    "code": "PT_CAT236214",
+    "uri": "monaco-foodservice"
+  },
+  "models": [
+    {
+      "name": "Arctic Compact 8/1",
+      "url": "/monaco-foodservice/arctic-compact-8-1/parts",
+      "code": "arctic-compact-8-1"
+    },
+    {
+      "name": "Arctic Compact 8/2",
+      "url": "/monaco-foodservice/arctic-compact-8-2/parts",
+      "code": "arctic-compact-8-2"
+    },
+    {
+      "name": "Arctic Compact 8/3",
+      "url": "/monaco-foodservice/arctic-compact-8-3/parts",
+      "code": "arctic-compact-8-3"
+    },
+    {
+      "name": "Arctic Compact 8/4",
+      "url": "/monaco-foodservice/arctic-compact-8-4/parts",
+      "code": "arctic-compact-8-4"
+    },
+    {
+      "name": "Arctic Deluxe Impeller Mix 20/1",
+      "url": "/monaco-foodservice/arctic-deluxe-impeller-mix-20-1/parts",
+      "code": "arctic-deluxe-impeller-mix-20-1"
+    },
+    {
+      "name": "Arctic Deluxe Impeller Mix 20/2",
+      "url": "/monaco-foodservice/arctic-deluxe-impeller-mix-20-2/parts",
+      "code": "arctic-deluxe-impeller-mix-20-2"
+    },
+    {
+      "name": "Arctic Deluxe Impeller Mix 20/3",
+      "url": "/monaco-foodservice/arctic-deluxe-impeller-mix-20-3/parts",
+      "code": "arctic-deluxe-impeller-mix-20-3"
+    },
+    {
+      "name": "Arctic Deluxe Impeller Mix 20/4",
+      "url": "/monaco-foodservice/arctic-deluxe-impeller-mix-20-4/parts",
+      "code": "arctic-deluxe-impeller-mix-20-4"
+    },
+    {
+      "name": "Arctic Deluxe Paddle Mix 12/1",
+      "url": "/monaco-foodservice/arctic-deluxe-paddle-mix-12-1/parts",
+      "code": "arctic-deluxe-paddle-mix-12-1"
+    },
+    {
+      "name": "Arctic Deluxe Paddle Mix 12/2",
+      "url": "/monaco-foodservice/arctic-deluxe-paddle-mix-12-2/parts",
+      "code": "arctic-deluxe-paddle-mix-12-2"
+    },
+    {
+      "name": "Arctic Deluxe Paddle Mix 12/3",
+      "url": "/monaco-foodservice/arctic-deluxe-paddle-mix-12-3/parts",
+      "code": "arctic-deluxe-paddle-mix-12-3"
+    },
+    {
+      "name": "Arctic Deluxe Paddle Mix 12/4",
+      "url": "/monaco-foodservice/arctic-deluxe-paddle-mix-12-4/parts",
+      "code": "arctic-deluxe-paddle-mix-12-4"
+    },
+    {
+      "name": "Delice 5",
+      "url": "/monaco-foodservice/delice-5/parts",
+      "code": "delice-5"
+    },
+    {
+      "name": "ESP1-110V",
+      "url": "/monaco-foodservice/esp1-110v/parts",
+      "code": "esp1-110v"
+    },
+    {
+      "name": "ESP1-220V",
+      "url": "/monaco-foodservice/esp1-220v/parts",
+      "code": "esp1-220v"
+    },
+    {
+      "name": "ESP2-220V",
+      "url": "/monaco-foodservice/esp2-220v/parts",
+      "code": "esp2-220v"
+    },
+    {
+      "name": "ESP3-220V",
+      "url": "/monaco-foodservice/esp3-220v/parts",
+      "code": "esp3-220v"
+    },
+    {
+      "name": "Giant",
+      "url": "/monaco-foodservice/giant/parts",
+      "code": "giant"
+    },
+    {
+      "name": "MT 1",
+      "url": "/monaco-foodservice/mt-1/parts",
+      "code": "mt-1"
+    },
+    {
+      "name": "MT 1 Mini",
+      "url": "/monaco-foodservice/mt-1-mini/parts",
+      "code": "mt-1-mini"
+    },
+    {
+      "name": "MT 2",
+      "url": "/monaco-foodservice/mt-2/parts",
+      "code": "mt-2"
+    },
+    {
+      "name": "MT 2 Mini",
+      "url": "/monaco-foodservice/mt-2-mini/parts",
+      "code": "mt-2-mini"
+    },
+    {
+      "name": "MT 3",
+      "url": "/monaco-foodservice/mt-3/parts",
+      "code": "mt-3"
+    },
+    {
+      "name": "MT 3 Mini",
+      "url": "/monaco-foodservice/mt-3-mini/parts",
+      "code": "mt-3-mini"
+    },
+    {
+      "name": "MiniGEL Plus 1",
+      "url": "/monaco-foodservice/minigel-plus-1/parts",
+      "code": "minigel-plus-1"
+    },
+    {
+      "name": "MiniGEL Plus 2",
+      "url": "/monaco-foodservice/minigel-plus-2/parts",
+      "code": "minigel-plus-2"
+    },
+    {
+      "name": "MiniGEL Plus 3",
+      "url": "/monaco-foodservice/minigel-plus-3/parts",
+      "code": "minigel-plus-3"
+    },
+    {
+      "name": "NG 10/1",
+      "url": "/monaco-foodservice/ng-10-1/parts",
+      "code": "ng-10-1"
+    },
+    {
+      "name": "NG 10/2",
+      "url": "/monaco-foodservice/ng-10-2/parts",
+      "code": "ng-10-2"
+    },
+    {
+      "name": "NG 10/3",
+      "url": "/monaco-foodservice/ng-10-3/parts",
+      "code": "ng-10-3"
+    },
+    {
+      "name": "NG 6/1",
+      "url": "/monaco-foodservice/ng-6-1/parts",
+      "code": "ng-6-1"
+    },
+    {
+      "name": "NG 6/2",
+      "url": "/monaco-foodservice/ng-6-2/parts",
+      "code": "ng-6-2"
+    },
+    {
+      "name": "NG 6/3",
+      "url": "/monaco-foodservice/ng-6-3/parts",
+      "code": "ng-6-3"
+    },
+    {
+      "name": "NHT",
+      "url": "/monaco-foodservice/nht/parts",
+      "code": "nht"
+    },
+    {
+      "name": "QuickGEL",
+      "url": "/monaco-foodservice/quickgel/parts",
+      "code": "quickgel"
+    },
+    {
+      "name": "Venezia 1-110V",
+      "url": "/monaco-foodservice/venezia-1-110v/parts",
+      "code": "venezia-1-110v"
+    },
+    {
+      "name": "Venezia 1-220V",
+      "url": "/monaco-foodservice/venezia-1-220v/parts",
+      "code": "venezia-1-220v"
+    },
+    {
+      "name": "Venezia 2-220V",
+      "url": "/monaco-foodservice/venezia-2-220v/parts",
+      "code": "venezia-2-220v"
+    },
+    {
+      "name": "Venezia 3-220V",
+      "url": "/monaco-foodservice/venezia-3-220v/parts",
+      "code": "venezia-3-220v"
+    }
+  ],
+  "total_models": 39,
+  "cached_at": "2025-08-14T19:35:21.431243"
+}

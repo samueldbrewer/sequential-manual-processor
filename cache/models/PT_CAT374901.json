@@ -1,0 +1,96 @@
+{
+  "manufacturer": {
+    "name": "Enviro-Tec",
+    "code": "PT_CAT374901",
+    "uri": "enviro-tec"
+  },
+  "models": [
+    {
+      "name": "CDV",
+      "url": "/enviro-tec/cdv/parts",
+      "code": "cdv"
+    },
+    {
+      "name": "CFL",
+      "url": "/enviro-tec/cfl/parts",
+      "code": "cfl"
+    },
+    {
+      "name": "DDR",
+      "url": "/enviro-tec/ddr/parts",
+      "code": "ddr"
+    },
+    {
+      "name": "FHF",
+      "url": "/enviro-tec/fhf/parts",
+      "code": "fhf"
+    },
+    {
+      "name": "HLF",
+      "url": "/enviro-tec/hlf/parts",
+      "code": "hlf"
+    },
+    {
+      "name": "HPE",
+      "url": "/enviro-tec/hpe/parts",
+      "code": "hpe"
+    },
+    {
+      "name": "SDL",
+      "url": "/enviro-tec/sdl/parts",
+      "code": "sdl"
+    },
+    {
+      "name": "SDR",
+      "url": "/enviro-tec/sdr/parts",
+      "code": "sdr"
+    },
+    {
+      "name": "VB",
+      "url": "/enviro-tec/vb/parts",
+      "code": "vb"
+    },
+    {
+      "name": "VCE",
+      "url": "/enviro-tec/vce/parts",
+      "code": "vce"
+    },
+    {
+      "name": "VFC",
+      "url": "/enviro-tec/vfc/parts",
+      "code": "vfc"
+    },
+    {
+      "name": "VFE",
+      "url": "/enviro-tec/vfe/parts",
+      "code": "vfe"
+    },
+    {
+      "name": "VFL",
+      "url": "/enviro-tec/vfl/parts",
+      "code": "vfl"
+    },
+    {
+      "name": "VFR",
+      "url": "/enviro-tec/vfr/parts",
+      "code": "vfr"
+    },
+    {
+      "name": "VHD",
+      "url": "/enviro-tec/vhd/parts",
+      "code": "vhd"
+    },
+    {
+      "name": "VHE",
+      "url": "/enviro-tec/vhe/parts",
+      "code": "vhe"
+    },
+    {
+      "name": "VR",
+      "url": "/enviro-tec/vr/parts",
+      "code": "vr"
+    }
+  ],
+  "total_models": 17,
+  "cached_at": "2025-08-14T18:28:36.956764"
+}
