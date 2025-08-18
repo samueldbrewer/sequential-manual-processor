@@ -30,7 +30,6 @@ import {
   IconButton,
 } from '@mui/material';
 import {
-  Download,
   OpenInNew,
   PictureAsPdf,
   Refresh,
@@ -132,7 +131,7 @@ function App() {
       // Only clear session PDFs once on unmount using deduplicated API
       api.clearSessionPdfs().catch(() => {});
     };
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Removed calculateAverageLoadTimes - using hardcoded values for loading animations
   // avgManufacturerTime defaults to 3500ms
@@ -405,15 +404,16 @@ function App() {
     }).catch(err => console.log('Failed to clear session PDFs:', err));
   };
 
-  const getManualIcon = (type: string) => {
-    const lowerType = type.toLowerCase();
-    if (lowerType.includes('service')) return '🔧';
-    if (lowerType.includes('parts')) return '🔩';
-    if (lowerType.includes('wiring')) return '⚡';
-    if (lowerType.includes('installation')) return '📦';
-    if (lowerType.includes('operation')) return '📖';
-    return '📄';
-  };
+  // Unused function - keeping for potential future use
+  // const getManualIcon = (type: string) => {
+  //   const lowerType = type.toLowerCase();
+  //   if (lowerType.includes('service')) return '🔧';
+  //   if (lowerType.includes('parts')) return '🔩';
+  //   if (lowerType.includes('wiring')) return '⚡';
+  //   if (lowerType.includes('installation')) return '📦';
+  //   if (lowerType.includes('operation')) return '📖';
+  //   return '📄';
+  // };
 
   return (
     <ThemeProvider theme={theme}>
