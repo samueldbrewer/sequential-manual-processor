@@ -1,7 +1,9 @@
 import axios from 'axios';
 import { Manufacturer, Model, Manual, HealthResponse, ApiResponse } from '../types';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8888';
+// Use relative URL when deployed (same domain), absolute URL for local development
+const API_BASE_URL = process.env.REACT_APP_API_URL || 
+  (window.location.hostname === 'localhost' ? 'http://localhost:8888' : '');
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
