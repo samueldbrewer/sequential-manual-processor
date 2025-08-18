@@ -28,7 +28,7 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
     
     try:
         start_time = time.time()
-        print(f"🔍 Executing curl command: {' '.join(curl_cmd)}")
+        print(f"🔍 Executing curl command: {' '.join(curl_cmd)}", flush=True)
         
         # Execute curl
         result = subprocess.run(
@@ -39,14 +39,14 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
         )
         
         elapsed = time.time() - start_time
-        print(f"📊 Curl returned code {result.returncode} in {elapsed:.2f}s")
+        print(f"📊 Curl returned code {result.returncode} in {elapsed:.2f}s", flush=True)
         
         if result.returncode == 0 and result.stdout:
-            print(f"📄 Got {len(result.stdout)} bytes of HTML")
+            print(f"📄 Got {len(result.stdout)} bytes of HTML", flush=True)
             # Extract manual links from HTML
             manual_pattern = r'/modelManual/([^"\']+\.pdf[^"\']*)'
             matches = re.findall(manual_pattern, result.stdout)
-            print(f"🔎 Found {len(matches)} manual links in HTML")
+            print(f"🔎 Found {len(matches)} manual links in HTML", flush=True)
             
             # Remove duplicates and parse
             seen = set()
@@ -92,20 +92,22 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
                         'text': title
                     })
             
-            print(f"✅ Found {len(manuals)} manuals in {elapsed:.2f}s via curl")
+            print(f"✅ Found {len(manuals)} manuals in {elapsed:.2f}s via curl", flush=True)
             return manuals
             
         else:
-            print(f"❌ Curl failed with return code {result.returncode}")
+            print(f"❌ Curl failed with return code {result.returncode}", flush=True)
             if result.stderr:
-                print(f"   Error: {result.stderr}")
+                print(f"   Error: {result.stderr}", flush=True)
             return []
             
     except subprocess.TimeoutExpired:
-        print(f"❌ Curl timeout for {manufacturer_uri}/{model_code}")
+        print(f"❌ Curl timeout for {manufacturer_uri}/{model_code}", flush=True)
         return []
     except Exception as e:
-        print(f"❌ Error running curl: {e}")
+        print(f"❌ Error running curl: {e}", flush=True)
+        import traceback
+        traceback.print_exc()
         return []
 
 def test_performance():
