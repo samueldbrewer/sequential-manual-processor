@@ -16,6 +16,13 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
     
     url = f"https://www.partstown.com/{manufacturer_uri}/{model_code}/parts"
     
+    # Check if we're running on Railway (has PORT env var set to non-8888 value)
+    is_railway = os.environ.get('PORT', '8888') != '8888'
+    
+    if is_railway:
+        print(f"🌐 Running on Railway, using Playwright fallback", flush=True)
+        return fetch_manuals_via_playwright(manufacturer_uri, model_code)
+    
     # Create a unique cookie file for this request
     cookie_file = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt')
     cookie_path = cookie_file.name
@@ -162,6 +169,84 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
             os.unlink(cookie_path)
         except:
             pass
+        return []
+
+def fetch_manuals_via_playwright(manufacturer_uri, model_code):
+    """Fallback to Playwright for environments where curl is blocked"""
+    try:
+        from playwright.sync_api import sync_playwright
+        
+        url = f"https://www.partstown.com/{manufacturer_uri}/{model_code}/parts"
+        print(f"🎭 Using Playwright to fetch {url}", flush=True)
+        
+        manuals = []
+        
+        with sync_playwright() as p:
+            # Launch browser
+            browser = p.chromium.launch(
+                headless=True,
+                args=['--no-sandbox', '--disable-setuid-sandbox']
+            )
+            
+            # Create context with browser-like settings
+            context = browser.new_context(
+                viewport={'width': 1920, 'height': 1080},
+                user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            )
+            
+            page = context.new_page()
+            
+            # Navigate to the page
+            page.goto(url, wait_until='networkidle', timeout=15000)
+            
+            # Wait a bit for any dynamic content
+            page.wait_for_timeout(2000)
+            
+            # Get all manual links
+            manual_links = page.locator('a[href*="/modelManual/"]').all()
+            
+            seen = set()
+            for link in manual_links:
+                href = link.get_attribute('href')
+                if href and href not in seen:
+                    seen.add(href)
+                    
+                    # Parse the manual type from URL
+                    if '_sm.' in href:
+                        manual_type = 'sm'
+                        title = 'Service Manual'
+                    elif '_pm.' in href:
+                        manual_type = 'pm'
+                        title = 'Parts Manual'
+                    elif '_om.' in href:
+                        manual_type = 'om'
+                        title = 'Operation Manual'
+                    elif '_im.' in href:
+                        manual_type = 'im'
+                        title = 'Installation Manual'
+                    elif '_qrg.' in href:
+                        manual_type = 'qrg'
+                        title = 'Quick Reference Guide'
+                    else:
+                        manual_type = 'manual'
+                        title = 'Manual'
+                    
+                    manuals.append({
+                        'type': manual_type,
+                        'title': title,
+                        'link': href,
+                        'text': title
+                    })
+            
+            browser.close()
+            
+        print(f"✅ Found {len(manuals)} manuals via Playwright", flush=True)
+        return manuals
+        
+    except Exception as e:
+        print(f"❌ Playwright fallback failed: {e}", flush=True)
+        import traceback
+        traceback.print_exc()
         return []
 
 def test_performance():

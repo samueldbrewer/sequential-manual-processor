@@ -1,10 +1,11 @@
 [phases.setup]
-nixPkgs = ["...", "python311", "python311Packages.pip", "nodejs-18_x", "curl"]
+nixPkgs = ["...", "python311", "python311Packages.pip", "nodejs-18_x", "curl", "chromium"]
 
 [phases.install]
 dependsOn = ["setup"]
 cmds = [
     "pip install --break-system-packages -r requirements.txt",
+    "playwright install chromium",
     "npm install"
 ]
 
