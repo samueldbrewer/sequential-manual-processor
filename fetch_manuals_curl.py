@@ -28,6 +28,7 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
     
     try:
         start_time = time.time()
+        print(f"🔍 Executing curl command: {' '.join(curl_cmd)}")
         
         # Execute curl
         result = subprocess.run(
@@ -38,11 +39,14 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
         )
         
         elapsed = time.time() - start_time
+        print(f"📊 Curl returned code {result.returncode} in {elapsed:.2f}s")
         
         if result.returncode == 0 and result.stdout:
+            print(f"📄 Got {len(result.stdout)} bytes of HTML")
             # Extract manual links from HTML
             manual_pattern = r'/modelManual/([^"\']+\.pdf[^"\']*)'
             matches = re.findall(manual_pattern, result.stdout)
+            print(f"🔎 Found {len(matches)} manual links in HTML")
             
             # Remove duplicates and parse
             seen = set()
