@@ -8,21 +8,43 @@ import subprocess
 import json
 import re
 import time
+import os
+import tempfile
 
 def fetch_manuals_via_curl(manufacturer_uri, model_code):
     """Fetch manuals using curl command - fast and reliable"""
     
     url = f"https://www.partstown.com/{manufacturer_uri}/{model_code}/parts"
     
-    # Curl command with minimal headers
+    # Create a unique cookie file for this request
+    cookie_file = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt')
+    cookie_path = cookie_file.name
+    cookie_file.close()
+    
+    # Curl command with full browser headers to avoid detection
     curl_cmd = [
         'curl',
         '-s',  # Silent mode
-        '-H', 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-        '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        '-H', 'Accept-Language: en-US,en;q=0.5',
-        '--compressed',  # Handle gzip/deflate
+        '-H', 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+        '-H', 'Accept-Language: en-US,en;q=0.9',
+        '-H', 'Accept-Encoding: gzip, deflate, br',
+        '-H', 'Cache-Control: no-cache',
+        '-H', 'Pragma: no-cache',
+        '-H', 'Sec-Ch-Ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+        '-H', 'Sec-Ch-Ua-Mobile: ?0',
+        '-H', 'Sec-Ch-Ua-Platform: "macOS"',
+        '-H', 'Sec-Fetch-Dest: document',
+        '-H', 'Sec-Fetch-Mode: navigate',
+        '-H', 'Sec-Fetch-Site: none',
+        '-H', 'Sec-Fetch-User: ?1',
+        '-H', 'Upgrade-Insecure-Requests: 1',
+        '-H', 'Connection: keep-alive',
+        '--compressed',  # Handle gzip/deflate/br
         '--max-time', '10',  # 10 second timeout
+        '-L',  # Follow redirects
+        '--cookie-jar', cookie_path,  # Store cookies
+        '--cookie', cookie_path,  # Send cookies
         url
     ]
     
@@ -105,21 +127,41 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
                     })
             
             print(f"✅ Found {len(manuals)} manuals in {elapsed:.2f}s via curl", flush=True)
+            # Clean up cookie file
+            try:
+                os.unlink(cookie_path)
+            except:
+                pass
             return manuals
             
         else:
             print(f"❌ Curl failed with return code {result.returncode}", flush=True)
             if result.stderr:
                 print(f"   Error: {result.stderr}", flush=True)
+            # Clean up cookie file
+            try:
+                os.unlink(cookie_path)
+            except:
+                pass
             return []
             
     except subprocess.TimeoutExpired:
         print(f"❌ Curl timeout for {manufacturer_uri}/{model_code}", flush=True)
+        # Clean up cookie file
+        try:
+            os.unlink(cookie_path)
+        except:
+            pass
         return []
     except Exception as e:
         print(f"❌ Error running curl: {e}", flush=True)
         import traceback
         traceback.print_exc()
+        # Clean up cookie file
+        try:
+            os.unlink(cookie_path)
+        except:
+            pass
         return []
 
 def test_performance():
