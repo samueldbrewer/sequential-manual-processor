@@ -1,12 +1,10 @@
 [phases.setup]
-nixPkgs = ["...", "python311", "python311Packages.pip", "python311Packages.virtualenv", "nodejs-18_x"]
+nixPkgs = ["...", "python311", "python311Packages.pip", "nodejs-18_x"]
 
 [phases.install]
 dependsOn = ["setup"]
 cmds = [
-    "python -m venv --copies venv",
-    "./venv/bin/pip install --upgrade pip",
-    "./venv/bin/pip install -r requirements.txt",
+    "pip install --user -r requirements.txt",
     "npm install"
 ]
 
@@ -15,4 +13,4 @@ dependsOn = ["install"]
 cmds = ["npm run build"]
 
 [start]
-cmd = "./venv/bin/python server_cached.py"
+cmd = "python server_cached.py"
