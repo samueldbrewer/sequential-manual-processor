@@ -431,11 +431,15 @@ if __name__ == '__main__':
     # Clean up old PDFs on startup
     cleanup_old_pdfs()
     
+    # Get port from environment variable or default to 8888
+    port = int(os.environ.get('PORT', 8888))
+    
     print("🚀 Starting Sequential Manual Processor API Server (Cached Version)")
     print(f"📂 Cache directory: {CACHE_DIR}")
     print(f"📊 Loaded {len(manufacturers_cache)} manufacturers")
     print(f"📁 Model cache files: {len(os.listdir(MODELS_CACHE_DIR)) if os.path.exists(MODELS_CACHE_DIR) else 0}")
-    print("🌐 Server running on http://localhost:8888")
+    print(f"🌐 Server running on port {port}")
     print("⚡ Using cached data for instant responses!")
     
-    app.run(port=8888, debug=True)
+    # Use host 0.0.0.0 for Railway deployment
+    app.run(host='0.0.0.0', port=port, debug=False)
