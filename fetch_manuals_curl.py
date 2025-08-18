@@ -17,7 +17,10 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
     url = f"https://www.partstown.com/{manufacturer_uri}/{model_code}/parts"
     
     # Check if we're running on Railway (has PORT env var set to non-8888 value)
-    is_railway = os.environ.get('PORT', '8888') != '8888'
+    port = os.environ.get('PORT', '8888')
+    is_railway = port != '8888'
+    
+    print(f"🔍 Environment check: PORT={port}, is_railway={is_railway}", flush=True)
     
     if is_railway:
         print(f"🌐 Running on Railway, using Playwright fallback", flush=True)
