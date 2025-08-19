@@ -119,8 +119,9 @@ function App() {
     // Clean up session PDFs when the page unloads
     const handleBeforeUnload = () => {
       // Use sendBeacon for reliable cleanup on page unload
+      const apiUrl = window.location.hostname === 'localhost' ? 'http://localhost:8888' : '';
       const data = JSON.stringify({});
-      navigator.sendBeacon('http://localhost:8888/api/clear-session-pdfs', data);
+      navigator.sendBeacon(`${apiUrl}/api/clear-session-pdfs`, data);
     };
     
     window.addEventListener('beforeunload', handleBeforeUnload);
@@ -242,7 +243,8 @@ function App() {
     
     // If we're on the detail page, clear PDFs and go back to list
     if (currentPage === 'detail') {
-      await fetch('http://localhost:8888/api/clear-session-pdfs', {
+      const apiUrl = window.location.hostname === 'localhost' ? 'http://localhost:8888' : '';
+      await fetch(`${apiUrl}/api/clear-session-pdfs`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -308,7 +310,8 @@ function App() {
     
     // If we're on the detail page, clear PDFs and go back to list
     if (currentPage === 'detail') {
-      await fetch('http://localhost:8888/api/clear-session-pdfs', {
+      const apiUrl = window.location.hostname === 'localhost' ? 'http://localhost:8888' : '';
+      await fetch(`${apiUrl}/api/clear-session-pdfs`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -360,7 +363,8 @@ function App() {
   const handleManualClick = async (manual: Manual) => {
     // Clear any existing PDFs before loading a new one
     if (currentPage === 'detail') {
-      await fetch('http://localhost:8888/api/clear-session-pdfs', {
+      const apiUrl = window.location.hostname === 'localhost' ? 'http://localhost:8888' : '';
+      await fetch(`${apiUrl}/api/clear-session-pdfs`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -376,7 +380,8 @@ function App() {
     
     // Fetch metadata from backend
     try {
-      const response = await fetch(`http://localhost:8888/api/manual-metadata?url=${encodeURIComponent(manual.url)}&manufacturer_id=${encodeURIComponent(selectedManufacturer || '')}&model_id=${encodeURIComponent(selectedModel || '')}`, {
+      const apiUrl = window.location.hostname === 'localhost' ? 'http://localhost:8888' : '';
+      const response = await fetch(`${apiUrl}/api/manual-metadata?url=${encodeURIComponent(manual.url)}&manufacturer_id=${encodeURIComponent(selectedManufacturer || '')}&model_id=${encodeURIComponent(selectedModel || '')}`, {
         credentials: 'include' // Include cookies for session
       });
       if (response.ok) {
@@ -395,7 +400,8 @@ function App() {
     setSelectedManual(null);
     
     // Always clear the session PDFs when going back from detail page
-    fetch('http://localhost:8888/api/clear-session-pdfs', {
+    const apiUrl = window.location.hostname === 'localhost' ? 'http://localhost:8888' : '';
+    fetch(`${apiUrl}/api/clear-session-pdfs`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -817,7 +823,7 @@ function App() {
                         <Button
                           variant="contained"
                           color="primary"
-                          href={`http://localhost:8888${manualMetadata.localUrl}`}
+                          href={manualMetadata.localUrl}
                           target="_blank"
                           rel="noopener noreferrer"
                           startIcon={<PictureAsPdf />}
