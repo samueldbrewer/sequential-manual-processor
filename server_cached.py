@@ -143,6 +143,8 @@ def get_models(manufacturer_id):
 @app.route('/api/manufacturers/<manufacturer_id>/models/<model_id>/manuals', methods=['GET'])
 def get_manuals(manufacturer_id, model_id):
     """Get manuals for a specific model - fetch live since not in cache"""
+    import sys
+    print(f"DEBUG: get_manuals called with {manufacturer_id}/{model_id}", file=sys.stderr, flush=True)
     try:
         # Load the cached models file to get manufacturer info
         cache_file = os.path.join(MODELS_CACHE_DIR, f"{manufacturer_id}.json")
