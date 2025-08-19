@@ -1,0 +1,802 @@
+{
+  "manufacturer": {
+    "name": "Henny Penny",
+    "code": "PT_CAT1095",
+    "uri": "henny-penny"
+  },
+  "models_with_manuals": {
+    "500": {
+      "name": "500",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-PF500_spm.pdf?v=1655476514087",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-PF500_iom.pdf?v=1655476514084",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/HEN-500-600_pm.pdf?v=1655476557444",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "500pvs": {
+      "name": "500PVS",
+      "manuals": [
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-500PVS_wd.pdf?v=1669664271602",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-500PVS_spm.pdf?v=1655476539876",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "600": {
+      "name": "600",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-PF500_spm.pdf?v=1655476514087",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-PF500_iom.pdf?v=1655476514084",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/HEN-500-600_pm.pdf?v=1655476557444",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "ahc-990": {
+      "name": "AHC-990",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-AHC-99X_iom.pdf?v=1655476541934",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-AHC-99X_spm.pdf?v=1655476541943",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-AHC-99X_wd.pdf?v=1669148754097",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/HEN-AHC-99X_pm.pdf?v=1655476541938",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "ahc-993": {
+      "name": "AHC-993",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-AHC-99X_iom.pdf?v=1655476541934",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-AHC-99X_spm.pdf?v=1655476541943",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-AHC-99X_wd.pdf?v=1669148754097",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/HEN-AHC-99X_pm.pdf?v=1655476541938",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bcc-140": {
+      "name": "BCC-140",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_spm.pdf?v=1655476514046",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_iom.pdf?v=1655476514042",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_wd.pdf?v=1669664272057",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCC2_pm.pdf?v=1655476514039",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bcc-175": {
+      "name": "BCC-175",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_spm.pdf?v=1655476514046",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_iom.pdf?v=1655476514042",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_wd.pdf?v=1669664272057",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCC2_pm.pdf?v=1655476514039",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bcf-110": {
+      "name": "BCF-110",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCF-BCM_spm.pdf?v=1655476514016",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCF24_pm.pdf?v=1655476514010",
+          "text": "Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCF-BCM_wd.pdf?v=1669664272106",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCF-X_iom.pdf?v=1655476514013",
+          "text": "Installation & Operation Manual"
+        }
+      ]
+    },
+    "bcf-24": {
+      "name": "BCF-24",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCF-BCM_spm.pdf?v=1655476514016",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCF24_pm.pdf?v=1655476514010",
+          "text": "Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCF-BCM_wd.pdf?v=1669664272106",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCF-X_iom.pdf?v=1655476514013",
+          "text": "Installation & Operation Manual"
+        }
+      ]
+    },
+    "bcf-65": {
+      "name": "BCF-65",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCF-BCM_spm.pdf?v=1655476514016",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCF24_pm.pdf?v=1655476514010",
+          "text": "Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCF-BCM_wd.pdf?v=1669664272106",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCF-X_iom.pdf?v=1655476514013",
+          "text": "Installation & Operation Manual"
+        }
+      ]
+    },
+    "bcm-110": {
+      "name": "BCM-110",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCF-BCM_spm.pdf?v=1655476514016",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCF24_pm.pdf?v=1655476514010",
+          "text": "Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCF-BCM_wd.pdf?v=1669664272106",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCF-X_iom.pdf?v=1655476514013",
+          "text": "Installation & Operation Manual"
+        }
+      ]
+    },
+    "bcr-140": {
+      "name": "BCR-140",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_spm.pdf?v=1655476514046",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_iom.pdf?v=1655476514042",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_wd.pdf?v=1669664272057",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCC2_pm.pdf?v=1655476514039",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bcr-175": {
+      "name": "BCR-175",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_spm.pdf?v=1655476514046",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_iom.pdf?v=1655476514042",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_wd.pdf?v=1669664272057",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCC2_pm.pdf?v=1655476514039",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bcr-350": {
+      "name": "BCR-350",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_spm.pdf?v=1655476514046",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_iom.pdf?v=1655476514042",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_wd.pdf?v=1669664272057",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCC2_pm.pdf?v=1655476514039",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bfr-350": {
+      "name": "BFR-350",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_spm.pdf?v=1655476514046",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_iom.pdf?v=1655476514042",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BCC-BCR-BFR_wd.pdf?v=1669664272057",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BCC2_pm.pdf?v=1655476514039",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "bm-110": {
+      "name": "BM-110",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BM-110_spm.pdf?v=1655476514080",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "bw-1": {
+      "name": "BW-1",
+      "manuals": [
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/BW8_pm.pdf?v=1655476541230",
+          "text": "Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BW-X_wd.pdf?v=1669665067839",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BW-X_spm.pdf?v=1655476599755",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "bw-100": {
+      "name": "BW-100",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BW_spm.pdf?v=1655476515609",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BW_wd.pdf?v=1669665068064",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "bw-4": {
+      "name": "BW-4",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BW_spm.pdf?v=1655476515609",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BW_wd.pdf?v=1669665068064",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "bw-4-3": {
+      "name": "BW-4/3",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BW_spm.pdf?v=1655476515609",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BW_wd.pdf?v=1669665068064",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "bw-6": {
+      "name": "BW-6",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BW_spm.pdf?v=1655476515609",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BW_wd.pdf?v=1669665068064",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "bw-8": {
+      "name": "BW-8",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-BW_spm.pdf?v=1655476515609",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-BW_wd.pdf?v=1669665068064",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "cbc-105": {
+      "name": "CBC-105",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CBC-CBR-10_iom.pdf?v=1655476514077",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/103_pm.pdf?v=1655476514074",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "cbc-107": {
+      "name": "CBC-107",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CBC-CBR-10_iom.pdf?v=1655476514077",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/103_pm.pdf?v=1655476514074",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "cbr-105": {
+      "name": "CBR-105",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CBC-CBR-10_iom.pdf?v=1655476514077",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/103_pm.pdf?v=1655476514074",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "cbr-107": {
+      "name": "CBR-107",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CBC-CBR-10_iom.pdf?v=1655476514077",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/103_pm.pdf?v=1655476514074",
+          "text": "Parts Manual"
+        }
+      ]
+    },
+    "cf-941": {
+      "name": "CF-941",
+      "manuals": [
+        {
+          "type": "pm",
+          "title": "Parts Manual",
+          "link": "/modelManual/CF941_pm.pdf?v=1655476516260",
+          "text": "Parts Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CF-941_spm.pdf?v=1655476516267",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CF-941_iom.pdf?v=1655476516264",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-CF-941_wd.pdf?v=1668706201085",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "cfa-500": {
+      "name": "CFA-500",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CFA500_iom.pdf?v=1655476539860",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CFA500_spm.pdf?v=1655476539856",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-CFA500_wd.pdf?v=1669664272165",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "cfa-600": {
+      "name": "CFA-600",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CFA500_iom.pdf?v=1655476539860",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CFA500_spm.pdf?v=1655476539856",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-CFA500_wd.pdf?v=1669664272165",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "cfe-410": {
+      "name": "CFE-410",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CFE-410-420_spm.pdf?v=1655476554082",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-CFE-410-420_wd.pdf?v=1668706201124",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CFE-410-420_iom.pdf?v=1655476617321",
+          "text": "Installation & Operation Manual"
+        }
+      ]
+    },
+    "cfe-415": {
+      "name": "CFE-415",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CFE-415_iom.pdf?v=1655476540855",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CFE-415_spm.pdf?v=1655476540859",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "cfe-420": {
+      "name": "CFE-420",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CFE-410-420_spm.pdf?v=1655476554082",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-CFE-410-420_wd.pdf?v=1668706201124",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CFE-410-420_iom.pdf?v=1655476617321",
+          "text": "Installation & Operation Manual"
+        }
+      ]
+    },
+    "cfe-427": {
+      "name": "CFE-427",
+      "manuals": [
+        {
+          "type": "iom",
+          "title": "Installation & Operation Manual",
+          "link": "/modelManual/HEN-CFE-415_iom.pdf?v=1655476540855",
+          "text": "Installation & Operation Manual"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CFE-415_spm.pdf?v=1655476540859",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "ch-108": {
+      "name": "CH-108",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-CH-108_spm.pdf?v=1655476542265",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/HEN-CH-108_wd.pdf?v=1668706201077",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "cm-5": {
+      "name": "CM-5",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-HMT-CMT-HST-3-5-7_spm.pdf?v=1670016986419",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "cm-7": {
+      "name": "CM-7",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/HEN-HMT-CMT-HST-3-5-7_spm.pdf?v=1670016986419",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    }
+  },
+  "cached_at": "2025-08-19 10:07:07"
+}

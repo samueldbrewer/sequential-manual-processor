@@ -184,25 +184,44 @@ def get_manuals(manufacturer_id, model_id):
                 })
             return jsonify({'success': True, 'data': formatted_manuals})
         
-        # Fetch actual manual links using fast curl method
-        print(f"🔍 Fetching manual links for {manufacturer_uri}/{model_id}", flush=True)
+        # Check if we have cached manual links
+        MANUALS_CACHE_DIR = os.path.join(CACHE_DIR, 'manuals')
+        manuals_cache_file = os.path.join(MANUALS_CACHE_DIR, f"{manufacturer_id}.json")
         
-        # Use the fast curl-based approach
+        if os.path.exists(manuals_cache_file):
+            print(f"📦 Using cached manual links for {manufacturer_id}/{model_id}", flush=True)
+            try:
+                with open(manuals_cache_file, 'r') as f:
+                    manuals_cache = json.load(f)
+                
+                # Check if this specific model has cached manuals
+                if model_id in manuals_cache.get('models_with_manuals', {}):
+                    cached_model_data = manuals_cache['models_with_manuals'][model_id]
+                    manuals = cached_model_data.get('manuals', [])
+                    
+                    if manuals:
+                        print(f"✅ Found {len(manuals)} cached manuals for {model_id}", flush=True)
+                        formatted_manuals = []
+                        for manual in manuals:
+                            formatted_manuals.append({
+                                'type': manual.get('type', ''),
+                                'title': manual.get('title', ''),
+                                'url': manual.get('link', ''),
+                                'full_url': f"https://www.partstown.com{manual.get('link', '')}" if manual.get('link') else ''
+                            })
+                        return jsonify({'success': True, 'data': formatted_manuals})
+            except Exception as e:
+                print(f"⚠️ Error reading manuals cache: {e}", flush=True)
+        
+        # Fall back to fetching live (for local development)
+        print(f"🔍 Fetching manual links live for {manufacturer_uri}/{model_id}", flush=True)
+        
         try:
             from fetch_manuals_curl import fetch_manuals_via_curl
-            print(f"✅ Successfully imported fetch_manuals_curl", flush=True)
-        except ImportError as e:
-            print(f"❌ Failed to import fetch_manuals_curl: {e}", flush=True)
-            return jsonify({'success': True, 'data': []})
-        
-        try:
-            # Fetch the actual manual links via curl (much faster)
-            print(f"🚀 Using fast curl method for '{manufacturer_uri}/{model_id}'", flush=True)
             manuals = fetch_manuals_via_curl(manufacturer_uri, model_id)
             
             if manuals:
                 print(f"✅ Found {len(manuals)} manuals for {model_id}", flush=True)
-                # Format for frontend
                 formatted_manuals = []
                 for manual in manuals:
                     formatted_manuals.append({

@@ -1,0 +1,95 @@
+{
+  "manufacturer": {
+    "name": "Frosty Factory",
+    "code": "PT_CATFROSTY",
+    "uri": "frosty-factory"
+  },
+  "models_with_manuals": {
+    "113a": {
+      "name": "113A",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/FRS-113A_spm.pdf?v=1656350657582",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/FRS-113A_wd.pdf?v=1668706196623",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "115r": {
+      "name": "115R",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/FRS-115R_spm.pdf?v=1745333365673",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/FRS-115R_wd.pdf?v=1745333365503",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "117a": {
+      "name": "117A",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/FRS-117A_spm.pdf?v=1745333365665",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/FRS-117A_wd.pdf?v=1745333365505",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    },
+    "127a": {
+      "name": "127A",
+      "manuals": [
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/FRS-127A_wd.pdf?v=1745333365504",
+          "text": "Wiring Diagrams"
+        },
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/FRS-127A_spm.pdf?v=1745333365634",
+          "text": "Service & Parts Manual"
+        }
+      ]
+    },
+    "137a": {
+      "name": "137A",
+      "manuals": [
+        {
+          "type": "spm",
+          "title": "Service & Parts Manual",
+          "link": "/modelManual/FRS-137A_spm.pdf?v=1745333365644",
+          "text": "Service & Parts Manual"
+        },
+        {
+          "type": "wd",
+          "title": "Wiring Diagrams",
+          "link": "/modelManual/FRS-137A_wd.pdf?v=1745333365499",
+          "text": "Wiring Diagrams"
+        }
+      ]
+    }
+  },
+  "cached_at": "2025-08-19 09:58:26"
+}
