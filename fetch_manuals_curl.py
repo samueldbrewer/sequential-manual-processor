@@ -16,15 +16,9 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
     
     url = f"https://www.partstown.com/{manufacturer_uri}/{model_code}/parts"
     
-    # Check if we're running on Railway (has PORT env var set to non-8888 value)
-    port = os.environ.get('PORT', '8888')
-    is_railway = port != '8888'
-    
-    print(f"🔍 Environment check: PORT={port}, is_railway={is_railway}", flush=True)
-    
-    if is_railway:
-        print(f"🌐 Running on Railway, using Playwright fallback", flush=True)
-        return fetch_manuals_via_playwright(manufacturer_uri, model_code)
+    # Always use curl - it works locally and should work on Railway too
+    # Removed Playwright fallback due to library issues on Railway
+    print(f"🔍 Using fast curl method for all environments", flush=True)
     
     # Create a unique cookie file for this request
     cookie_file = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt')
