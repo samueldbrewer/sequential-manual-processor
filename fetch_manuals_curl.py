@@ -31,30 +31,15 @@ def fetch_manuals_via_curl(manufacturer_uri, model_code):
     cookie_path = cookie_file.name
     cookie_file.close()
     
-    # Curl command with full browser headers to avoid detection
+    # Simplified curl command that actually works
     curl_cmd = [
         'curl',
         '-s',  # Silent mode
         '-H', 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-        '-H', 'Accept-Language: en-US,en;q=0.9',
-        '-H', 'Accept-Encoding: gzip, deflate, br',
-        '-H', 'Cache-Control: no-cache',
-        '-H', 'Pragma: no-cache',
-        '-H', 'Sec-Ch-Ua: "Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
-        '-H', 'Sec-Ch-Ua-Mobile: ?0',
-        '-H', 'Sec-Ch-Ua-Platform: "macOS"',
-        '-H', 'Sec-Fetch-Dest: document',
-        '-H', 'Sec-Fetch-Mode: navigate',
-        '-H', 'Sec-Fetch-Site: none',
-        '-H', 'Sec-Fetch-User: ?1',
-        '-H', 'Upgrade-Insecure-Requests: 1',
-        '-H', 'Connection: keep-alive',
-        '--compressed',  # Handle gzip/deflate/br
+        '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        '-H', 'Accept-Language: en-US,en;q=0.5',
         '--max-time', '10',  # 10 second timeout
         '-L',  # Follow redirects
-        '--cookie-jar', cookie_path,  # Store cookies
-        '--cookie', cookie_path,  # Send cookies
         url
     ]
     
