@@ -167,11 +167,11 @@ def get_manuals(manufacturer_id, model_id):
         if not model:
             return jsonify({'error': f'Model {model_id} not found'}), 404
         
-        # Check if manuals are already in cache (unlikely with current cache)
+        # Check if manuals are already in cache (skip empty arrays)
         manuals = model.get('manuals', [])
         
-        if manuals:
-            print(f"✅ Found {len(manuals)} cached manuals for {model_id}")
+        if manuals and len(manuals) > 0:  # Only use cache if we actually have manuals
+            print(f"✅ Found {len(manuals)} cached manuals for {model_id}", flush=True)
             formatted_manuals = []
             for manual in manuals:
                 formatted_manuals.append({
